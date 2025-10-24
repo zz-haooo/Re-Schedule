@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17217
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Forty slips are placed into a hat, each bearing a number $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, or $10$, with each number entered on four slips. Four slips are drawn from the hat at random and without replacement. Let $p$ be the probability that all four slips bear the same number. Let $q$ be the probability that two of the slips bear a number $a$ and the other two bear a number $b \neq a$. Find the value of $q/p$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 162
+==================================================
+

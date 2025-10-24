@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1532
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Cédric needs to write down a phrase in French. He knows that there are $3$ words in the phrase and that the letters appear in the order: \[cesontoiseaux.\] He does not remember what the words are and which letters have what accents in the phrase. If $n$ is the number of possible phrases that he could write down, then determine the number of distinct primes in the prime factorization of $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

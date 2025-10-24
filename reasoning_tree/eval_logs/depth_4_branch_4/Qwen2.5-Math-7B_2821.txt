@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2821
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle. Let the $A$-altitude meet $BC$ at $D$, the $B$-altitude meet $AC$ at $E$, and let $T \neq A$ be the point on the circumcircle of $\triangle ABC$ such that $AT \parallel BC$. Given that $D, E, T$ are collinear, if $BD = 3$ and $AD = 4$, then the area of $\triangle ABC$ can be written as $a + \sqrt{b}$, where $a$ and $b$ are positive integers. What is $a + b$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 112
+==================================================
+

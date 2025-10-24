@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1766
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A math contest consists of $9$ objective type questions and $6$ fill in the blanks questions. From a school, some number of students took the test, and it was noticed that all students had attempted exactly $14$ out of $15$ questions.
+
+Let $O_1, O_2, \dots , O_9$ be the nine objective questions and $F_1, F_2, \dots , F_6$ be the six fill in the blanks questions. Let $a_{ij}$ be the number of students who attempted both questions $O_i$ and $F_j$. If the sum of all the $a_{ij}$ for $i=1, 2, \dots , 9$ and $j=1, 2, \dots , 6$ is $972$, then find the number of students who took the test in the school.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

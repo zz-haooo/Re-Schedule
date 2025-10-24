@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7762
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute $\left\lfloor \sum_{k=0}^{10}\left(3+2\cos\left(\frac{2k\pi}{11}\right)\right)^{10}\right\rfloor \pmod{100}.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 91
+==================================================
+

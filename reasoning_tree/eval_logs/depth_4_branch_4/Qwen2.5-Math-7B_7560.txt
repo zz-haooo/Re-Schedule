@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7560
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Imagine a regular a $2015$-gon with edge length $2$. At each vertex, draw a unit circle centered at that vertex and color the circle’s circumference orange. Now, another unit circle $S$ is placed inside the polygon such that it is externally tangent to two adjacent circles centered at the vertices. This circle $S$ is allowed to roll freely in the interior of the polygon as long as it remains externally tangent to the vertex circles. As it rolls, $S$ turns the color of any point it touches into black. After it rolls completely around the interior of the polygon, the total length of the black lengths can be expressed in the form $\tfrac{p\pi}{q}$ for positive integers $p, q$ satisfying $\gcd(p, q) = 1$. What is $p + q$?
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2012
+==================================================
+

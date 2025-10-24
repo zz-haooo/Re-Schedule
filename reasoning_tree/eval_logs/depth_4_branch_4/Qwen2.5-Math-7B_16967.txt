@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16967
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $|x - 2| = p$, where $x < 2$, then find the value of $x - p$. The original answer is in the form $a - bp$, please provide the value of $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4077
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Antoine, Benoît, Claude, Didier, Étienne, and Françoise go to the cinema together to see a movie. The six of them want to sit in a single row of six seats. However, Antoine, Benoît, and Claude are mortal enemies and refuse to sit next to either of the other two. How many different seating arrangements are possible?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 144
+==================================================
+

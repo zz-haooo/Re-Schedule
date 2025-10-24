@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4132
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A two-digit positive integer is $\textit{primeable}$ if one of its digits can be deleted to produce a prime number. A two-digit positive integer that is prime, yet not primeable, is $\textit{unripe}$. Compute the total number of unripe integers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

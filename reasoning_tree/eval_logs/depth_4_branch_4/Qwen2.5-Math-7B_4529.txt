@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4529
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The school store is running out of supplies, but it still has five items: one pencil (costing $1), one pen (costing $1), one folder (costing $2), one pack of paper (costing $3), and one binder (costing $4). If you have $10, in how many ways can you spend your money? (You don't have to spend all of your money, or any of it.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

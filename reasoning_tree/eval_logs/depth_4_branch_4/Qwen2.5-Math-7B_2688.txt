@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2688
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Misha has accepted a job in the mines and will produce one ore each day. At the market, he can perform the following transactions:
+- Buy or sell one ore for $3.
+- Buy or sell bundles of three wheat for $12 each.
+- Sell one wheat for one ore.
+
+His ultimate goal is to build a city, which requires:
+- Three ore
+- Two wheat
+
+How many dollars must Misha begin with in order to build a city after three days of working?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

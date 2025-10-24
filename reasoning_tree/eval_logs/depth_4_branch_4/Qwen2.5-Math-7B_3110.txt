@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3110
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$ABCD$ forms a rhombus. $E$ is the intersection of $AC$ and $BD$. $F$ lies on $AD$ such that $EF$ is perpendicular to $FD$. Given $EF = 2$ and $FD = 1$. Find the area of the rhombus $ABCD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

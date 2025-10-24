@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10401
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The equation $y = -4.9t^2 + 23.8t$ describes the height (in meters) of a projectile launched from the ground at 23.8 meters per second. In how many seconds will the projectile first reach 28 meters in height?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

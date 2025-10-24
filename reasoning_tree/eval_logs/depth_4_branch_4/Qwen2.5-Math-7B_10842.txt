@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10842
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Club Truncator is in a soccer league with six other teams, each of which it plays once. In any of its 6 matches, the probabilities that Club Truncator will win, lose, or tie are each $\frac {1}{3}$. The probability that Club Truncator will finish the season with more wins than losses is $\frac {m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 341
+==================================================
+

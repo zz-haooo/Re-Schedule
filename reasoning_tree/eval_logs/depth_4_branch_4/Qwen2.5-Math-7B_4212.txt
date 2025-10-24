@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4212
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the largest positive integer $n$ such that $\sigma(n) = 28$, where $\sigma(n)$ is the sum of the divisors of $n$, including $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

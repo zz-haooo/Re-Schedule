@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16879
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+At the beginning of a trip, the mileage odometer read $56,200$ miles. The driver filled the gas tank with $6$ gallons of gasoline. During the trip, the driver filled his tank again with $12$ gallons of gasoline when the odometer read $56,560$. At the end of the trip, the driver filled his tank again with $20$ gallons of gasoline. The odometer read $57,060$. To the nearest tenth, what was the car's average miles-per-gallon for the entire trip? If the answer is $x$, what is the value of $10x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 269
+==================================================
+

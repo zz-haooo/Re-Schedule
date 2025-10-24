@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5341
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find an odd natural number not exceeding $1000$ such that the sum of the last digits of all its divisors (including $1$ and the number itself) is $33$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 729
+==================================================
+

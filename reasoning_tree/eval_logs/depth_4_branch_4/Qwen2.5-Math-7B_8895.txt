@@ -1,0 +1,26 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8895
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Four points $B,$ $A,$ $E,$ and $L$ are on a straight line, as shown. The point $G$ is off the line so that $\angle BAG = 120^\circ$ and $\angle GEL = 80^\circ.$ If the reflex angle at $G$ is $x^\circ,$ then what does $x$ equal?
+
+[asy]
+draw((0,0)--(30,0),black+linewidth(1));
+draw((10,0)--(17,20)--(15,0),black+linewidth(1));
+draw((17,16)..(21,20)..(17,24)..(13,20)..(14.668,16.75),black+linewidth(1));
+draw((17,16)..(21,20)..(17,24)..(13,20)..(14.668,16.75),Arrows);
+label("$B$",(0,0),S);
+label("$A$",(10,0),S);
+label("$E$",(15,0),S);
+label("$L$",(30,0),S);
+label("$G$",(17,20),N);
+label("$120^\circ$",(10,0),NW);
+label("$80^\circ$",(15,0),NE);
+label("$x^\circ$",(21,20),E);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 340
+==================================================
+

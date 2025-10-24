@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6235
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_1,$ $a_2,$ $\dots$ be a sequence of positive real numbers such that
+\[a_n = 11a_{n - 1} - n\]for all $n > 1.$  Find the smallest possible value of $a_1.$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 121
+==================================================
+

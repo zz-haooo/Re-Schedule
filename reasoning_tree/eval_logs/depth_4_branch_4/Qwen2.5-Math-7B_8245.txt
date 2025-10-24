@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8245
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a parallelogram with diagonal $AC = 10$ such that the distance from $A$ to line $CD$ is $6$ and the distance from $A$ to line $BC$ is $7$. There are two non-congruent configurations of $ABCD$ that satisfy these conditions. The sum of the areas of these two parallelograms is $\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4717
+==================================================
+

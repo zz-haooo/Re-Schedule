@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15637
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A privateer discovers a merchantman $10$ miles to leeward at 11:45 a.m. and with a good breeze bears down upon her at $11$ mph, while the merchantman can only make $8$ mph in her attempt to escape. After a two-hour chase, the top sail of the privateer is carried away; she can now make only $17$ miles while the merchantman makes $15$. At what time will the privateer overtake the merchantman? Provide your answer in the format of H:MM PM, where H and MM are two-digit numbers (possibly with leading zeros). Please give the value of H + MM.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

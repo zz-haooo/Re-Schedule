@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8211
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Square $ABCD$ with side length $2$ begins in position $1$ with side $AD$ horizontal and vertex $A$ in the lower right corner. The square is rotated $90^o$ clockwise about vertex $ A$ into position $2$ so that vertex $D$ ends up where vertex $B$ was in position $1$. Then the square is rotated $90^o$ clockwise about vertex $C$ into position $3$ so that vertex $B$ ends up where vertex $D$ was in position $2$ and vertex $B$ was in position $1$, as shown below. The area of the region of points in the plane that were covered by the square at some time during its rotations can be written $\frac{p\pi + \sqrt{q} + r}{s}$, where $p, q, r,$ and $s$ are positive integers, and $p$ and $s$ are relatively prime. Find $p + q + r + s$.
+[img]https://cdn.artofproblemsolving.com/attachments/9/2/cb15769c30018545abfa82a9f922201c4ae830.png[/img]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 133
+==================================================
+

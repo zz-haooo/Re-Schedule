@@ -1,0 +1,46 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6241
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $AB = 3$, $AC = 5$, and $BC = 4$.  The medians $AD$, $BE$, and $CF$ of triangle $ABC$ intersect at the centroid $G$.  Let the projections of $G$ onto $BC$, $AC$, and $AB$ be $P$, $Q$, and $R$, respectively.  Find $GP + GQ + GR$.
+
+[asy]
+import geometry;
+
+unitsize(1 cm);
+
+pair A, B, C, D, E, F, G, P, Q, R;
+
+A = (0,3);
+B = (0,0);
+C = (4,0);
+D = (B + C)/2;
+E = (C + A)/2;
+F = (A + B)/2;
+G = (A + B + C)/3;
+P = (G + reflect(B,C)*(G))/2;
+Q = (G + reflect(C,A)*(G))/2;
+R = (G + reflect(A,B)*(G))/2;
+
+draw(A--B--C--cycle);
+draw(A--G);
+draw(B--G);
+draw(C--G);
+draw(G--P);
+draw(G--Q);
+draw(G--R);
+
+label("$A$", A, dir(90));
+label("$B$", B, SW);
+label("$C$", C, SE);
+label("$G$", G, SE);
+label("$P$", P, S);
+label("$Q$", Q, NE);
+label("$R$", R, W);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 62
+==================================================
+

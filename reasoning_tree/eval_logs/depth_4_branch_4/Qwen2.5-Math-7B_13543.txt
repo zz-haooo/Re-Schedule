@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13543
+Question: 对于和为 1 的九个非负实数 $a_{1}, a_{2}, \cdots, a_{9}$, 令
+$$
+\begin{aligned}
+& S=\min \left\{a_{1}, a_{2}\right\}+2 \min \left\{a_{2}, a_{3}\right\}+\cdots+8 \min \left\{a_{8}, a_{9}\right\}+9 \min \left\{a_{9}, a_{1}\right\}, \\
+& T=\max \left\{a_{1}, a_{2}\right\}+2 \max \left\{a_{2}, a_{3}\right\}+\cdots+8 \max \left\{a_{8}, a_{9}\right\}+9 \max \left\{a_{9}, a_{1}\right\},
+\end{aligned}
+$$
+这里, $\min \{x, y\}$ 表示 $x, y$ 中的较小者, $\max \{x, y\}$ 表示 $x, y$ 中的较大者.
+记 $S$ 的最大可能值为 $S_{0}$ . 当 $S=S_{0}$ 时, 求 $T$ 的所有可能值. 计算区间两端分子分母之和的值。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 76
+==================================================
+

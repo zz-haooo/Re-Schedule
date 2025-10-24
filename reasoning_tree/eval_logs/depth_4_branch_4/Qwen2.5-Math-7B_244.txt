@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 244
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A quadratic polynomial $p(x)$ with integer coefficients satisfies $p(41) = 42$. For some integers $a, b > 41$, $p(a) = 13$ and $p(b) = 73$. Compute the value of $p(1)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2842
+==================================================
+

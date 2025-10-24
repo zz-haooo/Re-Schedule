@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2276
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There is a sequence of numbers $+1$ and $-1$ of length $n$. It is known that the sum of every $10$ neighboring numbers in the sequence is $0$, and that the sum of every $12$ neighboring numbers in the sequence is not zero. What is the maximal value of $n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

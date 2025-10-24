@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 769
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A few (at least $5$) integers are placed on a circle such that each integer is divisible by the sum of its neighboring integers. If the sum of all the integers is positive, what is the minimal value of this sum?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

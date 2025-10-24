@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 987
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On Thursday, January 1, 2015, Anna buys one book and one shelf. For the next two years, she buys one book every day and one shelf on alternate Thursdays, so she next buys a shelf on January 15th. On how many days in the period from Thursday, January 1, 2015, until (and including) Saturday, December 31, 2016, is it possible for Anna to arrange all her books on all her shelves such that there is an equal number of books on each shelf?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 89
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 152
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $1$, $2$, and $3$ are the roots of the equation $x^4 + ax^2 + bx = c$. Find the value of $c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

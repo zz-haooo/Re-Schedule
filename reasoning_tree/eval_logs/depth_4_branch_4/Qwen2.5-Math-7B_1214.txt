@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1214
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For $n \in \mathbb{N}$, let $P(n)$ denote the product of the digits in $n$ and $S(n)$ denote the sum of the digits in $n$. Consider the set \(A=\{n \in \mathbb{N}: P(n)\) is non-zero, square-free, and \(S(n)\) is a proper divisor of \(P(n)\}\). Find the maximum possible number of digits of the numbers in \(A\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 92
+==================================================
+

@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6459
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a,$ $b,$ and $c$ be the roots of $x^3 - 7x^2 + 5x + 2 = 0.$  Find
+\[\frac{a}{bc + 1} + \frac{b}{ac + 1} + \frac{c}{ab + 1}.\]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

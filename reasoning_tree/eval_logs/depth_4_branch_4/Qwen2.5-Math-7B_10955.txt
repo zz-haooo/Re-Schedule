@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10955
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We drew 11 horizontal and 11 vertical intersecting straight lines on a sheet of paper. We call a segment of one of the straight line drawn that connects two neighboring intersections a “link”. What least number of links must we erase in order for each intersection to be a junction of not more than 3 links?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 41
+==================================================
+

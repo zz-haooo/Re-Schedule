@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1347
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A hundred silver coins are laid down in a line. A wizard can convert a silver coin into a golden one in $3$ seconds. Each adjacent golden coin reduces this time by $1$ second. What is the minimal time required for the wizard to convert all coins to gold?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 201
+==================================================
+

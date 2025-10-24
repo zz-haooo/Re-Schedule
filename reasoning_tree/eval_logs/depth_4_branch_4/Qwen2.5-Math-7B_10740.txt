@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10740
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The volume of the box is 240 cubic units where $a,b,$ and $c$ are integers with $1<c<b<a$. What is the largest possible value of $b$? [asy]
+
+draw((0,0)--(0,3)--(6,3)--(6,0)--cycle);
+draw((2,1.5)--(2,4.5)--(8,4.5)--(8,1.5)--cycle);
+draw((0,0)--(2,1.5)--(2,4.5)--(0,3)--cycle);
+draw((6,0)--(6,3)--(8,4.5)--(8,1.5)--cycle);
+label("a",(3,0),S);
+label("b",(7,0.75),SE);
+label("c",(8,3.5),E);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

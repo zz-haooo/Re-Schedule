@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6182
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ellina has twelve blocks, two each of red ($\textbf{R}$), blue ($\textbf{B}$), yellow ($\textbf{Y}$), green ($\textbf{G}$), orange ($\textbf{O}$), and purple ($\textbf{P}$). Call an arrangement of blocks $\textit{even}$ if there is an even number of blocks between each pair of blocks of the same color. For example, the arrangement  
+$$\textbf{R B B Y G G Y R O P P O}$$
+is even. Ellina arranges her blocks in a row in random order. The probability that her arrangement is even is $\frac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 247
+==================================================
+

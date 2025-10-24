@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7721
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Patty is standing on a line of planks playing a game. Define a block to be a sequence of adjacent planks, such that both ends are not adjacent to any planks. Every minute, a plank chosen uniformly at random from the block that Patty is standing on disappears, and if Patty is standing on the plank, the game is over. Otherwise, Patty moves to a plank chosen uniformly at random within the block she is in; note that she could end up at the same plank from which she started. If the line of planks begins with $n$ planks, then for sufficiently large n, the expected number of minutes Patty lasts until the game ends (where the first plank disappears a minute after the game starts) can be written as $P(1/n)f(n) + Q(1/n)$, where $P,Q$ are polynomials and $f(n) =\sum^n_{i=1}\frac{1}{i}$ . Find $P(2023) + Q(2023)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4045
+==================================================
+

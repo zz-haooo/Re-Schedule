@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16784
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Adams plans a profit of $10\%$ on the selling price of an article and his expenses are $15\%$ of sales. If the rate of markup on an article that sells for $\$5.00$ is $x\%$, find the value of $3x$. Provide your answer as an integer without the percentage symbol.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

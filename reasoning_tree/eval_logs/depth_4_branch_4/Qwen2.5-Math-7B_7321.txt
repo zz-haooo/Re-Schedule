@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7321
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Richard starts with the string $HHMMMMTT$. A move consists of replacing an instance of $HM$ with $MH$, replacing an instance of $MT$ with $TM$, or replacing an instance of $TH$ with $HT$. Compute the number of possible strings he can end up with after performing zero or more moves.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 70
+==================================================
+

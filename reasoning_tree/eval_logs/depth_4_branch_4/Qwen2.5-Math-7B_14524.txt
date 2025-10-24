@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14524
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Rectangle $ABCD$ has $AB=6$ and $BC=3$. Point $M$ is chosen on side $AB$ so that $\angle AMD=\angle CMD$. If the degree measure of $\angle AMD$ is $x^\circ$, what is the value of $x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 75
+==================================================
+

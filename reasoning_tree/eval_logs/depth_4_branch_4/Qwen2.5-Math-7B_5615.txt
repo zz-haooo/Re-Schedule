@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5615
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given a nonnegative real number $x$ , let $\langle x\rangle$ denote the fractional part of $x$ ; that is, $\langle x\rangle=x-\lfloor x\rfloor$ , where $\lfloor x\rfloor$ denotes the greatest integer less than or equal to $x$ . Suppose that $a$ is positive, $\langle a^{-1}\rangle=\langle a^2\rangle$ , and $2<a^2<3$ . Find the value of $a^{12}-144a^{-1}$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 233
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4394
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose two equally strong tennis players play against each other until one player wins three games in a row. The results of each game are independent, and each player will win with probability $\frac{1}{2}$. What is the expected value of the number of games they will play?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

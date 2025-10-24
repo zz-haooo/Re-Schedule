@@ -1,0 +1,33 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9941
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find $AX$ in the diagram if $CX$ bisects $\angle ACB$. [asy]
+import markers;
+
+real t=1-.32;
+pair A=(-4.07,0);
+pair B=(40.008,0);
+pair C=(0,20.616);
+pair X=t*A+(1-t)*B;
+
+draw(C--A--B--C--X);
+
+label("$A$",A,SW);
+label("$B$",B,E);
+label("$C$",C,N);
+label("$X$",X,S);
+
+//markangle(n=1,radius=15,A,C,X,marker(markinterval(stickframe(n=1),true)));
+//markangle(n=1,radius=15,X,C,B,marker(markinterval(stickframe(n=1),true)));
+
+label("$30$",.5*(B+X),S);
+label("$45$",.5*(B+C),NE);
+label("$21$",.5*(A+C),NW);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

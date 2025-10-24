@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12878
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p$ be an odd prime number, and let ${\Bbb {F}}_p$ denote the field of integers modulo $p$. Let ${\Bbb {F}}_p[x]$ be the ring of polynomials over ${\Bbb {F}}_p$, and let $q(x)\in {\Bbb {F}}_p[x]$ be given by
+$$q(x)=\sum\limits_{k=1}^{p-1}a_kx^k,$$
+where
+$$a_k=k^{(p-1)/2}\mod p.$$ 
+Find the greatest nonnegative integer $n$ such that $(x-1)^n$ divides $q(x)$ in ${\Bbb {F}}_p[x]$. What is the answer when p = 3?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

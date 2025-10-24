@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3272
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Rectangle $ABCD$ has $AB = 8$ and $BC = 13$. Points $P_1$ and $P_2$ lie on $AB$ and $CD$ with $P_1P_2 \parallel BC$. Points $Q_1$ and $Q_2$ lie on $BC$ and $DA$ with $Q_1Q_2 \parallel AB$. Find the area of quadrilateral $P_1Q_1P_2Q_2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 52
+==================================================
+

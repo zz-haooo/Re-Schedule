@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 102
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Bored of working on her computational linguistics thesis, Erin enters some three-digit integers into a spreadsheet, then manipulates the cells a bit until her spreadsheet calculates each of the following $100$ $9$-digit integers:
+
+\[
+\begin{align*}
+700 \cdot 712 \cdot 718 + 320,\\
+701 \cdot 713 \cdot 719 + 320,\\
+702 \cdot 714 \cdot 720 + 320,\\
+&\vdots\\
+798 \cdot 810 \cdot 816 + 320,\\
+799 \cdot 811 \cdot 817 + 320.
+\end{align*}
+\]
+
+She notes that two of them have exactly $8$ positive divisors each. Find the common prime divisor of those two integers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

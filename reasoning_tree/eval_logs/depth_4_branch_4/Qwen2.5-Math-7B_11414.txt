@@ -1,0 +1,9 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11414
+Question: 在平面直角坐标系中, $A(1,2), B(3,0)$, 点 $P$ 为圆 $(x-3)^{2}+(y-2)^{2}=1$ 上任意一点，设 $\overrightarrow{O P}=\lambda \overrightarrow{O A}+\mu \overrightarrow{O B}(\lambda, \mu \in \mathbf{R})$ ，则 $11 \lambda+9 \mu$ 的最小值是 $\qquad$.
+
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 12
+==================================================
+

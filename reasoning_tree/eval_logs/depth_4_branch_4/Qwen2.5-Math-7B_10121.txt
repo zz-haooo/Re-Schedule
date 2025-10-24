@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10121
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are positive integers $x$ and $y$ that satisfy the system of equations\begin{align*} \log_{10} x + 2 \log_{10} (\text{gcd}(x,y)) &= 60\\ \log_{10} y + 2 \log_{10} (\text{lcm}(x,y)) &= 570. \end{align*}Let $m$ be the number of (not necessarily distinct) prime factors in the prime factorization of $x$, and let $n$ be the number of (not necessarily distinct) prime factors in the prime factorization of $y$. Find $3m+2n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 880
+==================================================
+

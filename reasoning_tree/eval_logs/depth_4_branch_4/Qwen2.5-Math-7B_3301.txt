@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3301
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We are given some three-element subsets of $\{1,2, \dots ,n\}$ for which any two of them have at most one common element. We call a subset of $\{1,2, \dots ,n\}$ nice if it doesn't include any of the given subsets. If, no matter how the three-element subsets are selected initially, we can add one more element to every 29-element nice subset while keeping it nice, find the minimum value of $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 436
+==================================================
+

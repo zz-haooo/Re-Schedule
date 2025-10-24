@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6162
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Circles $\omega_1$ and $\omega_2$ with radii $961$ and $625$, respectively, intersect at distinct points $A$ and $B$. A third circle $\omega$ is externally tangent to both $\omega_1$ and $\omega_2$. Suppose line $AB$ intersects $\omega$ at two points $P$ and $Q$ such that the measure of minor arc $\widehat{PQ}$ is $120^{\circ}$. Find the distance between the centers of $\omega_1$ and $\omega_2$.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 672
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1309
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We will call one of the cells of a rectangle $11 \times 13$ "peculiar", if after removing it the remaining figure can be cut into squares $2 \times 2$ and $3 \times 3$. How many of the 143 cells are "peculiar"?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

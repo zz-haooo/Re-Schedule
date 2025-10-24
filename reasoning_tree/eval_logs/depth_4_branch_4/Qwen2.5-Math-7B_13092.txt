@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13092
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find all $r>0$ such that whenever $f: \mathbb{R}^{2} \rightarrow \mathbb{R}$ is a differentiable function such that $|\operatorname{grad} f(0,0)|=1$ and $|\operatorname{grad} f(u)-\operatorname{grad} f(v)| \leq|u-v|$ for all $u, v \in \mathbb{R}^{2}$, then the maximum of $f$ on the disk $\left\{u \in \mathbb{R}^{2}:|u| \leq r\right\}$ is attained at exactly one point. $\left(\operatorname{grad} f(u)=\left(\partial_{1} f(u), \partial_{2} f(u)\right)\right.$ is the gradient vector of $f$ at the point $u$. For a vector $\left.u=(a, b),|u|=\sqrt{a^{2}+b^{2}}.\right)$ The original answer is in \frac{m}{n} format, please give the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

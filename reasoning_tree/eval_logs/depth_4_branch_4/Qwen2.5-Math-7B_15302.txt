@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15302
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A $\emph{triangular number}$ is a positive integer that can be expressed in the form $t_n = 1+2+3+\cdots+n$, for some positive integer $n$. The three smallest triangular numbers that are also perfect squares are $t_1 = 1 = 1^2$, $t_8 = 36 = 6^2$, and $t_{49} = 1225 = 35^2$. What is the sum of the digits of the fourth smallest triangular number that is also a perfect square?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

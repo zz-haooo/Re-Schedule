@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1178
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Gus needs to create a list of $250$ positive integers, where each integer is equal to the number of other numbers in the list that are different from it. For instance, if $15$ is one of the numbers in the list, then there should be exactly $15$ numbers in the list that are different from $15$. Determine the maximum number of distinct numbers that Gus's list can contain.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

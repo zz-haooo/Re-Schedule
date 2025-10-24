@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10941
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ninth and tenth graders participated in a chess tournament. There were ten times as many tenth graders as ninth graders. The total score of tenth graders was 4.5 times that of the ninth graders. What was the ninth graders score? 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6944
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A pirate is searching for buried treasure on 6 islands. On each island, there is a $\frac{1}{4}$ chance that the island has buried treasure and no traps, a $\frac{1}{12}$ chance that the island has traps but no treasure, and a $\frac{2}{3}$ chance that the island has neither traps nor treasure. What is the probability that while searching all 6 islands, the pirate will encounter exactly 3 islands with treasure, and none with traps?The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 59
+==================================================
+

@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8445
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, $RSP$ is a straight line and $\angle QSP = 80^\circ$.  What is the measure of $\angle PQR$, in degrees?
+
+[asy]
+draw((.48,-.05)--(.48,.05)); draw((.52,-.05)--(.52,.05)); draw((1.48,-.05)--(1.48,.05)); draw((1.52,-.05)--(1.52,.05));
+
+draw((1.04,.51)--(1.14,.49)); draw((1.03,.47)--(1.13,.45));
+draw((0,0)--(2,0)--(1.17,.98)--cycle);
+label("$P$",(2,0),SE); label("$R$",(0,0),SW); label("$Q$",(1.17,.98),N);
+
+label("$80^\circ$",(1,0),NE);
+
+label("$S$",(1,0),S);
+draw((1,0)--(1.17,.98));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

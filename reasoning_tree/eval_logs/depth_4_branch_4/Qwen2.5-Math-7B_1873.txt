@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1873
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given a positive integer $N$ (written in base $10$), define its integer substrings to be integers that are equal to strings of one or more consecutive digits from $N$, including $N$ itself. For example, the integer substrings of $3208$ are $3$, $2$, $0$, $8$, $32$, $20$, $320$, $208$, $3208$. (The substring $08$ is omitted from this list because it is the same integer as the substring $8$, which is already listed.)
+
+What is the greatest integer $N$ such that no integer substring of $N$ is a multiple of $9$? (Note: $0$ is a multiple of $9$.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 88888888
+==================================================
+

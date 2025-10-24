@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10381
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The polynomial equation \[x^3 + bx + c = 0,\]where $b$ and $c$ are rational numbers, has $5-\sqrt{2}$ as a root. It also has an integer root. What is it?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -10
+==================================================
+

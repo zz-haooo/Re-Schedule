@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3196
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On $2020 \times 2021$ squares, cover the whole area with several L-Trominos and S-Tetrominos (Z-Tetrominos) along the square so that they do not overlap. The tiles can be rotated or flipped over. Find the minimum possible number of L-Trominos to be used.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2020
+==================================================
+

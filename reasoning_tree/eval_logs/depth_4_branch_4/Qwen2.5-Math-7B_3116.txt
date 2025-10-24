@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3116
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We glue together $990$ one-inch cubes into a $9 \times 10 \times 11$ inch rectangular solid. Then we paint the outside of the solid. How many of the original $990$ cubes have just one of their sides painted?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 382
+==================================================
+

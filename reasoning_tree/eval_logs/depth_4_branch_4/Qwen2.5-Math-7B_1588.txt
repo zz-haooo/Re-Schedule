@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1588
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The teacher secretly thought of a three-digit number $S$. Students $A$, $B$, $C$, and $D$ tried to guess the number by suggesting $541$, $837$, $291$, and $846$ respectively. The teacher informed them that each of them got exactly one digit correct, and it was in the correct position. What is the number $S$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 247
+==================================================
+

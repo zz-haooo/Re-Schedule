@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2332
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A snowman is built on a level plane by placing a ball of radius $6$ on top of a ball of radius $8$, which is on top of a ball of radius $10$, as shown. If the average height above the plane of a point in the snowman is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers, find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 61
+==================================================
+

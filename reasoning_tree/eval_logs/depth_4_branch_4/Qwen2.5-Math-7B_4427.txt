@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4427
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The deputies in a parliament were split into $10$ fractions. According to regulations, no fraction may consist of less than five people, and no two fractions may have the same number of members. After the vacation, the fractions disintegrated and several new fractions arose instead. Besides, some deputies became independent. It turned out that no two deputies that were in the same fraction before the vacation entered the same fraction after the vacation. 
+
+Find the smallest possible number of independent deputies after the vacation.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 31
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Dexter and Raquel are playing a game with $N$ stones. Dexter goes first and takes one stone from the pile. After that, the players alternate turns and can take anywhere from $1$ to $x + 1$ stones from the pile, where $x$ is the number of stones the other player took on the turn immediately prior. The winner is the one to take the last stone from the pile. Assuming Dexter and Raquel play optimally, compute the number of positive integers $N \le 2021$ where Dexter wins this game.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1010
+==================================================
+

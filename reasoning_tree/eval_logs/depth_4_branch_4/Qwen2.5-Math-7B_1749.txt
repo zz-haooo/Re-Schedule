@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1749
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are real numbers $x$, $y$, and $z$ such that the value of \(x + y + z - \left(\frac{x^2}{5} + \frac{y^2}{6} + \frac{z^2}{7}\right)\) reaches its maximum of \(\frac{m}{n}\), where \(m\) and \(n\) are relatively prime positive integers. Find \(m + n + x + y + z\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

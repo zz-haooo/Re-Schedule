@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2555
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Reimu invented a new number base system that uses exactly five digits. The number $0$ in the decimal system is represented as $00000$. Whenever a number is incremented, Reimu finds the leftmost digit (of the five digits) that is equal to the "units" (rightmost) digit, increments this digit, and sets all the digits to its right to 0. 
+
+For example, an analogous system that uses three digits would begin with $000$, $100$, $110$, $111$, $200$, $210$, $211$, $220$, $221$, $222$, $300$, $\ldots$.
+
+Compute the decimal representation of the number that Reimu would write as $98765$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1727
+==================================================
+

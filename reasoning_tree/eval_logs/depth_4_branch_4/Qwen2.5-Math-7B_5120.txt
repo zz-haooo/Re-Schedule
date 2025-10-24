@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5120
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ has $AB=25$, $AC=29$, and $BC=36$. Additionally, $\Omega$ and $\omega$ are the circumcircle and incircle of $\triangle ABC$. Point $D$ is situated on $\Omega$ such that $AD$ is a diameter of $\Omega$, and line $AD$ intersects $\omega$ in two distinct points $X$ and $Y$. Compute $XY^2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 252
+==================================================
+

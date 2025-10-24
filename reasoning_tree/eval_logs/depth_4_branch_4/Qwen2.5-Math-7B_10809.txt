@@ -1,0 +1,46 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10809
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The figure shown is a cube. The distance between vertices $B$ and $G$ is $5\sqrt{2}$ units. What is the volume of the cube, in cubic units?
+
+[asy]
+
+size(3cm,3cm);
+
+pair A,B,C,D,a,b,c,d;
+
+A=(0,0);
+B=(1,0);
+C=(1,1);
+D=(0,1);
+
+draw(A--B--C--D--A);
+
+a=(-0.25,0.1);
+b=D+(A+a);
+c=C+(A+a);
+
+draw(A--a);
+
+draw(D--b);
+
+draw(C--c);
+
+draw(a--b--c);
+
+draw(A--b,1pt+dotted);
+
+label("$B$",b,W);
+label("$G$",A,NE);
+
+dot(A);
+dot(b);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 125
+==================================================
+

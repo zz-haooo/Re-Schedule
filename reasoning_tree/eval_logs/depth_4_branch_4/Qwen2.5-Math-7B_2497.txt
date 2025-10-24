@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2497
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Edward starts at his house located at \((0,0)\) and needs to reach the point \((6,4)\), which is the coordinate for his school. However, there is a park shaped as a square with coordinates \((2,1), (2,3), (4,1), (4,3)\). Edward cannot walk inside the park, but there is a road along the perimeter of the square. Determine how many different shortest routes exist from Edward's house to his school.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 110
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1263
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The two brothers, without waiting for the bus, decided to walk to the next stop. After passing $\frac{1}{3}$ of the way, they looked back and saw a bus approaching the stop. One of the brothers ran backwards, and the other ran forward at the same speed. It turned out that everyone ran to their stop exactly at the moment when the bus approached it. Find the speed of the brothers, if the bus speed is $30$ km/h, neglecting the bus stop time.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

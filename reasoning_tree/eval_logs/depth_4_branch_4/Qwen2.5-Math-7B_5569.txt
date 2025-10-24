@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5569
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the positive integer $n$ for which $$\lfloor\log_2{1}\rfloor+\lfloor\log_2{2}\rfloor+\lfloor\log_2{3}\rfloor+\cdots+\lfloor\log_2{n}\rfloor=1994$$  
+(For real $x$ , $\lfloor x\rfloor$ is the greatest integer $\le x.$ )
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 312
+==================================================
+

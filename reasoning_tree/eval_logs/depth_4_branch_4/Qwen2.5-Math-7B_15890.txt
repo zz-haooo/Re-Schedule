@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15890
+Question: 在坐标平面上有两个区域 $M$ 和 $N$，$M$ 是由 $y \geqslant 0, y \leqslant x$ 和 $y \leqslant 2-x$ 这三个不等式确定，$N$ 是随 $t$ 变化的区域，它由不等式 $t \leqslant x \leqslant t+1$ 确定，$t$ 的取值范围是 $0 \leqslant t \leqslant 1$。设 $M$ 和 $N$ 的公共面积是函数 $f(t)$，求 $f(t)$。答案形式为 $-at^{2}+bt+\frac{c}{d}$，请给出a+b+c+d的值。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 5
+==================================================
+

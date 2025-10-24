@@ -1,0 +1,28 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8589
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of square units in the area of the shaded region. [asy]
+size(200);
+draw((0,0)--(30,0)--(30,30)--(0, 30)--cycle);
+dot((30,0));dot((0,0));dot((10,0));dot((30,20));dot((30,30)); dot((20,30));dot((0,30));dot((0,10));
+filldraw((0,0)--(10,0)--(30,20)--(30,30)--(20,30)--(0,10)--(0,0)--cycle, lightgray);
+draw((0,0)--(60,0),EndArrow);
+draw((0,0)--(-30,0),EndArrow);
+draw((0,0)--(0,50),EndArrow);
+draw((0,0)--(0,-30),EndArrow);
+label("(0,0)",(0,0), SW, fontsize(8));
+label("(10,0)",(10,0), S, fontsize(8));
+label("(30,0)",(30,0), S, fontsize(8));
+label("(30,20)",(30,20), E, fontsize(8));
+label("(20,30)",(20,30), N, fontsize(8));
+label("(0,30)",(0,30), W, fontsize(8));
+label("(30,30)",(30,30), NE, fontsize(8));
+label("(0,10)",(0,10), W, fontsize(8));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 500
+==================================================
+

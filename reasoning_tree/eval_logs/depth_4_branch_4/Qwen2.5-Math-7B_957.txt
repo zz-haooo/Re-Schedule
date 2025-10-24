@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 957
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In preparation for the family's upcoming vacation, Tony puts together five bags of jelly beans, one bag for each day of the trip, with an equal number of jelly beans in each bag. Tony then pours all the jelly beans out of the five bags and begins making patterns with them. One of the patterns that he makes has one jelly bean in a top row, three jelly beans in the next row, five jelly beans in the row after that, and so on:
+
+\[
+\begin{array}{ccccccccc}
+&&&&*&&&&\\
+&&&*&*&*&&&\\
+&&*&*&*&*&*&&\\
+&*&*&*&*&*&*&*&\\
+*&*&*&*&*&*&*&*&*\\
+&&&&\vdots&&&&
+\end{array}
+\]
+
+Continuing in this way, Tony finishes a row with none left over. For instance, if Tony had exactly 25 jelly beans, he could finish the fifth row above with no jelly beans left over. However, when Tony finishes, there are between 10 and 20 rows. Tony then scoops all the jelly beans and puts them all back into the five bags so that each bag once again contains the same number. How many jelly beans are in each bag? (Assume that no jelly bean gets put inside more than one bag.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 45
+==================================================
+

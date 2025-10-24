@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10207
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On the graph of $y=(x+2)^4-100$, how many points are there whose coordinates are both negative integers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

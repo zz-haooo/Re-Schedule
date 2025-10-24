@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17083
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Penniless Pete's piggy bank has no pennies in it, but it has $100$ coins, all nickels, dimes, and quarters, whose total value is $8.35$. It does not necessarily contain coins of all three types. Find the difference between the largest and smallest number of dimes that could be in the bank.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 64
+==================================================
+

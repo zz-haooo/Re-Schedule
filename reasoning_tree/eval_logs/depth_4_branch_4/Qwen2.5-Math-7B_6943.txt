@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6943
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There is a machine with 8 toys in it that each cost between 25 cents and 2 dollars, with each toy being 25 cents more expensive than the next most expensive one. Each time Sam presses the big red button on the machine, the machine randomly selects one of the remaining toys and gives Sam the option to buy it. If Sam has enough money, he will buy the toy, the red button will light up again, and he can repeat the process. If Sam has 8 quarters and a ten dollar bill and the machine only accepts quarters, what is the probability that Sam has to get change for the 10 dollar bill before he can buy his favorite toy- the one that costs $\$1.75$? Express your answer as a common fraction.The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

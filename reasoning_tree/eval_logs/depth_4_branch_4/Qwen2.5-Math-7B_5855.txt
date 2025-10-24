@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5855
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a $6 \times 4$ grid ($6$ rows, $4$ columns), $12$ of the $24$ squares are to be shaded so that there are two shaded squares in each row and three shaded squares in each column. Let $N$ be the number of shadings with this property. Find the remainder when $N$ is divided by $1000$ 
+$$\begin{array}{l}  \\  \begin{array}{|c|c|c|c|}  \hline  &  &&  \\  \hline  &  &  &\\  \hline & & & \\   \hline  &  &&  \\ \hline  &  &&  \\ \hline  &  &&  \\\hline  \end{array}  \end{array}$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 860
+==================================================
+

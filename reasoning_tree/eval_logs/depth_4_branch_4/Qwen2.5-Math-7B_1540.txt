@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1540
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+1 or -1 is written in 50 letters. These letters are placed into 50 envelopes. You can ask to learn the product of numbers written into any three letters. At least, how many questions are required to find the product of all of the 50 numbers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

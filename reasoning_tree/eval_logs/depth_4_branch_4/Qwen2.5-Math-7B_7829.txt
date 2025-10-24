@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7829
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A tailor met a tortoise sitting under a tree. When the tortoise was the tailor’s age, the tailor was only a quarter of his current age. When the tree was the tortoise’s age, the tortoise was only a seventh of its current age. If the sum of their ages is now $264$, how old is the tortoise?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 77
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8685
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Square $ABCD$ has area $200$. Point $E$ lies on side $\overline{BC}$. Points $F$ and $G$ are the midpoints of $\overline{AE}$ and $\overline{DE}$, respectively. Given that quadrilateral $BEGF$ has area $34$, what is the area of triangle $GCD$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 41
+==================================================
+

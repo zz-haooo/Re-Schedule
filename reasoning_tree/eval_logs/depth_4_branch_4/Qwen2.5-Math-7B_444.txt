@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 444
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+When flipped, coin A shows heads $\frac{1}{3}$ of the time, coin B shows heads $\frac{1}{2}$ of the time, and coin C shows heads $\frac{2}{3}$ of the time. Anna selects one of the coins at random and flips it four times, yielding three heads and one tail. The probability that Anna flipped coin A can be expressed as $\frac{p}{q}$ for relatively prime positive integers $p$ and $q$. Compute $p + q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 273
+==================================================
+

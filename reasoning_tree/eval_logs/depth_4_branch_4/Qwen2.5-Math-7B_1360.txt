@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1360
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We have two positive integers, both less than $1000$. The arithmetic mean and the geometric mean of these numbers are consecutive odd integers. Find the maximum possible value of the difference between the two integers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 120
+==================================================
+

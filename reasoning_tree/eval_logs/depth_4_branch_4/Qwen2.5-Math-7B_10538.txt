@@ -1,0 +1,43 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10538
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Using data from 1944 through 2000, the histogram shows the number of years that had a particular number of hurricanes reaching the East Coast of the U.S. For example, in 14 of those years there was exactly one hurricane each year that reached the East Coast of the U.S. What is the median number of hurricanes per year reaching the East Coast from 1944 through 2000?
+
+[asy]
+size(150);
+real textsize = 10*pt;
+real w = 1;
+draw((0,17)--(0,0)--(18,0),linewidth(w));
+for(int i = 1; i <= 17; ++i)
+
+if(i != 5 && i != 10 && i != 15)
+
+draw(shift(i*up)*((0,0)--(18,0)));
+
+else
+
+draw(shift(i*up)*((0,0)--(18,0)),linewidth(w));
+for(int i = 0; i < 17; ++i)
+
+draw(shift(i*up)*((-.3,1)--(.3,1)),linewidth(w));
+label(rotate(90)*"\textbf{Number of Years}",(-3.5,17/2),fontsize(textsize));
+for(int i = 1; i<4; ++i)
+
+label("\textbf{"+string(5i)+"}",(0,5i),left,fontsize(textsize));
+for(int i = 0; i<4; ++i)
+
+label("\textbf{"+string(2i)+"}",(4i+2,0),S,fontsize(textsize));
+label("\textbf{Number of Hurricanes}",(9,-3),fontsize(textsize));
+
+void bar(int barnumber,int height)
+{filldraw((2barnumber -1 ,0)--(2barnumber-1,height)--(2barnumber + 1,height)--(2barnumber + 1,0)--cycle,gray(.6),black+linewidth(w));
+}
+bar(1,5); bar(2,14); bar(3,17); bar(4,12); bar(5,2); bar(6,4); bar(7,2); bar(8,1);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

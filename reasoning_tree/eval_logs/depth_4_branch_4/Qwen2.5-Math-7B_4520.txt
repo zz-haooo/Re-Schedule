@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4520
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Say that an ordered triple $(a, b, c)$ is pleasing if:
+
+1. $a$, $b$, and $c$ are in the set $\{ 1, 2, \dots, 17 \}$.
+2. Both $b - a$ and $c - b$ are greater than $3$, and at least one of them is equal to $4$.
+
+How many pleasing triples are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 81
+==================================================
+

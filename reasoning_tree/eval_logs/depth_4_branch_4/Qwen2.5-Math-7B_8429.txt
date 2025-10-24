@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8429
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Below is a portion of the graph of a function, $y=h(x)$:
+
+[asy]
+import graph; size(8cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-4.25,xmax=4.25,ymin=-7.25,ymax=6.25;
+
+pen cqcqcq=rgb(0.75,0.75,0.75);
+
+/*grid*/ pen gs=linewidth(0.7)+cqcqcq+linetype("2 2"); real gx=1,gy=1;
+for(real i=ceil(xmin/gx)*gx;i<=floor(xmax/gx)*gx;i+=gx) draw((i,ymin)--(i,ymax),gs); for(real i=ceil(ymin/gy)*gy;i<=floor(ymax/gy)*gy;i+=gy) draw((xmin,i)--(xmax,i),gs);
+
+Label laxis; laxis.p=fontsize(10);
+
+xaxis("",xmin,xmax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); yaxis("",ymin,ymax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true);
+real f1(real x){return 4.125-(x+0.5)^2/2;}
+draw(graph(f1,-4.25,4.25),linewidth(1));
+clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle);
+label("$y=h(x)$",(4.5,-6),E);
+[/asy]
+
+If the graph of $y=h(x-3)$ is drawn on the same set of axes as the graph above, then the two graphs intersect at one point. What is the sum of the coordinates of that point?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

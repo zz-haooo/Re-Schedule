@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 221
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the game of *Winners Make Zeros*, a pair of positive integers \((m,n)\) is written on a sheet of paper. Then the game begins, as the players make the following legal moves:
+
+- If \(m \geq n\), the player chooses a positive integer \(c\) such that \(m-cn \geq 0\), and replaces \((m,n)\) with \((m-cn,n)\).
+- If \(m < n\), the player chooses a positive integer \(c\) such that \(n-cm \geq 0\), and replaces \((m,n)\) with \((m,n-cm)\).
+
+When \(m\) or \(n\) becomes \(0\), the game ends, and the last player to have moved is declared the winner. If \(m\) and \(n\) are originally \(2007777\) and \(2007\), find the largest choice the first player can make for \(c\) (on his first move) such that the first player has a winning strategy after that first move.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 999
+==================================================
+

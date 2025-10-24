@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3379
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A prime number $q$ is called a 'Kowai' number if $q = p^2 + 10$, where $q$, $p$, $p^2-2$, $p^2-8$, and $p^3+6$ are all prime numbers. We know that at least one 'Kowai' number can be found. Find the summation of all 'Kowai' numbers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 59
+==================================================
+

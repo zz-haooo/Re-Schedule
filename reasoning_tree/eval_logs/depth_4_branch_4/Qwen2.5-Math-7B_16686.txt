@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16686
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \(ABC\) be a triangle with \(m(\widehat{A})=90^\circ\), \(|AB|=4\), and \(|AC|=3\). Let \(D\) be the foot of the perpendicular from \(A\) to \([BC]\). If \(P\) is a point on \([BD]\) such that \(5|AP|=13|PD|\), find the length of \(|CP|\). The original answer is in \(\frac{k}{m}\) format, please give the value of \(k + m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

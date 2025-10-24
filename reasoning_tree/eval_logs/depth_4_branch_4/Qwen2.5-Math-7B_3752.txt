@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3752
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $W = \ldots x_{-1}x_0x_1x_2 \ldots$ be an infinite periodic word consisting of only the letters $a$ and $b$. The minimal period of $W$ is $2^{2016}$. Say that a word $U$ appears in $W$ if there are indices $k \le \ell$ such that $U = x_kx_{k+1} \ldots x_{\ell}$. A word $U$ is called special if $Ua, Ub, aU, bU$ all appear in $W$. (The empty word is considered special.) You are given that there are no special words of length greater than 2015.
+
+Let $N$ be the minimum possible number of special words. Find the remainder when $N$ is divided by 1000.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 535
+==================================================
+

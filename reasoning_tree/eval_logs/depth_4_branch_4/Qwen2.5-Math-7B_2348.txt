@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2348
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Camila creates a pattern to write the following numbers:
+\[
+2, 4 \\
+5, 7, 9, 11 \\
+12, 14, 16, 18, 20, 22 \\
+23, 25, 27, 29, 31, 33, 35, 37 \\
+\ldots
+\]
+Following the same pattern, what is the sum of the numbers in the tenth row?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3840
+==================================================
+

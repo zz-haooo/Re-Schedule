@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17094
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be the largest integer that is the product of exactly $3$ distinct prime numbers $d$, $e$, and $10d+e$, where $d$ and $e$ are single digits. Find the sum of the digits of $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

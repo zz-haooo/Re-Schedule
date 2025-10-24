@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2418
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n \geq 3$ be an integer. Mario draws $20$ lines in the plane, such that no two lines are parallel.
+
+For each equilateral triangle formed by three of these lines, Mario receives three coins. For each isosceles and non-equilateral triangle formed by three of these lines, Mario receives one coin. What is the maximum number of coins that Mario can receive?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 380
+==================================================
+

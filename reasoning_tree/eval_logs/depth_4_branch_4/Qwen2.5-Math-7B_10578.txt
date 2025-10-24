@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10578
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $P(x)$ be a polynomial such that
+\[P(P(x)) + P(x) = 6x\]for all real numbers $x.$  Find the sum of all possible values of $P(10).$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -10
+==================================================
+

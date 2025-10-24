@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10311
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of real solutions $(x,y,z,w)$ of the simultaneous equations
+\begin{align*}
+2y &= x + \frac{17}{x}, \\
+2z &= y + \frac{17}{y}, \\
+2w &= z + \frac{17}{z}, \\
+2x &= w + \frac{17}{w}.
+\end{align*}
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

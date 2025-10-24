@@ -1,0 +1,23 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6789
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the ratio of the area of the shaded square to the area of the large square? (The figure is drawn to scale.) [asy]
+/* AMC8 1998 #13P */
+size(1inch,1inch);
+pair r1c1=(0,0), r1c2=(10,0), r1c3=(20,0), r1c4=(30, 0), r1c5=(40, 0);
+pair r2c1=(0,10), r2c2=(10,10), r2c3=(20,10), r2c4=(30, 10), r2c5=(40, 10);
+pair r3c1=(0,20), r3c2=(10,20), r3c3=(20,20), r3c4=(30, 20), r3c5=(40, 20);
+pair r4c1=(0,30), r4c2=(10,30), r4c3=(20,30), r4c4=(30, 30), r4c5=(40, 30);
+pair r5c1=(0,40), r5c2=(10,40), r5c3=(20,40), r5c4=(30, 40), r5c5=(40, 40);
+draw(r1c1--r5c1--r5c5--r1c5--r1c1--r5c5);
+draw(r5c1--r3c3);
+draw(r4c4--r2c4--r3c5);
+fill(r2c2--r3c3--r2c4--r1c3--cycle);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

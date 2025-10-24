@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10505
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Eleanor is making chocolate chip cookies for her friends. If she divides the cookies equally among $11$ of her friends, she'll have $4$ cookies left over. If she divides the cookies equally among $7$ of her friends, she'll have $1$ cookie left over. Assuming that Eleanor made fewer than $100$ cookies, what is the sum of the possible numbers of cookies that she could have made?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 107
+==================================================
+

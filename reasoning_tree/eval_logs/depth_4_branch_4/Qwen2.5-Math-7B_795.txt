@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 795
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the smallest positive integer $M$ with the following property: For every choice of integers $a, b, c$, there exists a polynomial $P(x)$ with integer coefficients such that $P(1) = aM$, $P(2) = bM$, and $P(4) = cM$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

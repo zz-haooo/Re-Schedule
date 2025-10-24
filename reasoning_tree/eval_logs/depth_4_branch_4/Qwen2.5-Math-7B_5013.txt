@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5013
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A set $S \subseteq \mathbb{N}$ satisfies the following conditions:
+
+1. If $x, y \in S$ (not necessarily distinct), then $x + y \in S$.
+2. If $x$ is an integer and $2x \in S$, then $x \in S$.
+
+Find the number of pairs of integers $(a, b)$ with $1 \le a, b \le 50$ such that if $a, b \in S$ then $S = \mathbb{N}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2068
+==================================================
+

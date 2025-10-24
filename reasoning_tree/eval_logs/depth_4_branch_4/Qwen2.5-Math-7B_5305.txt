@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5305
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose 2012 reals are selected independently and at random from the unit interval $[0,1]$, and then written in nondecreasing order as $x_1 \le x_2 \le \cdots \le x_{2012}$. If the probability that $x_{i+1} - x_i \le \frac{1}{2011}$ for $i=1,2,\ldots,2011$ can be expressed in the form $\frac{m}{n}$ for relatively prime positive integers $m,n$, find the remainder when $m+n$ is divided by 1000.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 601
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14229
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many distinct four-tuples $(a, b, c, d)$ of rational numbers are there such that:
+
+$$a \log_{10} 2 + b \log_{10} 3 + c \log_{10} 5 + d \log_{10} 7 = 2005$$
+
+Find the number of such distinct four-tuples.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

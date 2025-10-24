@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12373
+Question: 已知双曲线 C:\df{x^2}{a^2}-\df{y^2}{b^2}=1(a>0,b>0) 的离心率为 \df{\sqrt{17}}{3}，F 为右焦点，点 A,B 在右支上. 设 D 为 A 关于原点 O 的对称点，且 DF\bot AB. 若 \overrightarrow{AF}=\lambda\overrightarrow{FB}，则 \lambda=_________.原始的答案是\frac{m}{n}的形式，其中m、n是互质的。请给出最终m + n的值
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 3
+==================================================
+

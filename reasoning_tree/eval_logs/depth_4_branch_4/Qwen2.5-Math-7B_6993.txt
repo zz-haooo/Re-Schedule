@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6993
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Using each of the eight digits $1,3,4,5,6,7,8$ and $9$ exactly once, a three-digit number $A$, two two-digit numbers $B$ and $C$, $B<C$, and a one digit number $D$ are formed. The numbers are such that $A+D=B+C=143$. In how many ways can this be done?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

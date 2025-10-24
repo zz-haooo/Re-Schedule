@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2333
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$DEB$ is a chord of a circle such that $DE=3$ and $EB=5$. Let $O$ be the center of the circle. Join $OE$ and extend $OE$ to cut the circle at $C$. Given $EC=1$, find the radius of the circle.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8320
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In quadrilateral $ABCD,$ $AB = 5,$ $BC = 8$, and $CD = 20$ units. Angle $B$ and angle $C$ are both right angles. What is the length of segment $AD$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

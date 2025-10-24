@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17165
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three mutually tangent spheres of radius \(1\) rest on a horizontal plane. A sphere of radius \(2\) rests on them. Find the distance from the plane to the top of the larger sphere, expressed in the form \(3 + \frac{\sqrt{x}}{y}\). Please find the value of \(x + y\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 72
+==================================================
+

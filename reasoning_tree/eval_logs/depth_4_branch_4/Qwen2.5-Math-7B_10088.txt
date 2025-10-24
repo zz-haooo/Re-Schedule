@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10088
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A 5x5x5 cube is formed by assembling 125 unit cubes. Nine unit squares are painted on each of the six faces of the cube according to the pattern shown. How many of the 125 unit cubes have no paint on them? [asy]
+fill((2,0)--(3,0)--(3,5)--(2,5)--cycle,gray(.7));
+fill((0,2)--(0,3)--(5,3)--(5,2)--cycle,gray(.7));
+path p=(0,0)--(5,0);
+
+draw(p,linewidth(1));
+draw(shift(0,1)*p,linewidth(1));
+draw(shift(0,2)*p,linewidth(1));
+draw(shift(0,3)*p,linewidth(1));
+draw(shift(0,4)*p,linewidth(1));
+draw(shift(0,5)*p,linewidth(1));
+
+draw((0,0)--(0,5),linewidth(1));
+draw((1,0)--(1,5),linewidth(1));
+draw((2,0)--(2,5),linewidth(1));
+draw((3,0)--(3,5),linewidth(1));
+draw((4,0)--(4,5),linewidth(1));
+draw((5,0)--(5,5),linewidth(1));
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 83
+==================================================
+

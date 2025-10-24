@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14363
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A semi-palindrome is a four-digit number whose first two digits and last two digits are identical. For instance, $2323$ and $5757$ are semi-palindromes, but $1001$ and $2324$ are not. Find the difference between the largest semi-palindrome and the smallest semi-palindrome.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8989
+==================================================
+

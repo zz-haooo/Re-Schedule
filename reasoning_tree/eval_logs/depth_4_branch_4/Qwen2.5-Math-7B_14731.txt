@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14731
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$K$ takes 30 minutes less time than $M$ to travel a distance of 30 miles. $K$ travels $\frac{1}{3}$ mile per hour faster than $M$. If $x$ is $K$'s rate of speed in miles per hour, find $K$'s time for the distance in hours. The original answer is in the form \(\frac{k}{x}\), please give the value of \(k\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

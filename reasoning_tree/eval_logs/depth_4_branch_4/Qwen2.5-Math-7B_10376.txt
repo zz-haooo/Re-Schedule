@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10376
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $z_1,$ $z_2,$ $z_3$ be complex numbers such that $|z_1| = 2,$ $|z_2| = 3,$ and $|z_3| = 4.$  Find the largest possible value of
+\[|z_1 - z_2|^2 + |z_1 - z_3|^2 + |z_2 - z_3|^2.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 87
+==================================================
+

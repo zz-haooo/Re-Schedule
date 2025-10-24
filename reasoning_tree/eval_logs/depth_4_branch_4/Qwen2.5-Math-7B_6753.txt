@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6753
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The height of a cylindrical pole is 12 feet and its circumference is 2 feet. A rope is attached to a point on the circumference at the bottom of the pole. The rope is then wrapped tightly around the pole four times before it reaches a point on the top directly above the starting point at the bottom. What is the minimum number of feet in the length of the rope? Express your answer in simplest radical form.The answer is in the form k\sqrt{m}+n,. Please provide the value of k + m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

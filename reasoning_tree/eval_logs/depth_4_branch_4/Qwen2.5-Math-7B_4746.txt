@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4746
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Garfield and Odie are situated at $(0,0)$ and $(25,0)$, respectively. Suddenly, Garfield and Odie dash in the direction of the point $(9, 12)$ at speeds of $7$ and $10$ units per minute, respectively. During this chase, the minimum distance between Garfield and Odie can be written as $\frac{m}{\sqrt{n}}$ for relatively prime positive integers $m$ and $n$. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 159
+==================================================
+

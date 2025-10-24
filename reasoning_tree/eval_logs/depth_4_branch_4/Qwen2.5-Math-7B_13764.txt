@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13764
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be a positive integer. Two players $A$ and $B$ play a game in which they take turns choosing positive integers $k\leqslant n.$ The rules of the game are: $(i)$ $A$ player cannot choose a number that has been chosen by either player on any previous turn. $(ii)$ $A$ player cannot choose a number consecutive to any of those the player has already chosen on any previous turn. $(iii)$ The game is a draw if all numbers have been chosen; otherwise the player who cannot choose a number anymore loses the game. The player $A$ takes the first turn. Determine the sum of all $n$ for which the game ends in a draw, assuming that both players use optimal strategies.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

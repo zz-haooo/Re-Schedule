@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1816
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $14$ players participating in a chess tournament, each playing one game with every other player. After the tournament, players are ranked in descending order based on their points. The sum of the points of the first three players is equal to the sum of the points of the last nine players. What is the highest possible number of draws in the tournament? (For a victory, a player gets $1$ point, for a loss $0$ points, and in a draw, both players get $0.5$ points.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

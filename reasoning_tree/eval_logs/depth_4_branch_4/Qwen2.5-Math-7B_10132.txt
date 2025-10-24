@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10132
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+I had been planning to work for 20 hours a week for 12 weeks this summer to earn $\$3000$ to buy a used car. Unfortunately, I got sick for the first two weeks of the summer and didn't work any hours. How many hours a week will I have to work for the rest of the summer if I still want to buy the car?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

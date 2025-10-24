@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6573
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Define $L(x) = x - \frac{x^2}{2}$ for every real number $x$.  If $n$ is a positive integer, define $a_n$ by
+\[
+  a_n = L \Bigl( L \Bigl( L \Bigl( \cdots L \Bigl( \frac{17}{n} \Bigr) \cdots \Bigr) \Bigr) \Bigr),
+\]where there are $n$ iterations of $L$.  For example,
+\[
+  a_4 = L \Bigl( L \Bigl( L \Bigl( L \Bigl( \frac{17}{4} \Bigr) \Bigr) \Bigr) \Bigr).
+\]As $n$ approaches infinity, what value does $n a_n$ approach?The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 53
+==================================================
+

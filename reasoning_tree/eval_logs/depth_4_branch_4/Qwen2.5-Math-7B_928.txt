@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 928
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle with side lengths $AB=6$, $AC=7$, and $BC=8$. Let $H$ be the orthocenter of $\triangle ABC$ and $H'$ be the reflection of $H$ across the midpoint $M$ of $BC$. The expression $\frac{[ABH']}{[ACH']}$ can be written as $\frac{p}{q}$. Find $p+q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 251
+==================================================
+

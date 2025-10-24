@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7676
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are n lilypads in a row labeled $1, 2, \dots, n$ from left to right. Fareniss the Frog picks a lilypad at random to start on, and every second she jumps to an adjacent lilypad; if there are two such lilypads, she is twice as likely to jump to the right as to the left. After some finite number of seconds, there exists two lilypads $A$ and $B$ such that Fareniss is more than $1000$ times as likely to be on $A$ as she is to be on $B$. What is the minimal number of lilypads $n$ such that this situation must occur?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

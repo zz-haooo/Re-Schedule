@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7035
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A combination lock has a $3$ number combination, with each number an integer between $0$ and $39$ inclusive. Call the numbers $n_1$, $n_2$, and $n_3$. If you know that $n_1$ and $n_3$ leave the same remainder when divided by $4$, and $n_2$ and $n_1 + 2$ leave the same remainder when divided by $4$, how many possible combinations are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4000
+==================================================
+

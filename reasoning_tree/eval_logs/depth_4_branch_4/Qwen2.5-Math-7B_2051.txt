@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2051
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(n)$ be the integer closest to $\sqrt{n}$. Compute the largest $N$ less than or equal to $2018$ such that $\sum_{i=1}^N\frac{1}{f(i)}$ is integral.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1980
+==================================================
+

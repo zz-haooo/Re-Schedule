@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3376
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(x) = \sin(\sin(x))$. Evaluate:
+\[
+\lim_{h \to 0} \frac{f(x+h) - f(h)}{x}
+\] at $x = \pi$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

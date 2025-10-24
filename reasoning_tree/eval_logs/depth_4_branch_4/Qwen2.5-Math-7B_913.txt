@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 913
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Bob, a spherical person, is floating around peacefully when Dave the giant orange fish launches him straight up at 23 m/s with his tail. If Bob has a density of 100 $\text{kg/m}^3$, let $f(r)$ denote how far underwater his center of mass plunges once he lands, assuming his center of mass was at water level when he's launched up. Find $\lim_{r \to 0} \left(f(r)\right)$. Express your answer in meters and round to the nearest integer. Assume the density of water is 1000 $\text{kg/m}^3$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

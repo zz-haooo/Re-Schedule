@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12884
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f$ be a function on $[0,\infty)$, differentiable and satisfying  $$f'(x)=-3f(x)+6f(2x)$$  for $x>0.$ Assume that $|f(x)|\leqslant e^{-\sqrt{x}}$ for $x\geqslant0$ (so that $f(x)$ tends rapidly to 0 as  $x$ increases). For $n$ a non-negative integer, define  $$\mu_n=\int_0^\infty x^nf(\:x\:)\:dx$$  (sometimes called the nth moment of $f).$  a. Express $\mu_n$ in terms of $\mu_0.$ Given that $n = 1$, please provide the value of m + n where the expression is in the format \(\frac{m}{n}\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 908
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $2022$ stones on a table. At the start of the game, Teacher Tseng will choose a positive integer $m$ and let Ming and LTF play a game. LTF is the first to move, and he can remove at most $m$ stones on his round. Then the two players take turns removing stones. Each round, they must remove at least one stone, and they cannot remove more than twice the amount of stones the last person removed. The player unable to move loses. Find the smallest positive integer $m$ such that LTF has a winning strategy.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

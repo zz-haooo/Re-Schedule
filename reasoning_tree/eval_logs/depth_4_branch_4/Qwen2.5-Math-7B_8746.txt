@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8746
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $S$ denote the value of the sum\[\sum_{n=0}^{668} (-1)^{n} {2004 \choose 3n}\]Determine the remainder obtained when $S$ is divided by $1000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

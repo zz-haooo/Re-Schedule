@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10782
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the polygon shown, each side is perpendicular to its adjacent sides, and all 28 of the sides are congruent.  The perimeter of the polygon is 56.  Find the area of the polygon.
+
+[asy]
+unitsize(0.5 cm);
+
+draw((3,0)--(4,0)--(4,1)--(5,1)--(5,2)--(6,2)--(6,3)--(7,3)--(7,4)--(6,4)--(6,5)--(5,5)--(5,6)--(4,6)--(4,7)--(3,7)--(3,6)--(2,6)--(2,5)--(1,5)--(1,4)--(0,4)--(0,3)--(1,3)--(1,2)--(2,2)--(2,1)--(3,1)--cycle);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

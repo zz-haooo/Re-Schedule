@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 862
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(n)$ be a function defined on the set of all positive integers and having its values in the same set. Suppose that $f(f(n) + f(m)) = m + n$ for all positive integers $n, m$. Find the possible value for $f(1988)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1988
+==================================================
+

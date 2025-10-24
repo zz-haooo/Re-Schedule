@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13851
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On an $m × n$ rectangular piece of graph paper there are several squares whose sides are on the vertical and horizontal lines of the paper. It is known that no two squares coincide and no square is situated inside another one. What is the maximal number of such squares? Please provide the value when $m=3,n=4$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

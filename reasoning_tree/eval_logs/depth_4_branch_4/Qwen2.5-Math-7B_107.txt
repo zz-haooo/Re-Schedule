@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 107
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the country Máxico, there are two islands: the island "Mayor" and the island "Menor". The island "Mayor" has $k > 3$ states, with exactly $n > 3$ cities in each state. The island "Menor" has only one state with $31$ cities. "Aeropapantla" and "Aerocenzontle" are the airlines that offer flights in Máxico. "Aeropapantla" offers direct flights from every city in Máxico to any other city in Máxico. "Aerocenzontle" only offers direct flights from every city on the island "Mayor" to any other city on the island "Mayor".
+
+If the percentage of flights that connect two cities in the same state is the same for the flights of each airline, what is the least number of cities that can be on the island "Mayor"?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 65
+==================================================
+

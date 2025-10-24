@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5647
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The number
+
+$\frac 2{\log_4{2000^6}} + \frac 3{\log_5{2000^6}}$
+can be written as $\frac mn$ where $m$ and $n$ are relatively prime positive integers.  Find $m + n$.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

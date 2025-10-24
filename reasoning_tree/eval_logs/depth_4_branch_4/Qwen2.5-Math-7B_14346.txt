@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14346
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A man can commute either by train or by bus. If he goes to work on the train in the morning, he comes home on the bus in the afternoon; and if he comes home in the afternoon on the train, he took the bus in the morning. During a total of $x$ working days, the man took the bus to work in the morning 8 times, came home by bus in the afternoon 15 times, and commuted by train (either morning or afternoon) 9 times. Find the total number of working days $x$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

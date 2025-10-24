@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5243
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A number is considered *interesting* if it meets the following criteria:
+
+1. It is a $6$-digit integer.
+2. It contains no zeros.
+3. The first $3$ digits are strictly increasing.
+4. The last $3$ digits are non-increasing.
+
+What is the average of all interesting numbers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 308253
+==================================================
+

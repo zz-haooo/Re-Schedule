@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3028
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $S$ be the set of all pairs of positive integers $(x, y)$ for which $2x^2 + 5y^2 \le 5 + 6xy$. Compute $\displaystyle\sum_{(x,y) \in S} (x+y+100)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 839
+==================================================
+

@@ -1,0 +1,37 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3401
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the distance $\overline{CF}$ in the diagram below where $ABDE$ is a square, and angles and lengths are as given:
+
+\[\text{[asy]}\]
+\[\text{markscalefactor=0.15;}\]
+\[\text{size(8cm);}\]
+\[\text{pair A = (0,0);}\]
+\[\text{pair B = (17,0);}\]
+\[\text{pair E = (0,17);}\]
+\[\text{pair D = (17,17);}\]
+\[\text{pair F = (-120/17,225/17);}\]
+\[\text{pair C = (17+120/17, 64/17);}\]
+\[\text{draw(A--B--D--E--cycle^^E--F--A--cycle^^D--C--B--cycle);}\]
+\[\text{label("$A$", A, S);}\]
+\[\text{label("$B$", B, S);}\]
+\[\text{label("$C$", C, dir(0));}\]
+\[\text{label("$D$", D, N);}\]
+\[\text{label("$E$", E, N);}\]
+\[\text{label("$F$", F, W);}\]
+\[\text{label("$8$", (F+E)/2, NW);}\]
+\[\text{label("$15$", (F+A)/2, SW);}\]
+\[\text{label("$8$", (C+B)/2, SE);}\]
+\[\text{label("$15$", (D+C)/2, NE);}\]
+\[\text{draw(rightanglemark(E,F,A));}\]
+\[\text{draw(rightanglemark(D,C,B));}\]
+\[\text{[/asy]}\]
+
+The length $\overline{CF}$ is of the form $a\sqrt{b}$ for integers $a, b$ such that no integer square greater than $1$ divides $b$. What is $a + b$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 25
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2993
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, points $D$ and $E$ lie on the interior of segments $AB$ and $AC$, respectively, such that $AD = 1$, $DB = 2$, $BC = 4$, $CE = 2$, and $EA = 3$. Let $DE$ intersect $BC$ at $F$. Determine the length of $CF$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

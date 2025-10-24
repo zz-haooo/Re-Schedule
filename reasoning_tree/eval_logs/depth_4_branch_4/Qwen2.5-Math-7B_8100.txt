@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8100
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of three-element subsets of $\{1, 2, 3,...,13\}$ that contain at least one element that is a multiple of $2$, at least one element that is a multiple of $3$, and at least one element that is a multiple of $5$ such as $\{2,3, 5\}$ or $\{6, 10,13\}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 63
+==================================================
+

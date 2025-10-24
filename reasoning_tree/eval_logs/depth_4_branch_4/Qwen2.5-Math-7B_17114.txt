@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17114
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A large equilateral triangle is constructed by using toothpicks to create rows of small equilateral triangles. For example, in the figure, we have $3$ rows of small congruent equilateral triangles, with $5$ small triangles in the base row. How many toothpicks would be needed to construct a large equilateral triangle if the base row of the triangle consists of $2003$ small equilateral triangles? Provide your answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1507509
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4160
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $1000 \leq n = \text{ABCD}_{10} \leq 9999$ be a positive integer whose digits $\text{ABCD}$ satisfy the divisibility condition: $$1111 \mid (\text{ABCD} + \text{AB} \times \text{CD}).$$ Determine the smallest possible value of $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1729
+==================================================
+

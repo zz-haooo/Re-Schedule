@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16705
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a convex quadrilateral such that $m (\widehat{ADB}) = 15^{\circ}$ and $m (\widehat{BCD}) = 90^{\circ}$. The diagonals of the quadrilateral are perpendicular at $E$. Let $P$ be a point on $|AE|$ such that $|EC| = 4$, $|EA| = 8$, and $|EP| = 2$. If the answer is $x^\circ$, what is the value of $x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 75
+==================================================
+

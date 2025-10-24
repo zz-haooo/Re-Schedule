@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1502
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Start with an angle of $60^\circ$ and bisect it, then bisect the lower $30^\circ$ angle, then the upper $15^\circ$ angle, and so on, always alternating between the upper and lower of the previous two angles constructed. This process approaches a limiting line that divides the original $60^\circ$ angle into two angles. Find the measure (degrees) of the smaller angle.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

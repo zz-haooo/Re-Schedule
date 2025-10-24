@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6336
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $(a_1,b_1),$ $(a_2,b_2),$ $\dots,$ $(a_n,b_n)$ be the ordered pairs $(a,b)$ of real numbers such that the polynomial
+\[p(x) = (x^2 + ax + b)^2 +a(x^2 + ax + b) - b\]has exactly one real root and no nonreal complex roots.  Find $a_1 + b_1 + a_2 + b_2 + \dots + a_n + b_n.$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

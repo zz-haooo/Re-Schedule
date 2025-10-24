@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2007
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows a triangle divided into sections by three horizontal lines, which divide the altitude of the triangle into four equal parts, and three lines connecting the top vertex with points that divide the opposite side into four equal parts. If the shaded region has an area of $100$, find the area of the entire triangle.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 640
+==================================================
+

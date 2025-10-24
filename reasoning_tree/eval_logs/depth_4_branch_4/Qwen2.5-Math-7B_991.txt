@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 991
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jonathan has a magical coin machine that accepts coins in amounts of $7$, $8$, and $9$. If he puts in $7$ coins, he gets $3$ coins back; if he puts in $8$, he gets $11$ back; and if he puts in $9$, he gets $4$ back. The coin machine does not allow two entries of the same amount to happen consecutively. Starting with $15$ coins, what is the minimum number of entries he can make to end up with $4$ coins?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

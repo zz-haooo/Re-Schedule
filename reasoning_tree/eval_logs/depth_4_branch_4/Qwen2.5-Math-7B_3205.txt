@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3205
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The first number in the following sequence is $1$. It is followed by two $1$'s and two $2$'s. This is followed by three $1$'s, three $2$'s, and three $3$'s. The sequence continues in this fashion:
+\[1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 3, 3, 3, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, \dots\]
+Find the $2014$th number in this sequence.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

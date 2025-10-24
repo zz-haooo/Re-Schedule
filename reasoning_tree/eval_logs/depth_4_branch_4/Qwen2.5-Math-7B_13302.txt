@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13302
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We call a sequence of $n$ digits one or zero a code. Subsequence of a code is a palindrome if it is the same after we reverse the order of its digits. A palindrome is called nice if its digits occur consecutively in the code. (Code (1101) contains 10 palindromes, of which 6 are nice.)  
+What is the least number of palindromes in a code when $n=3$? 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

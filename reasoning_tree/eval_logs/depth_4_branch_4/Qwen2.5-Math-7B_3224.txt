@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3224
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Andy has 2010 square tiles, each with a side length of one unit. He plans to arrange the tiles in an $m \times n$ rectangle, where $mn = 2010$. Compute the sum of the perimeters of all the different possible rectangles he can make. Two rectangles are considered the same if one can be rotated to become the other. For example, a $1 \times 2010$ rectangle is considered the same as a $2010 \times 1$ rectangle.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9792
+==================================================
+

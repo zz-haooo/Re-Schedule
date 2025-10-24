@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7270
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Rachel has the number $1000$ in her hands. When she puts the number $x$ in her left pocket, the number changes to $x+1.$ When she puts the number $x$ in her right pocket, the number changes to $x^{-1}.$ Each minute, she flips a fair coin. If it lands heads, she puts the number into her left pocket, and if it lands tails, she puts it into her right pocket. She then takes the new number out of her pocket. If the expected value of the number in Rachel's hands after eight minutes is $E,$ compute $\left\lfloor\frac{E}{10}\right\rfloor.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9458
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a$ and $b$ be constants. Suppose that the equation \[\frac{(x+a)(x+b)(x+12)}{(x+3)^2} = 0\]has exactly $3$ distinct roots, while the equation \[\frac{(x+2a)(x+3)(x+6)}{(x+b)(x+12)} = 0\]has exactly $1$ distinct root. Compute $100a + b.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 156
+==================================================
+

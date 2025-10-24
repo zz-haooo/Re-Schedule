@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15008
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Monica is tiling the floor of her $12$-foot by $16$-foot living room. She plans to place one-foot by one-foot square tiles to form a border along the edges of the room and to fill in the rest of the floor with two-foot by two-foot square tiles. How many tiles will she use in total?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 87
+==================================================
+

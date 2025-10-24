@@ -1,0 +1,36 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6347
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Cube $ABCDEFGH,$ labeled as shown below, has edge length $1$ and is cut by a plane passing through vertex $D$ and the midpoints $M$ and $N$ of $\overline{AB}$ and $\overline{CG}$ respectively. The plane divides the cube into two solids.  Find the volume of the larger of the two solids.
+
+[asy]
+import cse5;
+unitsize(8mm);
+pathpen=black;
+pair A = (0,0), B = (3.8,0), C = (5.876,1.564), D = (2.076,1.564), E = (0,3.8), F = (3.8,3.8), G = (5.876,5.364), H = (2.076,5.364), M = (1.9,0), N = (5.876,3.465);
+pair[] dotted = {A,B,C,D,E,F,G,H,M,N};
+D(A--B--C--G--H--E--A);
+D(E--F--B);
+D(F--G);
+pathpen=dashed;
+D(A--D--H);
+D(D--C);
+dot(dotted);
+label("$A$",A,SW);
+label("$B$",B,S);
+label("$C$",C,SE);
+label("$D$",D,NW);
+label("$E$",E,W);
+label("$F$",F,SE);
+label("$G$",G,NE);
+label("$H$",H,NW);
+label("$M$",M,S);
+label("$N$",N,NE);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 89
+==================================================
+

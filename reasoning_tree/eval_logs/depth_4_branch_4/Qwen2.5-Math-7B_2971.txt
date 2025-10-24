@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2971
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An alien from the planet OMO Centauri writes the first ten prime numbers in arbitrary order as $U$, $W$, $XW$, $ZZ$, $V$, $Y$, $ZV$, $ZW$, $ZY$, and $X$. Each letter represents a nonzero digit. Each letter represents the same digit everywhere it appears, and different letters represent different digits. Also, the alien is using a base other than base ten. The alien writes another number as $UZWX$. Compute this number (expressed in base ten, with the usual, human digits).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5390
+==================================================
+

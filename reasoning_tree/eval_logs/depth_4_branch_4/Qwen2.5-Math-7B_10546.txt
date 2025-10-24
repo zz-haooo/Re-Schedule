@@ -1,0 +1,28 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10546
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the magic square shown, the sums of the numbers in each row, column, and diagonal are the same. Five of these numbers are represented by $v$, $w$, $x$, $y$, and $z$. Find $y+z$.
+
+[asy]
+path a=(0,0)--(1,0)--(1,1)--(0,1)--cycle;
+for (int i=0; i<3; ++i) {
+for (int j=0; j<3; ++j) {
+draw(shift((i,j))*a);
+};}
+label("25",(0.5,0.3),N);
+label("$z$",(1.5,0.3),N);
+label("21",(2.5,0.3),N);
+label("18",(0.5,1.3),N);
+label("$x$",(1.5,1.3),N);
+label("$y$",(2.5,1.3),N);
+label("$v$",(0.5,2.3),N);
+label("24",(1.5,2.3),N);
+label("$w$",(2.5,2.3),N);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 46
+==================================================
+

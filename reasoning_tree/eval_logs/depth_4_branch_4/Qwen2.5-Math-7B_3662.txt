@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3662
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Mr. DoBa likes to listen to music occasionally while he does his math homework. When he listens to classical music, he solves one problem every $3$ minutes. When he listens to rap music, however, he only solves one problem every $5$ minutes. Mr. DoBa listens to a playlist comprised of $60\%$ classical music and $40\%$ rap music. Each song is exactly $4$ minutes long. Suppose that the expected number of problems he solves in an hour does not depend on whether or not Mr. DoBa is listening to music at any given moment, and let $m$ be the average number of problems Mr. DoBa solves per minute when he is not listening to music. Determine the value of $1000m$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 280
+==================================================
+

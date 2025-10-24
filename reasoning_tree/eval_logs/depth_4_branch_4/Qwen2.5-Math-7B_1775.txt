@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1775
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A caretaker is giving candy to his two babies. Every minute, he gives a candy to one of his two babies at random. The five possible moods for the babies to be in, from saddest to happiest, are "upset," "sad," "okay," "happy," and "delighted." A baby gets happier by one mood when they get a candy and gets sadder by one mood when the other baby gets one. Both babies start at the "okay" state, and a baby will start crying if they don't get a candy when they're already "upset".
+
+The probability that 10 minutes pass without either baby crying can be expressed as $\frac{p}{q}$. Compute $p+q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 337
+==================================================
+

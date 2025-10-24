@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5383
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For each positive integer $k$, denote $C(k)$ as the sum of its distinct prime divisors. For example, $C(1) = 0$, $C(2) = 2$, and $C(45) = 8$. Find all positive integers $n$ for which $C(2^n + 1) = C(n)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17069
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle \(ABC\), side \(AC\) and the perpendicular bisector of \(BC\) meet at point \(D\), and \(BD\) bisects \(\angle ABC\). If \(AD=9\) and \(DC=7\), what is the area of triangle \(ABD\)? The original answer is in the form \(k\sqrt{m}\). Please provide the value of \(k + m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1097
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+To celebrate $2019$, Faraz gets four sandwiches shaped in the digits $2$, $0$, $1$, and $9$ at lunch. However, the four digits get reordered (but not flipped or rotated) on his plate, and he notices that they form a $4$-digit multiple of $7$. What is the greatest possible number that could have been formed?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1092
+==================================================
+

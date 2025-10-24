@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8267
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In $\triangle ABC$ let point $D$ be the foot of the altitude from $A$ to $BC.$ Suppose that $\angle A = 90^{\circ}, AB - AC = 5,$ and $BD - CD = 7.$ Find the area of $\triangle ABC.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 150
+==================================================
+

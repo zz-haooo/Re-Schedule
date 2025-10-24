@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3841
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_1 < a_2 < \cdots < a_k$ denote the sequence of all positive integers between $1$ and $91$ which are relatively prime to $91$, and set $\omega = e^{2\pi i/91}$. Define \[S = \prod_{1\leq q < p\leq k}(\omega^{a_p} - \omega^{a_q}).\] Given that $S$ is a positive integer, compute the number of positive divisors of $S$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1054
+==================================================
+

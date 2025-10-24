@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3741
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Xonathan Jue goes to the casino with exactly $1000. Each week, he has a $\frac{1}{3}$ chance of breaking even and a $\frac{2}{3}$ chance of losing $500. Evaluate the expected amount of weeks before he loses everything.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

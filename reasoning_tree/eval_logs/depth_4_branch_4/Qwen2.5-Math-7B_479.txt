@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 479
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There is a square of checkered paper measuring $102 \times 102$ squares and a connected figure of unknown shape, consisting of 101 cells. What is the largest number of such figures that can be cut from this square with a guarantee? A figure made up of cells is called connected if any two of its cells can be connected by a chain of its cells in which any two adjacent cells have a common side.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 102
+==================================================
+

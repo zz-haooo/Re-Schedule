@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2096
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the maximum positive integer $k$ such that for any positive integers $m,n$ where $m^3+n^3>(m+n)^2$, we have:
+\[
+m^3+n^3\geq (m+n)^2+k
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

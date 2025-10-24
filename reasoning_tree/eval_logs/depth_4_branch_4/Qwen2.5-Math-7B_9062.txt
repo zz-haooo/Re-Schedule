@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9062
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Evaluate $\sqrt{3\cdot6\cdot10\cdot15\cdot21\cdot28}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1260
+==================================================
+

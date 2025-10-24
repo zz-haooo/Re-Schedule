@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2634
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many solutions does the equation:
+$$\left\lfloor \frac{x}{20} \right\rfloor = \left\lfloor \frac{x}{17} \right\rfloor$$
+have over the set of positive integers?
+
+$\left\lfloor a \right\rfloor$ denotes the largest integer that is less than or equal to $a$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 56
+==================================================
+

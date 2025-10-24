@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14291
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sequence \(\{a_n\}\) is defined as follows: \[ a_n = \sqrt{1 + \left(1 + \frac{1}{n} \right)^2} + \sqrt{1 + \left(1 - \frac{1}{n} \right)^2}. \] Calculate the value of the expression given below: \[ \frac{4}{a_1} + \frac{4}{a_2} + \dots + \frac{4}{a_{96}}. \] The original answer is in the form \(\sqrt{m} - 1\). Please provide the sum of the integer part of \(\sqrt{m}\) and 1.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 137
+==================================================
+

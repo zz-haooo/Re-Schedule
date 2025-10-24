@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13370
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p$ be a prime number and let $k$ be a positive integer. Suppose that the numbers $a_{i}=i^{k}+i$ for $i=0,1, \\ldots, p-1$ form a complete residue system modulo $p$. What is the set of possible remainders of $a_{2}$ upon division by $p$? Please provide the sum of all possible remainders.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

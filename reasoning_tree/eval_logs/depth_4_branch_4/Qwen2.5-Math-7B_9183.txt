@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9183
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ has side lengths $AB=120,BC=220$, and $AC=180$. Lines $\ell_A,\ell_B$, and $\ell_C$ are drawn parallel to $\overline{BC},\overline{AC}$, and $\overline{AB}$, respectively, such that the intersections of $\ell_A,\ell_B$, and $\ell_C$ with the interior of $\triangle ABC$ are segments of lengths $55,45$, and $15$, respectively. Find the perimeter of the triangle whose sides lie on lines $\ell_A,\ell_B$, and $\ell_C$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 715
+==================================================
+

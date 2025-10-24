@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8530
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Below is a portion of the graph of an invertible function, $y=f(x)$:
+
+[asy]
+import graph; size(8cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-3.25,xmax=3.25,ymin=-6.25,ymax=7.25;
+
+pen cqcqcq=rgb(0.75,0.75,0.75);
+
+/*grid*/ pen gs=linewidth(0.7)+cqcqcq+linetype("2 2"); real gx=1,gy=1;
+for(real i=ceil(xmin/gx)*gx;i<=floor(xmax/gx)*gx;i+=gx) draw((i,ymin)--(i,ymax),gs); for(real i=ceil(ymin/gy)*gy;i<=floor(ymax/gy)*gy;i+=gy) draw((xmin,i)--(xmax,i),gs);
+
+Label laxis; laxis.p=fontsize(10);
+
+xaxis("",xmin,xmax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); yaxis("",ymin,ymax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true);
+real f1(real x){return (x-2)*(x)*(x+1)/6+x+2;}
+draw(graph(f1,-3.25,3.25),linewidth(1));
+clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle);
+label("$y=f(x)$",(3.5,0.6),E);
+[/asy]
+
+If $f(a)=b$ and $f(b)=4$, then what is the value of $a-b$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -2
+==================================================
+

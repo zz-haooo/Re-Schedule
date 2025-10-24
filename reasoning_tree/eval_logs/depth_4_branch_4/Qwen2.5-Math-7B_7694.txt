@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7694
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A Princeton slot machine has $100$ pictures, each equally likely to occur. One is a picture of a tiger. Alice and Bob independently use the slot machine, and each repeatedly makes independent plays. Alice keeps playing until she sees a tiger, at which point she stops. Similarly, Bob keeps playing until he sees a tiger. Given that Bob plays twice as much as Alice, let the expected number of plays for Alice be $\tfrac{a}{b}$ with $a, b$ relatively prime positive integers. Find the remainder when $a + b$ is divided by $1000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 701
+==================================================
+

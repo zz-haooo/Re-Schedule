@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9328
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A gardener plants three maple trees, four oaks, and five birch trees in a row. He plants them in random order, each arrangement being equally likely. Let $\frac m n$ in lowest terms be the probability that no two birch trees are next to one another. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 106
+==================================================
+

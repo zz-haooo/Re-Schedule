@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3994
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the grid of numbers shown below:
+\[
+\begin{array}{ccccc}
+20 & 01 & 96 & 56 & 16 \\
+37 & 48 & 38 & 64 & 60 \\
+96 & 97 & 42 & 20 & 98 \\
+35 & 64 & 96 & 40 & 71 \\
+50 & 58 & 90 & 16 & 89 \\
+\end{array}
+\]
+Among all paths that start on the top row, move only left, right, and down, and end on the bottom row, what is the minimum sum of their entries?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 196
+==================================================
+

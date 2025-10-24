@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2796
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+One test is a multiple choice test with $5$ questions, each having $4$ options. There are $2000$ candidates, each choosing only one answer for each question. Find the smallest possible integer $n$ such that a student's answer sheet, labeled $n$, has the following property: The answer sheet contains four sheets, and any two of these four sheets have exactly the same three answers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

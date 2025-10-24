@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10532
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f : \mathbb{C} \to \mathbb{C} $ be defined by $ f(z) = z^2 + iz + 1 $. How many complex numbers $z $ are there such that $ \text{Im}(z) > 0 $ and both the real and the imaginary parts of $f(z)$ are integers with absolute value at most $ 10 $?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 399
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4447
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a party of $2020$ people, some pairs of people are friends. We define a person's popularity as the size of the largest group of people in the party containing them such that every pair of people in that group are friends. A person has a popularity number of $1$ if they have no friends. What is the largest possible number of distinct popularities in the party?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1010
+==================================================
+

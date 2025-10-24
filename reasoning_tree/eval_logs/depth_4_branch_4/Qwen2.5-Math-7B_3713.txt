@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3713
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f_0(x) = x$, and for each $n \geq 0$, let $f_{n+1}(x) = f_n(x^2(3-2x))$. Find the smallest real number that is at least as large as \[ \sum_{n=0}^{2017} f_n(a) + \sum_{n=0}^{2017} f_n(1-a) \] for all $a \in [0,1]$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2018
+==================================================
+

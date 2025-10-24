@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7753
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For a positive integer $n,$ let $P_n$ be the set of sequences of $2n$ elements, each $0$ or $1,$ where there are exactly $n$ $1$’s and $n$ $0$’s. I choose a sequence uniformly at random from $P_n.$ Then, I partition this sequence into maximal blocks of consecutive $0$’s and $1$’s. Define $f(n)$ to be the expected value of the sum of squares of the block lengths of this uniformly random sequence. What is the largest integer value that $f(n)$ can take on?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 121
+==================================================
+

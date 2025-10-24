@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2479
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider a random permutation of the set $\{1, 2, \ldots, 2015\}$. In other words, for each $1 \le i \le 2015$, $i$ is sent to the element $a_i$ where $a_i \in \{1, 2, \ldots, 2015\}$ and if $i \neq j$, then $a_i \neq a_j$. What is the expected number of ordered pairs $(a_i, a_j)$ with $i - j > 155$ and $a_i - a_j > 266$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 651222
+==================================================
+

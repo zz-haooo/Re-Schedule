@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5073
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The function $f(x)$ is defined on the reals such that \( f\left(\frac{1-4x}{4-x}\right) = 4-xf(x) \) for all \( x \neq 4 \). There exist two distinct real numbers \( a, b \neq 4 \) such that \( f(a) = f(b) = \frac{5}{2} \). The sum \( a+b \) can be represented as \( \frac{p}{q} \) where \( p, q \) are relatively prime positive integers. Find \( 10p + q \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 180
+==================================================
+

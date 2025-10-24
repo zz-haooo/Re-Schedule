@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3327
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $P(x)$ be the unique polynomial of degree four for which $P(165) = 20$, and \[ P(42) = P(69) = P(96) = P(123) = 13. \] Compute $P(1) - P(2) + P(3) - P(4) + \dots + P(165)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

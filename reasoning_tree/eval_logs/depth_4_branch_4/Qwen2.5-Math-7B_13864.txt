@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13864
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A fly is flying inside a regular tetrahedron with side a. The shortest distance for the fly to fly over every face and return to the initial position is $\frac{a}{\sqrt{m}}$. Find the value of $m$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14768
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are four more girls than boys in Ms. Raub's class of $28$ students. What is the ratio of the number of girls to the number of boys in her class? Provide your answer in the form of $a : b$, and then find the value of $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

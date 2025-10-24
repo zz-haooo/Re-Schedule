@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2969
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram of rectangles below, with lengths as labeled, let $A$ be the area of the rectangle labeled $A$, and so on. Find $36A + 6B + C + 6D$.
+
+\[
+\text{[asy]}
+\text{size(3cm);}
+\text{real[]} A = \{0,8,13\};
+\text{real[]} B = \{0,7,12\};
+
+\text{for (int i = 0; i < 3; ++i) \{}
+    \text{draw((A[i],0)--(A[i],-B[2]));}
+    \text{draw((0,-B[i])--(A[2],-B[i]));}
+\}
+
+\text{label("8", (4,0), N);}
+\text{label("5", (10.5,0),N);}
+\text{label("7", (0,-3.5),W);}
+\text{label("5", (0,-9.5),W);}
+
+\text{label("$A$", (4,-3.5));}
+\text{label("$B$", (10.5,-3.5));}
+\text{label("$C$", (10.5,-9.5));}
+\text{label("$D$", (4,-9.5));}
+\text{[/asy]}
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2491
+==================================================
+

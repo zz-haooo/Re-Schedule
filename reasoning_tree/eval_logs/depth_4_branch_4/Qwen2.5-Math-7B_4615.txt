@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4615
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+After moving his sticky toy spider one morning, Tony heads outside to play "pirates" with his pal Nick, who lives a few doors down the street from the Kubiks. Tony and Nick imagine themselves as pirates in a rough skirmish over a chest of gold. Victorious over their foes, Tony and Nick claim the prize. However, they must split some of the gold with their crew, which they imagine consists of eight other bloodthirsty pirates. Each of the pirates receives at least one gold coin, but none receive the same number of coins, then Tony and Nick split the remainder equally. If there are $2000$ gold coins in the chest, what is the greatest number of gold coins Tony could take as his share? (Assume each gold coin is equally valuable.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 982
+==================================================
+

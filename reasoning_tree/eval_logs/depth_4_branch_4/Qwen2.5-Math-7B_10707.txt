@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10707
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given that $13^{-1} \equiv 29 \pmod{47}$, find $34^{-1} \pmod{47}$, as a residue modulo 47.  (Give a number between 0 and 46, inclusive.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

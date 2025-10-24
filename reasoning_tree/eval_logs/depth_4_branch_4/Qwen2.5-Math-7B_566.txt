@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 566
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the sum of the two smallest possible values of $x^\circ$ (in degrees) that satisfy the following equation if $x$ is greater than $2017^\circ$:  
+\[ 
+\cos^5(9x) + \cos^5(x) = 32\cos^5(5x)\cos^5(4x) + 5\cos^2(9x)\cos^2(x)(\cos(9x) + \cos(x)). 
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4064
+==================================================
+

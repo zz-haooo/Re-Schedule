@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17000
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A charity sells $140$ benefit tickets for a total of $＄2001$. Some tickets sell for full price (a whole dollar amount), and the rest sells for half price. How much money, in dollars, is raised by the full-price tickets? Please provide your answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 782
+==================================================
+

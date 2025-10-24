@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7744
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+6. Let $f(p)$ denote the number of ordered tuples $\left(x_{1}, x_{2}, \ldots, x_{p}\right)$ of nonnegative integers satisfying $\sum_{i=1}^{p} x_{i}=2022$, where $x_{i} \equiv i(\bmod p)$ for all $1 \leq i \leq p$. Find the remainder when $\sum_{p \in \mathcal{S}} f(p)$ is divided by 1000, where $\mathcal{S}$ denotes the set of all primes less than 2022 .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 475
+==================================================
+

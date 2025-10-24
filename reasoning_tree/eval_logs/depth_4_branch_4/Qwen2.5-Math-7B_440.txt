@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 440
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_1 < a_2 < a_3 < \ldots < a_n < \ldots$ be positive integers such that, for $n = 1, 2, 3, \ldots,$  
+\[ a_{2n} = a_n + n. \]  
+Given that if $a_n$ is prime, then $n$ is also, find $a_{2014}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2014
+==================================================
+

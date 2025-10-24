@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15664
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Joe is right at the middle of a train tunnel and he realizes that a train is coming. The train travels at a speed of $50$ miles per hour, and Joe can run at a speed of $10$ miles per hour. Joe hears the train whistle when the train is a half mile from the point where it will enter the tunnel. At that point in time, Joe can run toward the train and just exit the tunnel as the train meets him. Instead, Joe runs away from the train when he hears the whistle. If the number of seconds he has to spare when he gets to the tunnel entrance is $x$, find the value of $10x$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 144
+==================================================
+

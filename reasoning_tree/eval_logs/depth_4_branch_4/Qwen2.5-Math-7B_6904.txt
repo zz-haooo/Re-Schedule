@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6904
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sequence of numbers $a_1,$ $a_2,$ $a_3,$ $a_4,$ $\dots,$ has the property that each term after the first is one less than the product of its two neighbors.  If $a_1 = 1492$ and $a_2 = 1776,$ then determine $a_{2003}.$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3269
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2644
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $AX$ be a diameter of a circle $\Omega$ with radius $10$, and suppose that $C$ lies on $\Omega$ so that $AC = 16$. Let $D$ be the other point on $\Omega$ so that $CX = CD$. From here, define $D'$ to be the reflection of $D$ across the midpoint of $AC$, and $X'$ to be the reflection of $X$ across the midpoint of $CD$. If the area of triangle $CD'X'$ can be written as $\frac{p}{q}$, where $p$ and $q$ are relatively prime, find $p + q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1369
+==================================================
+

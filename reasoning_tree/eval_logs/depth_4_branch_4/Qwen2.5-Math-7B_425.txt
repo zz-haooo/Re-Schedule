@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 425
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram shows two equilateral triangles with side length $4$ mounted on two adjacent sides of a square, also with side length $4$. The distance between the two vertices marked $A$ and $B$ can be written as $\sqrt{m}+\sqrt{n}$ for two positive integers $m$ and $n$. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

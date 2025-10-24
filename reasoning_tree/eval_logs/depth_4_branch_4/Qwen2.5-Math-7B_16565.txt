@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16565
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the mobile below, the two cross beams and the seven supporting strings are all massless. The hanging objects are $M_1 = 400 \, \text{g}$, $M_2 = 200 \, \text{g}$, and $M_4 = 500 \, \text{g}$. What is the value of $M_3$ for the system to be in static equilibrium? If the answer is $x \, \text{g}$, what is the value of $x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 700
+==================================================
+

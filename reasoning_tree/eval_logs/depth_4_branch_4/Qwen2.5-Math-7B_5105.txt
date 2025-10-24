@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5105
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle A_1B_1C_1$ be an equilateral triangle with an area of $60$. Chloe constructs a new triangle $\triangle A_2B_2C_2$ as follows: 
+
+- She flips a coin. 
+  - If it lands on heads, she constructs point $A_2$ such that $B_1$ is the midpoint of $\overline{A_2C_1}$. 
+  - If it lands on tails, she constructs $A_2$ such that $C_1$ is the midpoint of $\overline{A_2B_1}$. 
+
+- She performs similar operations for $B_2$ and $C_2$.
+
+What is the expected value of the area of $\triangle A_2B_2C_2$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 195
+==================================================
+

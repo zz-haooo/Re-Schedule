@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10690
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_n = \frac{10^n-1}{9}$. Define $d_n$ to be the greatest common divisor of $a_n$ and $a_{n+1}$. What is the maximum possible value that $d_n$ can take on?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4315
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider all pairs of points $(a,b,c)$ and $(d,e,f)$ in the 3-D coordinate system with the condition $ad + be + cf = -2023$. What is the least positive integer that can be the distance between such a pair of points?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

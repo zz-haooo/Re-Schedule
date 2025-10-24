@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6017
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $2^{10} = 1024$ possible $10$-letter strings in which each letter is either an $A$ or a $B$. Find the number of such strings that do not have more than $3$ adjacent letters that are identical.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 548
+==================================================
+

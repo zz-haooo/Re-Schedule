@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13835
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The decimal expression of a 100-digit number consists of 1’s and 2’s. The Rule allows one to select arbitrarily 10 consecutive digits of which the first five may change places with the second five. Two numbers will be called similar if one can be obtained from the other one in several such operations. What greatest number of such 100-digit numbers can be selected so no two of them are similar? Please provide the integer value of the original answer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4084101
+==================================================
+

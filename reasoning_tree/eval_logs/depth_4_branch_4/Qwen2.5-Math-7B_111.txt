@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 111
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+30 volleyball teams have participated in a league. Any two teams have played a match with each other exactly once. At the end of the league, a match is called **unusual** if the winner of the match has fewer wins than the loser. A team is called **astonishing** if all its matches are **unusual** matches. Find the maximum number of **astonishing** teams.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

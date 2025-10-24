@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2252
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a mathematical competition, $n = 10,000$ contestants participate. During the final party, the process of distributing a cake is as follows: 
+
+1. The first contestant takes $\frac{1}{n}$ of the cake.
+2. The second contestant takes $\frac{2}{n}$ of the remaining cake.
+3. The third contestant takes $\frac{3}{n}$ of what remains after the first and second contestants have taken their portions.
+4. This process continues until the last contestant, who takes all of the remaining cake.
+
+Determine which competitor takes the largest piece of cake.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

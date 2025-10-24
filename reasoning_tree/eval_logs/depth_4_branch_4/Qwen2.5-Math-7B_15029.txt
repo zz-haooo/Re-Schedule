@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15029
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A closed box with a square base is to be wrapped with a square sheet of wrapping paper. The box is centered on the wrapping paper with the vertices of the base lying on the midlines of the square sheet of paper, as shown in the figure on the left. The four corners of the wrapping paper are to be folded up over the sides and brought together to meet at the center of the top of the box, point \(A\) in the figure on the right. The box has base length \(w\) and height \(h\). Find the area of the sheet of wrapping paper in terms of \(w\) and \(h\). The answer should be in the form \(a(w+h)^b\). Please find the value of \(a + b\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

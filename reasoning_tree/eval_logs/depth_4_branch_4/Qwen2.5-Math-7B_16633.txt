@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16633
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If the following instructions are carried out by a computer, what is the value of $X$ that will be printed because of instruction 5?
+
+1. Start $X$ at $3$ and $S$ at $0$.
+2. Increase the value of $X$ by $2$.
+3. Increase the value of $S$ by the value of $X$.
+4. If $S$ is at least $10000$, then go to instruction 5; otherwise, go to instruction 2 and proceed from there.
+5. Print the value of $X$.
+6. Stop.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 201
+==================================================
+

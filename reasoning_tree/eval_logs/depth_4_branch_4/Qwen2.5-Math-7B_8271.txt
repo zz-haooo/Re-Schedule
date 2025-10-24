@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8271
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are prime numbers $a$, $b$, and $c$ such that the system of equations
+$$a \cdot x - 3  \cdot y + 6  \cdot z = 8$$
+$$b  \cdot x + 3\frac12  \cdot y + 2\frac13  \cdot z = -28$$
+$$c  \cdot x - 5\frac12  \cdot y + 18\frac13  \cdot z = 0$$
+has infinitely many solutions for $(x, y, z)$. Find the product $a \cdot b \cdot c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 154
+==================================================
+

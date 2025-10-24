@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 536
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Circles $C_1$, $C_2$, $C_3$ have radius $1$ and centers $O$, $P$, $Q$ respectively. $C_1$ and $C_2$ intersect at $A$, $C_2$ and $C_3$ intersect at $B$, $C_3$ and $C_1$ intersect at $C$, in such a way that $\angle APB = 60^\circ$, $\angle BQC = 36^\circ$, and $\angle COA = 72^\circ$. Find angle $\angle ABC$ (degrees).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

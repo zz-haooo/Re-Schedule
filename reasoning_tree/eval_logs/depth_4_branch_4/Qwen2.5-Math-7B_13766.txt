@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13766
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\mathbb{Z}_{>0}$ denote the set of positive integers. For any positive integer $k$, a function $f:\mathbb{Z}_{>0}\to\mathbb{Z}_{>0}$ is called $k$-good if $\gcd(f(m)+n,f(n)+m)\leqslant k$ for all $m\neq n.$ Find the smallest positive integer $k$ such that there exists a $k$-good function.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

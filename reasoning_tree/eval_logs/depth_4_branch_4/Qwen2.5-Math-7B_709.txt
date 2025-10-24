@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 709
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the grid of points $X = \{(m,n) \mid 0 \leq m,n \leq 4 \}$. We say a pair of points $\{(a,b),(c,d)\}$ in $X$ is a knight-move pair if $(c = a \pm 2$ and $d = b \pm 1)$ or $(c = a \pm 1$ and $d = b \pm 2)$. The number of knight-move pairs in $X$ is:
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 48
+==================================================
+

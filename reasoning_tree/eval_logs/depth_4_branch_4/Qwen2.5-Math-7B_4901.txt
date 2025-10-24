@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4901
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the value of the series $-1 + 2 + 3 + 4 - 5 - 6 - 7 - 8 - 9 + \ldots + 10000$, where the signs change after each perfect square.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1000000
+==================================================
+

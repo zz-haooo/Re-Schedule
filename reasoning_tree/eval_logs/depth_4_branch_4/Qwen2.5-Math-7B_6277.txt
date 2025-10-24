@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6277
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In $\triangle ABC$ the median from $A$ is given perpendicular to the median from $B$. If $BC=7$ and $AC=6$, find the length of $AB$.
+$\textbf{(A)}\ 4\qquad \textbf{(B)}\ \sqrt{17} \qquad \textbf{(C)}\ 4.25\qquad \textbf{(D)}\ 2\sqrt{5} \qquad \textbf{(E)}\ 4.5$The answer is in the form k\sqrt{m}+n,. Please provide the value of k + m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

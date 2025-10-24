@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1307
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $T$ be a finite set of positive integers, satisfying the following conditions:
+1. For any two elements of $T$, their greatest common divisor and their least common multiple are also elements of $T$.
+2. For any element $x$ of $T$, there exists an element $x'$ of $T$ such that $x$ and $x'$ are relatively prime, and their least common multiple is the largest number in $T$.
+
+For each such set $T$, denote by $s(T)$ its number of elements. It is known that $s(T) < 1990$; find the largest value $s(T)$ may take.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1024
+==================================================
+

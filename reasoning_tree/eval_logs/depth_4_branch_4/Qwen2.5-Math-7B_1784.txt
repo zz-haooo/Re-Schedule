@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1784
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the sum:
+\[
+  S_n = \sum_{k = 1}^n \frac{1}{\sqrt{2k-1}} 
+\]
+Determine \( \lfloor S_{4901} \rfloor \). Recall that if \( x \) is a real number, then \( \lfloor x \rfloor \) (the floor of \( x \)) is the greatest integer that is less than or equal to \( x \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 98
+==================================================
+

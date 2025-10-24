@@ -1,0 +1,40 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10128
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find $b + h.$
+
+[asy]
+unitsize(0.2 cm);
+
+pair A, B, C, D, E, F;
+
+A = (0,0);
+B = (20,0);
+C = (20,15);
+
+D = (30,0);
+E = (30 + 7,0);
+F = (30 + 7,25);
+
+draw(A--B--C--cycle);
+draw(D--E--F--cycle);
+draw(rightanglemark(A,B,C,40));
+draw(rightanglemark(D,E,F,40));
+
+label("$\theta$", (4,1.5));
+label("$20$", (A + B)/2, S);
+label("$15$", (B + C)/2, dir(0));
+label("$25$", (A + C)/2, NW);
+
+label("$2 \theta$", D + (2,1.5));
+label("$b$", (D + E)/2, S);
+label("$h$", (E + F)/2, dir(0));
+label("$25$", (D + F)/2, NW);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

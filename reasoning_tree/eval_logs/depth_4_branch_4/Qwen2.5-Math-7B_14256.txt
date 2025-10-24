@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14256
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A father takes his twins and a younger child out to dinner on the twins' birthday. The restaurant charges $4.95$ for the father and $0.45$ for each year of a child's age, where age is defined as the age at the most recent birthday. If the total bill is $9.45$, find the age of the youngest child.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

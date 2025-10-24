@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3218
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_1 = 20$, $a_2 = 16$, and for $k \ge 3$, let $a_k = \sqrt[3]{k-a_{k-1}^3-a_{k-2}^3}$. Compute $a_1^3 + a_2^3 + \cdots + a_{10}^3$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8021
+==================================================
+

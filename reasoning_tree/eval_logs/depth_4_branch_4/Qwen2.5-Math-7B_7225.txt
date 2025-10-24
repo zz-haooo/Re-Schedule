@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7225
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $V = \left\{ 1, \dots, 8 \right\}$. How many permutations $\sigma : V \to V$ are automorphisms of some tree?
+
+(A $\emph{graph}$ consists of some set of vertices and some edges between pairs of distinct vertices.
+It is $\emph{connected}$ if every two vertices in it are connected by some path of one or more edges.
+A $\emph{tree}$ $G$ on $V$ is a connected graph with vertex set $V$ and exactly $|V|-1$ edges,
+and an $\emph{automorphism}$ of $G$ is a permutation $\sigma : V \to V$ such that
+vertices $i,j \in V$ are connected by an edge if and only if $\sigma(i)$ and $\sigma(j)$ are.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30212
+==================================================
+

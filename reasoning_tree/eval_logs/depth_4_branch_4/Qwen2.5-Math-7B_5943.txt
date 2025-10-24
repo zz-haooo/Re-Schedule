@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5943
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $L$ be the line with slope $\frac{5}{12}$ that contains the point $A=(24,-1)$ , and let $M$ be the line perpendicular to line $L$ that contains the point $B=(5,6)$ . The original coordinate axes are erased, and line $L$ is made the $x$ -axis and line $M$ the $y$ -axis. In the new coordinate system, point $A$ is on the positive $x$ -axis, and point $B$ is on the positive $y$ -axis. The point $P$ with coordinates $(-14,27)$ in the original system has coordinates $(\alpha,\beta)$ in the new coordinate system. Find $\alpha+\beta$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

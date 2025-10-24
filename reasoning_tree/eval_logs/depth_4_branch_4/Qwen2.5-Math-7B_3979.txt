@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3979
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Principal Skinner is thinking of two integers $m$ and $n$ and bets Superintendent Chalmers that he will not be able to determine these integers with a single piece of information. Chalmers asks Skinner the numerical value of $mn + 13m + 13n - m^2 - n^2$. From the value of this expression alone, he miraculously determines both $m$ and $n$. What is the value of the above expression?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 169
+==================================================
+

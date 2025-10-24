@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 881
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three circles $C_i$ are given in the plane: $C_1$ has diameter $AB$ of length $1$; $C_2$ is concentric and has diameter $k$ ($1 < k < 3$); $C_3$ has center $A$ and diameter $2k$. We regard $k$ as fixed. Consider all straight line segments $XY$ which have one endpoint $X$ on $C_2$, one endpoint $Y$ on $C_3$, and contain the point $B$. For what ratio $\frac{XB}{BY}$ will the segment $XY$ have minimal length?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

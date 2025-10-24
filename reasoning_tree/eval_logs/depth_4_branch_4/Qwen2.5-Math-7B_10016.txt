@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10016
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The marching band has more than 100 members but fewer than 200 members. When they line up in rows of 4 there is one extra person; when they line up in rows of 5 there are two extra people; and when they line up in rows of 7 there are three extra people. How many members are in the marching band?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 157
+==================================================
+

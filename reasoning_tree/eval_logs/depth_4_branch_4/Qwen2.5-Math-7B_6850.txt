@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6850
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jeff will pick a card at random from ten cards numbered 1 through 10.  The number on this card will indicate his starting point on the number line shown below.  He will then spin the fair spinner shown below (which has three congruent sectors) and follow the instruction indicated by his spin.  From this new point he will spin the spinner again and follow the resulting instruction.  What is the probability that he ends up at a multiple of 3 on the number line?  Express your answer as a common fraction. [asy]
+import graph;
+size(10cm);
+defaultpen(linewidth(0.7)+fontsize(8));
+
+xaxis(-2,13,Ticks(OmitFormat(-1),1.0,begin=false,end=false,beginlabel=false,endlabel=false),Arrows(4));
+
+label("-1",(-1,-0.98));
+
+real r=3.5;
+pair center=(17,0);
+draw(circle(center,r));
+int i;
+for(i=1;i<=3;++i)
+
+{
+
+draw(center--center+r*dir(120*i-30));
+
+}
+label("$\parbox{1cm}{move \\ 1 space \\ left}$",center+r/2*dir(150));
+label("$\parbox{1cm}{move \\ 1 space \\ right}$",center+r/2*dir(270));
+label("$\parbox{1cm}{move \\ 1 space \\ right}$",center+r/2*dir(30));
+draw(center--center+3*r/4*dir(80),EndArrow(4));[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 121
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4029
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two toads named Gamakichi and Gamatatsu are sitting at the points $(0,0)$ and $(2,0)$ respectively. Their goal is to reach $(5,5)$ and $(7,5)$ respectively by making one unit jumps in the positive $x$ or $y$ direction at a time. How many ways can they do this while ensuring that there is no point on the plane where both Gamakichi and Gamatatsu land on the same spot?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19152
+==================================================
+

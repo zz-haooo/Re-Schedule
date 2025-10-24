@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 741
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Will has a magic coin that can remember previous flips. If the coin has already turned up heads $m$ times and tails $n$ times, the probability that the next flip turns up heads is exactly $\frac{m+1}{m+n+2}$. Suppose that the coin starts at $0$ flips. The probability that after $10$ coin flips, heads and tails have both turned up exactly $5$ times can be expressed as $\frac{m}{n}$ for relatively prime positive integers $m$ and $n$. Compute $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

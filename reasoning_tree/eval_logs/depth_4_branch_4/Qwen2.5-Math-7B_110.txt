@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 110
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a chemistry experiment, a tube contains 100 particles, 68 on the right and 32 on the left. Each second, if there are $a$ particles on the left side of the tube, some number $n$ of these particles move to the right side, where $n \in \{0,1,\dots,a\}$ is chosen uniformly at random. Similarly, some number of the particles from the right side of the tube move to the left at the same time. The experiment ends at the moment when all particles are on the same side of the tube. The probability that all particles end on the left side is $\frac{a}{b}$ for relatively prime positive integers $a$ and $b$. Compute $100a+b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 102
+==================================================
+

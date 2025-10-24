@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7968
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows a regular hexagon with an inscribed square where two sides of the square are parallel to two sides of the hexagon. There are positive integers $m$, $n$, and $p$ such that the ratio of the area of the hexagon to the area of the square can be written as $\tfrac{m+\sqrt{n}}{p}$ where $m$ and $p$ are relatively prime. Find $m + n + p$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

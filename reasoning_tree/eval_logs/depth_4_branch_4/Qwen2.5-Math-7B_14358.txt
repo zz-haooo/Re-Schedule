@@ -1,0 +1,25 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14358
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A large rectangle is partitioned into four smaller rectangles by two segments parallel to its sides. The areas of three of these rectangles are given. Determine the area of the fourth rectangle.
+
+```
+\begin{asy}
+draw((0,0)--(10,0)--(10,7)--(0,7)--cycle);
+draw((0,5)--(10,5));
+draw((3,0)--(3,7));
+label("6", (1.5,6));
+label("?", (1.5,2.5));
+label("14", (6.5,6));
+label("35", (6.5,2.5));
+\end{asy}
+```
+
+Find the area of the fourth rectangle.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

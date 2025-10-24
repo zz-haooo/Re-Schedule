@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4485
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a certain country, there are $2023$ islands and $2022$ bridges. Each bridge connects two different islands, and any two islands share at most one bridge. It is possible to travel from any island to any other island using these bridges. If, among any three islands, there exists an island connected by bridges to each of the other two islands, these three islands form an "island group." It is known that any two "island groups" share at least one common island. What is the minimum number of islands with only one bridge connected to it?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1011
+==================================================
+

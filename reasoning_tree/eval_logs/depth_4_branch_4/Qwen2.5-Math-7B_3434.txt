@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3434
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Define a sequence $\{a_{n}\}_{n=1}^{\infty}$ with $a_{1} = 1$ and $a_{n+1} = a_{n} + \lfloor \sqrt{a_{n}} \rfloor$ for all $n \geq 1$. Determine the smallest $N$ such that $a_{N} > 2017$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 95
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3732
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given that $A, B, C, D$ are points along a circle in that order, and $AC$ intersects $BD$ at point $X$. If $BC = 6$, $BX = 4$, $XD = 5$, and $AC = 11$, find the length of $AB$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

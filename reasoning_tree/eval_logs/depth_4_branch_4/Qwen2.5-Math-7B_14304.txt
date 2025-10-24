@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14304
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be an equilateral triangle. Extend side $\overline{AB}$ beyond $B$ to a point $B'$ so that $BB' = 3AB$. Similarly, extend side $\overline{BC}$ beyond $C$ to a point $C'$ so that $CC' = 3BC$, and extend side $\overline{CA}$ beyond $A$ to a point $A'$ so that $AA' = 3CA$. Find the ratio of the area of $\triangle A'B'C'$ to the area of $\triangle ABC$. If the ratio is $x:1$, what is the value of $x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 37
+==================================================
+

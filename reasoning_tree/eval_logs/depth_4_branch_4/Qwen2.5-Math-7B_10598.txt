@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10598
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Julie baked cupcakes for her family at home and for a party at school. She iced 4 cupcakes with red frosting, 2 cupcakes with orange frosting, 2 with yellow, 2 with green, 3 with blue and the last 3 with violet frosting. Each cupcake is iced with exactly one color of frosting. Julie plans to take exactly 10 of the cupcakes to her party, and will take either all of the cupcakes of a particular color or none of the cupcakes of that color. How many different combinations of cupcakes could she take to her party?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

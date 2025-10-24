@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1970
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $O$ and $A$ be two points in the plane with $OA = 30$, and let $\Gamma$ be a circle with center $O$ and radius $r$. Suppose that there exist two points $B$ and $C$ on $\Gamma$ with $\angle ABC = 90^{\circ}$ and $AB = BC$. Compute the minimum possible value of $\lfloor r \rfloor.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

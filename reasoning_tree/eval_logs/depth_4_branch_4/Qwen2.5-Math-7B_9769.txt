@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9769
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The following diagonal is drawn in a regular decagon, creating an octagon and a quadrilateral.  What is the measure of $x$?
+
+[asy]
+import markers;
+for(int i=0; i <=10; ++i) {
+draw(dir(360*i/10+90)--dir(360*(i+1)/10+90));
+}
+pair A = dir(360*0/10+90);
+pair F = dir(360*7/10+90);
+pair G = dir(360*8/10+90);
+pair H = dir(360*9/10+90);
+
+draw(A--F);
+
+markangle(Label("$x$",Relative(0.5)),n=1,radius=18,G,F,A);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

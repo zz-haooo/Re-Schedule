@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 663
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+You are racing an Artificially Intelligent Robot, called Al, that you built. You can run at a constant speed of $10$ m/s throughout the race. Meanwhile, Al starts running at a constant speed of $1$ m/s. Thereafter, when exactly $1$ second has passed from when Al last changed its speed, Al’s speed instantaneously becomes $1$ m/s faster, so that Al runs at a constant speed of $k$ m/s in the $k$th second of the race. (Start counting seconds at $1$). Suppose Al beats you by exactly $1$ second. How many meters was the race?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 210
+==================================================
+

@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3076
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On a natural number $n$, you are allowed two operations: 
+1. Multiply $n$ by $2$, or 
+2. Subtract $3$ from $n$. 
+
+For example, starting with $8$, you can reach $13$ as follows: $8 \longrightarrow 16 \longrightarrow 13$. You need two steps, and you cannot do it in less than two steps. 
+
+Starting from $11$, what is the least number of steps required to reach $121$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

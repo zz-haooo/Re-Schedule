@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 494
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given that $x_{n+2}=\dfrac{20x_{n+1}}{14x_n}$, $x_0=25$, $x_1=11$, it follows that $\sum_{n=0}^\infty\dfrac{x_{3n}}{2^n}=\dfrac{p}{q}$ for some positive integers $p$, $q$ with $\text{GCD}(p,q)=1$. Find $p+q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1685
+==================================================
+

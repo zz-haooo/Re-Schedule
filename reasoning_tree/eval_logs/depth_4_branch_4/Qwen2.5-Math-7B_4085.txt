@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4085
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A positive integer $n$ is called *nice* if it has at least 3 proper divisors and it is equal to the sum of its three largest proper divisors. For example, $6$ is *nice* because its largest three proper divisors are $3, 2, 1$ and $6 = 3 + 2 + 1$. Find the number of *nice* integers not greater than $3000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 200
+==================================================
+

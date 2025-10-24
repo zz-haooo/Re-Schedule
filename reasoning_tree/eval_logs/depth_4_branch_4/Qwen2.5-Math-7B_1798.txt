@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1798
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute the number of values of $x$ in the interval $[-11\pi, -2\pi]$ that satisfy \[ \frac{5\cos(x) + 4}{5\sin(x) + 3} = 0. \]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

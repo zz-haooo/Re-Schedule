@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17181
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Square $EFGH$ is inside the square $ABCD$ so that each side of $EFGH$ can be extended to pass through a vertex of $ABCD$. Square $ABCD$ has side length $\sqrt{50}$ and $BE = 1$. What is the area of the inner square $EFGH$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

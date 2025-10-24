@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6004
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two unit squares are selected at random without replacement from an $n \times n$ grid of unit squares. Find the least positive integer $n$ such that the probability that the two selected unit squares are horizontally or vertically adjacent is less than $\frac{1}{2015}$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

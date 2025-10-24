@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3940
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Nair has puzzle pieces shaped like an equilateral triangle. She has pieces of two sizes: large and small.
+
+Nair builds triangular figures by following these rules:
+- Figure $1$ is made up of $4$ small pieces.
+- Figure $2$ is made up of $2$ large pieces and $8$ small pieces.
+- Figure $3$ is made up of $6$ large pieces and $12$ small pieces, and so on.
+- The central column must be made up exclusively of small parts.
+- Outside the central column, only large pieces can be placed.
+
+Following the pattern, how many pieces will Nair use to build Figure $20$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 460
+==================================================
+

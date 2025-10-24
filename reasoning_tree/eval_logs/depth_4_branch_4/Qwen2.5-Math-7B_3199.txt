@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3199
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many positive integers $n \leq 100$ satisfy $\lfloor n\pi \rfloor = \lfloor (n-1)\pi \rfloor + 3$? Here $\lfloor x \rfloor$ is the greatest integer less than or equal to $x$; for example, $\lfloor \pi \rfloor = 3$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 86
+==================================================
+

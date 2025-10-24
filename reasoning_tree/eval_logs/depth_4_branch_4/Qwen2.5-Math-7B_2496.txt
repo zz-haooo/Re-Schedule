@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2496
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Together, Kenneth and Ellen pick a real number $a$. Kenneth subtracts $a$ from every thousandth root of unity (that is, the thousand complex numbers $\omega$ for which $\omega^{1000}=1$), then inverts each, and sums the results. Ellen inverts every thousandth root of unity, then subtracts $a$ from each, and then sums the results. They are surprised to find that they actually got the same answer! How many possible values of $a$ are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

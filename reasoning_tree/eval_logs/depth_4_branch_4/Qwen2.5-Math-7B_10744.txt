@@ -1,0 +1,26 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10744
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In this diagram, both polygons are regular. What is the value, in degrees, of the sum of the measures of angles $ABC$ and $ABD$?
+
+[asy]
+draw(10dir(0)--10dir(60)--10dir(120)--10dir(180)--10dir(240)--10dir(300)--10dir(360)--cycle,linewidth(2));
+draw(10dir(240)--10dir(300)--10dir(300)+(0,-10)--10dir(240)+(0,-10)--10dir(240)--cycle,linewidth(2));
+
+draw(10dir(300)+(-1,0)..9dir(300)..10dir(300)+dir(60),linewidth(2));
+draw(10dir(300)+(-1.5,0)..10dir(300)+1.5dir(-135)..10dir(300)+(0,-1.5),linewidth(2));
+
+label("A",10dir(240),W);
+label("B",10dir(300),E);
+label("C",10dir(0),E);
+label("D",10dir(300)+(0,-10),E);
+
+draw(10dir(300)+2dir(-135)--10dir(300)+dir(-135),linewidth(2));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 210
+==================================================
+

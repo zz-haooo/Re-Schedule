@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14374
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(x) = ax^2 + bx + c$, where $a$, $b$, and $c$ are integers. Suppose that $f(1) = 0$, $50 < f(7) < 60$, $70 < f(8) < 80$, and $5000k < f(100) < 5000(k+1)$ for some integer $k$. Find the integer $k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

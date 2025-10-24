@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5214
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Bob draws the graph of $y = x^3 - 13x^2 + 40x + 25$ and is dismayed to find out that it only has one root. Alice comes to the rescue, translating the axes so that the origin is at the point that used to be $(-20, 16)$. This new graph has three $x$-intercepts; compute their sum.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 73
+==================================================
+

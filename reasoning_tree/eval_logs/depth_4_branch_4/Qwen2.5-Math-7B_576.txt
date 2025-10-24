@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 576
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Define a search algorithm called $\texttt{powSearch}$. Assume $A$ is a 1-indexed sorted array of distinct integers. To search for an integer $b$ in this array, we search the indices $2^0, 2^1, \ldots$ until we either reach the end of the array or $A[2^k] > b$. If at any point $A[2^k] = b$, we stop and return $2^k$. Once $A[2^k] > b > A[2^{k-1}]$, we discard the first $2^{k-1}$ elements of $A$ and recursively search in the same manner. For example, for an integer at position $3$, we will search the locations $1, 2, 4, 3$.
+
+Define $g(x)$ as a function that returns the number of (not necessarily distinct) indices examined when calling $\texttt{powSearch}$ with an integer $b$ at position $x$ in $A$. For example, $g(3) = 4$. If $A$ has length $64$, find
+\[g(1) + g(2) + \ldots + g(64).\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 808
+==================================================
+

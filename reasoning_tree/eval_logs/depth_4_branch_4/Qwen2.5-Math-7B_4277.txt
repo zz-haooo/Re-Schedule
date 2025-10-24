@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4277
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On equilateral $\triangle{ABC}$, point D lies on BC a distance 1 from B, point E lies on AC a distance 1 from C, and point F lies on AB a distance 1 from A. Segments AD, BE, and CF intersect in pairs at points G, H, and J, which are the vertices of another equilateral triangle. The area of $\triangle{ABC}$ is twice the area of $\triangle{GHJ}$. The side length of $\triangle{ABC}$ can be written as $\frac{r+\sqrt{s}}{t}$, where r, s, and t are relatively prime positive integers. Find $r + s + t$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

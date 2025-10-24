@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3097
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In baseball, a player's batting average is calculated as the number of hits divided by the number of at bats, rounded to three decimal places. Danielle's batting average is $0.399$. What is the fewest number of at bats that Danielle could have?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 138
+==================================================
+

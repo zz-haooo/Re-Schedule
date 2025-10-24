@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2281
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Andrew writes down all of the prime numbers less than $50$. How many times does he write the digit $2$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

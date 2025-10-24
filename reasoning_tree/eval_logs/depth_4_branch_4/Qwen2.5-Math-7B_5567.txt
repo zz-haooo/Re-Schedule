@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5567
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A circle with diameter $\overline{PQ}$ of length 10 is internally tangent at $P$ to a circle of radius 20. Square $ABCD$ is constructed with $A$ and $B$ on the larger circle, $\overline{CD}$ tangent at $Q$ to the smaller circle, and the smaller circle outside $ABCD$. The length of $\overline{AB}$ can be written in the form $m + \sqrt{n}$, where $m$ and $n$ are integers. Find $m + n$.
+
+1994 AIME Problem 2.png
+
+Note: The diagram was not given during the actual contest.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 312
+==================================================
+

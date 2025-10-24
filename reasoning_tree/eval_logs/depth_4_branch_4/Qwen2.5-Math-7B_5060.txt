@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5060
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be a positive integer. E. Chen and E. Chen play a game on the $n^2$ points of an $n \times n$ lattice grid. They alternately mark points on the grid such that no player marks a point that is on or inside a non-degenerate triangle formed by three marked points. Each point can be marked only once. The game ends when no player can make a move, and the last player to make a move wins. Determine the number of values of $n$ between $1$ and $2013$ (inclusive) for which the first player can guarantee a win, regardless of the moves that the second player makes.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1007
+==================================================
+

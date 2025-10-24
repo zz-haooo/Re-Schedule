@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 263
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the real number $k$ such that $a$, $b$, $c$, and $d$ are real numbers that satisfy the system of equations:
+\[
+\begin{align*}
+    abcd &= 2007, \\
+    a &= \sqrt{55 + \sqrt{k+a}}, \\
+    b &= \sqrt{55 - \sqrt{k+b}}, \\
+    c &= \sqrt{55 + \sqrt{k-c}}, \\
+    d &= \sqrt{55 - \sqrt{k-d}}.
+\end{align*}
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1018
+==================================================
+

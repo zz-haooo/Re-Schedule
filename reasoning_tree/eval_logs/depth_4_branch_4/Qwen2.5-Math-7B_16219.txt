@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16219
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Halfway through a $100$-shot archery tournament, Chelsea leads by $50$ points. For each shot, a bullseye scores $10$ points, with other possible scores being $8$, $4$, $2$, and $0$ points. Chelsea always scores at least $4$ points on each shot. If Chelsea's next $n$ shots are bullseyes, she will be guaranteed victory. What is the minimum value for $n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 42
+==================================================
+

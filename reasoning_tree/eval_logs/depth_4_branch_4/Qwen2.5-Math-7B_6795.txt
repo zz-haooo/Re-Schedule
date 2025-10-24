@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6795
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\mathbf{p}$ be the projection of $\mathbf{v}$ onto $\mathbf{w},$ and let $\mathbf{q}$ be the projection of $\mathbf{p}$ onto $\mathbf{v}.$  If $\frac{\|\mathbf{p}\|}{\|\mathbf{v}\|} = \frac{5}{7},$ then find $\frac{\|\mathbf{q}\|}{\|\mathbf{v}\|}.$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 74
+==================================================
+

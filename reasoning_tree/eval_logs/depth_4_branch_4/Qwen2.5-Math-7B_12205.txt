@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12205
+Question: 一项赛事共有 100 位选手参加. 对于任意两位选手 x,y，他们之间恰比赛一次且分出胜负，用 x\rightarrow y 表示 x 战胜 y. 如果对任意两位选手 x,y，均能找到某个选手序列 u_1, u_2, \cdots, u_k (k\geq2)，使得 x=u_1 \rightarrow u_2 \rightarrow \cdots \rightarrow u_k=y，那么称该赛事结果是"友好"的.(1) 求证：对任意一个友好的赛事结果，存在正整数 m 满足如下条件：对任意两位选手 x,y，均能找到某个长度为 m 的选手序列 z_1,z_2,\cdots,z_m（这里 z_1, z_2, \cdots, z_m 可以有重复），使得 x=z_1\rightarrow z_2\rightarrow\cdots\rightarrow z_m=y.(2) 对任意一个友好的赛事结果 T，将符合 (1) 中条件的最小正整数 m 记为 m(T). 求 m(T) 的最小值.
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 3
+==================================================
+

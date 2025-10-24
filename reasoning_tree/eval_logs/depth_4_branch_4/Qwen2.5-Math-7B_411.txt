@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 411
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three spheres are all externally tangent to a plane and to each other. Suppose that the radii of these spheres are $6$, $8$, and $10$. The tangency points of these spheres with the plane form the vertices of a triangle. Determine the largest integer that is smaller than the perimeter of this triangle.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 47
+==================================================
+

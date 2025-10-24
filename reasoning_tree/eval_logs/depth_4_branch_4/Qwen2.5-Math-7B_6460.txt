@@ -1,0 +1,67 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6460
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On the game board below Kendra will start at the center of the board. For each turn she will spin this spinner with four congruent sectors once, and then she will move one space in the direction indicated on the spinner. The "Start'' square does not have a numerical value, but Kendra may land on it during her turns. What is the probability that the sum of the numbers in the spaces on which she will land will be exactly 30 after her third complete turn? Express your answer as a common fraction.
+
+[asy]size(80);
+import graph;
+draw(Circle((0,0),1),linewidth(1));
+draw((-1,0)--(1,0),linewidth(1)); draw((0,-1)--(0,1),linewidth(1));
+label("Move",(sqrt(2)/4,sqrt(2)/4+.15),fontsize(10pt));
+label("Left",(sqrt(2)/4,sqrt(2)/4-.15),fontsize(10pt));
+label("Move",(-sqrt(2)/4,sqrt(2)/4+.15),fontsize(10pt));
+label("Right",(-sqrt(2)/4,sqrt(2)/4-.15),fontsize(10pt));
+label("Move",(-sqrt(2)/4,-(sqrt(2)/4-.15)),fontsize(10pt));
+label("Down",(-sqrt(2)/4,-(sqrt(2)/4+.15)),fontsize(10pt));
+label("Move",(sqrt(2)/4,-(sqrt(2)/4-.15)),fontsize(10pt));
+label("Up",(sqrt(2)/4,-(sqrt(2)/4+.15)),fontsize(10pt));
+dot((0,0),linewidth(5)); draw((0,0)--1/2 dir(-70),linewidth(1.5),EndArrow(5));[/asy]
+
+[asy]size(200);
+picture box10,box15,box5,box20;
+filldraw(box5,(-1,-.5)--(-1,.5)--(1,.5)--(1,-.5)--cycle,white,linewidth(1)); label(box5,"5",(0,0));
+filldraw(box10,(-1,-.5)--(-1,.5)--(1,.5)--(1,-.5)--cycle,gray(.6),linewidth(1)); label(box10,"10",(0,0));
+filldraw(box15,(-1,-.5)--(-1,.5)--(1,.5)--(1,-.5)--cycle,white,linewidth(1)); label(box15,"15",(0,0));
+filldraw(box20,(-1,-.5)--(-1,.5)--(1,.5)--(1,-.5)--cycle,gray(.6),linewidth(1)); label(box20,"20",(0,0));
+void b10(real x, real y)
+{
+add(shift(x*right)*shift(y*up)*box10);
+}
+void b15(real x, real y)
+{
+add(shift(x*right)*shift(y*up)*box15);
+}
+void b5(real x, real y)
+{
+add(shift(x*right)*shift(y*up)*box5);
+}
+void b20(real x, real y)
+{
+add(shift(x*right)*shift(y*up)*box20);
+}
+for(int i = 0; i<3; ++i)
+{
+draw((8.5-2.5i,1.5i+2)--(-8.5+2.5i,1.5i+2),linewidth(1));
+draw((8.5-2.5i,-1.5i-2)--(-8.5+2.5i,-1.5i-2),linewidth(1));
+}
+for(int i = 0; i<3; ++i)
+{
+draw((8.5-2.5i,2+1.5i)--(8.5-2.5i,-2-1.5i),linewidth(1));
+draw((-8.5+2.5i,2+1.5i)--(-8.5+2.5i,-2-1.5i),linewidth(1));
+}
+draw((8.5,0)--(-8.5,0),linewidth(1));
+draw((0,5)--(0,-5),linewidth(1));
+filldraw((-1,1)--(1,1)--(1,-1)--(-1,-1)--cycle,white,linewidth(1)); label("Start",(0,0),fontsize(8pt));
+b10(0,2); b10(-3.5,2); b10(3.5,2); b10(-3.5,0); b10(3.5,0); b10(0,-2); b10(-3.5,-2); b10(3.5,-2); b10(3.5,5); b10(-3.5,5); b10(3.5,-5); b10(-3.5,-5);
+b5(6,0); b5(8.5,0); b5(0,3.5); b5(0,5); b5(0,-3.5); b5(0,-5); b5(3.5,-3.5); b5(3.5,3.5);b5(-3.5,-3.5);b5(-3.5,3.5); b5(-6,0); b5(-8.5,0);
+
+b20(6,3.5); b20(6,-3.5); b20(-6,3.5); b20(-6,-3.5); b20(8.5,2); b20(-8.5,2); b20(8.5,-2); b20(-8.5,-2);
+
+b15(6,2); b15(6,-2); b15(-6,2); b15(-6,-2);[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

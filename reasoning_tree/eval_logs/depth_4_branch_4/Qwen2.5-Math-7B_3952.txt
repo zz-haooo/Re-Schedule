@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3952
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Points $A_1, A_2, \ldots, A_{2022}$ are chosen on a plane such that no three of them are collinear. Consider all angles $A_iA_jA_k$ for distinct points $A_i, A_j, A_k$. What is the largest possible number of these angles that can be equal to $90^\circ$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2042220
+==================================================
+

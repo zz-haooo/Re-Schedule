@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12985
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Replace the letters $a$, $b$, $c$ and $d$ in the following expression with the numbers $1$, $2$, $3$ and $4$, without repetition: $a+\cfrac{1}{b+\cfrac{1}{c+\cfrac{1}{d}}}$ Find the difference between the maximum value and the minimum value of the expression. The original answer is in \frac{m}{n} format, please give the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 67
+==================================================
+

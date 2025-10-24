@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2436
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Emily draws six dots on a piece of paper such that no three lie on a straight line. She then draws a line segment connecting each pair of dots and colors five of these segments red. Her coloring is said to be $\emph{red-triangle-free}$ if for every set of three points from her six drawn points, there exists an uncolored segment connecting two of the three points. In how many ways can Emily color her drawing such that it is red-triangle-free?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1773
+==================================================
+

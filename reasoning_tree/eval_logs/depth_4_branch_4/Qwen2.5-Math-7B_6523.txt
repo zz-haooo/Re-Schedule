@@ -1,0 +1,58 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6523
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Roger has exactly one of each of the first 22 states' new U.S.  quarters.  The quarters were released in the same order that the  states joined the union.  The graph below shows the number of  states that joined the union in each decade.  What fraction of  Roger's 22 coins represents states that joined the union during  the decade 1780 through 1789?  Express your answer as a  common fraction.
+
+(note: every space represents 2 states.)
+
+[asy]size(200);
+label("1780",(6,0),S);
+label("1800",(12,-12),S);
+label("1820",(18,0),S);
+label("1840",(24,-12),S);
+label("1860",(30,0),S);
+label("1880",(36,-12),S);
+label("1900",(42,0),S);
+label("1950",(48,-12),S);
+label("to",(6,-4),S);
+label("to",(12,-16),S);
+label("to",(18,-4),S);
+label("to",(24,-16),S);
+label("to",(30,-4),S);
+label("to",(36,-16),S);
+label("to",(42,-4),S);
+label("to",(48,-16),S);
+label("1789",(6,-8),S);
+label("1809",(12,-20),S);
+label("1829",(18,-8),S);
+label("1849",(24,-20),S);
+label("1869",(30,-8),S);
+label("1889",(36,-20),S);
+label("1909",(42,-8),S);
+label("1959",(48,-20),S);
+draw((0,0)--(50,0));
+draw((0,2)--(50,2));
+draw((0,4)--(50,4));
+draw((0,6)--(50,6));
+draw((0,8)--(50,8));
+draw((0,10)--(50,10));
+draw((0,12)--(50,12));
+draw((0,14)--(50,14));
+draw((0,16)--(50,16));
+draw((0,18)--(50,18));
+fill((4,0)--(8,0)--(8,12)--(4,12)--cycle,gray(0.8));
+fill((10,0)--(14,0)--(14,5)--(10,5)--cycle,gray(0.8));
+fill((16,0)--(20,0)--(20,7)--(16,7)--cycle,gray(0.8));
+fill((22,0)--(26,0)--(26,6)--(22,6)--cycle,gray(0.8));
+fill((28,0)--(32,0)--(32,7)--(28,7)--cycle,gray(0.8));
+fill((34,0)--(38,0)--(38,5)--(34,5)--cycle,gray(0.8));
+fill((40,0)--(44,0)--(44,4)--(40,4)--cycle,gray(0.8));
+
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

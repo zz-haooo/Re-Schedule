@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12758
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Evaluate the double series
+$$
+\sum_{j=0}^{\infty} \sum_{k=0}^{\infty} 2^{-3 k-j-(k+n)^{2}}
+$$The answer is in the form \frac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

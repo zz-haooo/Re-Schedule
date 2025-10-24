@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4842
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On Andover's campus, Graves Hall is $60$ meters west of George Washington Hall, and George Washington Hall is $80$ meters north of Paresky Commons. Jessica wants to walk from Graves Hall to Paresky Commons. If she first walks straight from Graves Hall to George Washington Hall and then walks straight from George Washington Hall to Paresky Commons, it takes her $8$ minutes and $45$ seconds while walking at a constant speed. If she walks with the same speed directly from Graves Hall to Paresky Commons, how much time does she save, in seconds?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 150
+==================================================
+

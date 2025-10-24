@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10171
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three different one-digit positive integers are placed in the bottom row of cells. Numbers in adjacent cells are added and the sum is placed in the cell above them. In the second row, continue the same process to obtain a number in the top cell. What is the difference between the largest and smallest numbers possible in the top cell? [asy]
+path box=(0,0)--(1,0)--(1,1)--(0,1)--cycle;
+draw(box);
+draw(shift(1.5,0)*box);
+draw(shift(3,0)*box);
+draw(shift(.75,2)*box);
+draw(shift(2.25,2)*box);
+draw(shift(1.5,4)*box);
+picture p;
+draw(p, (.6,.2)--(.95, .8), EndArrow);
+draw(p, (1.9,.2)--(1.55, .8), EndArrow);
+draw(p, (1.25, .8)--(1.25,.6));
+draw(p, (1.15, .7)--(1.35,.7));
+add(shift(0,1)*p);
+add(shift(1.5,1)*p);
+add(shift(.75,3)*p);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 26
+==================================================
+

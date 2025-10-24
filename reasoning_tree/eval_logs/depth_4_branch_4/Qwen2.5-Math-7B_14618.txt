@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14618
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ted's grandfather used his treadmill on $3$ days this week. He went $2$ miles each day. On Monday he jogged at a speed of $5$ miles per hour. He walked at the rate of $3$ miles per hour on Wednesday and at $4$ miles per hour on Friday. If Grandfather had always walked at $4$ miles per hour, he would have spent less time on the treadmill. How many minutes less did he spend?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

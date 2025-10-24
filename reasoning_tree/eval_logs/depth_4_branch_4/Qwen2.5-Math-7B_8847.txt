@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8847
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Sequence $A$ is a geometric sequence. Sequence $B$ is an arithmetic sequence. Each sequence stops as soon as one of its terms is greater than $300.$ What is the least positive difference between a number selected from sequence $A$ and a number selected from sequence $B?$
+
+$\bullet$ Sequence $A:$ $2,$ $4,$ $8,$ $16,$ $32,$ $\ldots$
+
+$\bullet$ Sequence $B:$ $20,$ $40,$ $60,$ $80,$ $100,$ $\ldots$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10588
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The largest term in the binomial expansion of $(1 + \tfrac{1}{2})^{31}$ is of the form $\tfrac{a}{b}$, where $a$ and $b$ are relatively prime positive integers.  What is the value of $b$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1024
+==================================================
+

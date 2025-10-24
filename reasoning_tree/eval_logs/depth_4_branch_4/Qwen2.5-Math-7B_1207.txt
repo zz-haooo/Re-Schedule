@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1207
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sides of a triangle are $x$, $2x+1$, and $x+2$, where $x$ is a positive rational number. One of the angles of the triangle is $60$ degrees. Find the perimeter of the triangle.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

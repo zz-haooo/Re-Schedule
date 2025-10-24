@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 482
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $(a_n)_{n \geq 0}$ be the sequence of integers defined recursively by $a_0 = 0$, $a_1 = 1$, and $a_{n+2} = 4a_{n+1} + a_n$ for $n \geq 0$. Find the common divisors of $a_{1986}$ and $a_{6891}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

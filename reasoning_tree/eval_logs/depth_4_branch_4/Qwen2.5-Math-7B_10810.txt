@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10810
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $\angle ABC = 90^\circ$ and $AD$ is an angle bisector.  If $AB = 90,$ $BC = x$, and $AC = 2x - 6,$ then find the area of $\triangle ADC$. Round your answer to the nearest integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1363
+==================================================
+

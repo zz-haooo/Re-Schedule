@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2512
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The following diagram shows an eight-sided polygon $ABCDEFGH$ with side lengths $8, 15, 8, 8, 8, 6, 8,$ and $29$ as shown. All of its angles are right angles. Transform this eight-sided polygon into a six-sided polygon by connecting $B$ to $D$ with an edge and $E$ to $G$ with an edge to form polygon $ABDEGH$. Find the perimeter of $ABDEGH$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 80
+==================================================
+

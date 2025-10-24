@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7115
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ C_1$ and $ C_2$ be externally tangent circles with radius 2 and 3, respectively. Let $ C_3$ be a circle internally tangent to both $ C_1$ and $ C_2$ at points $ A$ and $ B$, respectively. The tangents to $ C_3$ at $ A$ and $ B$ meet at $ T$, and $ TA \equal{} 4$. Determine the radius of $ C_3$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

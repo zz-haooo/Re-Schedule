@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4497
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Cyclic quadrilateral $ABCD$ satisfies $\angle ADC = 2 \cdot \angle BAD = 80^\circ$ and $\overline{BC} = \overline{CD}$. Let the angle bisector of $\angle BCD$ meet $AD$ at $P$. What is the measure, in degrees, of $\angle BPD$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

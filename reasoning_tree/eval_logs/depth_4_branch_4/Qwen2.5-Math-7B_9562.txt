@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9562
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Euler's formula states that for a convex polyhedron with $V$ vertices, $E$ edges, and $F$ faces, $V-E+F=2$. A particular convex polyhedron has 32 faces, each of which is either a triangle or a pentagon. At each of its $V$ vertices, $T$ triangular faces and $P$ pentagonal faces meet. What is the value of $100P+10T+V$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 250
+==================================================
+

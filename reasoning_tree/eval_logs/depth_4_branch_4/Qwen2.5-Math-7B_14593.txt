@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14593
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In rectangle \(ABCD\), \(AB=6\), \(AD=30\), and \(G\) is the midpoint of \(\overline{AD}\). Segment \(AB\) is extended \(2\) units beyond \(B\) to point \(E\), and \(F\) is the intersection of \(\overline{ED}\) and \(\overline{BC}\). The area of quadrilateral \(BFDG\) is originally given in the form \(\frac{k}{m}\). Please calculate the value of \(k + m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 137
+==================================================
+

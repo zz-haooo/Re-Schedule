@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9162
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Below is a portion of the graph of a function, $y=u(x)$:
+
+[asy]
+import graph; size(5.5cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-3.25,xmax=3.25,ymin=-3.25,ymax=3.25;
+
+pen cqcqcq=rgb(0.75,0.75,0.75);
+
+/*grid*/ pen gs=linewidth(0.7)+cqcqcq+linetype("2 2"); real gx=1,gy=1;
+for(real i=ceil(xmin/gx)*gx;i<=floor(xmax/gx)*gx;i+=gx) draw((i,ymin)--(i,ymax),gs); for(real i=ceil(ymin/gy)*gy;i<=floor(ymax/gy)*gy;i+=gy) draw((xmin,i)--(xmax,i),gs);
+
+Label laxis; laxis.p=fontsize(10);
+
+xaxis("",xmin,xmax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); yaxis("",ymin,ymax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true);
+real f1(real x){return -x+3*sin(x*pi/3);}
+draw(graph(f1,-3.25,3.25),linewidth(1));
+clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle);
+[/asy]
+
+What is the exact value of $u(-2.33)+u(-0.81)+u(0.81)+u(2.33)$ ?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3093
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jon wrote the $n$ smallest perfect squares on one sheet of paper, and the $n$ smallest triangular numbers on another sheet (note that $0$ is both square and triangular). Jon notices that there are the same number of triangular numbers on the first paper as there are squares on the second paper. However, if $n$ had been one smaller, this would not have been true. If $n < 2008$, let $m$ be the greatest number Jon could have written on either paper. Find the remainder when $m$ is divided by $2008$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 89
+==================================================
+

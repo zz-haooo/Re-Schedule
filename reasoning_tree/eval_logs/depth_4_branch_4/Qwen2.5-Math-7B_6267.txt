@@ -1,0 +1,26 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6267
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The square quilt block shown is used in a larger quilt. The four small squares in the block are congruent, and the four small vertical rectangles in the block that are not squares are also congruent. The total area of the shaded regions is what fraction of the total area of the block? Express your answer as a common fraction.
+
+[asy]
+fill((-10,0)--(-5,0)--(-5,5)--cycle,gray(0.7));
+fill((-5,5)--(-5,10)--(0,10)--cycle,gray(0.7));
+fill((0,0)--(0,10)--(10,10)--cycle,gray(0.7));
+fill((0,0)--(-10,-10)--(0,-10)--cycle,gray(0.7));
+fill((0,-10)--(5,-10)--(5,-5)--cycle,gray(0.7));
+fill((5,-5)--(5,0)--(10,0)--cycle,gray(0.7));
+draw((10,10)--(10,-10)--(-10,-10)--(-10,10)--cycle);
+draw((-10,-10)--(10,10));
+draw((0,10)--(0,-10));
+draw((10,0)--(-10,0));
+draw((-5,0)--(-5,10));
+draw((5,0)--(5,-10));
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

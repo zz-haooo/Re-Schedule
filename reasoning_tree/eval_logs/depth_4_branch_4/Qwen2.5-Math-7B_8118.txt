@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8118
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Bradley is driving at a constant speed. When he passes his school, he notices that in $20$ minutes he will be exactly $\frac14$ of the way to his destination, and in $45$ minutes he will be exactly $\frac13$ of the way to his destination. Find the number of minutes it takes Bradley to reach his destination from the point where he passes his school.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 245
+==================================================
+

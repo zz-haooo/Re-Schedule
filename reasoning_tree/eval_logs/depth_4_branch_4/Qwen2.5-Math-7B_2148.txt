@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2148
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $N$ be the set $\{1, 2, \dots, 2018\}$. For each subset $A$ of $N$ with exactly $1009$ elements, define 
+\[f(A) = \sum\limits_{i \in A} i \sum\limits_{j \in N, j \notin A} j.\]
+If $\mathbb{E}[f(A)]$ is the expected value of $f(A)$ as $A$ ranges over all the possible subsets of $N$ with exactly $1009$ elements, find the remainder when the sum of the distinct prime factors of $\mathbb{E}[f(A)]$ is divided by $1000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 441
+==================================================
+

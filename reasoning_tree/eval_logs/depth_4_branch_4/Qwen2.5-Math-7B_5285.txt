@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5285
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p$ be the largest prime less than $2013$ for which \[ N = 20 + p^{p^{p+1}-13} \] is also prime. Find the remainder when $N$ is divided by $10^4$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1781
+==================================================
+

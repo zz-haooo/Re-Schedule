@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16884
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A multiple choice examination consists of $20$ questions. The scoring is $+5$ for each correct answer, $-2$ for each incorrect answer, and $0$ for each unanswered question. John's score on the examination is $48$. What is the maximum number of questions he could have answered correctly?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

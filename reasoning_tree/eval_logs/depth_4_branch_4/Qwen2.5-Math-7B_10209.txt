@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10209
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Our physics club has $20$ members, among which we have 3 officers: President, Vice President, and Treasurer.  However, one member, Alex, hates another member, Bob.  How many ways can we fill the offices if Alex refuses to serve as an officer if Bob is also an officer? (No person is allowed to hold more than one office.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6732
+==================================================
+

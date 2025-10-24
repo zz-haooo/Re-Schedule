@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8909
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alice, Bailey, Cindy, and Daniel walked around their neighborhoods selling pens. Alice earned $\$25.67$, Bailey earned $\$17.21$, Cindy earned $\$39.17$, and Daniel earned $\$26.32$. After the sale, they pooled their money together and went to the bank to convert the coins into dollars. How many cents in change did they have left after they converted as many of the coins into bills as they could?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 37
+==================================================
+

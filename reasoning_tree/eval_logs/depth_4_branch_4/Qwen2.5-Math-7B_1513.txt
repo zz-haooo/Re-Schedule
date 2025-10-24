@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1513
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $ABCDE$ is a convex pentagon with $\angle A = 90^\circ$, $\angle B = 105^\circ$, $\angle C = 90^\circ$ and $AB = 2$, $BC = CD = DE = \sqrt{2}$. If the length of $AE$ is $\sqrt{a} - b$ where $a$ and $b$ are integers, what is the value of $a + b$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

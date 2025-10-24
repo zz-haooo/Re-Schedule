@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9894
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The area of triangle $XYZ$ is 8 square inches.  Points $A$ and $B$ are midpoints of congruent segments $\overline{XY}$ and $\overline{XZ}$.  Altitude $\overline{XC}$ bisects $\overline{YZ}$.  What is the area (in square inches) of the shaded region? [asy]
+/* AMC8 2002 #20 Problem */
+draw((0,0)--(10,0)--(5,4)--cycle);
+draw((2.5,2)--(7.5,2));
+draw((5,4)--(5,0));
+fill((0,0)--(2.5,2)--(5,2)--(5,0)--cycle, mediumgrey);
+label(scale(0.8)*"$X$", (5,4), N);
+label(scale(0.8)*"$Y$", (0,0), W);
+label(scale(0.8)*"$Z$", (10,0), E);
+label(scale(0.8)*"$A$", (2.5,2.2), W);
+label(scale(0.8)*"$B$", (7.5,2.2), E);
+label(scale(0.8)*"$C$", (5,0), S);
+fill((0,-.8)--(1,-.8)--(1,-.95)--cycle, white);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

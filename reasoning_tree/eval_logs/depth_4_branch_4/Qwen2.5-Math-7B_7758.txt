@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7758
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sum $$\sum_{m=1}^{2023} \frac{2m}{m^4+m^2+1}$$ can be expressed as $\tfrac{a}{b}$ for relatively prime positive integers $a,b.$ Find the remainder when $a+b$ is divided by $1000.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 105
+==================================================
+

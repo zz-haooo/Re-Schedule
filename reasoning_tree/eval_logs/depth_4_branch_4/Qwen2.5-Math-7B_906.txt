@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 906
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The George Washington Bridge is $2016$ meters long. Sally is standing on the bridge, $1010$ meters from its left end. Each step, she either moves $1$ meter to the left or $1$ meter to the right, each with probability $\frac{1}{2}$. What is the expected number of steps she will take to reach an end of the bridge?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1016060
+==================================================
+

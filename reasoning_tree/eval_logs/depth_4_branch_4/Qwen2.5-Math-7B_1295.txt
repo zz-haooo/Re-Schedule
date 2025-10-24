@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1295
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider a function $f:\mathbb{N}\to\mathbb{N}$ defined by the following rules: 
+
+- $f(1) = 1$
+- $f(2n) = f(n)$
+- $f(2n+1) = f(2n) + 1$
+
+Determine the number of integer values $n$ for which the maximum value of $f(n)$ is achieved, where $0 < n < 2014$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

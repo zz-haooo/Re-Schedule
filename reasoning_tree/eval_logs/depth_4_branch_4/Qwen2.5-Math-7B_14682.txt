@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14682
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The vertices of triangle \(PQR\) have coordinates as follows: \(P(0,a)\), \(Q(b,0)\), \(R(c,d)\), where \(a\), \(b\), \(c\), and \(d\) are positive. The origin and point \(R\) lie on opposite sides of \(PQ\). Find the expression for the area of triangle \(PQR\). The original answer is in the form \(\frac{kac + mbd - nab}{p}\), please give the value of k + m + n + p.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

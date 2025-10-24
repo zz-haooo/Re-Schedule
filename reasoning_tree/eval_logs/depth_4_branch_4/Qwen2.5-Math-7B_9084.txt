@@ -1,0 +1,36 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9084
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The side lengths of both triangles to the right are given in centimeters. What is the length of segment $AB$?
+
+[asy]
+pair A,B,C,D,E,F,G;
+
+A=(0,0);
+B=12*dir(0);
+C=20*dir(120);
+D=8+B;
+E=D+6*dir(0);
+F=D+10*dir(120);
+
+draw(A--B--C--cycle);
+draw(D--E--F--cycle);
+
+label("A",F,N);
+label("B",E+(1.4,0));
+label("6",.5*(A+B),S);
+label("14",.5*(B+C),NE);
+label("10",.5*(A+C),SW);
+label("\small{$120^{\circ}$}",A,NE);
+label("3",.5*(D+E),S);
+label("5",.5*(D+F),SW);
+label("\tiny{$120^{\circ}$}",D+(1.8,0.8));
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

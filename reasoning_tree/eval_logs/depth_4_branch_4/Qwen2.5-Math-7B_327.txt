@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 327
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $m$ and $n$ be positive integers. Fuming Zeng gives James a rectangle, such that $m-1$ lines are drawn parallel to one pair of sides and $n-1$ lines are drawn parallel to the other pair of sides, thus dividing the rectangle into an $m \times n$ grid of smaller rectangles. Fuming Zeng chooses $m+n-1$ of the $mn$ smaller rectangles and then tells James the area of each of the smaller rectangles. Of the $\binom{mn}{m+n-1}$ possible combinations of rectangles and their areas Fuming Zeng could have given, let $C_{m,n}$ be the number of combinations which would allow James to determine the area of the whole rectangle. Given that \[A=\sum_{m=1}^\infty \sum_{n=1}^\infty \frac{C_{m,n}\binom{m+n}{m}}{(m+n)^{m+n}},\] then find the greatest integer less than $1000A$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1289
+==================================================
+

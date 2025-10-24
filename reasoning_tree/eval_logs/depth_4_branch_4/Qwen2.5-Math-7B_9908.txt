@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9908
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, $AB$ is parallel to $DC,$ and $ACE$ is a straight line. What is the value of $x?$ [asy]
+draw((0,0)--(-.5,5)--(8,5)--(6.5,0)--cycle);
+draw((-.5,5)--(8.5,-10/7));
+label("$A$",(-.5,5),W);
+label("$B$",(8,5),E);
+label("$C$",(6.5,0),S);
+label("$D$",(0,0),SW);
+label("$E$",(8.5,-10/7),S);
+draw((2,0)--(3,0),Arrow);
+draw((3,0)--(4,0),Arrow);
+draw((2,5)--(3,5),Arrow);
+label("$x^\circ$",(0.1,4));
+draw((3,5)--(4,5),Arrow);
+label("$115^\circ$",(0,0),NE);
+label("$75^\circ$",(8,5),SW);
+label("$105^\circ$",(6.5,0),E);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

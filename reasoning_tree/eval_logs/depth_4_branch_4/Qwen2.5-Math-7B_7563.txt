@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7563
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f$ be a function which takes in $0, 1, 2$ and returns $0, 1, $ or $2$. The values need not be distinct: for instance we could have $f(0) = 1, f(1) = 1, f(2) = 2$. How many such functions are there which satisfy \[f(2) + f(f(0)) + f(f(f(1))) = 5?\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

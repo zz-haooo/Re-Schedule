@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10190
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The set of points $(x,y)$ such that $|x - 3| \le y \le 4 - |x - 1|$ defines a region in the $xy$-plane.  Compute the area of this region.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

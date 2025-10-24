@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5863
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be an equilateral triangle , and let $D$ and $F$ be points on sides $BC$ and $AB$ , respectively, with $FA = 5$ and $CD = 2$ . Point $E$ lies on side $CA$ such that angle $DEF = 60^{\circ}$ . The area of triangle $DEF$ is $14\sqrt{3}$ . The two possible values of the length of side $AB$ are $p \pm q \sqrt{r}$ , where $p$ and $q$ are rational, and $r$ is an integer not divisible by the square of a prime . Find $r$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 989
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4700
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle with $BC = 7$, $AB = 5$, and $AC = 8$. Let $M$ and $N$ be the midpoints of sides $AC$ and $AB$, respectively, and let $O$ be the circumcenter of $\triangle ABC$. Let $BO$ and $CO$ meet $AC$ and $AB$ at $P$ and $Q$, respectively. If $MN$ meets $PQ$ at $R$ and $OR$ meets $BC$ at $S$, then the value of $OS^2$ can be written in the form $\frac{m}{n}$ where $m$ and $n$ are relatively prime positive integers. Find $100m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 240607
+==================================================
+

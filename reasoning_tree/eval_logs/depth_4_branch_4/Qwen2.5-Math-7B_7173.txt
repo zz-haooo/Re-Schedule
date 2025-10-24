@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7173
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $S$ be the set of integers of the form $2^x+2^y+2^z$, where $x,y,z$ are pairwise distinct non-negative integers.  Determine the $100$th smallest element of $S$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 577
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16433
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Lori makes a list of all the numbers between $1$ and $999$ inclusive. She first colors all the multiples of $5$ red. Then she colors blue every number which is adjacent to a red number. How many numbers in her list are left uncolored?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 402
+==================================================
+

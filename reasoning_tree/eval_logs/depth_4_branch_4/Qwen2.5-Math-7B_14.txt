@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two towns, $A$ and $B$, are $100$ miles apart. Every $20$ minutes (starting at midnight), a bus traveling at $60$ mph leaves town $A$ for town $B$, and every $30$ minutes (starting at midnight), a bus traveling at $20$ mph leaves town $B$ for town $A$. Dirk starts in Town $A$ and gets on a bus leaving for town $B$ at noon. However, Dirk is always afraid he has boarded a bus going in the wrong direction, so each time the bus he is in passes another bus, he gets out and transfers to that other bus. How many hours pass before Dirk finally reaches Town $B$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

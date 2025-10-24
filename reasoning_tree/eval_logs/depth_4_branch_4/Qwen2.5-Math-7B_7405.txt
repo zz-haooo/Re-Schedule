@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7405
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Square $ABCD$ is divided into four rectangles by $EF$ and $GH$. $EF$ is parallel to $AB$ and $GH$ parallel to $BC$.  $\angle BAF = 18^\circ$. $EF$ and $GH$ meet at point $P$. The area of rectangle $PFCH$ is twice that of rectangle $AGPE$. Given that the value of $\angle FAH$ in degrees is $x$, find the nearest integer to $x$.
+[asy]
+size(100); defaultpen(linewidth(0.7)+fontsize(10)); 
+pair D2(pair P) {
+dot(P,linewidth(3)); return P;
+}
+// NOTE: I've tampered with the angles to make the diagram not-to-scale. The correct numbers should be 72 instead of 76, and 45 instead of 55. 
+pair A=(0,1), B=(0,0), C=(1,0), D=(1,1), F=intersectionpoints(A--A+2*dir(-76),B--C)[0], H=intersectionpoints(A--A+2*dir(-76+55),D--C)[0], E=F+(0,1), G=H-(1,0), P=intersectionpoints(E--F,G--H)[0];
+draw(A--B--C--D--cycle);
+draw(F--A--H); draw(E--F); draw(G--H); 
+label("$A$",D2(A),NW);
+label("$B$",D2(B),SW);
+label("$C$",D2(C),SE);
+label("$D$",D2(D),NE);
+label("$E$",D2(E),plain.N);
+label("$F$",D2(F),S);
+label("$G$",D2(G),W);
+label("$H$",D2(H),plain.E);
+label("$P$",D2(P),SE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 45
+==================================================
+

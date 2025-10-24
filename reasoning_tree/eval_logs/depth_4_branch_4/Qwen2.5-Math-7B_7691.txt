@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7691
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Nelson is having his friend drop his unique bouncy ball from a $12$ foot building, and Nelson will only catch the ball at the peak of its trajectory between bounces. On any given bounce, there is an $80\%$ chance that the next peak occurs at $\frac13$ the height of the previous peak and a $20\%$ chance that the next peak occurs at $3$ times the height of the previous peak (where the first peak is at $12$ feet). If Nelson can only reach $4$ feet into the air and will catch the ball as soon as possible, the probability that Nelson catches the ball after exactly $13$ bounces is $2^a \times 3^b  \times 5^c  \times 7^d  \times 11^e$ for integers $a, b, c, d$, and $e$. Find $|a| + |b| + |c| + |d| + |e|$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

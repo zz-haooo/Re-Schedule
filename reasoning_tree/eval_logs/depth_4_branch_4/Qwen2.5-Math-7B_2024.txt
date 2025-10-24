@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2024
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Define a sequence of integers $a_1, a_2, \dots, a_k$ where every term $a_i \in \{1,2\}$, and let $S$ denote their sum. Another sequence of integers $t_1, t_2, \ldots, t_k$ is defined by \[t_i=\sqrt{a_i(S-a_i)},\] for all $t_i$. Suppose that \(\sum_{1 \leq i \leq k} t_i=4000.\) Find the value of \(\sum_{1 \leq i \leq k} a^2_i.\)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 476
+==================================================
+

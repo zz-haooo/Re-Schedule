@@ -1,0 +1,33 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1257
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows two parallel rows with seven points in the upper row and nine points in the lower row. The points in each row are spaced one unit apart, and the two rows are two units apart. How many trapezoids, which are not parallelograms, have vertices in this set of $16$ points and have an area of at least six square units?
+
+\begin{asy}
+import graph; size(7cm); 
+pen dps = linewidth(0.7) + fontsize(10); defaultpen(dps);
+pen dotstyle = black;
+dot((-2,4),linewidth(6pt) + dotstyle); 
+dot((-1,4),linewidth(6pt) + dotstyle); 
+dot((0,4),linewidth(6pt) + dotstyle); 
+dot((1,4),linewidth(6pt) + dotstyle); 
+dot((2,4),linewidth(6pt) + dotstyle); 
+dot((3,4),linewidth(6pt) + dotstyle); 
+dot((4,4),linewidth(6pt) + dotstyle); 
+dot((-3,2),linewidth(6pt) + dotstyle); 
+dot((-2,2),linewidth(6pt) + dotstyle); 
+dot((-1,2),linewidth(6pt) + dotstyle); 
+dot((0,2),linewidth(6pt) + dotstyle); 
+dot((1,2),linewidth(6pt) + dotstyle); 
+dot((2,2),linewidth(6pt) + dotstyle); 
+dot((3,2),linewidth(6pt) + dotstyle); 
+dot((4,2),linewidth(6pt) + dotstyle); 
+dot((5,2),linewidth(6pt) + dotstyle); 
+\end{asy}
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 361
+==================================================
+

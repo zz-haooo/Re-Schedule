@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7547
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The incircle of acute triangle $ABC$ touches $BC, AC$, and $AB$ at points $D, E$, and $F$, respectively. Let $P$ be the second intersection of line $AD$ and the incircle. The line through $P$ tangent to the incircle intersects $AB$ and $AC$ at points $M$ and $N$, respectively. Given that $\overline{AB} = 8, \overline{AC} = 10$, and $\overline{AN} = 4$, let $\overline{AM} = \tfrac{a}{b}$ where $a$ and $b$ are positive coprime integers. What is $a + b$?
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 49
+==================================================
+

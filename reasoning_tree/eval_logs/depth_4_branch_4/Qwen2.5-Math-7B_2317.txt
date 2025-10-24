@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2317
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the number of ordered pairs $(A,B)$ where $A$ and $B$ are subsets of $\{1,2,..., 5\}$ such that neither $A \subseteq B$ nor $B \subseteq A$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 570
+==================================================
+

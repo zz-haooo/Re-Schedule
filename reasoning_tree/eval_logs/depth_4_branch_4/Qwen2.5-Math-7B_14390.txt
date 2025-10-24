@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14390
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The student locker numbers at Olympic High are numbered consecutively beginning with locker number $1$. The plastic digits used to number the lockers cost two cents apiece. Thus, it costs two cents to label locker number $9$ and four cents to label locker number $10$. If it costs $137.94$ to label all the lockers, how many lockers are there at the school? Provide your answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2001
+==================================================
+

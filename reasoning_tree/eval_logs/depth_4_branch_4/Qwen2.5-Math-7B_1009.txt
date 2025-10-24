@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1009
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sequence $\{a_{n}\}_{n\geq 0}$ is defined by:
+
+- $a_{0} = 20$
+- $a_{1} = 100$
+- $a_{n+2} = 4a_{n+1} + 5a_{n} + 20$ for $n = 0, 1, 2, \ldots$
+
+Find the smallest positive integer $h$ satisfying $1998 \mid (a_{n+h} - a_{n})$ for all $n = 0, 1, 2, \ldots$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 108
+==================================================
+

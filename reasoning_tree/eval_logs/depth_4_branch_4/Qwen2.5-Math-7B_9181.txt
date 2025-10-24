@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9181
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+One line is parameterized by
+\[\begin{pmatrix} -1 + s \\ 3 - ks \\ 1 + ks \end{pmatrix}.\]Another line is parameterized by
+\[\begin{pmatrix} t/2 \\ 1 + t \\ 2 - t \end{pmatrix}.\]If the lines are coplanar (i.e. there is a plane that contains both lines), then find $k.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -2
+==================================================
+

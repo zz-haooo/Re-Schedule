@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14242
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Five times $A$'s money added to $B$'s money is more than $51.00$. Three times $A$'s money minus $B$'s money is $21.00$. If $a$ represents $A$'s money in dollars and $b$ represents $B$'s money in dollars, find the smallest integer value of $a$ and $b$ that satisfy these conditions. The answer should be in the form $a > m, b > n$. Please give the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

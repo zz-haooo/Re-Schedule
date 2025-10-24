@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10258
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A square region $ABCD$ is externally tangent to the circle with equation $x^2+y^2=1$ at the point $(0,1)$ on the side $CD$.  Vertices $A$ and $B$ are on the circle with equation $x^2+y^2=4$.  The side length of this square can be expressed in the form $\frac{a\sqrt{b}-c}{d}$, where $b$ is not divisible by the square of any prime, and $a$, $c$, and $d$ share no common factors. Find $a+b+c+d$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

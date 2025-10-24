@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15258
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ang, Ben, and Jasmin each have $5$ blocks, colored red, blue, yellow, white, and green; and there are $5$ empty boxes. Each of the people randomly and independently of the other two people places one of their blocks into each box. The probability that at least one box receives $3$ blocks all of the same color is \(\frac{m}{n}\), where \(m\) and \(n\) are relatively prime positive integers. Please calculate the value of \(m + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 471
+==================================================
+

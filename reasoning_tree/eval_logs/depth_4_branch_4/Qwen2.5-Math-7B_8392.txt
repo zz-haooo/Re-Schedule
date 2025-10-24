@@ -1,0 +1,38 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8392
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Five identical rectangles are arranged to form a larger rectangle $PQRS$, as shown.  The area of $PQRS$ is $4000$.  What is the length, $x$, rounded off to the nearest integer? [asy]
+real x = 1; real w = 2/3;
+
+// Draw outer square and labels
+pair s = (0, 0); pair r = (2 * x, 0); pair q = (3 * w, x + w); pair p = (0, x + w);
+draw(s--r--q--p--cycle);
+label("$S$", s, SW); label("$R$", r, SE); label("$Q$", q, NE); label("$P$", p, NW);
+
+// Draw other segments
+draw((x, 0)--(x, w));
+draw((0, w)--(2 * x, w));
+draw((w, x + w)--(w, w)); draw((2 * w, x + w)--(2 * w, w));
+
+// length labels
+pair upper = (-0.1, x + w);
+pair lower = (-0.1, w);
+draw(lower--upper);
+draw((-0.1 - 0.03, x + w)--(-0.1 + 0.03, x + w));
+draw((-0.1 - 0.03, w)--(-0.1 + 0.03, w));
+label("$x$", midpoint((-0.1, w)--(-0.1, x + w)), W);
+
+pair left = (0, -0.1); pair right = (x, -0.1);
+draw((0, -0.1 + 0.03)--(0, -0.1 - 0.03));
+draw((x, -0.1 - 0.03)--(x, -0.1 + 0.03));
+draw(left--right);
+label("$x$", (x/2, -0.1), S);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

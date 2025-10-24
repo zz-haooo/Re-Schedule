@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9834
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$A, B, C$ and $D$ are distinct positive integers such that the product $AB = 60$,  the product $CD = 60$ and $A - B = C + D$ .  What is the value of $A$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

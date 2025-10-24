@@ -1,0 +1,35 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10601
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The points on this graph show the end-of-year sales amounts for each year. During what year after 1994 did sales increase the most number of dollars?  Express your answer as a 4-digit year.
+
+[asy]unitsize(101/10);
+real textsize = 10, largetext = 12;
+draw((10,0)--(0,0)--(0,10),Arrows(4,20));
+path verticalmark = (0,-.3)--(0,.3), horizontalmark = (-.3,0)--(.3,0);
+draw(verticalmark);
+for(int i = 1; i<10;++i)
+
+draw(shift(i*right)*verticalmark);
+for(int i = 1; i<7; ++i)
+
+draw(shift(9*i/6*up)*horizontalmark);
+for(int i = 0; i<3; ++i)
+label(string(5(2i+1)),(-.25,9/6 + 9/3*i),left,fontsize(textsize*pt));
+for(int i = 0; i<3; ++i)
+label("'"+string(94+2i),(2i,-1),fontsize(textsize*pt));
+label("'00",(6,-1),fontsize(textsize*pt));
+label("'02",(8,-1),fontsize(textsize*pt));
+label("\textbf{Year}",(5,-2.5),fontsize(largetext*pt));
+label(rotate(90)*"\textbf{Millions of Dollars}",(-2.5,5),fontsize(largetext*pt));
+pair A = (0,9/6*2), B = (1,9/6*2.4), C = (2,9/6*3), D = (3,9/6*3.25), E = (4,9/6*4.2), F = (5,9/6*4.5),G = (6,9/6*4.8),H = (7,9/6*5.2), I = (8,9/6*4.75),J = (9,9/6*3.25);
+draw(A--B--C--D--E--F--G--H--I--J);
+dot(A);dot(B);dot(C);dot(D);dot(E);dot(F);dot(G);dot(H);dot(I);dot(J);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1998
+==================================================
+

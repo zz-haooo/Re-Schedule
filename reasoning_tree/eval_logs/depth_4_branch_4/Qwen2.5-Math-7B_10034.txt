@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10034
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sequence consists of $2010$ terms.  Each term after the first is 1 larger than the previous term.  The sum of the $2010$ terms is $5307$.  When every second term is added up, starting with the first term and ending with the second last term, what is the sum?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2151
+==================================================
+

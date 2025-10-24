@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16995
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sum of two numbers is $S$. Suppose $3$ is added to each number and then each of the resulting numbers is doubled. What is the sum of the final two numbers? Provide your answer in the form of $aS + b$, where $a$ and $b$ are constants. Please give the value of $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

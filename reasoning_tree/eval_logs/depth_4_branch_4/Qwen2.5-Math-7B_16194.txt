@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16194
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The radius of Earth at the equator is approximately 4000 miles. Suppose a jet flies once around Earth at a speed of 500 miles per hour relative to Earth. If the flight path is a negligible height above the equator, find the best estimate of the number of hours of flight.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

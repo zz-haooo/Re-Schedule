@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4847
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p = 10009$ be a prime number. Determine the number of ordered pairs of integers $(x, y)$ such that $1 \leq x, y \leq p$ and $x^3 - 3xy + y^3 + 1$ is divisible by $p$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30024
+==================================================
+

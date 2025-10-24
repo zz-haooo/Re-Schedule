@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13073
+Question: 在三棱雉 $D-A B C$ 中, $\angle B A D=30^{\circ}$, $\angle A C B=\angle A B D=90^{\circ}, C A=C B$. 若点 $C$ 在平面 $A B D$ 上的射影恰在 $A D$ 上, 则二面角 $C$ $A B-D$ 的平面角的正弦值大小为 $\frac{\sqrt{m}}{n}$ 的形式，请给出m + n的值。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 9
+==================================================
+

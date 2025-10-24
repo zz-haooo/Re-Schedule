@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2770
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(x) = x^3 + 3x^2 + 1$. There is a unique line of the form $y = mx + b$ such that $m > 0$ and this line intersects $f(x)$ at three points, $A, B, C$ such that $AB = BC = 2$. Find $\lfloor 100m \rfloor$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 41
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15631
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many ordered pairs $(s, d)$ of positive integers with $4 \leq s \leq d \leq 2019$ are there such that when $s$ silver balls and $d$ diamond balls are randomly arranged in a row, the probability that the balls on each end have the same color is $\frac{1}{2}$? Provide your answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

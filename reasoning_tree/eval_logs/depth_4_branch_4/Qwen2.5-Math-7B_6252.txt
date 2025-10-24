@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6252
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a right triangle, one of the acute angles $\alpha$ satisfies
+\[\tan \frac{\alpha}{2} = \frac{1}{\sqrt[3]{2}}.\]Let $\theta$ be the angle between the median and the angle bisector drawn from this acute angle.  Find $\tan \theta.$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

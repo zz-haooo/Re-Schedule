@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2306
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Lynnelle took 10 tests in her math class at Stanford. Her score on each test was an integer from 0 through 100. She noticed that, for every four consecutive tests, her average score on those four tests was at most 47.5. What is the largest possible average score she could have on all 10 tests?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 57
+==================================================
+

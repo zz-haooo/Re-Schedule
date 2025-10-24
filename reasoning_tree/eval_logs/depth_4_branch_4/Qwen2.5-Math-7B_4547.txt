@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4547
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle with sides $51$, $52$, and $53$. Let $\Omega$ denote the incircle of $\triangle ABC$. Draw tangents to $\Omega$ which are parallel to the sides of $ABC$. Let $r_1$, $r_2$, $r_3$ be the inradii of the three corner triangles so formed. Find the largest integer that does not exceed $r_1 + r_2 + r_3$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 190
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Michael, David, Evan, Isabella, and Justin compete in the NIMO Super Bowl, a round-robin cereal-eating tournament. Each pair of competitors plays exactly one game, in which each competitor has an equal chance of winning (and there are no ties). The probability that none of the five players wins all of his/her games is $\frac{m}{n}$ for relatively prime positive integers $m$, $n$. Compute $100m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1116
+==================================================
+

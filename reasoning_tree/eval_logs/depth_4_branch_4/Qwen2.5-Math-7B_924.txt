@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 924
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a$, $b$, $c$ be positive real numbers for which:
+\[
+  \frac{5}{a} = b+c, \quad
+  \frac{10}{b} = c+a, \quad \text{and} \quad
+  \frac{13}{c} = a+b.
+\]
+If $a+b+c = \frac{m}{n}$ for relatively prime positive integers $m$ and $n$, compute $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 55
+==================================================
+

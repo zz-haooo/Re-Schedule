@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8584
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $\angle ABC = 90^\circ$, and point $D$ lies on segment $\overline{BC}$ such that $\overline{AD}$ is an angle bisector.  If $AB = 12$ and $BD = 4$, then find $AC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

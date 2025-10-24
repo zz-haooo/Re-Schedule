@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10795
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A certain organization consists of five leaders and some number of regular members. Every year, the current leaders are kicked out of the organization. Next, each regular member must find two new people to join as regular members. Finally, five new people are elected from outside the organization to become leaders. In the beginning, there are fifteen people in the organization total. How many people total will be in the organization five years from now?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2435
+==================================================
+

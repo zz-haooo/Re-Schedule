@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1811
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We have a group of $n$ kids. For each pair of kids, at least one has sent a message to the other one. For each kid $A$, among the kids to whom $A$ has sent a message, exactly $25\%$ have sent a message to $A$. How many possible two-digit values of $n$ are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 26
+==================================================
+

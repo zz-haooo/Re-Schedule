@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5114
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $XYZ$ be a right triangle with an area of $1 \text{ m}^2$. Consider the triangle $X'Y'Z'$ such that:
+- $X'$ is the symmetric of $X$ with respect to side $YZ$.
+- $Y'$ is the symmetric of $Y$ with respect to side $XZ$.
+- $Z'$ is the symmetric of $Z$ with respect to side $XY$.
+
+Calculate the area of the triangle $X'Y'Z'$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 723
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Talithia throws a party on the fifth Saturday of every month that has five Saturdays. That is, if a month has five Saturdays, Talithia has a party on the fifth Saturday of that month, and if a month has four Saturdays, then Talithia does not have a party that month. Given that January $1$, $2010$ was a Friday, compute the number of parties Talithia will have in $2010$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

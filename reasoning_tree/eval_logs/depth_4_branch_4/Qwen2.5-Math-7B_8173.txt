@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8173
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Four small spheres each with radius $6$ are each internally tangent to a large sphere with radius $17$. The four small spheres form a ring with each of the four spheres externally tangent to its two neighboring small spheres. A sixth intermediately sized sphere is internally tangent to the large sphere and externally tangent to each of the four small spheres. Its radius is $\frac{m}{n}$ , where m and n are relatively prime positive integers. Find $m + n$.
+[img]https://cdn.artofproblemsolving.com/attachments/7/2/25955cd6f22bc85f2f3c5ba8cd1ee0821c9d50.png[/img]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 56
+==================================================
+

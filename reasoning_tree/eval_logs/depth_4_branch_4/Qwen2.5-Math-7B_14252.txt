@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14252
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a narrow alley of width $w$, a ladder of length $a$ is placed with its foot at point $P$ between the walls. Resting against one wall at $Q$, the distance $k$ above the ground makes a $45^\circ$ angle with the ground. Resting against the other wall at $R$, a distance $h$ above the ground, the ladder makes a $75^\circ$ angle with the ground. The width $w$ can be expressed as w = x*h. Find the value of x.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1080
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the number of ten-digit positive integers with the following properties:
+
+- Each of the digits $0, 1, 2, \ldots, 8, 9$ is contained exactly once.
+- Each digit, except $9$, has a neighboring digit that is larger than it.
+
+(Note: For example, in the number $1230$, the digits $1$ and $3$ are the neighboring digits of $2$, while $2$ and $0$ are the neighboring digits of $3$. The digits $1$ and $0$ have only one neighboring digit.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 256
+==================================================
+

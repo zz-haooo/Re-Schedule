@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9502
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the following six statements:
+
+1. $x < x^2 < x^3$
+2. $x < x^3 < x^2$
+4. $x^2 < x < x^3$
+8. $x^2 < x^3 < x$
+16. $x^3 < x < x^2$
+32. $x^3 < x^2 < x$
+
+
+Enter the sum of the labels of statement that hold for some value of $x.$  For example, if you think the statements with labels 2 and 8 hold for some value of $x,$ then enter $2 + 8 = 10.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 51
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3597
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle with $AB = 5$, $AC = 8$, and $BC = 7$. Let $D$ be on side $AC$ such that $AD = 5$ and $CD = 3$. Let $I$ be the incenter of triangle $ABC$ and $E$ be the intersection of the perpendicular bisectors of $\overline{ID}$ and $\overline{BC}$. Suppose $DE = \frac{a\sqrt{b}}{c}$ where $a$ and $c$ are relatively prime positive integers, and $b$ is a positive integer not divisible by the square of any prime. Find $a+b+c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2567
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(X, Y, Z) = X^5Y - XY^5 + Y^5Z - YZ^5 + Z^5X - ZX^5$.
+
+Find \( \frac{f(2009, 2010, 2011) + f(2010, 2011, 2009) - f(2011, 2010, 2009)}{f(2009, 2010, 2011)} \)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

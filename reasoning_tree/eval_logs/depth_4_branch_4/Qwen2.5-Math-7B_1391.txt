@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1391
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In trapezoid $ABCD$ with $AD \parallel BC$, $AB = 6$, $AD = 9$, and $BD = 12$. If $\angle ABD = \angle DCB$, find the perimeter of the trapezoid.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 39
+==================================================
+

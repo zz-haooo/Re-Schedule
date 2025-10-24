@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1312
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Samantha is about to celebrate her sweet 16th birthday. To celebrate, she chooses a five-digit positive integer of the form \( SWEET \), in which the two \( E \)'s represent the same digit but otherwise the digits are distinct. (The leading digit \( S \) can't be 0.) How many such integers are divisible by 16?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 282
+==================================================
+

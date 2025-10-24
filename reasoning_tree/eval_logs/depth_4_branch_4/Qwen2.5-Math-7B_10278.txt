@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10278
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, $ABCD$ is a square with side length $6,$ and $WXYZ$ is a rectangle with $ZY=10$ and $XY=6.$ Also, $AD$ and $WX$ are perpendicular. If the shaded area is equal to half of the area of $WXYZ,$ what is the length of $AP?$
+
+[asy]
+draw((0,0)--(10,0)--(10,6)--(0,6)--cycle,black+linewidth(1));
+draw((1.5,1)--(7.5,1)--(7.5,7)--(1.5,7)--cycle,black+linewidth(1));
+filldraw((1.5,1)--(7.5,1)--(7.5,6)--(1.5,6)--cycle,gray,black+linewidth(1));
+label("$W$",(0,6),NW);
+label("$X$",(10,6),NE);
+label("$Y$",(10,0),SE);
+label("$Z$",(0,0),SW);
+label("$A$",(1.5,7),NW);
+label("$B$",(7.5,7),NE);
+label("$C$",(7.5,1),E);
+label("$D$",(1.5,1),W);
+label("$P$",(1.5,6),SW);
+label("6",(1.5,7)--(7.5,7),N);
+label("6",(10,0)--(10,6),E);
+label("10",(0,0)--(10,0),S);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

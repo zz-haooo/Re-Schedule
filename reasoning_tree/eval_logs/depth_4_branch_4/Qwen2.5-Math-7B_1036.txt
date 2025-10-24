@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1036
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$ be the eight vertices of a $30 \times 30 \times 30$ cube. The two figures $ACFH$ and $BDEG$ are congruent regular tetrahedra. Find the volume of the intersection of these two tetrahedra.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4500
+==================================================
+

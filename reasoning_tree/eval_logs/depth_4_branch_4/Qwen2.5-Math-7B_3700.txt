@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3700
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Dima has written the numbers $\frac{1}{80!}, \frac{1}{81!}, \ldots, \frac{1}{99!}$ on 20 infinite pieces of paper as decimal fractions. For example, the following is written on the last piece: \( \frac{1}{99!} = 0.\underbrace{00\ldots00}_{155\text{ zeros}}10715\ldots \). Sasha wants to cut a fragment of $N$ consecutive digits from one of these pieces without the comma. What is the maximal $N$ for which Sasha can do this so that Dima cannot guess from which piece Sasha has cut his fragment?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 155
+==================================================
+

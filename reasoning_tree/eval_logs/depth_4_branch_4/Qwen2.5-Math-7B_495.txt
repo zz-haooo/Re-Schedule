@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 495
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Camilla drove $20$ miles in the city at a constant speed and $40$ miles in the country at a constant speed that was $20$ miles per hour greater than her speed in the city. Her entire trip took one hour. Find the number of minutes that Camilla drove in the country, rounded to the nearest minute.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

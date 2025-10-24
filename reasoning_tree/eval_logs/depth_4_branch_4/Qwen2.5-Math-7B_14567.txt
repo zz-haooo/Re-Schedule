@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14567
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two integers have a sum of $26$. When two more integers are added to the first two, the sum is $41$. Finally, when two more integers are added to the sum of the previous $4$ integers, the sum is $57$. Find the minimum number of even integers among the $6$ integers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

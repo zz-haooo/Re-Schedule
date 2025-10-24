@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7863
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Penelope plays a game where she adds $25$ points to her score each time she wins a game and deducts $13$ points from her score each time she loses a game.  Starting with a score of zero, Penelope plays $m$ games and has a total score of $2007$ points.  What is the smallest possible value for $m$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 97
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16371
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a bag of marbles, \(\frac{3}{5}\) of the marbles are blue and the rest are red. If the number of red marbles is doubled and the number of blue marbles stays the same, what fraction of the marbles will be red? The original answer is in the form \(\frac{k}{m}\), where the fraction is in simplest form. Please provide the value of \(k + m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

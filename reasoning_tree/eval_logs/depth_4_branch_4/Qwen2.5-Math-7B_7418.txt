@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7418
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose the polynomial $x^3 - x^2 + bx + c$ has real roots $a, b, c$. What is the square of the minimum value of $abc$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

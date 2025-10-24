@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15403
+Question: 已知两个实数集合 $A=\left\{a_{1}, a_{2}, a_{3}, \cdots, a_{100}\right\}$ ，与 $B=\left\{b_{1}, b_{2}, \cdots, b_{50}\right\}$ ，若从 $A$ 到 $B$ 的映射 $f$ 使得 $B$ 中每个元素都有原象，且 $f\left(a_{1}\right) \leqslant f\left(a_{2}\right) \leqslant \cdots \leqslant f\left(a_{100}\right)$ ，则这样的映射共有多少种？请以 $C_{m}^{n}$ 的形式给出，并求出m+n的值。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 148
+==================================================
+

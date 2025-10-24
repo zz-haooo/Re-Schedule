@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1470
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alison is eating $2401$ grains of rice for lunch. She eats the rice in a peculiar manner: 
+
+1. If she has only one grain of rice remaining, she eats it.
+2. Otherwise, she finds the smallest positive integer $d > 1$ for which she can group the rice into equal groups of size $d$ with none left over. 
+3. She then groups the rice into groups of size $d$, eats one grain from each group, and puts the rice back into a single pile.
+
+How many steps does it take her to finish all her rice?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

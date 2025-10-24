@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14654
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A ball with diameter 4 inches starts at point A to roll along the track shown. The track is comprised of 3 semicircular arcs whose radii are \(R_1 = 100\) inches, \(R_2 = 60\) inches, and \(R_3 = 80\) inches, respectively. The ball always remains in contact with the track and does not slip. If the answer is \(x\pi\), what is the value of \(x\) for the distance the center of the ball travels over the course from A to B?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 238
+==================================================
+

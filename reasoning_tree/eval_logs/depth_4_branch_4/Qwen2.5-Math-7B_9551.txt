@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9551
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A rectangle has integer side lengths. One pair of opposite sides is increased by $30\%$ and the other pair of sides is decreased by $20\%$. The new side lengths are also integers. What is the smallest possible area, in square units, of the new rectangle?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 52
+==================================================
+

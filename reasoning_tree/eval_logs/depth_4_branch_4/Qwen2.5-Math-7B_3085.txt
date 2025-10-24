@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3085
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $S$ be the set of integers which are both a multiple of $70$ and a factor of $630,000$. A random element $c$ of $S$ is selected. If the probability that there exists an integer $d$ with $\gcd(c, d) = 70$ and $\operatorname{lcm}(c, d) = 630,000$ is $\frac{m}{n}$ for some relatively prime integers $m$ and $n$, compute $100m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 106
+==================================================
+

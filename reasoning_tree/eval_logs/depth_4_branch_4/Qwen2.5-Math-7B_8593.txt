@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8593
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ equal the number of sides in a regular polygon. For $3\leq n < 10$, how many values of $n$ result in a regular polygon where the common degree measure of the interior angles is not an integer?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

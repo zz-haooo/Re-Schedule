@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9123
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many ordered pairs $(x, y)$ satisfy BOTH conditions below?
+
+$\bullet$  Condition I: $x = 1$ or $y = 0$ or $y = 2$
+
+$\bullet$  Condition II: $x = 0$ or $x = 2$ or $y = 1$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

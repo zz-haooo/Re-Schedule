@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10323
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three coplanar squares with sides of lengths two, four and six units, respectively, are arranged side-by-side, as shown so that one side of each square lies on line $AB$ and a segment connects the bottom left corner of the smallest square to the upper right corner of the largest square. What is the area of the shaded quadrilateral? [asy] size(150); defaultpen(linewidth(0.9)+fontsize(10));
+fill((2,0)--(6,0)--(6,3)--(2,1)--cycle,gray(0.8));
+draw(scale(2)*unitsquare);
+draw(shift(2,0)*scale(4)*unitsquare);
+draw(shift(6,0)*scale(6)*unitsquare);
+draw((0,0)--(12,6));
+
+real d = 1.2; pair d2 = (0.9,0);
+pair A = (-d,0), B = (12+d,0); dot(A,linewidth(3)); dot(B,linewidth(3)); label("A",A,(0,-1.5)); label("B",B,(0,-1.5)); draw(A-d2--B+d2,Arrows(4));
+label("2",(1,2.7)); label("4",(4,4.7)); label("6",(9,6.7));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

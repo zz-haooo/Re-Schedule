@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7544
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We define the function $f(x,y)=x^3+(y-4)x^2+(y^2-4y+4)x+(y^3-4y^2+4y)$. Then choose any distinct $a, b, c \in \mathbb{R}$ such that the following holds: $f(a,b)=f(b,c)=f(c,a)$. Over all such choices of $a, b, c$, what is the maximum value achieved by
+\[\min(a^4 - 4a^3 + 4a^2, b^4 - 4b^3 + 4b^2, c^4 - 4c^3 + 4c^2)?\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

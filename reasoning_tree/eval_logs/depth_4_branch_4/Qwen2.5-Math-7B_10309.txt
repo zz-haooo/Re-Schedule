@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10309
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $a$ and $b$ are positive integers such that $a-b=6$ and $\text{gcd}\left(\frac{a^3+b^3}{a+b}, ab\right) = 9$. Find the smallest possible value of $b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

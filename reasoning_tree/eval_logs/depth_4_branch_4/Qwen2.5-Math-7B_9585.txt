@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9585
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An 8-inch by 8-inch square is folded along a diagonal creating a triangular region. This resulting triangular region is then folded so that the right angle vertex just meets the midpoint of the hypotenuse. What is the area of the resulting trapezoidal figure in square inches?
+
+[asy]
+fill((0,0)--(10,0)--(10,10)--(0,10)--cycle,gray(.7));
+draw((0,0)--(10,0)--(10,10)--(0,10)--cycle,linewidth(1));
+fill((20,0)--(20,10)--(30,10)--cycle,gray(0.7));
+draw((20,0)--(20,10)--(30,10)--cycle,linewidth(1));
+draw((20,0)--(30,0)--(30,10),dashed);
+fill((40,0)--(40,5)--(45,10)--(50,10)--cycle,gray(0.7));
+draw((40,0)--(40,5)--(45,10)--(50,10)--cycle,linewidth(1));
+draw((40,5)--(45,5)--(45,10));
+draw((40,5)--(40,10)--(45,10),dashed);
+draw((40,0)--(50,0)--(50,10),dashed);
+draw((12,5)--(18,5),Arrow);
+draw((32,5)--(38,5),Arrow);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

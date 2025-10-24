@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7795
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jerry purchased some stock for $ \$14,400$ at the same time that Susan purchased a bond for $ \$6,250$. Jerry’s investment went up $20$ percent the first year, fell $10$ percent the second year, and rose another $20$ percent the third year. Susan’s investment grew at a constant rate of compound interest for three years. If both investments are worth the same after three years, what was the annual percentage increase of Susan’s investment?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 44
+==================================================
+

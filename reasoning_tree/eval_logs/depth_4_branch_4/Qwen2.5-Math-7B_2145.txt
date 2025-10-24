@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2145
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\overline{AD}$ be a diameter of a circle. Let point $B$ be on the circle, point $C$ on $\overline{AD}$ such that $A, B, C$ form a right triangle at $C$. The value of the hypotenuse of the triangle is $4$ times the square root of its area. If $\overline{BC}$ has length $30$, what is the length of the radius of the circle?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 120
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16345
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangles $ABC$ and $ADE$ have areas $2007$ and $7002$, respectively, with $B = (0,0)$, $C = (223,0)$, $D = (680,380)$, and $E = (689,389)$. Find the sum of all possible x-coordinates of $A$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1200
+==================================================
+

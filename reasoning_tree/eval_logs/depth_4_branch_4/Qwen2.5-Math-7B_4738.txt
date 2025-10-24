@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4738
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a rectangle inscribed in circle $\Gamma$, and let $P$ be a point on the minor arc $AB$ of $\Gamma$. Suppose that $PA \cdot PB = 2$, $PC \cdot PD = 18$, and $PB \cdot PC = 9$. The area of rectangle $ABCD$ can be expressed as $\frac{a\sqrt{b}}{c}$, where $a$ and $c$ are relatively prime positive integers and $b$ is a squarefree positive integer. Compute $100a + 10b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21055
+==================================================
+

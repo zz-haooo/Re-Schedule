@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10412
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ has sides $\overline{AB}$, $\overline{BC}$, and $\overline{CA}$ of length 43, 13, and 48, respectively. Let $\omega$ be the circle circumscribed around $\triangle ABC$ and let $D$ be the intersection of $\omega$ and the perpendicular bisector of $\overline{AC}$ that is not on the same side of $\overline{AC}$ as $B$. The length of $\overline{AD}$ can be expressed as $m\sqrt{n}$, where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime. Find the greatest integer less than or equal to $m + \sqrt{n}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

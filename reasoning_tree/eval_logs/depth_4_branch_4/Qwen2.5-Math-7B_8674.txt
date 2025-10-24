@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8674
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Bill buys a stock that decreases by $20\%$ on the first day, and then  on the second day the stock increases by $30\%$ of its value at the end of the first day. What was the overall percent increase in Bill's stock over the two days?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

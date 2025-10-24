@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10304
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+When $\begin{pmatrix} a \\ b \end{pmatrix}$ is projected onto $\begin{pmatrix} \sqrt{3} \\ 1 \end{pmatrix},$ the resulting vector has magnitude $\sqrt{3}.$  Also, $a = 2 + b \sqrt{3}.$  Enter all possible values of $a,$ separated by commas.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

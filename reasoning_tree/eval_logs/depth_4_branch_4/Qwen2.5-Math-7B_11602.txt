@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11602
+Question: 设复数 $z=\cos \theta+i \sin \theta\left(0 \leqslant \theta \leqslant 180^{\circ}\right)$ ，复数 $z ，(1+i) z, 2 \bar{z}$ 在复平面上对应的三个点分别是 $P, Q, R$ 。当 $P, Q, R$ 不共线时，以线段 $P Q, P R$ 为两边的平行四边形的第四个顶点为 $S$ ，点 $S$ 到原点距离的最大值是 $\qquad$。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 3
+==================================================
+

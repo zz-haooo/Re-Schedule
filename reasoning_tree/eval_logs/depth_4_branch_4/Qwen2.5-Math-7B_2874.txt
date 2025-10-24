@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2874
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For all integers $0 \leq k \leq 16$, let 
+\[ S_k = \sum_{j=0}^{k} (-1)^j \binom{16}{j}. \] 
+Compute $\max(S_0, S_1, \ldots, S_{16})$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6435
+==================================================
+

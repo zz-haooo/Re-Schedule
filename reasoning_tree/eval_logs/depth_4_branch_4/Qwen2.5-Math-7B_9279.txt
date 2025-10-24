@@ -1,0 +1,41 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9279
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the function machine shown, the input is 10. What is the output?
+
+[asy]
+size(200); currentpen = fontsize(10pt); picture a,b,c,d,e,f;
+real height = 3, width1 = 10, width2 = 11, width3 = 10, width4 = 10;
+real widthC = 20,heightC = 6;
+real widthE = 10, lengthE = 4.5,angleE = 60;
+draw(a,(0,0)--(width1,0)--(width1,height)--(0,height)--cycle); label(a,"$\mbox{In}\mbox{put}$ = 10",(width1/2,height/2));
+draw(b,(0,0)--(width2,0)--(width2,height)--(0,height)--cycle); label(b,"Multiply by 2",(width2/2,height/2));
+draw(c, (widthC/2,0)--(0,heightC/2)--(-widthC/2,0)--(0,-heightC/2)--cycle);
+label(c,"Compare with 18",(0,0));
+draw(d,(0,0)--(width3,0)--(width3,height)--(0,height)--cycle); label(d,"Add 8",(width1/2,height/2));
+draw(e,(0,0)--(width4,0)--(width4,height)--(0,height)--cycle); label(e,"Subtract 5",(width1/2,height/2));
+draw(f,(0,0)--(widthE,0)--(widthE,0)+lengthE*dir(angleE)--lengthE*dir(angleE)--cycle);
+label(f,"$\mbox{Out}\mbox{put}$ = ?",lengthE/2*dir(angleE) + (widthE/2,0));
+add(shift(width1/2*left)*a); draw((0,0)--(0,-2),EndArrow(4));
+add(shift(5*down + width2/2*left)*b);
+add(shift((7+heightC/2)*down)*c); draw((0,-5)--(0,-7),EndArrow(4));
+pair leftpt = (-widthC/2,-7-heightC/2), rightpt = (widthC/2,-7-heightC/2);
+draw("$\le 18$?",leftpt--(leftpt + 2.5W)); draw((leftpt + 2.5W)--(leftpt + 2.5W+2S),EndArrow(4));
+draw("$> 18?$",rightpt--(rightpt + 2.5E),N); draw((rightpt + 2.5E)--(rightpt + 2.5E+2S),EndArrow(4));
+rightpt = rightpt + 2.5E+2S;
+leftpt = leftpt + 2.5W+2S;
+add(shift(leftpt+height*down+.3*width3*left)*d);
+add(shift(rightpt+height*down+.7*width4*left)*e);
+rightpt = rightpt+.75height*down+.7*width4*left;
+leftpt = leftpt+.75height*down+.7*width3*right;
+draw(leftpt--rightpt);
+pair midpt = (leftpt+rightpt)/2;
+draw(midpt--(midpt+2down),EndArrow(4));
+add(shift(midpt+.65widthE*left+(2+lengthE*Sin(angleE))*down)*f);[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

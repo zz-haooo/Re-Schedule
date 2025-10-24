@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4908
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Charlotte is playing the hit new web number game, Primle. In this game, the objective is to guess a two-digit positive prime integer between $10$ and $99$, called the Primle. For each guess:
+
+- A digit is highlighted blue if it is in the Primle but not in the correct place.
+- A digit is highlighted orange if it is in the Primle and is in the correct place.
+- A digit is left unhighlighted if it is not in the Primle.
+
+If Charlotte guesses $13$ and $47$ and is left with the following game board, what is the Primle?
+
+$$
+\begin{array}{c} 
+    \boxed{1} \quad \boxed{3} \\
+    \boxed{4} \quad \fcolorbox{black}{blue}{\color{white}7}
+\end{array}
+$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 79
+==================================================
+

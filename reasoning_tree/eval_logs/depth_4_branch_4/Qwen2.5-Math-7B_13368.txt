@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13368
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A four-digit number $Y E A R$ is called very good if the system  $$  \begin{aligned}  & Y x+E y+A z+R w=Y \\  & R x+Y y+E z+A w=E \\  & A x+R y+Y z+E w=A \\  & E x+A y+R z+Y w=R  \end{aligned}  $$  of linear equations in the variables $x, y, z$ and $w$ has at least two solutions. Find all very good YEARs in the 21st century and provide the sum of all these years.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12309
+==================================================
+

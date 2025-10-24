@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14228
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A baseball is dropped on top of a basketball. The basketball hits the ground, rebounds with a speed of $4.0 \, \text{m/s}$, and collides with the baseball as it is moving downward at $4.0 \, \text{m/s}$. After the collision, the baseball moves upward as shown in the figure, and the basketball is instantaneously at rest right after the collision. The mass of the baseball is $0.2 \, \text{kg}$ and the mass of the basketball is $0.5 \, \text{kg}$. Ignore air resistance and any changes in velocities due to gravity during the very short collision times. If the speed of the baseball right after colliding with the upward-moving basketball is $x \, \text{m/s}$, what is the value of $x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

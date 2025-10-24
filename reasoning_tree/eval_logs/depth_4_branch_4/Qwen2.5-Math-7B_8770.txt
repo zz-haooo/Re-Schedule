@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8770
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A semicircle is constructed along each side of a right triangle with legs 6 inches and 8 inches. The semicircle placed along the hypotenuse is shaded, as shown. What is the total area of the two non-shaded crescent-shaped regions? Express your answer in simplest form.
+
+[asy]
+unitsize(0.4cm);
+size(101);
+pair A = (0,3), B = (0,0), C = (4,0);
+filldraw(A..B..C--cycle,gray(0.6),black);
+draw(A--B--C);
+draw(Arc(A/2,3/2,90,270)^^Arc(C/2,2,0,-180)); draw(rightanglemark(A,B,C));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

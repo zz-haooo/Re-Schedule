@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10969
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the greatest five-digit number A in which the fourth digit is greater than the fifth; the third greater than the sum of the fourth and fifth; the second greater than the sum of the third, fourth and fifth; and the first greater than the sum of the other digits.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 95210
+==================================================
+

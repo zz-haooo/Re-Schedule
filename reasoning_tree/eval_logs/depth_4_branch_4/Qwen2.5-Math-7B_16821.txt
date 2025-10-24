@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16821
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $AB$ and $CD$ are perpendicular diameters of circle $Q$, $P$ is on $\overline{AQ}$, and $\measuredangle QPC = 60^\circ$, find the ratio of the length of $PQ$ to the length of $AQ$. The original answer is in \(\frac{k\sqrt{3}}{m}\) format, please give the value of k + m.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

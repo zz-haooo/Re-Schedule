@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5048
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two ants sit at the vertex of the parabola $y = x^2$. One starts walking northeast (i.e., upward along the line $y = x$) and the other starts walking northwest (i.e., upward along the line $y = -x$). Each time they reach the parabola again, they swap directions and continue walking. Both ants walk at the same speed. When the ants meet for the eleventh time (including the time at the origin), their paths will enclose 10 squares. What is the total area of these squares?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 770
+==================================================
+

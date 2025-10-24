@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10898
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p$ be an integer, and let the roots of
+\[f(x) = x^4 - 6x^3 + 26x^2 + px + 65\]be $a_k + ib_k$ for $k = 1,$ $2,$ $3,$ $4.$  Given that the $a_k,$ $b_k$ are all integers, and that none of the roots are real, find $p.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -46
+==================================================
+

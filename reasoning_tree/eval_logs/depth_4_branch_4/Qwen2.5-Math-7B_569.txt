@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 569
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A and B are friends at a summer school. When B asks A for his address, he answers: "My house is on XYZ street, and my house number is a 3-digit number with distinct digits. If you permute its digits, you will get 5 other numbers. Interestingly, the sum of these 5 numbers is exactly 2017. That's all." After a while, B can determine A's house number. Can you find his house number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 425
+==================================================
+

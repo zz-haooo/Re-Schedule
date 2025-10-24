@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15142
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An urn contains one red ball and one blue ball. A box of extra red and blue balls lies nearby. George performs the following operation four times: he draws a ball from the urn at random and then takes a ball of the same color from the box and returns those two matching balls to the urn. After the four iterations, the urn contains six balls. What is the probability that the urn contains three balls of each color? Express your answer in the form \(\frac{k}{m}\), where k and m are integers. Then find the value of k + m.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

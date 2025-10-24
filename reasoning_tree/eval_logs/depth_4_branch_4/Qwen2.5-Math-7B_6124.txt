@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6124
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A bug walks all day and sleeps all night. On the first day, it starts at point $O$, faces east, and walks a distance of $5$ units due east. Each night the bug rotates $60^\circ$ counterclockwise. Each day it walks in this new direction half as far as it walked the previous day. The bug gets arbitrarily close to the point $P$. Then $OP^2=\tfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 103
+==================================================
+

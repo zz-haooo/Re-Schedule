@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4513
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two knights are placed on distinct squares of an $8 \times 8$ chessboard, where each square is a unit square. The knights are said to attack each other if the distance between the centers of the squares on which the knights are placed is $\sqrt{5}$. In how many ways can two identical knights be placed on distinct squares of the chessboard such that they do NOT attack each other?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1848
+==================================================
+

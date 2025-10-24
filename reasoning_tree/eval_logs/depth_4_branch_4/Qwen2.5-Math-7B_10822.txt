@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10822
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The function $f$, defined on the set of ordered pairs of positive integers, satisfies the following properties: \begin{align*}  f(x,x) &=x, \\  f(x,y) &=f(y,x), \quad \text{and} \\ (x + y) f(x,y) &= yf(x,x + y).  \end{align*}Calculate $f(14,52)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 364
+==================================================
+

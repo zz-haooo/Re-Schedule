@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9429
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The roots of the polynomial \[x^3 - 52x^2 + 581x - k\]are distinct prime numbers. Find $k.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 962
+==================================================
+

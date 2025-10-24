@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7754
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\vartriangle ABC$ have $AB = 15$, $AC = 20$, and $BC = 21$. Suppose $\omega$ is a circle passing through $A$ that is tangent to segment $BC$. Let point $D\ne A$ be the second intersection of AB with $\omega$, and let point $E \ne A$ be the second intersection of $AC$ with $\omega$. Suppose $DE$ is parallel to $BC$. If $DE = \frac{a}{b}$ , where $a$, $b$ are relatively prime positive integers, find $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 361
+==================================================
+

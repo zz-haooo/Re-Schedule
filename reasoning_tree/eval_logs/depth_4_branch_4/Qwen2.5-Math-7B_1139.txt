@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1139
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Define the determinant $D_1 = |1|$, the determinant $D_2 = \begin{vmatrix} 1 & 1 \\ 1 & 3 \end{vmatrix}$, and the determinant $D_3 = \begin{vmatrix} 1 & 1 & 1 \\ 1 & 3 & 3 \\ 1 & 3 & 5 \end{vmatrix}$.
+
+In general, for a positive integer $n$, let the determinant $D_n$ have 1s in every position of its first row and first column, 3s in the remaining positions of the second row and second column, 5s in the remaining positions of the third row and third column, and so forth. Find the least $n$ such that $D_n \geq 2015$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

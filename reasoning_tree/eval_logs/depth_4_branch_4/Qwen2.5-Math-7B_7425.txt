@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7425
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $1,\alpha_1,\alpha_2,...,\alpha_{10}$ be the roots of the polynomial $x^{11}-1$. It is a fact that there exists a unique polynomial of the form $f(x) = x^{10}+c_9x^9+ \dots + c_1x$ such that each $c_i$ is an integer, $f(0) = f(1) = 0$, and for any $1 \leq i \leq 10$ we have $(f(\alpha_i))^2 = -11$. Find $\left|c_1+2c_2c_9+3c_3c_8+4c_4c_7+5c_5c_6\right|$.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2063
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be a square number with 4 digits, such that all its digits are less than 6. If we add 1 to each digit, the resulting number is another square. Find $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2025
+==================================================
+

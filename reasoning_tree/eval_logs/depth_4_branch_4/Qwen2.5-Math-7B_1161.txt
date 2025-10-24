@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1161
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Aaron takes a square sheet of paper, with one corner labeled $A$. Point $P$ is chosen at random inside the square, and Aaron folds the paper so that points $A$ and $P$ coincide. He cuts the sheet along the crease and discards the piece containing $A$. Let $p$ be the probability that the remaining piece is a pentagon. Find the integer nearest to $100p$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 57
+==================================================
+

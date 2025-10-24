@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13771
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For each permutation $y_1,y_2,\cdots,y_n$ of these numbers we have $\sum\limits_{i=1}^{n-1}y_iy_{i+1}=y_1y_2+y_2y_3+y_3y_4+\cdots+y_{n-1}y_n\geqslant-1$. Find the largest constant $K=K(n)$ such that $\sum\limits_{1\leqslant i<j\leqslant n}x_ix_j\geqslant K$ holds for every Shiny$n$-tuple $(x_1,x_2,\cdots,x_n)$. Please provide the value of $K$ when $n=3$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2241
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+One hundred billion light years from Earth is planet Glorp. The inhabitants of Glorp are intelligent, uniform, amorphous beings with constant density which can modify their shape in any way, and reproduce by splitting. Suppose a Glorpian has somehow formed itself into a spinning cylinder in a frictionless environment. It then splits itself into two Glorpians of equal mass, which proceed to mold themselves into cylinders of the same height, but not the same radius, as the original Glorpian. If the new Glorpians' angular velocities after this are equal and the angular velocity of the original Glorpian is $\omega$, let the angular velocity of each of the new Glorpians be $\omega'$. Then, find $ \left( \frac {\omega'}{\omega} \right)^{10} $.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1024
+==================================================
+

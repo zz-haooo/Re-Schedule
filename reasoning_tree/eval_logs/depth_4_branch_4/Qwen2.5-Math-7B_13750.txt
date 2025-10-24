@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13750
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A $2\times3$ rectangle has vertices at $(0,0)$, $(2,0)$, $(0,3)$, and $(2,3)$. It rotates $90^{\circ}$ clockwise about the point $(2,0)$. It then rotates $90^{\circ}$ clockwise about the point $(5,0)$, then $90^{\circ}$ clockwise about the point $(7,0)$, and finally, $90^{\circ}$ clockwise about the point $(10,0)$. (The side originally on the x-axis is now back on the x-axis.) Find the area of the region above the x-axis and below the curve traced out by the point whose initial position is $(1,1)$. The original answer is in the format $\frac{m\pi}{n} + k$. Please give the value of m + n + k.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

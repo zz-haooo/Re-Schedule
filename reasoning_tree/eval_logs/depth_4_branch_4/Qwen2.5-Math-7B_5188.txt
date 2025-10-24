@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5188
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Eleven pirates find a treasure chest. When they divide the coins among themselves, there are 5 coins left. They throw one pirate overboard and divide the coins again, only to find that there are 3 coins left over. They throw another pirate overboard and divide the coins again. This time, the coins divide evenly. 
+
+What is the least number of coins there could have been?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 423
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1191
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The NEMO (National Electronic Math Olympiad) is similar to the NIMO Summer Contest, in that there are fifteen problems, each worth a set number of points. However, the NEMO is weighted using Fibonacci numbers; that is, the $n^{\text{th}}$ problem is worth $F_n$ points, where $F_1 = F_2 = 1$ and $F_n = F_{n-1} + F_{n-2}$ for $n \ge 3$. The two problem writers are fair people, so they make sure that each of them is responsible for problems worth an equal number of total points. Compute the number of ways problem writing assignments can be distributed between the two writers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

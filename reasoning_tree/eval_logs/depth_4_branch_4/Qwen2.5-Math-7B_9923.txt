@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9923
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Human beings have discovered a habitable planet and soon after, they find 10 more habitable planets. Of these 11, only 5 are deemed ``Earth-like'' in their resources and the rest are deemed ``Mars-like'' since they lack many important resources. Assume that planets like Earth take up 2 units of colonization, while those like Mars take up only 1. If humanity mobilizes 12 total units of colonies, how many different combinations of planets can be occupied if the planets are all different from each other?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

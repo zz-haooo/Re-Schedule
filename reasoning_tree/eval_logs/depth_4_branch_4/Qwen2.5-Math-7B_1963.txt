@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1963
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $a_1, a_2, \ldots, a_{2013} \in [-2, 2]$ and $a_1 + a_2 + \cdots + a_{2013} = 0$, find the maximum of $a_1^3 + a_2^3 + \cdots + a_{2013}^3$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4026
+==================================================
+

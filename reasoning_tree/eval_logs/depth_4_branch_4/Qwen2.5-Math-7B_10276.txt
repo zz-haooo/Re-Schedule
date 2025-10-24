@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10276
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Sherlock Holmes and Dr. Watson recover a suitcase with a three-digit combination lock from a mathematician turned criminal. Embedded in the suitcase above the lock is the cryptic message "AT SEA BASE. SEAS EBB SEA: BASS. "
+
+Dr. Watson comments, "This probably isn't about ocean fish. Perhaps it is an encrypted message. The colon suggests the addition problem $SEAS + EBB + SEA = BASS$, where each letter represents a distinct digit, and the word 'BASE' implies that the problem is in a different base."
+
+Holmes calmly turns the combination lock and opens the suitcase. While Dr. Watson gapes in surprise, Holmes replies, "You were indeed right, and the answer was just the value of the word $SEA$, interpreted as decimal digits." What was the lock combination?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 871
+==================================================
+

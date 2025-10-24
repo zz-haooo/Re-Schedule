@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6658
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two boards, one four inches wide and the other six inches wide, are nailed together to form an X. The angle at which they cross is 60 degrees. If this structure is painted and the boards are separated what is the area of the unpainted region on the four-inch board? (The holes caused by the nails are negligible.) Express your answer in simplest radical form.
+
+[asy]
+draw(6dir(150)--15dir(-30),linewidth(1));
+draw((6dir(150)+12/sqrt(3)*dir(30))--(15dir(-30)+12/sqrt(3)*dir(30)),linewidth(1));
+
+draw(6dir(210)--(0,0),linewidth(1));
+draw((9dir(210)+8/sqrt(3)*dir(-30))--8/sqrt(3)*dir(-30),linewidth(1));
+
+draw(12/sqrt(3)*dir(30)--(12/sqrt(3)+6)*dir(30),linewidth(1));
+draw(12/sqrt(3)*dir(30)+8/sqrt(3)*dir(-30)--(12/sqrt(3)+9)*dir(30)+8/sqrt(3)*dir(-30),linewidth(1));
+
+draw(2dir(150)--2dir(150)+6dir(60),dashed);
+draw(2dir(210)--2dir(210)+4dir(-60),dashed);
+
+dot((2,0));
+dot((4,-1));
+dot((8,1));
+dot((6,2));
+
+label("$60^{\circ}$", (11,1), E);
+label(rotate(30)*"$4^{\prime\prime}$", .5*(2dir(210)+2dir(210)+4dir(-60))+(0,-.5),W);
+label(rotate(-30)*"$6^{\prime\prime}$", .5*(2dir(150)+2dir(150)+6dir(60))+(1,1),W);
+[/asy]The answer is in the form k\sqrt{m}+n,. Please provide the value of k + m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

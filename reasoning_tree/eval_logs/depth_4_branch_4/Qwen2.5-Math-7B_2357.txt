@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2357
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The base-7 representation of the number \( n \) is \( \overline{abc}_{(7)} \), and the base-9 representation of the number \( n \) is \( \overline{cba}_{(9)} \). What is the decimal (base-10) representation of \( n \)?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 248
+==================================================
+

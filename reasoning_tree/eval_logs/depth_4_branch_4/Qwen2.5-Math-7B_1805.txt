@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1805
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In an acute triangle $ABC$, the lines tangent to the circumcircle of $ABC$ at $A$ and $B$ intersect at point $D$. Let $E$ and $F$ be points on $CA$ and $CB$ such that $DECF$ forms a parallelogram. Given that $AB = 20$, $CA=25$, and $\tan C = \frac{4\sqrt{21}}{17}$, the value of $EF$ may be expressed as $\frac{m}{n}$ for relatively prime positive integers $m$ and $n$. Compute $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 267
+==================================================
+

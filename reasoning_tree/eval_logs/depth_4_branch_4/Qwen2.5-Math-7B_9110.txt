@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9110
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A lattice point is a point whose coordinates are both integers. How many lattice points are on the boundary or inside the region bounded by $y=|x|$ and $y=-x^2+6$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

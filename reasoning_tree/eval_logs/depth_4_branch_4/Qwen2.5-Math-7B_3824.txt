@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3824
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many four-digit positive integers have exactly one digit equal to $1$ and exactly one digit equal to $3$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 720
+==================================================
+

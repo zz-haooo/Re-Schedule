@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2029
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $x$ be a positive real number. Define
+\[
+  A = \sum_{k=0}^{\infty} \frac{x^{3k}}{(3k)!}, \quad
+  B = \sum_{k=0}^{\infty} \frac{x^{3k+1}}{(3k+1)!}, \quad \text{and} \quad
+  C = \sum_{k=0}^{\infty} \frac{x^{3k+2}}{(3k+2)!}.
+\] 
+Given that $A^3+B^3+C^3 + 8ABC = 2014$, compute $ABC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 183
+==================================================
+

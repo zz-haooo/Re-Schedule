@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5292
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A rectangular storage bin measures $10$ feet by $12$ feet, is $3$ feet tall, and sits on a flat plane. A pile of dirt is pushed up against the outside of the storage bin so that it slants down from the top of the storage bin to points on the ground $4$ feet away from the base of the storage bin as shown. The number of cubic feet of dirt needed to form the pile can be written as $m + n \pi$ where $m$ and $n$ are positive integers. Find $m + n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 280
+==================================================
+

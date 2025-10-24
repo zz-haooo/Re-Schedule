@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5998
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For any integer $k \geq 1$, let $p(k)$ be the smallest prime which does not divide $k.$ Define the integer function $X(k)$ to be the product of all primes less than $p(k)$ if $p(k) > 2$, and $X(k) = 1$ if $p(k) = 2.$ Let $\{x_n\}$ be the sequence defined by $x_0 = 1$, and $x_{n+1}X(x_n) = x_n p(x_n)$ for $n \geq 0.$ Find the smallest positive integer $t$ such that $x_t = 2090.$ 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 149
+==================================================
+

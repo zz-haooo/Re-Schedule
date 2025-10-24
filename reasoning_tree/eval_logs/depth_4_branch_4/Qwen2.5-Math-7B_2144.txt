@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2144
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are four entrances into Hades. Hermes brings you through one of them and drops you off at the shore of the river Acheron, where you wait in a group with five other souls. Each of these souls also came through one of the entrances, and you are all waiting to get a ride across the river.
+
+In how many ways could the other five souls have come through the entrances such that exactly two of them came through the same entrance as you did? The order in which the souls came through the entrances does not matter, and the entrance you went through is fixed.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 270
+==================================================
+

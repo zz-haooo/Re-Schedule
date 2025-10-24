@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5219
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The new PUMaC tournament hosts $2020$ students, numbered by the following set of labels $1, 2, \ldots, 2020$. The students are initially divided into $20$ groups of $101$, with each division into groups equally likely. In each group, the contestant with the lowest label wins, and the winners advance to the second round. Out of these $20$ students, we choose the champion uniformly at random. If the expected value of the champion’s number can be written as $\frac{a}{b}$, where $a$ and $b$ are relatively prime integers, determine $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2123
+==================================================
+

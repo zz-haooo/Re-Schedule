@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3227
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, where $AB = 13$, $BC = 14$, and $CA = 15$, the segment $BC$ is divided into $n+1$ congruent segments by $n$ points. Among these points are the feet of the altitude, median, and angle bisector from vertex $A$. Determine the smallest possible value of $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 27
+==================================================
+

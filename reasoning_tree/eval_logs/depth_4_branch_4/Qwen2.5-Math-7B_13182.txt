@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13182
+Question: 设 $a, b \in \mathbf{R}$ 。若关于 $z$ 的方程\[\left(z^{2}+a z+b\right)\left(z^{2}+a z+2 b\right)=0\]有 4 个互不相等的复数根 $z_{1}, z_{2}, z_{3}, z_{4}$, 且它们在复平面上对应的点恰是一个边长为 1 的正方形的四个顶点，求 $\left|z_{1}\right|+\left|z_{2}\right|+\left|z_{3}\right|+\left|z_{4}\right|$ 的值。原始答案为\sqrt{m} + n\sqrt{p}，请给出m + n + p + q的值。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 4
+==================================================
+

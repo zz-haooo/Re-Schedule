@@ -1,0 +1,40 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8017
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows the first three figures of a sequence of figures. The first figure shows an equilateral triangle $ABC$ with side length $1$. The leading edge of the triangle going in a clockwise direction around $A$ is labeled $\overline{AB}$ and is darkened in on the figure. The second figure shows the same equilateral triangle with a square with side length $1$ attached to the leading clockwise edge of the triangle. The third figure shows the same triangle and square with a regular pentagon with side length $1$ attached to the leading clockwise edge of the square. The fourth figure in the sequence will be formed by attaching a regular hexagon with side length $1$ to the leading clockwise edge of the pentagon. The hexagon will overlap the triangle. Continue this sequence through the eighth figure. After attaching the last regular figure (a regular decagon), its leading clockwise edge will form an angle of less than $180^\circ$ with the side $\overline{AC}$ of the equilateral triangle. The degree measure of that angle can be written in the form $\tfrac{m}{n}$ where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+
+[asy]
+size(250);
+defaultpen(linewidth(0.7)+fontsize(10));
+pair x[],y[],z[];
+x[0]=origin;
+x[1]=(5,0);
+x[2]=rotate(60,x[0])*x[1];
+draw(x[0]--x[1]--x[2]--cycle);
+for(int i=0;i<=2;i=i+1)
+{
+y[i]=x[i]+(15,0);
+}
+y[3]=rotate(90,y[0])*y[2];
+y[4]=rotate(-90,y[2])*y[0];
+draw(y[0]--y[1]--y[2]--y[0]--y[3]--y[4]--y[2]);
+for(int i=0;i<=4;i=i+1)
+{
+z[i]=y[i]+(15,0);
+}
+z[5]=rotate(108,z[4])*z[2];
+z[6]=rotate(108,z[5])*z[4];
+z[7]=rotate(108,z[6])*z[5];
+draw(z[0]--z[1]--z[2]--z[0]--z[3]--z[4]--z[2]--z[7]--z[6]--z[5]--z[4]);
+dot(x[2]^^y[2]^^z[2],linewidth(3));
+draw(x[2]--x[0]^^y[2]--y[4]^^z[2]--z[7],linewidth(1));
+label("A",(x[2].x,x[2].y-.3),S);
+label("B",origin,S);
+label("C",x[1],S);[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1088
+==================================================
+

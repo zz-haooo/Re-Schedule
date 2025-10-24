@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1685
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the figure, $ABCD$ is a convex quadrilateral. Points $K$, $L$, $M$, and $N$ are the midpoints of the sides $AB$, $BC$, $CD$, and $DA$, respectively. The quadrilateral $PQRS$ is formed by the intersections of lines $AK$, $BL$, $CM$, and $DN$. Determine the area of quadrilateral $PQRS$ given the following:
+
+- The area of quadrilateral $ABCD$ is $3000$.
+- The area of quadrilateral $AMQP$ is $513$.
+- The area of quadrilateral $CKSR$ is $388$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 599
+==================================================
+

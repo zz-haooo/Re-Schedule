@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13429
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine all rational values for which $a, b, c$ are the roots of
+$$x^{3}+a x^{2}+b x+c=0$$
+How many pairs of \(a\), \(b\), \(c\) satisfy the given conditions?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

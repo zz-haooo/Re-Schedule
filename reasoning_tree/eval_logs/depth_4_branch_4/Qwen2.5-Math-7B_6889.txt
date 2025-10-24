@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6889
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Circles with centers $A$ and $B$ have radii  3 and 8, respectively. A common internal tangent touches the circles at $C$ and $D$, as shown. Lines $AB$ and $CD$ intersect at $E$, and $AE = 5$. What is $CD$?
+
+[asy]
+unitsize(0.2cm);
+pair A,B,C,D,E;
+A=(0,0);
+B=(18.3,0);
+E=(5,0);
+C=(1.8,-2.4);
+D=(13.5,6.4);
+draw(Circle(A,3),linewidth(0.7));
+draw(Circle(B,8),linewidth(0.7));
+draw(A--B,linewidth(0.7));
+draw(C--D,linewidth(0.7));
+label("$A$",A,W);
+label("$B$",B,S);
+label("$C$",C,S);
+label("$D$",D,NW);
+label("$E$",E,S);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 47
+==================================================
+

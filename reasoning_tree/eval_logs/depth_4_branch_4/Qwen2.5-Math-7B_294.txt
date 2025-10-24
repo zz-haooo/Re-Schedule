@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 294
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $x$, $y$, and $z$ are positive real numbers satisfying the following system of equations:
+
+\[
+\begin{cases} 
+  x^2 + xy + y^2 = 64 \\
+  y^2 + yz + z^2 = 49 \\
+  z^2 + zx + x^2 = 57 
+\end{cases}
+\]
+
+Then, \(\sqrt[3]{xyz}\) can be expressed as \(\frac{m}{n}\), where \(m\) and \(n\) are relatively prime positive integers. Compute \(m + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 69
+==================================================
+

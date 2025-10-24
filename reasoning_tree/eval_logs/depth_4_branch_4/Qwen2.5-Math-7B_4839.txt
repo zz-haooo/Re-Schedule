@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4839
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alice, Bob, Chad, and Denise decide to meet for a virtual group project between 1 and 3 PM, but they don't decide on a specific time. Each of the four group members signs on to Zoom at a uniformly random time between 1 and 2 PM, and they stay for 1 hour. The group gets work done whenever at least three members are present. What is the expected number of minutes that the group gets work done?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 48
+==================================================
+

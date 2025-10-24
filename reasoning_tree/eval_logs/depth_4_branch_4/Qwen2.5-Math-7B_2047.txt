@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2047
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The faces of a cube contain the numbers 1, 2, 3, 4, 5, 6 such that the sum of the numbers on each pair of opposite faces is 7. For each of the cube’s eight corners, multiply the three numbers on the faces incident to that corner, and write down its value. What is the sum of the eight values assigned to the cube’s corners?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 343
+==================================================
+

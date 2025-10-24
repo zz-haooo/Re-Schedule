@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6777
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Right $\triangle ABC$ has $AB=3$, $BC=4$, and $AC=5$.  Square $XYZW$ is inscribed in $\triangle ABC$ with $X$ and $Y$ on $\overline{AC}$, $W$ on $\overline{AB}$, and $Z$ on $\overline{BC}$.  What is the side length of the square?
+
+[asy]
+pair A,B,C,W,X,Y,Z;
+A=(-9,0); B=(0,12); C=(16,0);
+W=(12A+25B)/37;
+Z =(12C+25B)/37;
+X=foot(W,A,C);
+Y=foot(Z,A,C);
+draw(A--B--C--cycle);
+draw(X--W--Z--Y);
+label("$A$",A,SW);
+label("$B$",B,N);
+label("$C$",C,E);
+label("$W$",W,NW);
+label("$X$",X,S);
+label("$Y$",Y,S);
+label("$Z$",Z,NE);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 97
+==================================================
+

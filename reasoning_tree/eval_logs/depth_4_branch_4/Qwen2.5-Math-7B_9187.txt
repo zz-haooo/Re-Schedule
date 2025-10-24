@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9187
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Isosceles triangle $ABE$ of area 100 square inches is cut by $\overline{CD}$ into an isosceles trapezoid and a smaller isosceles triangle. The area of the trapezoid is 75 square inches. If the altitude of triangle $ABE$ from $A$ is 20 inches, what is the number of inches in the length of $\overline{CD}$?
+
+[asy]
+draw((-9,0)--(0,24)--(9,0)--cycle);
+draw((-6,8)--(6,8));
+label("$A$",(0,24),N);
+label("$B$",(-9,0),W);
+label("$C$",(-6,8),NW);
+label("$D$",(6,8),NE);
+label("$E$",(9,0),E);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9388
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $O$ and $H$ be the circumcenter and orthocenter of triangle $ABC$, respectively.  Let $a$, $b$, and $c$ denote the side lengths, and let $R$ denote the circumradius.  Find $OH^2$ if $R = 7$ and $a^2 + b^2 + c^2 = 29$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 412
+==================================================
+

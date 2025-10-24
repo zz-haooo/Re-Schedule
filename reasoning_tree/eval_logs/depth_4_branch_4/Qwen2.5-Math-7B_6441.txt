@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6441
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let
+\[f(x) = \frac{-px - 3}{-qx + 3},\]and let $g(x)$ be the inverse of $f(x).$  If $(7,-22)$ lies on both of the graphs of $y = f(x)$ and $y = g(x),$ then find $p + q.$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 47
+==================================================
+

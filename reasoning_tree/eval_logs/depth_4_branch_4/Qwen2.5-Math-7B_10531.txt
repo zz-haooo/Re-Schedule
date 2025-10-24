@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10531
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Isosceles $\triangle{ABC}$ has a right angle at $C$.  Point $P$ is inside $\triangle{ABC}$, such that $PA=11$, $PB=7$, and $PC=6$. Legs $\overline{AC}$ and $\overline{BC}$ have length $s=\sqrt{a+b\sqrt{2}}$, where $a$ and $b$ are positive integers. What is $a+b$?
+
+[asy]
+pair A,B,C,P;
+A=(10,0);
+B=(0,10);
+C=(0,0);
+P=(3,3.5);
+draw(A--B--C--cycle,linewidth(0.7));
+draw(A--P,linewidth(0.7));
+draw(B--P--C,linewidth(0.7));
+label("$A$",A,E);
+label("$B$",B,N);
+label("$C$",C,S);
+label("$P$",P,NE);
+label("7",(1.5,6.75),E);
+label("6",(1.5, 1.75),E);
+label("11",(6.5,1.75),S);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 127
+==================================================
+

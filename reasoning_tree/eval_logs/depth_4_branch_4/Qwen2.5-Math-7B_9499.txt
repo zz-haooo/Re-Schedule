@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9499
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Isosceles right triangle $ABC$ encloses a semicircle of area $2\pi$. The circle has its center $O$ on hypotenuse $\overline{AB}$ and is tangent to sides $\overline{AC}$ and $\overline{BC}$. What is the area of triangle $ABC$? [asy]
+pair a=(4,4), b=(0,0), c=(0,4), d=(4,0), o=(2,2);
+draw(circle(o, 2));
+clip(a--b--c--cycle);
+draw(a--b--c--cycle);
+dot(o);
+label("$C$", c, NW);
+label("$A$", a, NE);
+label("$B$", b, SW);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

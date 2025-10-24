@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15390
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Fifteen integers $a_1, a_2, a_3, \dots, a_{15}$ are arranged in order on a number line. The integers are equally spaced and have the property that
+\[1 \le a_1 \le 10, \thickspace 13 \le a_2 \le 20, \thickspace \text{ and } \thickspace 241 \le a_{15}\le 250.\]
+Find the sum of the digits of $a_{14}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

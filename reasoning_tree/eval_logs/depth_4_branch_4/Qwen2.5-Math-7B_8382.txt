@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8382
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+\begin{align*}
+2a + 3b + 5c + 7d &= 34 \\
+3(d+c) &= b \\
+3b + c &= a \\
+c - 1 &= d \\
+\end{align*} Given the above system of equations, find $a \cdot b \cdot c \cdot d$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

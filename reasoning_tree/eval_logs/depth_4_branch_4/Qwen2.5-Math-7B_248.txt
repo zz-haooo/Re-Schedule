@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 248
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a square with side length $10$, and let $P$ be a point on side $BC$. By folding the paper along the line $AP$, point $B$ determines point $Q$, as seen in the figure. The line $PQ$ intersects side $CD$ at point $R$. Calculate the perimeter of triangle $PCR$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

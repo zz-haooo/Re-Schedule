@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9532
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $A$, $B$, and $C$ are non-zero distinct digits less than $6$, and suppose we have ${AB_6}+{C_6}={C}0_6$ and ${AB_6}+{BA_6}={CC_6}$. Find the three-digit number ${ABC}$. (Interpret $AB_6$ as a base-6 number with digits $A$ and $B$, not as $A$ times $B$. The other expressions should be interpreted in this way as well).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 415
+==================================================
+

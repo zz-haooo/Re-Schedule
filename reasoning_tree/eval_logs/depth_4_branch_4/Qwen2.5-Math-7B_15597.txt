@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15597
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a softball league, after each team has played every other team 4 times, the total accumulated points are: Lions 22, Tigers 19, Mounties 14, and Royals 12. If each team received 3 points for a win, 1 point for a tie, and no points for a loss, find the number of games that ended in a tie.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

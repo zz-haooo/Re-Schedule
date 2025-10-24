@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5209
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Yura placed $2001$ coins, each valued at $1$, $2$, or $3$ kopeykas, in a row. The arrangement follows these conditions:
+
+1. Between any two $1$-kopeyka coins, there is at least one other coin.
+2. Between any two $2$-kopeykas coins, there are at least two other coins.
+3. Between any two $3$-kopeykas coins, there are at least three other coins.
+
+Determine the maximum number of $3$-kopeykas coins Yura could have placed.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 501
+==================================================
+

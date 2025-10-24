@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14772
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Five positive consecutive integers starting with $a$ have an average of $b$. What is the average of 5 consecutive integers that start with $b$? Provide your answer in the form of $a + k$, where $k$ is an integer. Please find the value of $k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

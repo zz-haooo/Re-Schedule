@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15324
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $R$, $S$, and $T$ be squares that have vertices at lattice points (i.e., points whose coordinates are both integers) in the coordinate plane, together with their interiors. The bottom edge of each square is on the $x$-axis. The left edge of $R$ and the right edge of $S$ are on the $y$-axis, and $R$ contains $\frac{9}{4}$ as many lattice points as does $S$. The top two vertices of $T$ are in $R \cup S$, and $T$ contains $\frac{1}{4}$ of the lattice points contained in $R \cup S.$ See the figure (not drawn to scale).
+[asy] size(8cm); label(scale(.8)*"$y$", (0,60), N); label(scale(.8)*"$x$", (60,0), E); filldraw((0,0)--(55,0)--(55,55)--(0,55)--cycle, yellow+orange+white+white); label(scale(1.3)*"$R$", (55/2,55/2)); filldraw((0,0)--(0,28)--(-28,28)--(-28,0)--cycle, green+white+white); label(scale(1.3)*"$S$",(-14,14)); filldraw((-10,0)--(15,0)--(15,25)--(-10,25)--cycle, red+white+white); label(scale(1.3)*"$T$",(3.5,25/2)); draw((0,-10)--(0,60),EndArrow()); draw((-34,0)--(60,0),EndArrow()); [/asy]
+The fraction of lattice points in $S$ that are in $S \cap T$ is $27$ times the fraction of lattice points in $R$ that are in $R \cap T$. What is the minimum possible value of the edge length of $R$ plus the edge length of $S$ plus the edge length of $T$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 337
+==================================================
+

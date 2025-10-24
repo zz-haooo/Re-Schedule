@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14677
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \(ABCD\) be a trapezoid with \(AB \parallel CD\). Let \(a = AB\) and \(b = CD\). For \(MN \parallel AB\) such that \(M\) lies on \(AD\), \(N\) lies on \(BC\), and the trapezoids \(ABNM\) and \(MNCD\) have the same area, find the length of \(MN\). The original answer is in the form \(\sqrt{\frac{ka^2 + mb^2}{n}}\). Please find the value of \(k + m + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1148
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Each time you click a toggle switch, the switch either turns from *off* to *on* or from *on* to *off*. Suppose that you start with three toggle switches with one of them *on* and two of them *off*. On each move, you randomly select one of the three switches and click it. Let $m$ and $n$ be relatively prime positive integers such that $\frac{m}{n}$ is the probability that after four such clicks, one switch will be *on* and two of them will be *off*. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 142
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3576
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alex launches his boat into a river and heads upstream at a constant speed. At the same time, at a point $8$ miles upstream from Alex, Alice launches her boat and heads downstream at a constant speed. Both boats move at $6$ miles per hour in still water, but the river is flowing downstream at $2\frac{3}{10}$ miles per hour. Alex and Alice will meet at a point that is $\frac{m}{n}$ miles from Alex's starting point, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 52
+==================================================
+

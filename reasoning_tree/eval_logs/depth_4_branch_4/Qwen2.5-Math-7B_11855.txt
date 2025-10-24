@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11855
+Question: 已知向量 \overrightarrow{m}=(2023,910), \overrightarrow{a}=(1,2), \overrightarrow{b}=(2,3), \overrightarrow{c}=(3,1). 将 \overrightarrow{m} 表示成 \overrightarrow{m}=x\overrightarrow{a}+y\overrightarrow{b}+z\overrightarrow{c} 的形式，其中 x, y, z 均为非负整数，则这样的表示方法的种数为__________.
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 21
+==================================================
+

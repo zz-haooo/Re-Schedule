@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6339
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An ant moves on the following lattice, beginning at the dot labeled $A$. Each minute he moves to one of the dots neighboring the dot he was at, choosing from among its neighbors at random. What is the probability that after 5 minutes he is at the dot labeled $B$? [asy]
+draw((-2,0)--(2,0));
+draw((0,-2)--(0,2));
+draw((1,1)--(1,-1)--(-1,-1)--(-1,1)--cycle);
+dot((0,0)); dot((1,0)); dot((2,0)); dot((-1,0)); dot((-2,0)); dot((0,1)); dot((0,2)); dot((0,-1)); dot((0,-2)); dot((1,1)); dot((1,-1)); dot((-1,-1)); dot((-1,1));
+label("$A$",(0,0),SW);
+label("$B$",(0,1),NE);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

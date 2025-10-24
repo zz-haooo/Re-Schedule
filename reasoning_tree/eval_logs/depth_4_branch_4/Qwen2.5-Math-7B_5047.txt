@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5047
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Dan the dog spots Cate the cat 50 meters away. At that instant, Cate begins running away from Dan at 6 m/s, and Dan begins running toward Cate at 8 m/s. Both of them accelerate instantaneously and run in straight lines. Compute the number of seconds it takes for Dan to reach Cate.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 25
+==================================================
+

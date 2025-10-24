@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5038
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a convex quadrilateral with $AC = 20$, $BC = 12$, and $BD = 17$. If $\angle CAB = 80^{\circ}$ and $\angle DBA = 70^{\circ}$, then find the area of $ABCD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 85
+==================================================
+

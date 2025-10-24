@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9383
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+John is thinking of a number. He gives the following 3 clues. ``My number has 125 as a factor. My number is a multiple of 30. My number is between 800 and 2000.'' What is John's number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1500
+==================================================
+

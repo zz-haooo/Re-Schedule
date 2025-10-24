@@ -1,0 +1,26 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6382
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ is a right isosceles triangle. Points $D$, $E$ and $F$ are the midpoints of the sides of the triangle. Point $G$ is the midpoint of segment $DF$ and point $H$ is the midpoint of segment $FE$. What is the ratio of the shaded area to the non-shaded area in triangle $ABC$? Express your answer as a common fraction.
+
+[asy]
+draw((0,0)--(1,0)--(0,1)--(0,0)--cycle,linewidth(1));
+filldraw((0,0)--(1/2,0)--(1/2,1/2)--(0,1/2)--(0,0)--cycle,gray, linewidth(1));
+filldraw((1/2,0)--(1/2,1/4)--(1/4,1/2)--(0,1/2)--(1/2,0)--cycle,white,linewidth(1));
+
+label("A", (0,1), W);
+label("B", (0,0), SW);
+label("C", (1,0), E);
+label("D", (0,1/2), W);
+label("E", (1/2,0), S);
+label("F", (1/2,1/2), NE);
+label("G", (1/4,1/2), N);
+label("H", (1/2,1/4), E);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

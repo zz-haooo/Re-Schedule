@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1019
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A girl and a guy are going to arrive at a train station. If they arrive within 10 minutes of each other, they will instantly fall in love and live happily ever after. But after 10 minutes, whichever one arrives first will fall asleep and they will be forever alone. The girl will arrive between 8 AM and 9 AM with equal probability. The guy will arrive between 7 AM and 8:30 AM, also with equal probability. Let $\frac{p}{q}$ for $p$, $q$ coprime be the probability that they fall in love. Find $p + q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

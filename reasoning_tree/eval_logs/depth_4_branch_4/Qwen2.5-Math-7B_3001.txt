@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3001
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the smallest positive real $t$ such that the system of equations
+\[\begin{align*}
+ x_1 + x_3 &= 2t x_2, \\
+ x_2 + x_4 &= 2t x_3, \\
+ x_3 + x_5 &= 2t x_4 \\
+\end{align*}\]
+has a solution $x_1, x_2, x_3, x_4, x_5$ in non-negative reals, not all zero.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3993
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In circle $\Omega$, let $\overline{AB}=65$ be the diameter and let points $C$ and $D$ lie on the same side of arc $\overarc{AB}$ such that $CD=16$, with $C$ closer to $B$ and $D$ closer to $A$. Moreover, let $AD, BC, AC,$ and $BD$ all have integer lengths. Two other circles, circles $\omega_1$ and $\omega_2$, have $\overline{AC}$ and $\overline{BD}$ as their diameters, respectively. Let circle $\omega_1$ intersect $AB$ at a point $E \neq A$ and let circle $\omega_2$ intersect $AB$ at a point $F \neq B$. Then $EF=\frac{m}{n}$, for relatively prime integers $m$ and $n$. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 961
+==================================================
+

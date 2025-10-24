@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5463
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The equation $z^6+z^3+1=0$ has complex roots with argument $\theta$ between $90^\circ$ and $180^\circ$ in the complex plane . Determine the degree measure of $\theta$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 160
+==================================================
+

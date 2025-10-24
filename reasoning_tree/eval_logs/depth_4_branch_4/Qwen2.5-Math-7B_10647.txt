@@ -1,0 +1,46 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10647
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, $K$, $O$ and $M$ are the centers of the three semi-circles. Also, $OC = 32$ and $CB = 36$. [asy]
+pair A, K, O, C, M, B, X, Y, Z;
+O=(0,0);
+C=(32,0);
+M=(50,0);
+B=(68,0);
+A=(-68,0);
+K=(A+C)/2;
+X=(0,68);
+Y=(-18,50);
+Z=(50,18);
+path nom, bigc, middlec, smallc;
+nom=A--B--(100,100)--(-100,100)--cycle;
+bigc=A..X..B--cycle;
+middlec=A..Y..C--cycle;
+smallc=C..Z..B--cycle;
+fill(bigc, gray(.5));
+fill(middlec, white);
+fill(smallc, white);
+draw(smallc);
+draw(middlec);
+draw(bigc);
+draw(A--B);
+label("A", A, S);
+label("K", K, S);
+label("O", O, S);
+label("M", M, S);
+label("C", C, S);
+label("B", B, S);
+dot(K);
+dot(O);
+dot(M);
+[/asy]
+
+
+What is the length of $AC$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

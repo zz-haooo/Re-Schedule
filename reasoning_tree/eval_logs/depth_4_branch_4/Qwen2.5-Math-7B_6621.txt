@@ -1,0 +1,45 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6621
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC,$ $D,$ $E,$ and $F$ are points on sides $\overline{BC},$ $\overline{AC},$ and $\overline{AB},$ respectively, so that $BD:DC = CE:EA = AF:FB = 1:2.$
+
+[asy]
+unitsize(0.8 cm);
+
+pair A, B, C, D, E, F, P, Q, R;
+
+A = (2,5);
+B = (0,0);
+C = (7,0);
+D = interp(B,C,1/3);
+E = interp(C,A,1/3);
+F = interp(A,B,1/3);
+P = extension(A,D,C,F);
+Q = extension(A,D,B,E);
+R = extension(B,E,C,F);
+
+fill(P--Q--R--cycle,gray(0.7));
+draw(A--B--C--cycle);
+draw(A--D);
+draw(B--E);
+draw(C--F);
+
+label("$A$", A, N);
+label("$B$", B, SW);
+label("$C$", C, SE);
+label("$D$", D, S);
+label("$E$", E, NE);
+label("$F$", F, W);
+label("$P$", P, NE);
+label("$Q$", Q, NW);
+label("$R$", R, S);
+[/asy]
+
+Line segments $\overline{AD},$ $\overline{BE},$ and $\overline{CF}$ intersect at $P,$ $Q,$ and $R,$ as shown above.  Compute $\frac{[PQR]}{[ABC]}.$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

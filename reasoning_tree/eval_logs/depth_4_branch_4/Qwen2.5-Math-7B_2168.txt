@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2168
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle, and $M$ be the midpoint of $BC$. Let $N$ be the point on the segment $AM$ such that $AN = 3NM$, and $P$ be the intersection point of the lines $BN$ and $AC$. What is the area in cm$^2$ of the triangle $ANP$ if the area of the triangle $ABC$ is $40$ cm$^2$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

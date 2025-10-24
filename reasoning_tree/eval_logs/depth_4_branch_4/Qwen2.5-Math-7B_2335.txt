@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2335
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For $n$ a positive integer, define $f_1(n) = n$. Then for $i$ a positive integer, define $f_{i+1}(n) = f_i(n)^{f_i(n)}$. Determine $f_{100}(75) \pmod{17}$. Justify your answer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

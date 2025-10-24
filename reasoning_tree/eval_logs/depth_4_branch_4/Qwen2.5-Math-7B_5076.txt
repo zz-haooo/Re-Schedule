@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5076
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Bill bought 13 notebooks, 26 pens, and 19 markers for $25. Paula bought 27 notebooks, 18 pens, and 31 markers for $31. How many dollars would it cost Greg to buy 24 notebooks, 120 pens, and 52 markers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 88
+==================================================
+

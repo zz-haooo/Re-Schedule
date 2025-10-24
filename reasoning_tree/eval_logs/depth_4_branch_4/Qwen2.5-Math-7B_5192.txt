@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5192
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Michelle is drawing segments in the plane. She begins from the origin facing up the $y$-axis and draws a segment of length $1$. Now, she rotates her direction by $120^\circ$, with equal probability clockwise or counterclockwise, and draws another segment of length $1$ beginning from the end of the previous segment. She then continues this until she hits an already drawn segment. What is the expected number of segments she has drawn when this happens?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

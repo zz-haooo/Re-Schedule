@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 803
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \[ \begin{array}{ccccccccccc} A &=& 5 \cdot 6 &-& 6 \cdot 7 &+& 7 \cdot 8 &-& \cdots &+& 2003 \cdot 2004, \\ B &=& 1 \cdot 10 &-& 2 \cdot 11 &+& 3 \cdot 12 &-& \cdots &+& 1999 \cdot 2008. \end{array} \] 
+Find the value of $A-B$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

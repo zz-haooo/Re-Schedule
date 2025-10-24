@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10438
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An oreo shop sells $5$ different flavors of oreos and $3$ different flavors of milk. Alpha and Beta decide to purhcase some oreos. Since Alpha is picky, he will not order more than 1 of the same flavor. To be just as weird, Beta will only order oreos, but she will be willing to have repeats of flavors. How many ways could they have left the store with 3 products collectively? (A possible purchase is Alpha purchases 1 box of uh-oh oreos and 1 gallon of whole milk while Beta purchases 1 bag of strawberry milkshake oreos).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 351
+==================================================
+

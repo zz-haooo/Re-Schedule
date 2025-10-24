@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2722
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $w, x, y,$ and $z$ be nonzero complex numbers, and let $n$ be a positive integer. Suppose that the following conditions hold:
+
+- $\frac{1}{w} + \frac{1}{x} + \frac{1}{y} + \frac{1}{z} = 3,$
+- $wx + wy + wz + xy + xz + yz = 14,$
+- $(w + x)^3 + (w + y)^3 + (w + z)^3 + (x + y)^3 + (x + z)^3 + (y + z)^3 = 2160,$
+- $w + x + y + z + i\sqrt{n} \in \mathbb{R}.$
+
+Compute $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 47
+==================================================
+

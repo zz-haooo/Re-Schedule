@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4121
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the largest natural number $n$ for which there exist different sets $S_1, S_2, \ldots, S_n$ such that:
+
+1. $|S_i \cup S_j| \leq 2004$ for each pair $1 \leq i, j \leq n$.
+2. $S_i \cup S_j \cup S_k = \{1, 2, \ldots, 2008\}$ for each three integers $1 \leq i < j < k \leq n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

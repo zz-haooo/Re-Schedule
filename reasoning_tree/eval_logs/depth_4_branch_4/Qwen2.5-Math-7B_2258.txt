@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2258
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A positive integer $n > 1$ is called beautiful if $n$ can be written in one and only one way as $n = a_1 + a_2 + \cdots + a_k = a_1 \cdot a_2 \cdots a_k$ for some positive integers $a_1, a_2, \ldots, a_k$, where $k > 1$ and $a_1 \geq a_2 \geq \cdots \geq a_k$. For example, 6 is beautiful since $6 = 3 \cdot 2 \cdot 1 = 3 + 2 + 1$, and this is unique. But 8 is not beautiful since $8 = 4 + 2 + 1 + 1 = 4 \cdot 2 \cdot 1 \cdot 1$ as well as $8 = 2 + 2 + 2 + 1 + 1 = 2 \cdot 2 \cdot 2 \cdot 1 \cdot 1$, so uniqueness is lost. Find the largest beautiful number less than 100.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 95
+==================================================
+

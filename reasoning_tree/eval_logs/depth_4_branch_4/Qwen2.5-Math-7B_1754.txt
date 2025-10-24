@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1754
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_1, a_2, \ldots, a_{2017}$ be the 2017 distinct complex numbers which satisfy $a_i^{2017} = a_i + 1$ for $i = 1, 2, \ldots, 2017$. Compute $$\sum_{i=1}^{2017} \frac{a_i}{a_i^2 + 1}.$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2016
+==================================================
+

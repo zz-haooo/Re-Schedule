@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4369
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sequence $\{a_i\}_{i \ge 1}$ is defined by $a_1 = 1$ and \[ a_n = \lfloor a_{n-1} + \sqrt{a_{n-1}} \rfloor \] for all $n \ge 2$. Compute the eighth perfect square in the sequence.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16384
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3008
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $p < q < r < s$ are prime numbers such that $pqrs + 1 = 4^{p+q}$. Find $r + s$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 274
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3986
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The triangle $ABC$ satisfies $AB=10$ and has angles $\angle A=75^{\circ}$, $\angle B=60^{\circ}$, and $\angle C = 45^{\circ}$. Let $I_A$ be the center of the excircle opposite $A$, and let $D$, $E$ be the circumcenters of triangle $BCI_A$ and $ACI_A$ respectively. If $O$ is the circumcenter of triangle $ABC$, then the area of triangle $EOD$ can be written as $\frac{a\sqrt{b}}{c}$ for square-free $b$ and coprime $a,c$. Find the value of $a+b+c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 29
+==================================================
+

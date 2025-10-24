@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2619
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many natural numbers exist such that their square results in a thirty-digit number with the following property: When divided from left to right into three groups of ten digits, the numbers formed by the middle group and the right group are both four times the number formed by the left group?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18377
+==================================================
+

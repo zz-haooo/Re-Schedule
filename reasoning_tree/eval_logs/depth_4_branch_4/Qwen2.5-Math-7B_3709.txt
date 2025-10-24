@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3709
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $30$ cities in the empire of Euleria. Every week, Martingale City runs a very well-known lottery. $900$ visitors decide to take a trip around the empire, visiting a different city each week in some random order. $3$ of these cities are inhabited by mathematicians, who will talk to all visitors about the laws of statistics. A visitor with this knowledge has a probability of $0$ of buying a lottery ticket, else they have a probability of $0.5$ of buying one. What is the expected number of visitors who will play the Martingale Lottery?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 405
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15958
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A thin, uniform rod has mass \(m\) and length \(L\). Let the acceleration due to gravity be \(g\). The rotational inertia of the rod about its center is \(md^2\).
+
+The rod is suspended from a distance \(kd\) from the center and undergoes small oscillations with an angular frequency \(\beta \sqrt{\frac{g}{d}}\).
+
+Find the maximum value of \(\beta\). The original answer is in \(\frac{x}{\sqrt{y}}\) format, please give the value of \(x + y\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

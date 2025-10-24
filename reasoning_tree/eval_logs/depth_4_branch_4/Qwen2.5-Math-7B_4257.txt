@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4257
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $S$ is a set consisting of $12$ elements, what is the maximum number of pairs $(a, b)$ such that $a, b \in S$ and $\frac{b}{a}$ is a prime number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

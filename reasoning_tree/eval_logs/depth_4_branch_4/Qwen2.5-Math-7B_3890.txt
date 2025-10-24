@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3890
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be the answer to this problem. Suppose square $ABCD$ has side-length $3$. Then, congruent non-overlapping squares $EHGF$ and $IHJK$ of side-length $\frac{n}{6}$ are drawn such that $A$, $C$, and $H$ are collinear, $E$ lies on $BC$ and $I$ lies on $CD$. Given that $\triangle AJG$ is an equilateral triangle, the area of $\triangle AJG$ is $a + b\sqrt{c}$, where $a$, $b$, $c$ are positive integers and $c$ is not divisible by the square of any prime. Find $a + b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 48
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14721
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A man with mass \(m\) jumps off a high bridge with a bungee cord attached to his ankles. The man falls through a maximum distance \(H\), at which point the bungee cord brings him to a momentary rest before he bounces back up. The bungee cord is perfectly elastic, obeying Hooke's force law with a spring constant \(k\), and stretches from an original length of \(L_0\) to a final length \(L = L_0 + h\). The maximum tension in the bungee cord is four times the weight of the man.
+
+Determine the spring constant \(k\). The original answer is in the form \(\frac{kmg}{nH}\). Please provide the value of \(k+n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4180
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $AB=13$, $BC=14$, $CA=15$. Let $\Omega$ and $\omega$ be the circumcircle and incircle of $\triangle ABC$ respectively. Among all circles that are tangent to both $\Omega$ and $\omega$, call those that contain $\omega$ inclusive and those that do not contain $\omega$ exclusive. Let $\mathcal{I}$ and $\mathcal{E}$ denote the set of centers of inclusive circles and exclusive circles respectively, and let $I$ and $E$ be the area of the regions enclosed by $\mathcal{I}$ and $\mathcal{E}$ respectively. The ratio $\frac{I}{E}$ can be expressed as $\sqrt{\frac{m}{n}}$, where $m$ and $n$ are relatively prime positive integers. Compute $100m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1558057
+==================================================
+

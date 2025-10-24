@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3036
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+I have 6 friends and during a vacation, I met them during several dinners. I found that:
+
+- I dined with all 6 friends exactly on 1 day.
+- I dined with every 5 of them on 2 days.
+- I dined with every 4 of them on 3 days.
+- I dined with every 3 of them on 4 days.
+- I dined with every 2 of them on 5 days.
+
+Additionally, every friend was present at 7 dinners and absent at 7 dinners. How many dinners did I have alone?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

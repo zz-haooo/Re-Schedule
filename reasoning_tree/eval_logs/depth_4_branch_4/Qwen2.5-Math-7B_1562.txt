@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1562
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Sally's salary in 2006 was $\$37,500$. For 2007, she received a salary increase of $x$ percent. In 2008, she received another salary increase of $x$ percent. In 2009, she experienced a salary decrease of $2x$ percent, resulting in a salary of $\$34,825$.
+
+Suppose instead, Sally had received a $2x$ percent salary decrease in 2007, followed by an $x$ percent salary increase in 2008, and another $x$ percent salary increase in 2009. What would her salary be in 2009 then?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 34825
+==================================================
+

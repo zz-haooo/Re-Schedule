@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1568
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let triangle $ABC$ with incenter $I$ satisfy $AB = 10$, $BC = 21$, and $CA = 17$. Points $D$ and $E$ lie on side $BC$ such that $BD = 4$, $DE = 6$, and $EC = 11$. The circumcircles of triangles $BIE$ and $CID$ meet again at point $P$, and line $IP$ meets the altitude from $A$ to $BC$ at $X$. Find $(DX \cdot EX)^2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 85
+==================================================
+

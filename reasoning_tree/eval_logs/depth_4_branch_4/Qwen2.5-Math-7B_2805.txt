@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2805
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+David draws a $2 \times 2$ grid of squares in chalk on the sidewalk outside NIMO HQ. He then draws one arrow in each square, each pointing in one of the four cardinal directions (north, south, east, west) parallel to the sides of the grid. In how many ways can David draw his arrows such that no two of the arrows are pointing at each other?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 194
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2172
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the second smallest positive integer $n$ such that when $n$ is divided by $5$, the remainder is $3$, and when $n$ is divided by $7$, the remainder is $4$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 53
+==================================================
+

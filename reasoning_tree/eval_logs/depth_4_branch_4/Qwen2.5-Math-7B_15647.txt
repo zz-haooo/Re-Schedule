@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15647
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If two poles $20''$ and $80''$ high are $100''$ apart, find the height (in inches) of the intersection of the lines joining the top of each pole to the foot of the opposite pole.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

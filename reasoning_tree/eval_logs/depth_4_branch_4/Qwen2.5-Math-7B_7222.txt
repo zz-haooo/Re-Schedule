@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7222
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+
+	 Let $a,b$ and $c$ be real numbers such that
+\begin{align*}
+a^2+ab+b^2&=9 \\
+b^2+bc+c^2&=52 \\
+c^2+ca+a^2&=49.
+\end{align*}
+Compute the value of $\dfrac{49b^2+39bc+9c^2}{a^2}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 52
+==================================================
+

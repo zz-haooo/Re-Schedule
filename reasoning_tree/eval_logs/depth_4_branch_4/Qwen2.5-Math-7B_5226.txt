@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5226
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Connor is thinking of a two-digit number $n$, which satisfies the following properties:
+
+- If $n > 70$, then $n$ is a perfect square.
+- If $n > 40$, then $n$ is prime.
+- If $n < 80$, then the sum of the digits of $n$ is $14$.
+
+What is Connor's number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 59
+==================================================
+

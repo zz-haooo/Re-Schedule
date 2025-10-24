@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 354
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A spider is walking on the boundary of an equilateral triangle $\triangle{ABC}$, with vertices labeled in counterclockwise order, starting at vertex $A$. Each second, she moves to one of her two adjacent vertices with equal probability. The windiness of a path that starts and ends at $A$ is the net number of counterclockwise revolutions made. For example, the windiness of the path $ABCA$ is $1$, and the windiness of the path $ABCACBACBA$ is $-1$. What is the remainder modulo $1000$ of the sum of the squares of the windiness values taken over all possible paths that end back at vertex $A$ after $2025$ seconds?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 625
+==================================================
+

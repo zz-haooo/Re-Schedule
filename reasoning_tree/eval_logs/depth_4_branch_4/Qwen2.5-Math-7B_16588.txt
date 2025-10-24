@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16588
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many integers $n$ with $0 \leq n < 840$ are there such that $840$ divides $n^8-n^4+n-1$? Provide your answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

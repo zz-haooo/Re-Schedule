@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2534
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A Yule log is shaped like a right cylinder with height $10$ and diameter $5$. Freya cuts it parallel to its bases into $9$ right cylindrical slices. After Freya cut it, the combined surface area of the slices of the Yule log increased by $a\pi$. Compute $a$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

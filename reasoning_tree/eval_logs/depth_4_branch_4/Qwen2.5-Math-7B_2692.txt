@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2692
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows the regular hexagon $BCEGHJ$ surrounded by the rectangle $ADFI$. Let $\theta$ be the measure of the acute angle between the side $\overline{EG}$ of the hexagon and the diagonal of the rectangle $\overline{AF}$. There are relatively prime positive integers $m$ and $n$ such that $\sin^2\theta = \frac{m}{n}$. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 55
+==================================================
+

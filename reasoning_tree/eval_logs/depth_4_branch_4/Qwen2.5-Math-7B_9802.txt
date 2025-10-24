@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9802
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The equation $x^2+14x=33$ has two solutions. The positive solution has the form $\sqrt{a}-b$ for positive natural numbers $a$ and $b$. What is $a+b$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 89
+==================================================
+

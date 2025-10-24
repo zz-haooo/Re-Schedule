@@ -1,0 +1,35 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9036
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The foci of the ellipse $\frac{x^2}{49} + \frac{y^2}{33} = 1$ are $F_1$ and $F_2,$ as shown below.  Let $P$ be a point on the circle $x^2 + (y - 3)^2 = 4.$  Line $F_2 P$ intersects the ellipse again at $Q,$ where the $y$-coordinate of $Q$ is positive.  Find the maximum value of $PQ + F_1 Q.$
+
+[asy]
+unitsize(0.4 cm);
+
+pair P, Q;
+pair[] F;
+
+path ell = yscale(sqrt(33))*xscale(7)*Circle((0,0),1);
+F[1] = (4,0);
+F[2] = (-4,0);
+P = (0,3) + 2*dir(240);
+Q = intersectionpoint(P--interp(F[2],P,5),ell);
+
+draw(ell);
+draw((-8,0)--(8,0));
+draw((0,-7)--(0,7));
+draw(Circle((0,3),2));
+draw(F[1]--Q--F[2]);
+
+dot("$F_1$", F[1], S);
+dot("$F_2$", F[2], S);
+dot("$P$", P, S);
+label("$Q$", Q, NE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

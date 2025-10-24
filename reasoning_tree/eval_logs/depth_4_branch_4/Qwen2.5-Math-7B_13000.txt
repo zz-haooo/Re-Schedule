@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13000
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find all functions $f\colon(0,\infty)\to(0,\infty)$ such that $\frac{f(p)^2+f(q)^2}{f(r^2)+f(s^2)}=\frac{p^2+q^2}{r^2+s^2}$ for all $p,q, r, s > 0$ with $pq = rs$. There are multiple solutions for $f(x)$, represented by their respective function numbers. Please provide the sum of these numbers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

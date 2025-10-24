@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17148
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In $\triangle ABC$, $AB=13$, $AC=5$, and $BC=12$. Points $M$ and $N$ lie on $AC$ and $BC$, respectively, with $CM=CN=4$. Points $J$ and $K$ are on $AB$ so that $MJ$ and $NK$ are perpendicular to $AB$. Find the area of pentagon $CMJKN$. The original answer is in \frac{m}{n} format, please give the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 253
+==================================================
+

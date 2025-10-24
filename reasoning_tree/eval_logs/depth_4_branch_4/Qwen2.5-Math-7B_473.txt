@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 473
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In rectangle $ABCD$ with center $O$, where $AB=10$ and $BC=8$, circle $\gamma$ is centered at $O$ and is tangent to both $\overline{AB}$ and $\overline{CD}$. Points $M$ and $N$ are located on $\overline{AD}$ and $\overline{BC}$, respectively. The segment $MN$ intersects $\gamma$ at two distinct points $P$ and $Q$, with $P$ between $M$ and $Q$. Given that the ratio $MP : PQ : QN = 3 : 5 : 2$, the length $MN$ can be expressed as $\sqrt{a} - \sqrt{b}$, where $a$ and $b$ are positive integers. Determine the value of $100a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16808
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3204
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A rectangular tea bag $PART$ has a logo in its interior at the point $Y$. The distances from $Y$ to $PT$ and $PA$ are $12$ and $9$ respectively, and triangles $\triangle PYT$ and $\triangle AYR$ have areas $84$ and $42$ respectively. Find the perimeter of pentagon $PARTY$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 78
+==================================================
+

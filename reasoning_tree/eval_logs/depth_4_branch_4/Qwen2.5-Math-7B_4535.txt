@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4535
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In an $n \times m$ grid, 1 row and 1 column are colored blue, and the rest of the cells are white. If precisely $\frac{1}{2010}$ of the cells in the grid are blue, how many values are possible for the ordered pair $(n, m)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 96
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2817
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $A_1A_2A_3 \ldots A_{21}$ be a 21-sided regular polygon inscribed in a circle with center $O$. How many triangles $A_iA_jA_k$, $1 \leq i < j < k \leq 21$, contain the center point $O$ in their interior?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 385
+==================================================
+

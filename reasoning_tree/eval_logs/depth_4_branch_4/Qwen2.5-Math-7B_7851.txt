@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7851
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Heather and Kyle need to mow a lawn and paint a room. If Heather does both jobs by herself, it will take her a total of nine hours. If Heather mows the lawn and, after she finishes, Kyle paints the room, it will take them a total of eight hours. If Kyle mows the lawn and, after he finishes, Heather paints the room, it will take them a total of seven hours. If Kyle does both jobs by himself, it will take him a total of six hours. It takes Kyle twice as long to paint the room as it does for him to mow the lawn. The number of hours it would take the two of them to complete the two tasks if they worked together to mow the lawn and then worked together to paint the room is a fraction $\tfrac{m}{n}$where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 41
+==================================================
+

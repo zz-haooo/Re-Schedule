@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2970
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $S_P$ be the set of all polynomials $P$ with complex coefficients, such that $P(x^2) = P(x)P(x-1)$ for all complex numbers $x$. Suppose $P_0$ is the polynomial in $S_P$ of maximal degree such that $P_0(1) \mid 2016$. Find $P_0(10)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12321
+==================================================
+

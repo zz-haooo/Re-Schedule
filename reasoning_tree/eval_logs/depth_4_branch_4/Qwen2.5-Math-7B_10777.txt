@@ -1,0 +1,54 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10777
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A diagonal of a polyhedron is a line segment connecting two non-adjacent vertices. How many diagonals does a pentagonal prism have? [asy]
+import three;
+size(100);
+defaultpen(linewidth(0.7));
+currentprojection = orthographic(-0.2,-1,2/3);
+
+void drawPentagon (real h)
+{
+
+path3 y;
+
+y=(0,0,h)--(3,0,h)--(5,3,h)--(3,6,h)--(0,5,h)--cycle;
+
+draw(surface(y),white,nolight);
+
+draw(y);
+}
+
+void drawRectangle(triple a, triple b, real h)
+{
+
+path3 y;
+
+y=a--b--b+(0,0,h)--a+(0,0,h)--cycle;
+
+draw(surface(y),white,black,nolight);
+}
+
+drawRectangle((0,0,0),(0,5,0),4);
+drawRectangle((0,0,0),(3,0,0),4);
+drawRectangle((3,0,0),(5,3,0),4);
+drawPentagon(4);
+
+//import three; currentprojection = orthographic(25,150,100); //defaultpen(linewidth(0.8)); size(100);
+//void nGon(int numSides, real height){
+//real angle = 360/numSides;
+//for(int i = 0; i < numSides; ++i){
+//draw(dir(angle*i,0)--dir(angle*(i + 1),0));
+//draw((dir(angle*i,0) + (0,0,height))--(dir(angle*(i + 1),0) + (0,0,height)));
+//draw(dir(angle*i,0)--(dir(angle*i,0) + (0,0,height)));
+// }
+//}
+//nGon(5,2);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

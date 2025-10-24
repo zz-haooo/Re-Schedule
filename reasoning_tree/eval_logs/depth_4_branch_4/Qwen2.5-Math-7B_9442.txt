@@ -1,0 +1,50 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9442
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The graphs of four functions, labelled (2) through (5), are shown below. Note that the domain of function (3) is $$\{-5,-4,-3,-2,-1,0,1,2\}.$$ Find the product of the labels of the functions which are invertible. [asy]
+size(8cm);
+defaultpen(linewidth(.7pt)+fontsize(8pt));
+import graph;
+
+picture pic1,pic2,pic3,pic4;
+
+draw(pic1,(-8,0)--(8,0),Arrows(4));
+draw(pic1,(0,-8)--(0,8),Arrows(4));
+draw(pic2,(-8,0)--(8,0),Arrows(4));
+draw(pic2,(0,-8)--(0,8),Arrows(4));
+draw(pic3,(-8,0)--(8,0),Arrows(4));
+draw(pic3,(0,-8)--(0,8),Arrows(4));
+draw(pic4,(-8,0)--(8,0),Arrows(4));
+draw(pic4,(0,-8)--(0,8),Arrows(4));
+
+real f(real x) {return x^2-2x;}
+real h(real x) {return -atan(x);}
+real k(real x) {return 4/x;}
+
+real x;
+
+draw(pic1,graph(f,-2,4),Arrows(4));
+draw(pic3,graph(h,-8,8),Arrows(4));
+draw(pic4,graph(k,-8,-0.125*4),Arrows(4));
+draw(pic4,graph(k,0.125*4,8),Arrows(4));
+
+dot(pic2,(-5,3)); dot(pic2,(-4,5)); dot(pic2,(-3,1)); dot(pic2,(-2,0));
+dot(pic2,(-1,2)); dot(pic2,(0,-4)); dot(pic2,(1,-3)); dot(pic2,(2,-2));
+
+label(pic1,"(2)",(0,-9));
+label(pic2,"(3)",(0,-9));
+label(pic3,"(4)",(0,-9));
+label(pic4,"(5)",(0,-9));
+
+add(pic1);
+add(shift(20)*pic2);
+add(shift(0,-20)*pic3);
+add(shift(20,-20)*pic4);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7965
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of ordered quadruples $(a, b, c, d)$ where each of $a, b, c,$ and $d$ are (not necessarily distinct) elements of $\{1, 2, 3, 4, 5, 6, 7\}$ and $3abc + 4abd + 5bcd$ is even. For example, $(2, 2, 5, 1)$ and $(3, 1, 4, 6)$ satisfy the conditions.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2017
+==================================================
+

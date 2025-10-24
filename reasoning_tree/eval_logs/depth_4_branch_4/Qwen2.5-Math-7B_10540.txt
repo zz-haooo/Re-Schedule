@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10540
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $20n$ members in the Trumpington marching band, and when they line up in rows of 26, there are 4 band members left over. If $n$ is an integer and there are fewer than 1000 band members, what is the maximum number of people that could be in the Trumpington marching band?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 940
+==================================================
+

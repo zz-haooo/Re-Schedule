@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 365
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A grasshopper starts at the origin in the coordinate plane and makes a sequence of hops. Each hop has a length of $5$, and after each hop, the grasshopper is at a point whose coordinates are both integers. Thus, there are $12$ possible locations for the grasshopper after the first hop. What is the smallest number of hops needed for the grasshopper to reach the point $(2021,2021)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 578
+==================================================
+

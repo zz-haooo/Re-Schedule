@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4490
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The New York Public Library requires patrons to choose a 4-digit Personal Identification Number (PIN) to access its online system. (Leading zeros are allowed.) The PIN is not allowed to contain either of the following two forbidden patterns:
+
+1. A digit that is repeated 3 or more times in a row. For example, $0001$ and $5555$ are not PINs, but $0010$ is a PIN.
+2. A pair of digits that is duplicated. For example, $1212$ and $6363$ are not PINs, but $1221$ and $6633$ are PINs.
+
+How many distinct possible PINs are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9720
+==================================================
+

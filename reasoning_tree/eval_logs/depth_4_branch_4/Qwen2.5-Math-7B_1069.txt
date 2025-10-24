@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1069
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ has a right angle at $A$, $AB=20$, and $AC=21$. Circles $\omega_A$, $\omega_B$, and $\omega_C$ are centered at $A$, $B$, and $C$ respectively and pass through the midpoint $M$ of $\overline{BC}$. $\omega_A$ and $\omega_B$ intersect at $X\neq M$, and $\omega_A$ and $\omega_C$ intersect at $Y\neq M$. Find $XY$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 29
+==================================================
+

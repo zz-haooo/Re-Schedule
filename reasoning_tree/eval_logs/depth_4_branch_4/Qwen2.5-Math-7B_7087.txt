@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7087
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Tim has a working analog 12-hour clock with two hands that run continuously (instead of, say, jumping on the minute). He also has a clock that runs really slow—at half the correct rate, to be exact. At noon one day, both clocks happen to show the exact time. At any given instant, the hands on each clock form an angle between $0^\circ$ and $180^\circ$ inclusive. At how many times during that day are the angles on the two clocks equal?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 33
+==================================================
+

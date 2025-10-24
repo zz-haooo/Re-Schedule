@@ -1,0 +1,38 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8953
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The perpendicular bisectors of the sides of triangle $ABC$ meet its circumcircle at points $A',$ $B',$ and $C',$ as shown.  If the perimeter of triangle $ABC$ is 35 and the radius of the circumcircle is 8, then find the area of hexagon $AB'CA'BC'.$
+
+[asy]
+unitsize(2 cm);
+
+pair A, B, C, Ap, Bp, Cp, O;
+
+O = (0,0);
+A = dir(210);
+B = dir(60);
+C = dir(330);
+Ap = dir(15);
+Bp = dir(270);
+Cp = dir(135);
+
+draw(Circle(O,1));
+draw(A--B--C--cycle);
+draw((B + C)/2--Ap);
+draw((A + C)/2--Bp);
+draw((A + B)/2--Cp);
+
+label("$A$", A, A);
+label("$B$", B, B);
+label("$C$", C, C);
+label("$A'$", Ap, Ap);
+label("$B'$", Bp, Bp);
+label("$C'$", Cp, Cp);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 140
+==================================================
+

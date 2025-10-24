@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 203
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$ABC$ is a triangle with $AB = 33$, $AC = 21$, and $BC = m$, where $m$ is an integer. There are points $D$ and $E$ on sides $AB$ and $AC$ respectively such that $AD = DE = EC = n$, where $n$ is also an integer. Find the value of $m$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

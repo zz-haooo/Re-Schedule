@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4546
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $y_0$ be chosen randomly from $\{0, 50\}$, let $y_1$ be chosen randomly from $\{40, 60, 80\}$, let $y_2$ be chosen randomly from $\{10, 40, 70, 80\}$, and let $y_3$ be chosen randomly from $\{10, 30, 40, 70, 90\}$. (In each choice, the possible outcomes are equally likely to occur.) Let $P$ be the unique polynomial of degree less than or equal to $3$ such that $P(0) = y_0$, $P(1) = y_1$, $P(2) = y_2$, and $P(3) = y_3$. What is the expected value of $P(4)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 107
+==================================================
+

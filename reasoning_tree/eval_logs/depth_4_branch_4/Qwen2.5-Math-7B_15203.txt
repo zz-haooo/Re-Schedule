@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15203
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A laser is placed at the point $(3,5)$. The laser beam travels in a straight line. Larry wants the beam to hit and bounce off the $y$-axis, then hit and bounce off the $x$-axis, then hit the point $(7,5)$. What is the total distance $d$ the beam will travel along this path? If the answer is $a\sqrt{b}$, where $a$ and $b$ are integers and $b$ is not divisible by the square of any prime, what is the value of $a$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2573
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider a rectangle $ABCD$ with $AB = 30$ and $BC = 60$. Construct a circle $T$ whose diameter is $AD$. Construct another circle $S$ whose diameter is $AB$. Let circles $S$ and $T$ intersect at a point $P$ such that $P \neq A$. Let the line $AP$ intersect $BC$ at point $E$. Define point $F$ on $AB$ such that the line $EF$ is tangent to the circle with diameter $AD$. Find the area of triangle $\triangle AEF$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 75
+==================================================
+

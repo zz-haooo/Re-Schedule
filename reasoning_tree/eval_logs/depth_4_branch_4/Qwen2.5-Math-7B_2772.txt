@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2772
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $O$ be the center of a circle with radius $26$, and let $A$ and $B$ be two distinct points on the circle. Let $M$ be the midpoint of segment $AB$. Consider a point $C$ such that $CO = 34$ and $\angle COM = 15^\circ$. Let $N$ be the midpoint of segment $CO$. Suppose that $\angle ACB = 90^\circ$. Find the length of $MN$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 306
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The numbers $\frac{1}{1}, \frac{1}{2}, \ldots, \frac{1}{2010}$ are written on a blackboard. A student chooses any two of the numbers, say $x$ and $y$, erases them, and then writes down $x + y + xy$. He continues this process until only one number is left on the blackboard. What is this number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2010
+==================================================
+

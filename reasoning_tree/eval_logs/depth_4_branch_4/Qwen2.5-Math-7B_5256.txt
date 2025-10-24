@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5256
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+\( \triangle ABC \) has an area of \( 240 \). Points \( X, Y, Z \) lie on sides \( AB, BC, \) and \( CA, \) respectively. Given that \( \frac{AX}{BX} = 3 \), \( \frac{BY}{CY} = 4 \), and \( \frac{CZ}{AZ} = 5 \), find the area of \( \triangle XYZ \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 122
+==================================================
+

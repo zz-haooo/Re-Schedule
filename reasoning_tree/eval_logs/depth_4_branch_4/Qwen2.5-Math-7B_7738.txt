@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7738
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\vartriangle ABC$ have sidelengths $BC = 7$, $CA = 8$, and, $AB = 9$, and let $\Omega$ denote the circumcircle of $\vartriangle ABC$. Let circles $\omega_A$, $\omega_B$, $\omega_C$ be internally tangent to the minor arcs $BC$, $CA$, $AB$ of $\Omega$, respectively, and tangent to the segments $BC$, $CA$, $AB$ at points $X$, $Y$, and, $Z$, respectively. Suppose that $\frac{BX}{XC} = \frac{CY}{Y A} = \frac{AZ}{ZB} = \frac12$ . Let $t_{AB}$ be the length of the common external tangent of $\omega_A$ and $\omega_B$, let $t_{BC}$ be the length of the common external tangent of $\omega_B$ and $\omega_C$, and let $t_{CA}$ be the length of the common external tangent of $\omega_C$ and $\omega_A$. If $t_{AB} + t_{BC} + t_{CA}$ can be expressed as $\frac{m}{n}$ for relatively prime positive integers $m, n$, find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 59
+==================================================
+

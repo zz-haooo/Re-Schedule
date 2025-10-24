@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2885
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $m = 2007^{2008}$. How many natural numbers $n$ are there such that $n < m$ and $n(2n + 1)(5n + 2)$ is divisible by $m$ (i.e., $m \mid n(2n + 1)(5n + 2)$)?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

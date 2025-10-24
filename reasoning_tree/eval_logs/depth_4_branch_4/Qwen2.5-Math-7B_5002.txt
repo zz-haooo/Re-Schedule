@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5002
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Arutyun and Amayak show another effective trick. A spectator writes down on a board a sequence of $N$ (decimal) digits. Amayak closes two adjacent digits with a black disc. Then Arutyun comes and identifies both closed digits and their order. What is the minimal $N$ for which they can perform such a trick?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 101
+==================================================
+

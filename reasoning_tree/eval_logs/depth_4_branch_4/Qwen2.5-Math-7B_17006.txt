@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17006
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A street has parallel curbs $40$ feet apart. A crosswalk bounded by two parallel stripes crosses the street at an angle. The length of the curb between the stripes is $15$ feet and each stripe is $50$ feet long. Find the distance, in feet, between the stripes.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

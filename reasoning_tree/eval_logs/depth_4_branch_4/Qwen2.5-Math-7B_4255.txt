@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4255
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The expression below has six empty boxes. Each box is to be filled in with a number from $1$ to $6$, where all six numbers are used exactly once, and then the expression is evaluated. What is the maximum possible final result that can be achieved?
+
+$$\frac{\frac{\square}{\square} + \frac{\square}{\square}}{\frac{\square}{\square}}$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

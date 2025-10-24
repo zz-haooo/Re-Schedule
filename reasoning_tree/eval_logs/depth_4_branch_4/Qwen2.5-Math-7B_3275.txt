@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3275
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Convex quadrilateral $ABCD$ has perpendicular diagonals and satisfies the conditions $\angle B = \angle C = 90^\circ$, $BC = 20$, and $AD = 30$. Compute the square of the area of a triangle with side lengths equal to $CD$, $DA$, and $AB$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30000
+==================================================
+

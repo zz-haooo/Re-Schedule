@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7990
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The following sequence lists all the positive rational numbers that do not exceed $\frac12$ by first listing the fraction with denominator 2, followed by the one with denominator 3, followed by the two fractions with denominator 4 in increasing order, and so forth so that the sequence is
+\[
+\frac12,\frac13,\frac14,\frac24,\frac15,\frac25,\frac16,\frac26,\frac36,\frac17,\frac27,\frac37,\cdots.
+\]
+Let $m$ and $n$ be relatively prime positive integers so that the $2012^{\text{th}}$ fraction in the list is equal to $\frac{m}{n}$. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 61
+==================================================
+

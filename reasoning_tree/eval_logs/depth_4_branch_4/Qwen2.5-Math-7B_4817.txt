@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4817
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$A, B, C$, and $D$ are points on a circle, forming a convex quadrilateral $ABCD$. Given that $AB = 13$, $BC = 13$, $CD = 37$, and $AD = 47$, find the area of quadrilateral $ABCD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 504
+==================================================
+

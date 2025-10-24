@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4505
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $A_1, A_2, A_3, \ldots, A_{20}$ is a 20-sided regular polygon. How many non-isosceles (scalene) triangles can be formed whose vertices are among the vertices of the polygon, but the sides are not the sides of the polygon?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 640
+==================================================
+

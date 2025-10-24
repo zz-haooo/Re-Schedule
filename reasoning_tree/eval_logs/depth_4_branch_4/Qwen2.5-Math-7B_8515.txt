@@ -1,0 +1,40 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8515
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A prism is constructed so that its vertical edges are parallel to the $z$-axis.  Its cross-section is a square of side length 10.
+
+[asy]
+import three;
+
+size(180);
+currentprojection = perspective(6,3,2);
+
+triple A, B, C, D, E, F, G, H;
+
+A = (1,1,0);
+B = (1,-1,0);
+C = (-1,-1,0);
+D = (-1,1,0);
+E = A + (0,0,1);
+F = B + (0,0,3);
+G = C + (0,0,4);
+H = D + (0,0,2);
+
+draw(surface(E--F--G--H--cycle),gray(0.7),nolight);
+draw(E--F--G--H--cycle);
+draw(A--E);
+draw(B--F);
+draw(C--G,dashed);
+draw(D--H);
+draw(B--A--D);
+draw(B--C--D,dashed);
+[/asy]
+
+The prism is then cut by the plane $4x - 7y + 4z = 25.$  Find the maximal area of the cross-section.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 225
+==================================================
+

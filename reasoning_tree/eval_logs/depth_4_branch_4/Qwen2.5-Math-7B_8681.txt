@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8681
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The cubic polynomial
+\[8x^3 - 3x^2 - 3x - 1 = 0\]has a real root of the form $\frac{\sqrt[3]{a} + \sqrt[3]{b} + 1}{c},$ where $a,$ $b,$ and $c$ are positive integers.  Find $a + b + c.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 98
+==================================================
+

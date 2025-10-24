@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2809
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram below, square $ABCD$ with side length 23 is cut into nine rectangles by two lines parallel to $\overline{AB}$ and two lines parallel to $\overline{BC}$. The areas of four of these rectangles are indicated in the diagram. Compute the largest possible value for the area of the central rectangle.
+
+[asy]
+size(250);
+ defaultpen (linewidth (0.7) + fontsize (10));
+ draw ((0,0)--(23,0)--(23,23)--(0,23)--cycle);
+ label("$A$", (0,23), NW);
+ label("$B$", (23, 23), NE);
+ label("$C$", (23,0), SE);
+ label("$D$", (0,0), SW);
+ draw((0,6)--(23,6));
+ draw((0,19)--(23,19));
+ draw((5,0)--(5,23));
+ draw((12,0)--(12,23));
+ label("13", (17/2, 21));
+ label("111",(35/2,25/2));
+ label("37",(17/2,3));
+ label("123",(2.5,12.5));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 180
+==================================================
+

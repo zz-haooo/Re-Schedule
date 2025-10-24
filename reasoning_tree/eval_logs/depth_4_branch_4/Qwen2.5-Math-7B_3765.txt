@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3765
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of integer solutions of $\left[\frac{x}{100} \left[\frac{x}{100}\right]\right]= 5$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

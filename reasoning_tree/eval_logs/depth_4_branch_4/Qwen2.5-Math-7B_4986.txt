@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4986
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the sum of all integers $n$ that fulfill the equation $$2^n(6-n)=8n.$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

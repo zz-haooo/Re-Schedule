@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8806
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given that $8^{-1} \equiv 85 \pmod{97}$, find $64^{-1} \pmod{97}$, as a residue modulo 97.  (Give an answer between 0 and 96, inclusive.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 47
+==================================================
+

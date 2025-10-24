@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10702
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Albert starts to make a list, in increasing order, of the positive integers that have a first digit of 1. He writes $1, 10, 11, 12, \ldots$ but by the 1,000th digit he (finally) realizes that the list would contain an infinite number of elements. Find the three-digit number formed by the last three digits he wrote (the 998th, 999th, and 1000th digits, in that order).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 116
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6340
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A fair, twenty-faced die has $19$ of its faces numbered from $1$ through $19$ and has one blank face. Another fair, twenty-faced die has $19$ of its faces numbered from $1$ through $8$ and $10$ through $20$ and has one blank face. When the two dice are rolled, what is the probability that the sum of the two numbers facing up will be $24?$ Express your answer as a common fraction.The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 83
+==================================================
+

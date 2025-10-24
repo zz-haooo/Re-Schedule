@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 501
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Each of two regular polygons $P$ and $Q$ was divided by a line into two parts. One part of $P$ was attached to one part of $Q$ along the dividing line so that the resulting polygon was regular and not congruent to $P$ or $Q$. How many sides can it have?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

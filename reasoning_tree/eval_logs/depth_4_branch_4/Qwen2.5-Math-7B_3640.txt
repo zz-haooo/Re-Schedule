@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3640
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Among the four-digit numbers greater than $2022$ that are divisible by $3$, find the smallest integer whose four digits consist of only two different kinds of numbers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2112
+==================================================
+

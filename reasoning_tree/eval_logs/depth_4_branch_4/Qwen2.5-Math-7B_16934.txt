@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16934
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The table below gives the percent of students in each grade at Annville and Cleona elementary schools:  
+$$  
+\begin{array}{rccccccc} 
+& \underline{\mathbf{K}} & \underline{\mathbf{1}} & \underline{\mathbf{2}} & \underline{\mathbf{3}} & \underline{\mathbf{4}} & \underline{\mathbf{5}} & \underline{\mathbf{6}} \\
+\mathrm { Annville: } & 16 \% & 15 \% & 15 \% & 14 \% & 13 \% & 16 \% & 11 \% \\
+\mathrm { Cleona: } & 12 \% & 15 \% & 14 \% & 13 \% & 15 \% & 14 \% & 17 \%
+\end{array}
+$$  
+Annville has $100$ students and Cleona has $200$ students. In the two schools combined, what is the value of x if x\% of the students are in grade $6$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

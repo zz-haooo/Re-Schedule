@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2480
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Starting with a $5 \times 5$ grid, choose a $4 \times 4$ square in it. Then, choose a $3 \times 3$ square in the $4 \times 4$ square, and a $2 \times 2$ square in the $3 \times 3$ square, and a $1 \times 1$ square in the $2 \times 2$ square. Assuming all squares chosen are made of unit squares inside the grid, in how many ways can the squares be chosen so that the final $1 \times 1$ square is the center of the original $5 \times 5$ grid?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

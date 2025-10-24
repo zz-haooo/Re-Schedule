@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2363
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+One day while Tony plays in the backyard of the Kubik's home, he wonders about the width of the backyard, which is in the shape of a rectangle. A row of trees spans the width of the back of the yard by the fence, and Tony realizes that all the trees have almost exactly the same diameter, and the trees look equally spaced. Tony fetches a tape measure from the garage and measures a distance of almost exactly $12$ feet between a consecutive pair of trees. Tony realizes the need to include the width of the trees in his measurements. Unsure as to how to do this, he measures the distance between the centers of the trees, which comes out to be around $15$ feet. He then measures $2$ feet to either side of the first and last trees in the row before the ends of the yard. Tony uses these measurements to estimate the width of the yard. If there are six trees in the row of trees, what is Tony's estimate in feet?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 82
+==================================================
+

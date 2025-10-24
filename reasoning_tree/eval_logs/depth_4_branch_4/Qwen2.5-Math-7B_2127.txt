@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2127
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a square with side length $4$. Consider points $P$ and $Q$ on segments $AB$ and $BC$, respectively, with $BP=3$ and $BQ=1$. Let $R$ be the intersection of $AQ$ and $DP$. If $BR^2$ can be expressed in the form $\frac{m}{n}$ for coprime positive integers $m,n$, compute $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 177
+==================================================
+

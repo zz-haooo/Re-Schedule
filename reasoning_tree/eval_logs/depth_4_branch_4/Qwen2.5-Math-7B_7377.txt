@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7377
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of ordered pairs $(a, b)$ of positive integers that are solutions of the following equation: \[a^2 + b^2 = ab(a+b).\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4860
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\underline{xyz}$ represent the three-digit number with hundreds digit $x$, tens digit $y$, and units digit $z$, and similarly let $\underline{yz}$ represent the two-digit number with tens digit $y$ and units digit $z$. How many three-digit numbers $\underline{abc}$, none of whose digits are 0, are there such that $\underline{ab} > \underline{bc} > \underline{ca}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 120
+==================================================
+

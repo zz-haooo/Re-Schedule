@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12998
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n>1$ be an integer. In the space, consider the set $S=\{(x,y,z)\mid x,y,z\in\{0,1,\cdots,n\}, x+y+z>0\}.$ Find the smallest number of planes that jointly contain all $(n+1)^3-1$ points of $S$ but none of them passes through the origin. Provide the value of this expression when n = 2.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

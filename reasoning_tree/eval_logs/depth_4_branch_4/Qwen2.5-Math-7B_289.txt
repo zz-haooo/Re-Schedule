@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 289
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the largest $k$ such that for every positive integer $n$, there exist at least $k$ numbers in the set \( \{ n+1, n+2, \ldots, n+16 \} \) that are coprime with \( n(n+17) \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

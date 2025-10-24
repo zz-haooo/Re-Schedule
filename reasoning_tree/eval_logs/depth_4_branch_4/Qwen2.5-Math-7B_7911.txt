@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7911
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A right circular cone pointing downward forms an angle of $60^\circ$ at its vertex. Sphere $S$ with radius $1$ is set into the cone so that it is tangent to the side of the cone. Three congruent spheres are placed in the cone on top of S so that they are all tangent to each other, to sphere $S$, and to the side of the cone. The radius of these congruent spheres can be written as $\tfrac{a+\sqrt{b}}{c}$ where $a$, $b$, and $c$ are positive integers such that $a$ and $c$ are relatively prime. Find $a + b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 364
+==================================================
+

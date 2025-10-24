@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9732
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+When $(10^5 \cdot 10^{77} \div 10^{15} )\div \left(10^{15}\right)^4$ is written as a single integer with no exponents, it is a 1 followed by one or more zeroes. How many zeroes are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

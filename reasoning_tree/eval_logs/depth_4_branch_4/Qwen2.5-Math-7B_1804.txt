@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1804
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $D, E, F$ be points on the sides $BC, CA, AB$ of a triangle $ABC$, respectively. Suppose $AD, BE, CF$ are concurrent at $P$. If $\frac{PF}{PC} = \frac{2}{3}$, $\frac{PE}{PB} = \frac{2}{7}$ and $\frac{PD}{PA} = \frac{m}{n}$, where $m, n$ are positive integers with $\gcd(m, n) = 1$, find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 45
+==================================================
+

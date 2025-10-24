@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1752
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A **binary palindrome** is a positive integer whose standard base 2 (binary) representation is a palindrome (reads the same backward or forward). Leading zeroes are not permitted in the standard representation. For example, 2015 is a binary palindrome because in base 2 it is \(11111011111\). How many positive integers less than 2015 are binary palindromes?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 92
+==================================================
+

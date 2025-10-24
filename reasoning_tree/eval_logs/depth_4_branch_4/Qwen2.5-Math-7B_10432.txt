@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10432
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sheet of 8-inch by 10-inch paper is placed on top of a sheet of $8 \frac{1}{2}$-inch by 11-inch paper, as shown. What is the area of the region of overlap in square inches?
+
+[asy]draw((0,0)--(10,0)--(10,8)--(0,8)--(0,0)--cycle,linewidth(2));
+draw((0,8)--(8.5,8)--(8.5,11.5)--(0,11.5)--(0,8)--cycle,linewidth(2));
+
+draw((8.5,0)--(8.5,8),dashed);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 68
+==================================================
+

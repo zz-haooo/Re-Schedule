@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8789
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, triangles $ABC$ and $CBD$ are isosceles. The perimeter of $\triangle CBD$ is $19,$ the perimeter of $\triangle ABC$ is $20,$ and the length of $BD$ is $7.$ What is the length of $AB?$ [asy]
+
+size(7cm);
+defaultpen(fontsize(11));
+
+pair b = (0, 0);
+pair d = 7 * dir(-30);
+pair a = 8 * dir(-140);
+pair c = 6 * dir(-90);
+
+draw(a--b--d--c--cycle);
+draw(b--c);
+
+label("$y^\circ$", a, 2 * (E + NE));
+label("$y^\circ$", b, 2 * (S + SW));
+label("$x^\circ$", b, 2 * (S + SE));
+label("$x^\circ$", d, 2 * (2 * W));
+
+label("$A$", a, W);
+label("$B$", b, N);
+label("$D$", d, E);
+label("$C$", c, S);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

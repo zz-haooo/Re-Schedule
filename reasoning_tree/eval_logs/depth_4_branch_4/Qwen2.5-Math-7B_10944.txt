@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10944
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Dividing $x^{1951}-1$ by $P(x)=x^4+x^3+2x^2+x+1$ one gets a quotient and a remainder. Find the coefficient of $x^{14}$ in the quotient. 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -1
+==================================================
+

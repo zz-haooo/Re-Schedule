@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8127
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a square with side length $6$. Circles $X, Y$ , and $Z$ are congruent circles with centers inside the square such that $X$ is tangent to both sides $\overline{AB}$ and $\overline{AD}$, $Y$ is tangent to both sides $\overline{AB}$ and $\overline{BC}$, and $Z$ is tangent to side $\overline{CD}$ and both circles $X$ and $Y$ . The radius of the circle $X$ can be written $m -\sqrt{n}$, where $m$ and $n$ are positive integers. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 195
+==================================================
+

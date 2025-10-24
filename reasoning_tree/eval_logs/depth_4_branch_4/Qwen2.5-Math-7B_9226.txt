@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9226
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, if $\triangle ABC$ and $\triangle PQR$ are equilateral, then what is the measure of $\angle CXY$ in degrees? [asy]
+import cse5;
+size(8cm);
+draw((-0.8, 0)--(1.5, 0));
+pair b = (0, 0); pair p = (0.75, 0);
+pair a = dir(180 - 65); pair c = dir(55);
+pair q = shift(p) * (1.7 * dir(75)); pair r = shift(p) * (1.7 * dir(60 + 75));
+draw(a--b--c--cycle); draw(p--q--r--cycle);
+
+label("$B$", b, S); label("$P$", p, S); label("$R$", r, NW); label("$Q$", q, NE);
+label("$A$", a, W); label("$C$", c, E); label("$X$", IP(r--p, a--c), NE); label("$Y$", IP(r--p, c--b), 2 * E);
+
+label("$65^\circ$", b, W + NW+ NW); label("$75^\circ$", p, 0.5 * E + NE + NE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2636
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Call a lattice point *visible* if the line segment connecting the point and the origin does not pass through another lattice point. Given a positive integer $k$, denote by $S_k$ the set of all visible lattice points $(x, y)$ such that $x^2 + y^2 = k^2$. Let $D$ denote the set of all positive divisors of $2021 \cdot 2025$. Compute the sum \[ \sum_{d \in D} |S_d| \]
+
+Here, a lattice point is a point $(x, y)$ on the plane where both $x$ and $y$ are integers, and $|A|$ denotes the number of elements of the set $A$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

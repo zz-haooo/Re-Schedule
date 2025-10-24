@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8046
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The Bell Zoo has the same number of rhinoceroses as the Carlton Zoo has lions. The Bell Zoo has three more elephants than the Carlton Zoo has lions. The Bell Zoo has the same number of elephants as the Carlton Zoo has rhinoceroses. The Carlton Zoo has two more elephants than rhinoceroses. The Carlton Zoo has twice as many monkeys as it has rhinoceroses, elephants, and lions combined, and it has two more penguins than monkeys. The Bell Zoo has two-thirds as many monkeys as the Carlton Zoo has penguins. The Bell Zoo has two more penguins than monkeys but only half as many lions as penguins. The total of the numbers of rhinoceroses, elephants, lions, monkeys, and penguins in the Bell Zoo is $48$. Find the total of the numbers of rhinoceroses, elephants, lions, monkeys, and penguins in the Carlton Zoo.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 57
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7073
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Right triangle $XY Z$ has right angle at $Y$ and $XY = 228$, $Y Z = 2004$. Angle $Y$ is trisected, and the angle trisectors intersect $XZ$ at $P$ and $Q$ so that $X$, $P$, $Q$,$Z$ lie on $XZ$ in that order. Find the value of $(PY + Y Z)(QY + XY )$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1370736
+==================================================
+

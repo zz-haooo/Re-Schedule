@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 448
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $N$ is the number of triangles of different shapes (i.e., not similar) whose angles are all integers (in degrees), what is $\frac{N}{100}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 27
+==================================================
+

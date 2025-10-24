@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5304
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Malmer Pebane's apartment uses a six-digit access code, with leading zeros allowed. He noticed that his fingers leave smudges that reveal which digits were pressed. He decided to change his access code to provide the largest number of possible combinations for a burglar to try when the digits are known. 
+
+For each number of distinct digits that could be used in the access code, calculate the number of possible combinations when the digits are known but their order and frequency are not known. 
+
+For example, if there are smudges on $3$ and $9$, two possible codes are $393939$ and $993999$. Which number of distinct digits in the access code offers the most combinations?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

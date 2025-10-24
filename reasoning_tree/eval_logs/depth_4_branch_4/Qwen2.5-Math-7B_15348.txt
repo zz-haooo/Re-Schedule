@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15348
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a table tennis tournament every participant played every other participant exactly once. Although there were twice as many right-handed players as left-handed players, the number of games won by left-handed players was $40\%$ more than the number of games won by right-handed players. (There were no ties and no ambidextrous players.) Find the total number of games played.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2272
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two quadratic polynomials $A(x)$ and $B(x)$ have a leading term of $x^2$. For some real numbers $a$ and $b$, the roots of $A(x)$ are $1$ and $a$, and the roots of $B(x)$ are $6$ and $b$. If the roots of $A(x) + B(x)$ are $a + 3$ and $b + \frac{1}{2}$, then compute $a^2 + b^2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

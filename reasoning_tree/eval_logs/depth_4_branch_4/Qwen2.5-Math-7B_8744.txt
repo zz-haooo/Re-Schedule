@@ -1,0 +1,40 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8744
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If you continue this pattern in which each line-segment extremity is replaced by a gradually smaller Y in the next figure, in the manner shown, how many endpoints will Figure 5 have?
+
+[asy]
+draw((0,0)--(0,-3),linewidth(.75));
+draw((0,0)--(-2,2),linewidth(.75));
+draw((0,0)--(2,2),linewidth(.75));
+label("Figure 1",(0,-3),S);
+
+draw((5,0)--(5,-2),linewidth(.75));
+draw((4,-3)--(5,-2)--(6,-3),linewidth(.75));
+draw((4,1)--(5,0)--(6,1),linewidth(.75));
+draw((3,1)--(4,1)--(4,2),linewidth(.75));
+draw((6,2)--(6,1)--(7,1),linewidth(.75));
+label("Figure 2",(5,-3),S);
+
+draw((10,0)--(10,-2),linewidth(.75));
+draw((9.5,-2.5)--(10,-2)--(10.5,-2.5),linewidth(.75));
+draw((9,-2.5)--(9.5,-2.5)--(9.5,-3),linewidth(.75));
+draw((11,-2.5)--(10.5,-2.5)--(10.5,-3),linewidth(.75));
+
+draw((9,1)--(10,0)--(11,1),linewidth(.75));
+draw((8.5,1)--(9,1)--(9,1.5),linewidth(.75));
+draw((11.5,1)--(11,1)--(11,1.5),linewidth(.75));
+draw((8.25,.75)--(8.5,1)--(8.25,1.25),linewidth(.75));
+draw((8.75,1.75)--(9,1.5)--(9.25,1.75),linewidth(.75));
+draw((10.75,1.75)--(11,1.5)--(11.25,1.75),linewidth(.75));
+draw((11.75,1.25)--(11.5,1)--(11.75,.75),linewidth(.75));
+label("Figure 3",(10,-3),S);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 48
+==================================================
+

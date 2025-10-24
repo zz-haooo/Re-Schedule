@@ -1,0 +1,47 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9807
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, four circles of radius 1 with centres $P$, $Q$, $R$, and $S$ are tangent to one another and to the sides of $\triangle ABC$, as shown. [asy]
+size(250);
+pair A, B, C, P, Q, R, S;
+R=(0,0);
+Q=(-2,0);
+S=(2,0);
+P=(1,1.732);
+B=(-5.73,-1);
+C=(3.732,-1);
+A=(1.366,3.098);
+draw(A--B--C--A);
+draw(circle(P, 1));
+draw(circle(Q, 1));
+draw(circle(R, 1));
+draw(circle(S, 1));
+label("A", A, N);
+label("B", B, SW);
+label("C", C, SE);
+dot(P);
+dot(Q);
+dot(R);
+dot(S);
+label("P", P, N);
+label("Q", Q, SW);
+label("R", R, SW);
+label("S", S, SE);
+[/asy]
+
+The radius of the circle with center $R$ is decreased so that
+
+$\bullet$ the circle with center $R$ remains tangent to $BC$,
+
+$\bullet$ the circle with center $R$ remains tangent to the other three circles, and
+
+$\bullet$ the circle with center $P$ becomes tangent to the other three circles.
+
+The radii and tangencies of the other three circles stay the same. This changes the size and shape of $\triangle ABC$. $r$ is the new radius of the circle with center $R$. $r$ is of the form $\frac{a+\sqrt{b}}{c}$. Find $a+b+c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

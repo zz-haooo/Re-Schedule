@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1318
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the largest real number $x$ such that $$\left(\frac{x}{x-1}\right)^2 + \left(\frac{x}{x+1}\right)^2 = \frac{325}{144}.$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

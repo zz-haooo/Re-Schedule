@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1586
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a right triangle with $AB=3$, $BC=4$, and $\angle B = 90^\circ$. Points $P$, $Q$, and $R$ are chosen on segments $AB$, $BC$, and $CA$, respectively, such that $PQR$ is an equilateral triangle, and $BP=BQ$. Given that $BP$ can be written as $\frac{\sqrt{a}-b}{c}$, where $a,b,c$ are positive integers and $\gcd(b,c)=1$, what is $a+b+c$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 451
+==================================================
+

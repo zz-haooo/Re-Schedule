@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9021
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the graph of $$\frac{x^3-x^2+x}{6x^2-9x}.$$Let $a$ be the number of holes in the graph, $b$ be the number of vertical asympotes, $c$ be the number of horizontal asymptotes, and $d$ be the number of oblique asymptotes. Find $a+2b+3c+4d$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

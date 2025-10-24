@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7858
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A dart board looks like three concentric circles with radii of 4, 6, and 8.  Three darts are thrown at the board so that they stick at three random locations on then board.  The probability that one dart sticks in each of the three regions of the dart board is $\dfrac{m}{n}$ where $m$ and $n$ are relatively prime positive integers.   Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 617
+==================================================
+

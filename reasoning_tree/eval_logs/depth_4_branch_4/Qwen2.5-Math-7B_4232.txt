@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4232
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Hapi, the god of the annual flooding of the Nile, is preparing for this year's flooding. The shape of the channel of the Nile can be described by the function $y = \frac{-1000}{x^2+100}$, where the $x$ and $y$ coordinates are in meters. The current depth of the river is $5$ meters. Hapi plans to increase the water level by $3$ meters. How many meters wide will the river be after the flooding? The depth of the river is always measured at its deepest point.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

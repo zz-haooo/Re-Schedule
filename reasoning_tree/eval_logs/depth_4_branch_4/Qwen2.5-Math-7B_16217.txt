@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16217
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For how many ordered pairs $(a,b)$ of integers does the polynomial $x^3 + ax^2 + bx + 6$ have 3 distinct integer roots?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

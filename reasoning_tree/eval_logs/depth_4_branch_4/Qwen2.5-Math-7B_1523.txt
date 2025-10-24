@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1523
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that the polynomial $p(x) = x^{2010} \pm x^{2009} \pm \ldots \pm x \pm 1$ does not have a real root. What is the maximum number of coefficients that can be $-1$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1005
+==================================================
+

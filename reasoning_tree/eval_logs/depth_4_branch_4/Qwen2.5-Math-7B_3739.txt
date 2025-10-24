@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3739
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two distinct points $A$ and $B$ are chosen at random from 15 points equally spaced around a circle centered at $O$ such that each pair of points $A$ and $B$ has the same probability of being chosen. The probability that the perpendicular bisectors of $OA$ and $OB$ intersect strictly inside the circle can be expressed in the form $\frac{m}{n}$, where $m,n$ are relatively prime positive integers. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

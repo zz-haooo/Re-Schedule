@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3570
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two points $A$ and $B$ are selected independently and uniformly at random along the perimeter of a unit square with vertices at $(0,0)$, $(1,0)$, $(0,1)$, and $(1,1)$. The probability that the $y$-coordinate of $A$ is strictly greater than the $y$-coordinate of $B$ can be expressed as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Compute $100m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 716
+==================================================
+

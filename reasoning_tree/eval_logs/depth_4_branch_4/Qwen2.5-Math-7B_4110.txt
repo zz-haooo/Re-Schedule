@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4110
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Kris is asked to compute $\log_{10} (x^y)$, where $y$ is a positive integer and $x$ is a positive real number. However, they misread this as $(\log_{10} x)^y$ and compute this value. Despite the reading error, Kris still got the right answer. Given that $x > 10^{1.5}$, determine the largest possible value of $y$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3611
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Eva draws an equilateral triangle and its altitudes. In the first step, she draws the center triangle of the equilateral triangle. In the second step, she draws the center triangle of this center triangle, and so on. After each step, Eva counts all triangles whose sides lie completely on the drawn lines. What is the minimum number of center triangles she must have drawn so that the figure contains more than 2022 such triangles?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

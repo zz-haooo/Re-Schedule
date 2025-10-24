@@ -1,0 +1,38 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6935
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC,$ $M$ is the midpoint of $\overline{BC},$ $AB = 12,$ and $AC = 16.$  Let $E$ be on $\overline{AC},$ and $F$ be on $\overline{AB},$ and let $G$ be the intersection of $\overline{EF}$ and $\overline{AM}.$  If $AE = 2AF,$ then find $\frac{EG}{GF}.$
+
+[asy]
+unitsize(0.3 cm);
+
+pair A, B, C, E, F, G, M;
+real x = 4;
+
+B = (0,0);
+C = (18,0);
+A = intersectionpoint(arc(B,12,0,180),arc(C,16,0,180));
+M = (B + C)/2;
+F = interp(A,B,x/12);
+E = interp(A,C,2*x/16);
+G = extension(E,F,A,M);
+
+draw(A--B--C--cycle);
+draw(E--F);
+draw(A--M);
+
+label("$A$", A, N);
+label("$B$", B, SW);
+label("$C$", C, SE);
+label("$E$", E, NE);
+label("$F$", F, NW);
+label("$G$", G, SW);
+label("$M$", M, S);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

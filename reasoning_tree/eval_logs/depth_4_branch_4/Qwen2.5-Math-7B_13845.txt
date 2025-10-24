@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13845
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Is there a real number h such that $[h\cdot1969^n]$ is not divisible by $[h\cdot1969^{n-1}]$ for any positive integer n? The original answer is in \frac{m^3}{n} format, please give the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3937
+==================================================
+

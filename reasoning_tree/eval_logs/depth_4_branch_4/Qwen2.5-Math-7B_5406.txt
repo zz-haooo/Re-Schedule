@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5406
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The value of the expression $$\sum_{n=2}^{\infty} \frac{\binom{n}{2}}{7^{n-2}} = 1+\frac{3}{7}+\frac{6}{49}+\frac{10}{343}+\frac{15}{2401}+\dots+\frac{\binom{n}{2}}{7^{n-2}}+\cdots$$ can be expressed as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 559
+==================================================
+

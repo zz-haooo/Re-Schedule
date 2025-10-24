@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16719
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two circles with radii 1 and 2 touch each other and a line as shown in the figure. In the region between the circles and the line, there is a circle with radius $r$ which touches the two circles and the line. The original answer is in the form $m - n\sqrt{2}$, where $m$ and $n$ are integers. Please find the value of $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3638
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A cyclic quadrilateral $ABCD$ has side lengths $AB = 3$, $BC = AD = 5$, and $CD = 8$. The radius of its circumcircle can be expressed in the form $\frac{a\sqrt{b}}{c}$, where $a$, $b$, $c$ are positive integers, $a$ and $c$ are relatively prime, and $b$ is not divisible by the square of any prime. Find $a + b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

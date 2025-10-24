@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14254
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A drawer in a darkened room contains $100$ red socks, $80$ green socks, $60$ blue socks, and $40$ black socks. A youngster selects socks one at a time from the drawer but is unable to see the color of the socks drawn. What is the smallest number of socks that must be selected to guarantee that the selection contains at least $10$ pairs? Provide your answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

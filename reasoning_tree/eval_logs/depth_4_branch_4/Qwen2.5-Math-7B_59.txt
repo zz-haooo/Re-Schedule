@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 59
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+One day, students in school organized an exchange among themselves with the following rates:
+- $11$ strawberries exchange for $14$ raspberries.
+- $22$ cherries exchange for $21$ raspberries.
+- $10$ cherries exchange for $3$ bananas.
+- $5$ pears exchange for $2$ bananas.
+
+The question is: How many pears does Amila need to give to get $7$ strawberries?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 91
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A Haiku is a Japanese poem of seventeen syllables, in three lines of five, seven, and five.
+
+Ada has been told to write down five haikus plus two more every hour. This means she needs to write down five in the first hour, seven in the second hour, nine in the third hour, and so on.
+
+Ada has written forty haikus so far and writes down seven haikus every hour. At which hour after she begins will she not have enough haikus done?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

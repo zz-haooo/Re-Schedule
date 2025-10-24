@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3781
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Knowing that the system:
+\[
+\begin{align*}
+x + y + z &= 3, \\
+x^3 + y^3 + z^3 &= 15, \\
+x^4 + y^4 + z^4 &= 35,
+\end{align*}
+\]
+has a real solution \(x, y, z\) for which \(x^2 + y^2 + z^2 < 10\), find the value of \(x^5 + y^5 + z^5\) for that solution.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 83
+==================================================
+

@@ -1,0 +1,33 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10839
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A frustum of a right circular cone is formed by cutting a small cone off of the top of a larger cone. If a particular frustum has an altitude of $24$ centimeters, the area of its lower base is $225\pi$ sq cm and the area of its upper base is $25\pi$ sq cm, what is the altitude of the small cone that was cut off? [asy]size(200);
+import three; defaultpen(linewidth(1)); currentprojection = orthographic(0,-3,0.5); pen dots = linetype("0 3") + linewidth(1);
+real h = 2.3, ratio = (91-24)/(171-24);
+picture p1, p2; /* p1 is left-hand picture */
+triple A = (0,0,0), B = (0,0,h); draw(p1,(-1,0,0)..(0,-1,0)..(1,0,0)); draw(p1,(-1,0,0)..(0,1,0)..(1,0,0),dots); draw(p1,(-1,0,0)--B--(1,0,0));
+add(p1);
+
+triple vlift = (0,0,0.5);
+
+path3 toparc1 = shift((0,0,h*(1-ratio)))*scale3(ratio)*((-1,0,0)..(0,1,0)..(1,0,0)), toparc2 = shift((0,0,h*(1-ratio)))*scale3(ratio)*((1,0,0)..(0,-1,0)..(-1,0,0));
+draw(p2,(-1,0,0)..(0,-1,0)..(1,0,0)); draw(p2,(-1,0,0)..(0,1,0)..(1,0,0),dots);
+
+draw(p2,(-1,0,0)--ratio*(-1,0,0)+(1-ratio)*B^^ratio*(1,0,0)+(1-ratio)*B--(1,0,0));
+
+draw(p2,shift(vlift)*(ratio*(-1,0,0)+(1-ratio)*B--B--ratio*(1,0,0)+(1-ratio)*B));
+
+draw(p2,toparc1--toparc2); draw(p2,shift(vlift)*toparc1,dots); draw(p2,shift(vlift)*toparc2);
+
+draw(p2,shift(vlift)*((1-ratio)*B--B),linewidth(0.7)); dot(p2,shift(vlift)*((1-ratio)*B),linewidth(1.5));
+label(p2,"frustum",(0,0,h/4)); label(p2,"$x$",(1-ratio/2)*B+vlift,SW);
+add(shift((3.4,0,0))*p2);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

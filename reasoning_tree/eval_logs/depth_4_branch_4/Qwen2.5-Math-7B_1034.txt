@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1034
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+2018 little ducklings numbered 1 through 2018 are standing in a line, with each holding a slip of paper with a nonnegative number on it. It is given that ducklings 1 and 2018 have the number zero. At some point, ducklings 2 through 2017 change their number to equal the average of the numbers of the ducklings to their left and right. Suppose the new numbers on the ducklings sum to 1000. What is the maximum possible sum of the original numbers on all 2018 slips?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2000
+==================================================
+

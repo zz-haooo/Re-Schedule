@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1369
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $a_1$, $a_2$, $\ldots$, $a_{10}$ are nonnegative integers such that \[\sum_{k=1}^{10}a_k=15 \text{ and } \sum_{k=1}^{10}ka_k = 80.\] Let $M$ and $m$ denote the maximum and minimum respectively of $\sum_{k=1}^{10}k^2a_k$. Compute $M-m$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 286
+==================================================
+

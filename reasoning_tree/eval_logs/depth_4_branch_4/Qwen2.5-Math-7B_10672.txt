@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10672
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a$ and $b$ be nonzero complex numbers such that $a^2 + ab + b^2 = 0.$  Evaluate
+\[\frac{a^9 + b^9}{(a + b)^9}.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -2
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2194
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ has sidelengths $AB=1$, $BC=\sqrt{3}$, and $AC=2$. Points $D$, $E$, and $F$ are chosen on $AB$, $BC$, and $AC$ respectively, such that $\angle EDF = \angle DFA = 90^{\circ}$. Given that the maximum possible value of $[DEF]^2$ can be expressed as $\frac{a}{b}$ for positive integers $a, b$ with $\gcd(a, b) = 1$, find $a + b$. (Here $[DEF]$ denotes the area of triangle $DEF$.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 67
+==================================================
+

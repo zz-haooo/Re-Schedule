@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12886
+Question: 已知 $\left(1+x+x^{2}+x^{3}\right)^{400}$
+$$
+\begin{aligned}
+& =\sum_{k=0}^{300} c_{4 k} x^{4 k}+\sum_{k=0}^{299} c_{4 k+1} x^{4 k+1}+ \\
+& \sum_{k=0}^{299} c_{4 k+2} x^{4 k+2}+\sum_{k=0}^{299} c_{4 k+3} x^{4 k+3}. \\
+\end{aligned}
+$$
+则 $\sum\limits_{k=0}^{300} c_{4 k}=$The standard form of the answer is $a^{b}$. What is the value of a + b?
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 403
+==================================================
+

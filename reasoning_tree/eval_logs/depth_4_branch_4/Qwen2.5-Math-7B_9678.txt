@@ -1,0 +1,26 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9678
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $\cos V = \frac{2}{3}$ in the diagram below.  What is $TV$?
+
+
+
+[asy]
+pair T,U,V;
+V = (0,0);
+T = (0,16);
+U = (17.89,16);
+draw(V--T--U--V);
+draw(rightanglemark(V,T,U,23));
+label("$V$",V,SW);
+label("$U$",U,NE);
+label("$T$",T,NW);
+label("$24$",(U-V)/2,SE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

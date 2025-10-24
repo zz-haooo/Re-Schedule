@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3302
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram below, $ABCDE$ is a regular pentagon. The line $\overline{AG}$ is perpendicular to $\overline{CD}$, and $\overline{BD}$ intersects $\overline{AG}$ at point $F$. Find the degree measure of $\angle AFB$. 
+
+\begin{asy}
+import math;
+size(4cm);
+pen dps = fontsize(10);
+defaultpen(dps);
+pair A,B,C,D,E,F,G;
+A=dir(90);
+B=dir(162);
+C=dir(234);
+D=dir(306);
+E=dir(18);
+F=extension(A,G,B,D);
+G=(C+D)/2;
+draw(A--B--C--D--E--cycle^^A--G^^B--D);
+label("$A$",A,dir(90)*0.5);
+label("$B$",B,dir(162)*0.5);
+label("$C$",C,dir(234)*0.5);
+label("$D$",D,dir(306)*0.5);
+label("$E$",E,dir(18)*0.5);
+label("$F$",F,NE*0.5);
+label("$G$",G,S*0.5);
+\end{asy}
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 54
+==================================================
+

@@ -1,0 +1,33 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10493
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Cylinder $B$'s height is equal to the radius of cylinder $A$ and cylinder $B$'s radius is equal to the height $h$ of cylinder $A$. If the volume of cylinder $A$ is twice the volume of cylinder $B$, the volume of cylinder $A$ can be written as $N \pi h^3$ cubic units. What is the value of $N$?
+
+[asy]
+size(4cm,4cm);
+path a=(0,-1.2)..(-10,0)--(10,0)..cycle;
+path b=(17,-0.9)..(13,0)--(21,0)..cycle;
+path c=(0,1.2)..(-10,0)--(10,0)..cycle;
+path d=(17,0.9)..(13,0)--(21,0)..cycle;
+draw(c);
+draw(d);
+draw(shift((0,7))*a);
+draw(shift((0,7))*c);
+draw(shift((0,15))*b);
+draw(shift((0,15))*d);
+draw((-10,0)--(-10,7));
+draw((10,0)--(10,7));
+draw((13,0)--(13,15));
+draw((21,0)--(21,15));
+draw(a);
+draw(b);
+label("$A$",(0,9),N);
+label("$B$",(17,18),N);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

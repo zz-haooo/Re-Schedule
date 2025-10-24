@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5802
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ lies in the cartesian plane and has an area of $70$. The coordinates of $B$ and $C$ are $(12,19)$ and $(23,20),$ respectively, and the coordinates of $A$ are $(p,q).$ The line containing the  median to side $BC$ has slope $-5.$ Find the largest possible value of $p+q.$
+
+[asy]defaultpen(fontsize(8)); size(170); pair A=(15,32), B=(12,19), C=(23,20), M=B/2+C/2, P=(17,22); draw(A--B--C--A);draw(A--M);draw(B--P--C); label("A (p,q)",A,(1,1));label("B (12,19)",B,(-1,-1));label("C (23,20)",C,(1,-1));label("M",M,(0.2,-1)); label("(17,22)",P,(1,1)); dot(A^^B^^C^^M^^P);[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 47
+==================================================
+

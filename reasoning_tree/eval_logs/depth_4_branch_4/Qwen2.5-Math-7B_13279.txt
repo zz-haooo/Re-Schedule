@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13279
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A particle moves on a straight line, the only force acting on it being a resistance proportional to the velocity. If it started with a velocity of $1,000 \mathrm{ft}$. per sec. and had a velocity of 900 ft. per sec. when it had travelled $1,200 \mathrm{ft}$., calculate to the nearest hundredth of a second the time it took to travel this distance.The answer is written in the form of \(a\times 10^{-2}\). Find the value of \(a\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 126
+==================================================
+

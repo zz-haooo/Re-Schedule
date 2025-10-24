@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13292
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given positive integers $m$ and $n \geq m$, determine the largest number of dominoes ( $1 \times 2$ or $2 \times 1$ rectangles) that can be placed on a rectangular board with $m$ rows and $2 n$ columns consisting of cells ( $1 \times 1$ squares) so that:  
+$\mathrm{(i)}$ each domino covers exactly two adjacent cells of the board;  
+$\mathrm{(ii)}$ no two dominoes overlap;  
+$\mathrm{(iii)}$no two form a $2 \times 2$ square; and  
+$\mathrm{(iv)}$the bottom row of the board is completely covered by $n$ dominoes.
+Please calculate the number of dominoes when $m = 6$ and $n = 5$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 27
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3600
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $M$ be the set of all integers from $1$ to $2013$. Each subset of $M$ is assigned one of $k$ available colors. The only condition is that if the union of two different subsets $A$ and $B$ equals $M$, then $A$ and $B$ must be given different colors. What is the least possible value of $k$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2014
+==================================================
+

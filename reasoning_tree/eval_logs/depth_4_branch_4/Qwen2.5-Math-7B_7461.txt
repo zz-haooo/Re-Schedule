@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7461
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A PUMaC grader is grading the submissions of forty students $s_1, s_2, ..., s_{40}$ for the individual finals round, which has three problems. After grading a problem of student $s_i$, the grader either:
+$\bullet$  grades another problem of the same student, or
+$\bullet$ grades the same problem of the student $s_{i-1}$ or $s_{i+1}$ (if $i > 1$ and $i < 40$, respectively).
+He grades each problem exactly once, starting with the first problem of $s_1$ and ending with the third problem of $s_{40}$. Let $N$ be the number of different orders the grader may grade the students’ problems in this way. Find the remainder when $N$ is divided by $100$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 78
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5113
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a class with $23$ students, each pair of students has watched a movie together. Let the set of movies watched by a student be his movie collection. If every student has watched every movie at most once, at least how many different movie collections can these students have?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

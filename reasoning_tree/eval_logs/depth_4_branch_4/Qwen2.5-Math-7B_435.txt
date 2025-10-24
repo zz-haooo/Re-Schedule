@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 435
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Graphistan has $2011$ cities and Graph Air (GA) is running one-way flights between all pairs of these cities. Determine the maximum possible value of the integer $k$ such that no matter how these flights are arranged, it is possible to travel between any two cities in Graphistan using only GA flights, provided that the absolute value of the difference between the number of flights originating from and terminating at any city is not more than $k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1005
+==================================================
+

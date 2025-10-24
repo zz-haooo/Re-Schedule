@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1355
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diameter $[AC]$ of a circle is divided into four equal segments by points $P$, $M$, and $Q$. Consider a segment $[BD]$ that passes through $P$ and intersects the circle at points $B$ and $D$, such that $PD = \frac{3}{2} AP$. Given that the area of triangle $[ABP]$ is $1$ cm$^2$, calculate the area of quadrilateral $[ABCD]$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

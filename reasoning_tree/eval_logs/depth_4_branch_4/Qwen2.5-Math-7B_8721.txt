@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8721
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the sequence of numbers defined recursively by $t_1=1$ and for $n>1$ by $t_n=1+t_{n/2}$ when $n$ is even and by $t_n=\frac{1}{t_{n-1}}$ when $n$ is odd. Given that $t_n=\frac{19}{87}$, find $n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1905
+==================================================
+

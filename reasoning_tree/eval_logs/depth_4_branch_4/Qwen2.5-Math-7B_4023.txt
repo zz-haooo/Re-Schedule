@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4023
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A positive integer $n \geq 4$ is called *interesting* if there exists a complex number $z$ such that $|z|=1$ and \[1 + z + z^2 + z^{n-1} + z^n = 0.\] Find how many interesting numbers are smaller than $2022$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 404
+==================================================
+

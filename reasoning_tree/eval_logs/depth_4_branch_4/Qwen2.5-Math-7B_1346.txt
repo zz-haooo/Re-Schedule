@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1346
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a forest, there are five trees labeled $A$, $B$, $C$, $D$, and $E$ that are aligned in that order on a straight line. 
+
+- At the midpoint of segment $AB$, there is a daisy.
+- At the midpoint of segment $BC$, there is a rose bush.
+- At the midpoint of segment $CD$, there is a jasmine.
+- At the midpoint of segment $DE$, there is a carnation.
+
+The distance between tree $A$ and tree $E$ is $28$ meters. Additionally, the distance between the daisy and the carnation is $20$ meters. Calculate the distance between the rose bush and the jasmine.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2233
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On a $3 \times 3$ board, the numbers from $1$ to $9$ are written in some order without repeating. We say that the arrangement obtained is Isthmian if the numbers in any two adjacent squares have different parity. Determine the number of different Isthmian arrangements.
+
+Note: Two arrangements are considered equal if one can be obtained from the other by rotating the board.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 720
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3469
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On a table near the sea, there are $N$ glass boxes where $N < 2021$, each containing exactly $2021$ balls. Sowdha and Rafi play a game by taking turns on the boxes where Sowdha takes the first turn. In each turn, a player selects a non-empty box and throws out some of the balls from it into the sea. If a player wants, they can throw out all of the balls in the selected box. The player who throws out the last ball wins. 
+
+Let $S$ be the sum of all values of $N$ for which Sowdha has a winning strategy, and let $R$ be the sum of all values of $N$ for which Rafi has a winning strategy. What is the value of $\frac{R-S}{10}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 101
+==================================================
+

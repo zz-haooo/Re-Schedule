@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3761
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sequence of real numbers $x_0, x_1, x_2, \ldots$ is defined as follows: $x_0 = 1989$ and for each $n \geq 1$,
+\[ x_n = -\frac{1989}{n} \sum^{n-1}_{k=0} x_k. \]
+Calculate the value of $\sum^{1989}_{n=0} 2^n x_n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -1989
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16811
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \(a\), \(b\), and \(c\) be the roots of the polynomial \(x^3 + 4x^2 - 7x - 1\). Find the polynomial that has roots \(ab\), \(bc\), and \(ac\). The original answer is in the form \(mx^3 + nx^2 + px + q\). Please give the value of \(m + n + p + q\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

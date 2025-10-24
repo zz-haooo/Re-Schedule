@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11913
+Question: 求最大的正整数 n，使得存在实数 x_1,x_2,\cdots,x_n，满足(1) 1\leq x_1,x_2,\cdots,x_n\leq 2022；(2) 对任意 1\leq i<j<k\leq n，x_i^2+x_j^2+x_k^2\geq2(x_ix_j+x_jx_k+x_kx_i).
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 9
+==================================================
+

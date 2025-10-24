@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13501
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be a positive integer. Find the number of pairs $P,Q$ of polynomials with real coefficients such that $$(P(X))^2+(Q(X))^2=X^{2n}+1$$ and $\deg P>\deg Q.$ Provide the value when $n=3$. The answer should be an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

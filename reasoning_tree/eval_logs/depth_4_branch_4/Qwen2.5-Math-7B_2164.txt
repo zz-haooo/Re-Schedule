@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2164
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a square with vertices $A=(0,0)$ and $B=(1,1)$. A point $P\left(\frac{2}{7},\frac{1}{4}\right)$ is located inside the square. An ant begins its journey from point $P$, touches three sides of the square, and returns to point $P$. The shortest possible distance the ant can travel is expressed as $\frac{\sqrt{a}}{b}$, where $a$ and $b$ are integers, and $a$ is not divisible by any square number other than $1$. Determine the value of $(a+b)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

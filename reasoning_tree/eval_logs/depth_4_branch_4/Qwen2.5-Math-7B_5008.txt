@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5008
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $S$ be a set of real numbers with mean $M$. If the means of the sets $S \cup \{15\}$ and $S \cup \{15, 1\}$ are $M + 2$ and $M + 1$, respectively, then how many elements does $S$ have?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6249
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Circles $A,B$, and $C$ are externally tangent to each other and internally tangent to circle $D$. Circles $B$ and $C$ are congruent. Circle $A$ has radius 1 and passes through the center of $D$. What is the radius of circle $B$?
+
+[asy]unitsize(1cm);
+pair A,B,C,D;
+A=(-1,0);
+B=(0.66,0.88);
+C=(0.66,-0.88);
+D=(0,0);
+draw(Circle(A,1),linewidth(0.7));
+draw(Circle(B,0.88),linewidth(0.7));
+draw(Circle(C,0.88),linewidth(0.7));
+draw(Circle(D,2),linewidth(0.7));
+label("$A$",A,A);
+label("$B$",B,B);
+label("$C$",C,C);
+label("$D$",(-1.2,1.6),NW);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

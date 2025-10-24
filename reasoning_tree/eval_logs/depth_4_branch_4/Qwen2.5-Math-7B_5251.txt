@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5251
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Tyler has two calculators, both of which initially display zero. The first calculator has only two buttons, $[+1]$ and $[\times 2]$. The second has only the buttons $[+1]$ and $[\times 4]$. Both calculators update their displays immediately after each keystroke.
+
+A positive integer $n$ is called \textit{ambivalent} if the minimum number of keystrokes needed to display $n$ on the first calculator equals the minimum number of keystrokes needed to display $n$ on the second calculator. Find the sum of all ambivalent integers between $256$ and $1024$ inclusive.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 34776
+==================================================
+

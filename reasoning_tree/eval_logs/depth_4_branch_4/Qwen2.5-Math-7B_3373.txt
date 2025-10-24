@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3373
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows $\triangle ABC$ with area $64$, where $D, E$, and $F$ are the midpoints of $BC, CA$, and $AB$, respectively. Point $G$ is the intersection of $DF$ and $BE$. Find the area of quadrilateral $AFGE$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

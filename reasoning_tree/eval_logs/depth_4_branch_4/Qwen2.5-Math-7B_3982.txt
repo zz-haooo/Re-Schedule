@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3982
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alice has three daughters, each of whom has two daughters. Each of Alice's six grand-daughters has one daughter. How many sets of women from the family of $16$ can be chosen such that no woman and her daughter are both in the set? (Include the empty set as a possible set.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2926
+==================================================
+

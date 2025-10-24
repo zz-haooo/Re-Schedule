@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13664
+Question: 设 $x \geq y \geq z \geq \frac{\pi}{12}$, 且 $x+y+z=\frac{\pi}{2}$, 求乘积 $\cos x \sin y \cos z$ 的最大值和最小值. 原始答案的最大值为 $\frac{a+\sqrt{b}}{c}$ 的形式，最小值为 $\frac{d}{e}$的形式，请给出 $a + b + c + d + e$ 的值.
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 21
+==================================================
+

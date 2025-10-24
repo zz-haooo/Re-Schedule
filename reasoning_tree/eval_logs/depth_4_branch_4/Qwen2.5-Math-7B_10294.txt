@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10294
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The length of the year on the planet Mars is exactly 697 days. If Mars has a calendar with a 12-day week, and year 0 begins on the first day of the week, what is the next year which will begin on the first day of the week?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3569
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sides of triangles $ABC$ and $ACD$ satisfy the following conditions: $AB = AD = 3$ cm, $BC = 7$ cm, $DC = 11$ cm. What values can the side length $AC$ take if it is an integer number of centimeters, is the average in $\Delta ACD$ and the largest in $\Delta ABC$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

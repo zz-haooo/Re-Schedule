@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1521
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the arithmetic sequence of integers with first term $-7$ and second term $17$. What is the sum of the squares of the first three terms of the sequence?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2019
+==================================================
+

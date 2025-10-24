@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10721
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If the consecutive integers from $50$ to $1$ were written as $$5049484746...,$$ what would be the $67^{\text{th}}$ digit to be written?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

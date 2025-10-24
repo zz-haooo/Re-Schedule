@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4522
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Andy wishes to open an electronic lock with a keypad containing all digits from $0$ to $9$. He knows that the password registered in the system is $2469$. Unfortunately, he is also aware that exactly two different buttons (but he does not know which ones) $\underline{a}$ and $\underline{b}$ on the keypad are broken - when $\underline{a}$ is pressed, the digit $b$ is registered in the system, and when $\underline{b}$ is pressed, the digit $a$ is registered in the system. Find the least number of attempts Andy needs to surely be able to open the lock.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

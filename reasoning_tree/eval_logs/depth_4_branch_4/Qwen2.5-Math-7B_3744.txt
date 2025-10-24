@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3744
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a parallelogram $ABCD$, let $M$ be the point on the side $BC$ such that $MC = 2BM$ and let $N$ be the point on side $CD$ such that $NC = 2DN$. If the distance from point $B$ to the line $AM$ is $3$, calculate the distance from point $N$ to the line $AM$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

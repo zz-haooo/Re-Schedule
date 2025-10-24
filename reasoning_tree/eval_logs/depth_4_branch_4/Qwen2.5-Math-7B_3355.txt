@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3355
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A triangle $\triangle ABC$ is situated on the plane and a point $E$ is given on segment $AC$. Let $D$ be a point in the plane such that lines $AD$ and $BE$ are parallel. Suppose that $\angle EBC = 25^\circ$, $\angle BCA = 32^\circ$, and $\angle CAB = 60^\circ$. Find the smallest possible value of $\angle DAB$ in degrees.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 63
+==================================================
+

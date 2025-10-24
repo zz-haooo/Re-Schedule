@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9849
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The squares of a chessboard are labelled with numbers, as shown below.
+
+[asy]
+unitsize(0.8 cm);
+
+int i, j;
+
+for (i = 0; i <= 8; ++i) {
+  draw((i,0)--(i,8));
+  draw((0,i)--(8,i));
+}
+
+for (i = 0; i <= 7; ++i) {
+for (j = 0; j <= 7; ++j) {
+  label("$\frac{1}{" + string(i + 8 - j) + "}$", (i + 0.5, j + 0.5));
+}}
+[/asy]
+
+Eight of the squares are chosen, so that there is exactly one chosen square in each row and each column.  Find the minimum sum of the labels of the eight chosen squares.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

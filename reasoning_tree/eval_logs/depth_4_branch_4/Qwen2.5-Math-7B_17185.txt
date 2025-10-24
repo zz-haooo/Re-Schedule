@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17185
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are two values of \(a\) for which the equation \(4x^2 + ax + 8x + 9 = 0\) has only one solution for \(x\). The discriminant of the quadratic equation can be expressed in the form \(m + n = 0\). Please find the sum of these values of \(m\) and \(n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -16
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3903
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle with $AB=7$, $BC=9$, and $CA=4$. Let $D$ be the point such that $AB \parallel CD$ and $CA \parallel BD$. Let $R$ be a point within triangle $BCD$. Lines $\ell$ and $m$ going through $R$ are parallel to $CA$ and $AB$ respectively. Line $\ell$ meets $AB$ and $BC$ at $P$ and $P^\prime$ respectively, and $m$ meets $CA$ and $BC$ at $Q$ and $Q^\prime$ respectively. If $S$ denotes the largest possible sum of the areas of triangle $BPP^\prime$, $RP^\prime Q^\prime$, and $CQQ^\prime$, determine the value of $S^2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 180
+==================================================
+

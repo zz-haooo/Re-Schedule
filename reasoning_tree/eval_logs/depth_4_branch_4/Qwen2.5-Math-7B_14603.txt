@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14603
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A square with area $4$ is inscribed in a square with area $5$, with each vertex of the smaller square on a side of the larger square. A vertex of the smaller square divides a side of the larger square into two segments, one of length $a$, and the other of length $b$. The original answer is in the form \frac{k}{m}, where \frac{k}{m} is a fully reduced fraction. Please find the value of k + m.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

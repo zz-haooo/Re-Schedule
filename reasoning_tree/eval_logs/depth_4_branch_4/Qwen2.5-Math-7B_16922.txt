@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16922
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What number is directly above $142$ in this array of numbers?  
+$$\begin{array}{cccccc}& & & 1 & &\\ & & 2 & 3 & 4 &\\ & 5 & 6 & 7 & 8 & 9\\ 10 & 11 & 12 &\cdots & &\\ \end{array}$$  
+Find the number directly above $142$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 120
+==================================================
+

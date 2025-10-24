@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8169
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a right circular cone, $A$ is the vertex, $B$ is the center of the base, and $C$ is a point on the circumference of the base with $BC = 1$ and $AB = 4$. There is a trapezoid $ABCD$ with $\overline{AB} \parallel \overline{CD}$. A right circular cylinder whose surface contains the points $A, C$, and $D$ intersects the cone such that its axis of symmetry is perpendicular to the plane of the trapezoid, and $\overline{CD}$ is a diameter of the cylinder. A sphere radius $r$ lies inside the cone and inside the cylinder. The greatest possible value of $r$ is $\frac{a\sqrt{b}-c}{d}$ , where $a, b, c$, and $d$ are positive integers, $a$ and $d$ are relatively prime, and $b$ is not divisible by the square of any prime. Find $a + b + c + d$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 113
+==================================================
+

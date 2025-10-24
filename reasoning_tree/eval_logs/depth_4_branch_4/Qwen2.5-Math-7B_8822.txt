@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8822
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the figure shown, segment $AB$ is parallel to segment $YZ$. If $AZ = 42$ units, $BQ = 12$ units, and $QY = 24$ units, what is the length of segment $QZ$? [asy]
+import olympiad; import geometry; size(150); defaultpen(linewidth(0.8));
+pair Y = (0,0), Z = (16,0), A = (0,8), B = (6,8);
+draw(A--B--Y--Z--cycle);
+label("$A$",A,W); label("$B$",B,E); label("$Y$",Y,W); label("$Z$",Z,E);
+pair Q = intersectionpoint(A--Z,B--Y);
+label("$Q$",Q,E);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 28
+==================================================
+

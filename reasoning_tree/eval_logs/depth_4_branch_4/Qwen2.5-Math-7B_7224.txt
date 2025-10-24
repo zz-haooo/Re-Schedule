@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7224
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+
+	 Starting with an empty string, we create a string by repeatedly appending one of the letters $H$, $M$, $T$ with probabilities $\frac 14$, $\frac 12$, $\frac 14$, respectively, until the letter $M$ appears twice consecutively. What is the expected value of the length of the resulting string?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

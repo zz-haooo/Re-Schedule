@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8427
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The trisectors of angles $B$ and $C$ of scalene triangle $ABC$ meet at points $P$ and $Q$ as shown. Angle $A$ measures 39 degrees and angle $QBP$ measures 14 degrees. What is the measure of angle $BPC$? [asy]
+import olympiad; import geometry; size(150); defaultpen(linewidth(0.8));
+draw((0,0)--(3,0)--(4,5)--(0,0)--(2,1.5)--(3,0)--(1.7,0.5)--(0,0));
+label("$P$", (1.7,0.5), S); label("$Q$", (2,1.5), N); label("$B$", (0,0),W); label("$A$", (4,5), N); label("$C$", (3,0), E);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 133
+==================================================
+

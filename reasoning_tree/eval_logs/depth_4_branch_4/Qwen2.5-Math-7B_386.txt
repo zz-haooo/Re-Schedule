@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 386
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $w, x, y, z$ satisfy the following equations:
+\[
+\begin{align*}
+w + x + y + z &= 25, \\
+wx + wy + wz + xy + xz + yz &= 2y + 2z + 193
+\end{align*}
+\]
+The largest possible value of $w$ can be expressed in lowest terms as $\frac{w_1}{w_2}$ for some integers $w_1, w_2 > 0$. Find $w_1 + w_2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 27
+==================================================
+

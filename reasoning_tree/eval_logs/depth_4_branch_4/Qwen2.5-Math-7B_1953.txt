@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1953
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Prinstan Trollner and Dukejukem are competing at the game show WASS. Both players spin a wheel which chooses an integer from $1$ to $50$ uniformly at random, and this number becomes their score. Dukejukem then flips a weighted coin that lands heads with probability $\frac{3}{5}$. If he flips heads, he adds $1$ to his score. A player wins the game if their score is higher than the other player's score. 
+
+The probability that Dukejukem defeats Trollner to win WASS equals $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Compute $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 751
+==================================================
+

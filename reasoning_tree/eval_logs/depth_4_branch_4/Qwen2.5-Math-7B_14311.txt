@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14311
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Mary chose an even 4-digit number $n$. She wrote down all the divisors of $n$ in increasing order from left to right: $1, 2, \ldots, \frac{n}{2}, n$. At some moment Mary wrote $323$ as a divisor of $n$. What is the smallest possible value of the next divisor written to the right of $323$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 340
+==================================================
+

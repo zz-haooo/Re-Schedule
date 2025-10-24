@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1448
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Richard and Shreyas are arm wrestling against each other. They will play $10$ rounds, and in each round, there is exactly one winner. If the same person wins in consecutive rounds, these rounds are considered part of the same "streak". How many possible outcomes are there in which there are strictly more than $3$ streaks? 
+
+For example, if we denote Richard winning by $R$ and Shreyas winning by $S$, $SSRSSRRRRR$ is one such outcome, with $4$ streaks.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 932
+==================================================
+

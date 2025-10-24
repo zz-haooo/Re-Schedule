@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5848
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An integer is called parity-monotonic if its decimal representation $a_{1}a_{2}a_{3}\cdots a_{k}$ satisfies $a_{i}<a_{i+1}$ if $a_{i}$ is odd, and $a_{i}>a_{i+1}$ if $a_{i}$ is even. How many four-digit parity-monotonic integers are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 640
+==================================================
+

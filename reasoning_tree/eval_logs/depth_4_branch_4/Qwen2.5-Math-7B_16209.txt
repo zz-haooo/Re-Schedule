@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16209
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If \(\frac{x}{x-1} = \frac{y^2+2y-1}{y^2-2y-2}\), find the value of \(x\). The original answer can be expressed in the form \(ay^2 + by + c\). Please find the value of \(a + b + c\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

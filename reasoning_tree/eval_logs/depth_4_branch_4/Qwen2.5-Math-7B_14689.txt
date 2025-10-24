@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14689
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The Tigers beat the Sharks $2$ out of the first $3$ times they played. They then played $N$ more times, and the Sharks ended up winning at least $95\%$ of all the games played. What is the minimum possible value for $N$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 37
+==================================================
+

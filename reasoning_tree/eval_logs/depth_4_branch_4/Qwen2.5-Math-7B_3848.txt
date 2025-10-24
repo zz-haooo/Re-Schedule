@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3848
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The polynomial $P$ is a quadratic with integer coefficients. For every positive integer $n$, the integers $P(n)$ and $P(P(n))$ are relatively prime to $n$. Given that $P(3) = 89$, determine the value of $P(10)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 859
+==================================================
+

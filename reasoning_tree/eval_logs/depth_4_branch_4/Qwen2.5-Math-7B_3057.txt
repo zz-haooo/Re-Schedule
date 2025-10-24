@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3057
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows an equilateral triangle and a square with a side length of $2$ joined along an edge. What is the area of the shaded triangle?
+
+```latex
+\begin{asy}
+fill((2,0) -- (2,2) -- (1, 2 + \sqrt{3}) -- cycle, gray);
+draw((0,0) -- (2,0) -- (2,2) -- (1, 2 + \sqrt{3}) -- (0,2) -- (0,0));
+draw((0,2) -- (2,2));
+\end{asy}
+```
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

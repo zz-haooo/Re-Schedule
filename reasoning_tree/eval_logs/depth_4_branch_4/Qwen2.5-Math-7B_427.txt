@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 427
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be a triangle with $AB = 10$ and $AC = 11$. Let $I$ be the center of the inscribed circle of $\triangle ABC$. If $M$ is the midpoint of $AI$ such that $BM = BC$ and $CM = 7$, then $BC$ can be expressed in the form $\frac{\sqrt{a}-b}{c}$ where $a$, $b$, and $c$ are positive integers. Find $a+b+c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 622
+==================================================
+

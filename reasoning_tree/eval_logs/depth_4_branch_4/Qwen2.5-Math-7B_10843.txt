@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10843
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the following two strings of digits: $11001010100101011$ and $110100011000100$. First consider them to be in base $10$ and sum them to get $n$. Then consider them to be in binary, sum them, write the answer in binary, then interpret the digits of the sum as if they were in base $10$ to get $m$. What is $n-m$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

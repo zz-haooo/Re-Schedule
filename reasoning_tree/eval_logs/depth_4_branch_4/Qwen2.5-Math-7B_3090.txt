@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3090
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given triangle $ABC$ and a point $P$ inside it, $\angle BAP=18^\circ$, $\angle CAP=30^\circ$, $\angle ACP=48^\circ$, and $AP=BC$. If $\angle BCP=x^\circ$, find $x$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

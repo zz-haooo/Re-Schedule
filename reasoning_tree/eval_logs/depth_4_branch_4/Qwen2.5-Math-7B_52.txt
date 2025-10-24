@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 52
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For some positive integer $n > m$, it turns out that $n$ can be represented as a sum of $2021$ non-negative integer powers of $m$, and also as a sum of $2021$ non-negative integer powers of $m+1$. Find the maximal value of the positive integer $m$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2021
+==================================================
+

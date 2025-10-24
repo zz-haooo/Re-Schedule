@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14646
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Samantha lives $2$ blocks west and $1$ block south of the southwest corner of City Park. Her school is $2$ blocks east and $2$ blocks north of the northeast corner of City Park. On school days she bikes on streets to the southwest corner of City Park, then takes a diagonal path through the park to the northeast corner, and then bikes on streets to school. If her route is as short as possible, how many different routes can she take?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

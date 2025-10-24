@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2282
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A knight is placed at the origin of the Cartesian plane. Each turn, the knight moves in an L-shape (2 units parallel to one axis and 1 unit parallel to the other) to one of eight possible locations, chosen at random. After 2016 such turns, what is the expected value of the square of the distance of the knight from the origin?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10080
+==================================================
+

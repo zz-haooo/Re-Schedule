@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3908
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Equilateral triangle $\triangle ABC$ has side length $6$. Points $D$ and $E$ lie on $\overline{BC}$ such that $BD = CE$ and $B$, $D$, $E$, $C$ are collinear in that order. Points $F$ and $G$ lie on $\overline{AB}$ such that $\overline{FD} \perp \overline{BC}$, and $GF = GA$. If the minimum possible value of the sum of the areas of $\triangle BFD$ and $\triangle DGE$ can be expressed as $\frac{a\sqrt{b}}{c}$ for positive integers $a, b, c$ with $\gcd(a, c) = 1$ and $b$ squarefree, find $a + b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

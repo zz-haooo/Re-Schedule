@@ -1,0 +1,23 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1753
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alexis and Joshua are walking along the beach when they decide to draw symbols in the sand. Alex draws only stars and only draws them in pairs, while Joshua draws only squares in trios. "Let's see how many rows of $15$ adjacent symbols we can make this way," suggests Josh. Alexis is game for the task and the two get busy drawing. Some of their rows look like:
+
+\[
+\begin{array}{ccccccccccccccc}
+\vspace{10pt}*&*&*&*&*&*&*&*&*&*&*&*&\blacksquare&\blacksquare&\blacksquare\\
+\vspace{10pt}\blacksquare&\blacksquare&\blacksquare&*&*&*&*&*&*&*&*&*&*&*&*\\
+\vspace{10pt}\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&*&*&*&*&*&*&\blacksquare&\blacksquare&\blacksquare \\
+\vspace{10pt}\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare&\blacksquare\\
+\vspace{10pt} *&*&*&*&*&*&\blacksquare&\blacksquare&\blacksquare&*&*&*&*&*&*
+\end{array}
+\]
+
+The twins decide to count each of the first two rows above as distinct rows, even though one is the mirror image of the other. But the last of the rows above is its own mirror image, so they count it only once. Around an hour later, the twins realized that they had drawn every possible row exactly once using their rules of stars in pairs and squares in trios. How many rows did they draw in the sand?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 28
+==================================================
+

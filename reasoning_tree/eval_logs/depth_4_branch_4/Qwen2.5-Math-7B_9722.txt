@@ -1,0 +1,101 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9722
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The graphs of two functions, $p(x)$ and $q(x),$ are shown here on one set of axes: [asy]
+size(150);
+real ticklen=3;
+real tickspace=2;
+
+real ticklength=0.1cm;
+real axisarrowsize=0.14cm;
+pen axispen=black+1.3bp;
+real vectorarrowsize=0.2cm;
+real tickdown=-0.5;
+real tickdownlength=-0.15inch;
+real tickdownbase=0.3;
+real wholetickdown=tickdown;
+void rr_cartesian_axes(real xleft, real xright, real ybottom, real ytop, real xstep=1, real ystep=1, bool useticks=false, bool complexplane=false, bool usegrid=true) {
+
+import graph;
+
+real i;
+
+if(complexplane) {
+
+label("$\textnormal{Re}$",(xright,0),SE);
+
+label("$\textnormal{Im}$",(0,ytop),NW);
+
+} else {
+
+label("$x$",(xright+0.4,-0.5));
+
+label("$y$",(-0.5,ytop+0.2));
+
+}
+
+ylimits(ybottom,ytop);
+
+xlimits( xleft, xright);
+
+real[] TicksArrx,TicksArry;
+
+for(i=xleft+xstep; i<xright; i+=xstep) {
+
+if(abs(i) >0.1) {
+
+TicksArrx.push(i);
+
+}
+
+}
+
+for(i=ybottom+ystep; i<ytop; i+=ystep) {
+
+if(abs(i) >0.1) {
+
+TicksArry.push(i);
+
+}
+
+}
+
+if(usegrid) {
+
+xaxis(BottomTop(extend=false), Ticks("%", TicksArrx ,pTick=gray(0.22),extend=true),p=invisible);//,above=true);
+
+yaxis(LeftRight(extend=false),Ticks("%", TicksArry ,pTick=gray(0.22),extend=true), p=invisible);//,Arrows);
+
+}
+
+if(useticks) {
+
+xequals(0, ymin=ybottom, ymax=ytop, p=axispen, Ticks("%",TicksArry , pTick=black+0.8bp,Size=ticklength), above=true, Arrows(size=axisarrowsize));
+
+yequals(0, xmin=xleft, xmax=xright, p=axispen, Ticks("%",TicksArrx , pTick=black+0.8bp,Size=ticklength), above=true, Arrows(size=axisarrowsize));
+
+} else {
+
+xequals(0, ymin=ybottom, ymax=ytop, p=axispen, above=true, Arrows(size=axisarrowsize));
+
+yequals(0, xmin=xleft, xmax=xright, p=axispen, above=true, Arrows(size=axisarrowsize));
+
+}
+};
+rr_cartesian_axes(-4,4,-4,4);
+real f(real x) {return abs(x)-2;}
+real g(real x) {return -abs(x);}
+draw(graph(f,-4,4,operator ..), blue+1.25);
+draw(graph(g,-4,4,operator ..), orange+1.25);
+draw((-3,-5)--(-1,-5),blue+1.25); label("$y=p(x)$",(-1,-5),E);
+draw((-3,-6)--(-1,-6),orange+1.25); label("$y=q(x)$",(-1,-6),E);
+[/asy] Each small box in the grid is $1$ unit by $1$ unit.
+
+If $q(p(x))$ is evaluated at $x=-4,$ $-3,$ $-2,$ $-1,$ $0,$ $1,$ $2,$ $3,$ $4,$ what is the sum of the nine values obtained in this way?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -10
+==================================================
+

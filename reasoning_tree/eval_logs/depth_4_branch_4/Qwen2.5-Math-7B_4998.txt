@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4998
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The map below shows an east/west road connecting the towns of Acorn, Centerville, and Midland, and a north/south road from Centerville to Drake. The distances from Acorn to Centerville, from Centerville to Midland, and from Centerville to Drake are each 60 kilometers. At noon, Aaron starts at Acorn and bicycles east at 17 kilometers per hour, Michael starts at Midland and bicycles west at 7 kilometers per hour, and David starts at Drake and bicycles at a constant rate in a straight line across an open field. All three bicyclists arrive at exactly the same time at a point along the road from Centerville to Midland. Find the number of kilometers that David bicycles.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 65
+==================================================
+

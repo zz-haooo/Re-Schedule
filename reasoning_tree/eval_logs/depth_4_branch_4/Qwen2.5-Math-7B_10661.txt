@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10661
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In base $10$, the number $2013$ ends in the digit $3$.  In base $9$, on the other hand, the same number is written as $(2676)_{9}$ and ends in the digit $6$.  For how many values of $b$ does the base-$b$-representation of $2013$ end in the digit $3$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4444
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a rectangle and let $E$ and $F$ be points on $CD$ and $BC$ respectively such that \(\text{area} (\triangle ADE) = 16\), \(\text{area} (\triangle CEF) = 9\) and \(\text{area} (\triangle ABF) = 25\). What is the area of \(\triangle AEF\)?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

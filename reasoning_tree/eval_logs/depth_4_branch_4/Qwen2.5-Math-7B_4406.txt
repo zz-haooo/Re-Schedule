@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4406
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A total of $2010$ coins are distributed in $5$ boxes. Initially, the quantities of coins in the boxes are consecutive natural numbers. Martha should choose and take one of the boxes, but before that, she can perform the following transformation any number of times: from a box with at least $4$ coins, she can transfer one coin to each of the other boxes.
+
+What is the maximum number of coins that Martha can take away?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2004
+==================================================
+

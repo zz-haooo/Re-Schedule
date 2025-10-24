@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4563
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Convex quadrilateral $ABCD$ satisfies the following conditions: \( \angle{CAB} = \angle{ADB} = 30^{\circ} \), \( \angle{ABD} = 77^{\circ} \), \( BC = CD \), and \( \angle{BCD} = n^{\circ} \) for some positive integer \( n \). Compute \( n \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 68
+==================================================
+

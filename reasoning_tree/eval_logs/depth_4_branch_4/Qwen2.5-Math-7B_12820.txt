@@ -1,0 +1,9 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12820
+Question: 设 $M_{n}=\left\{(\right.$ 十进制 $) n$ 位纯小数 $0. \overline{a_{1} a_{2} \cdots a_{n}} \mid a_{i}$ 只取 0 或 $1(i=1,2, \cdots, n-1)$, $\left.a_{n}=1\right\}, T_{n}$ 是 $M_{n}$ 中元素的个数, $S_{n}$ 是 $M_{n}$ 中所有元素的和, 则 $\lim _{n \rightarrow \infty} \frac{S_{n}}{T_{n}}=$
+$\qquad$.原始的答案是\frac{m}{n}的形式，其中m、n是互质的。请给出最终m + n的值
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 19
+==================================================
+

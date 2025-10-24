@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15609
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the number of terms with rational coefficients among the $1001$ terms of the expression $(x \sqrt[3]{2} + y \sqrt{3})^{1000}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 167
+==================================================
+

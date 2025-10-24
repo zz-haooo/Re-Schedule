@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16430
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Charles has $5q + 1$ quarters and Richard has $q + 5$ quarters. Find the difference in their money in dimes. The answer should be in the format $k(q - m)$. Please calculate the value of $k + m$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

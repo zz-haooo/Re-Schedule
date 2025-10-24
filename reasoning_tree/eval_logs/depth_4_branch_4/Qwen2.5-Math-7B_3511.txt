@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3511
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Colour a $20000 \times 20000$ square grid using 2000 different colours, with one colour per square. Two squares are considered neighbours if they share a vertex. Define a path as a sequence of squares where each pair of successive squares are neighbours.
+
+Mark $k$ squares on the grid. For each unmarked square $x$, there is exactly one marked square $y$ of the same colour such that $x$ and $y$ are connected by a path consisting of squares of the same colour.
+
+Furthermore, for any two marked squares of the same colour, any path connecting them must pass through squares of all the different colours.
+
+Find the maximum value of $k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2000
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7383
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Lines $l$ and $m$ are perpendicular. Line $l$ partitions a convex polygon into two parts of equal area, and partitions the projection of the polygon onto $m$ into two line segments of length $a$ and $b$ respectively. Determine the maximum value of $\left\lfloor \frac{1000a}{b} \right\rfloor$. (The floor notation $\lfloor x \rfloor$ denotes largest integer not exceeding $x$)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2141
+==================================================
+

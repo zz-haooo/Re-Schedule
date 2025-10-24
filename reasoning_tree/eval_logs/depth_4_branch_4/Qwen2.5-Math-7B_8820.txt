@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8820
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Polyhedron $P$ is inscribed in a sphere of radius $36$ (meaning that all vertices of $P$ lie on the sphere surface). What is the least upper bound on the ratio $$\frac{\text{volume of }P}{\text{surface area of }P}~?$$In other words, what is the smallest real number $t$ such that $$\frac{\text{volume of }P}{\text{surface area of }P} \le t$$must be true for all polyhedra $P$ that can be inscribed in a sphere of radius $36$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

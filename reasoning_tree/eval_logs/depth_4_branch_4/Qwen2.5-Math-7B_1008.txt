@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1008
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In $\triangle{ADE}$, points $B$ and $C$ are on side $AD$, and points $F$ and $G$ are on side $AE$ such that $BG \parallel CF \parallel DE$. The area of $\triangle{ABG}$ is $36$, the area of trapezoid $CFED$ is $144$, and $AB = CD$. Find the area of trapezoid $BGFC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 45
+==================================================
+

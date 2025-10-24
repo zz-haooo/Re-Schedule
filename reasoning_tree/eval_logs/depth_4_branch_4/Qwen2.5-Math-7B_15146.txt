@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15146
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $(a,b,c,d)$ be an ordered quadruple of not necessarily distinct integers, each one of them in the set $\{0,1,2,3\}.$ Find the number of such quadruples for which $a\cdot d-b\cdot c$ is odd. (For example, $(0,3,1,1)$ is one such quadruple, because $0\cdot 1-3\cdot 1 = -3$ is odd.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 96
+==================================================
+

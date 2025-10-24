@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9283
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that the graph of a certain function, $y=f(x)$, has the property that if it is shifted $20$ units to the right, then the resulting graph is identical to the original graph of $y=f(x)$.
+
+What is the smallest positive $a$ such that if the graph of $y=f\left(\frac x5\right)$ is shifted $a$ units to the right, then we know that the resulting graph is identical to the original graph of $y=f\left(\frac x5\right)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

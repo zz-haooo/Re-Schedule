@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 726
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Moor owns $3$ shirts, one each of black, red, and green. Moor also owns $3$ pairs of pants, one each of white, red, and green. Being stylish, he decides to wear an outfit consisting of one shirt and one pair of pants that are different colors. How many combinations of shirts and pants can Moor choose?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

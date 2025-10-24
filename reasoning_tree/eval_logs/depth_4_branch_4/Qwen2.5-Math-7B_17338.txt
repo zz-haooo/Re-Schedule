@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17338
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $OAB$ has $O=(0,0)$, $B=(5,0)$, and $A$ in the first quadrant. In addition, $\angle ABO=90^\circ$ and $\angle AOB=30^\circ$. Suppose that $OA$ is rotated $90^\circ$ counterclockwise about $O$. The coordinates of the image of $A$ are expressed in the form \((- \frac{k}{3}\sqrt{m}, n)\). Please find the value of \(k + m + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

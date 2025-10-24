@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 236
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$f(x), g(x)$ are two quadratic trinomials and $a, b, c, d$ are some real numbers. Given the following values:
+- $f(a) = 2$
+- $f(b) = 3$
+- $f(c) = 7$
+- $f(d) = 10$
+- $g(a) = 16$
+- $g(b) = 15$
+- $g(c) = 11$
+
+Find the value of $g(d)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7724
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+You’re given the complex number $\omega = e^{2i\pi/13} + e^{10i\pi/13} + e^{16i\pi/13} + e^{24i\pi/13}$, and told it’s a root of a unique monic cubic $x^3 +ax^2 +bx+c$, where $a, b, c$ are integers. Determine the value of $a^2 + b^2 + c^2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

@@ -1,0 +1,37 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8977
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A square carpet of side length 9 feet is designed with one large shaded square and eight smaller, congruent shaded squares, as shown. [asy]
+
+draw((0,0)--(9,0)--(9,9)--(0,9)--(0,0));
+
+fill((1,1)--(2,1)--(2,2)--(1,2)--cycle,gray(.8));
+
+fill((4,1)--(5,1)--(5,2)--(4,2)--cycle,gray(.8));
+
+fill((7,1)--(8,1)--(8,2)--(7,2)--cycle,gray(.8));
+
+fill((1,4)--(2,4)--(2,5)--(1,5)--cycle,gray(.8));
+
+fill((3,3)--(6,3)--(6,6)--(3,6)--cycle,gray(.8));
+
+fill((7,4)--(8,4)--(8,5)--(7,5)--cycle,gray(.8));
+
+fill((1,7)--(2,7)--(2,8)--(1,8)--cycle,gray(.8));
+
+fill((4,7)--(5,7)--(5,8)--(4,8)--cycle,gray(.8));
+
+fill((7,7)--(8,7)--(8,8)--(7,8)--cycle,gray(.8));
+
+label("T",(1.5,7),S);
+
+label("S",(6,4.5),W);
+
+[/asy] If the ratios $9:\text{S}$ and $\text{S}:\text{T}$ are both equal to 3 and $\text{S}$ and $\text{T}$ are the side lengths of the shaded squares, what is the total shaded area?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

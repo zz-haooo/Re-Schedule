@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3883
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Several players try out for the USAMTS basketball team, and they all have integer heights and weights when measured in centimeters and pounds, respectively. In addition, they all weigh less in pounds than they are tall in centimeters. All of the players weigh at least $190$ pounds and are at most $197$ centimeters tall, and there is exactly one player with every possible height-weight combination.
+
+The USAMTS wants to field a competitive team, so there are some strict requirements:
+
+- If person $P$ is on the team, then anyone who is at least as tall and at most as heavy as $P$ must also be on the team.
+- If person $P$ is on the team, then no one whose weight is the same as $P$’s height can also be on the team.
+
+Assuming the USAMTS team can have any number of members (including zero), how many different basketball teams can be constructed?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 128
+==================================================
+

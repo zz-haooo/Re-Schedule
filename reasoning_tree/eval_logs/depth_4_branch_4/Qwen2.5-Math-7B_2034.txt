@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2034
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In equilateral triangle $ABC$, the midpoint of $\overline{BC}$ is $M$. If the circumcircle of triangle $MAB$ has an area of $36\pi$, find the perimeter of the triangle.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

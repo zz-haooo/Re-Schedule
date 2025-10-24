@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2515
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $M=\{0,1,2,\dots,2022\}$ and let $f:M\times M\to M$ such that for any $a,b\in M$,  
+\[f(a,f(b,a))=b\]  
+and $f(x,x)\neq x$ for each $x\in M$. How many possible functions $f$ are there $\pmod{1000}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

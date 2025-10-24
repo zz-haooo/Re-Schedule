@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4772
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If we divide the number $19250$ by a certain number, the remainder is $11$. Similarly, if we divide the number $20302$ by the same number, the remainder is $3$. What is this number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 53
+==================================================
+

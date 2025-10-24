@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3207
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be acute with $\angle BAC = 45^{\circ}$. Let $\overline{AD}$ be an altitude of $\triangle ABC$, let $E$ be the midpoint of $\overline{BC}$, and let $F$ be the midpoint of $\overline{AD}$. Let $O$ be the center of the circumcircle of $\triangle ABC$, let $K$ be the intersection of lines $DO$ and $EF$, and let $L$ be the foot of the perpendicular from $O$ to line $AK$. If $BL = 6$ and $CL = 8$, find $AL^2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 48
+==================================================
+

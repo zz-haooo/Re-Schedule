@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10328
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that I have an unlimited supply of identical math books, history books, and physics books.  All are the same size, and I have room on a shelf for 8 books.  In how many ways can I arrange eight books on the shelf if no two books of the same type can be adjacent?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 384
+==================================================
+

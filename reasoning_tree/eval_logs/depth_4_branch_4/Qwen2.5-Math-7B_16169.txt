@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16169
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A softball team played ten games, scoring $1, 2, 3, 4, 5, 6, 7, 8, 9$, and $10$ runs. They lost by one run in exactly five games. In each of the other games, they scored twice as many runs as their opponent. How many total runs did their opponents score?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 45
+==================================================
+

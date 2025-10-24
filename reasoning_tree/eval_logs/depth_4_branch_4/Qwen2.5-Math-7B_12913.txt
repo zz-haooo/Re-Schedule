@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12913
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let f be a function on $[0, \infty)$, differentiable and satisfying  
+$$  
+f^{\prime}(x)=-3 f(x)+6 f(2 x)  
+$$  
+for $x>0$. Assume that $|f(x)| \leqslant e^{-\sqrt{x}}$ for $x \geqslant 0$ (so that $f(x)$ tends rapidly to 0 as x increases). For $n$ a non-negative integer, define  
+$$  
+\mu_{n}=\int_{0}^{\infty} x^{n} f(x) d x  
+$$  
+(sometimes called the $n$th moment of f ).  
+
+Please express $\mu_{n}$ in terms of $\mu_{0}$ and give the value of $\mu_{2}$ when $\mu_{0} = 45$. Directly provide the integer value of $\mu_{2}$. 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

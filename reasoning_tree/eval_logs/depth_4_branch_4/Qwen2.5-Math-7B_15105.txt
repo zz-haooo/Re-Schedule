@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15105
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Travis has to babysit the terrible Thompson triplets. Knowing that they love big numbers, Travis devises a counting game for them. First Tadd will say the number $1$, then Todd must say the next two numbers ($2$ and $3$), then Tucker must say the next three numbers ($4$, $5$, $6$), then Tadd must say the next four numbers ($7$, $8$, $9$, $10$), and the process continues to rotate through the three children in order, each saying one more number than the previous child did, until the number $10,000$ is reached. Find the $2019$th number said by Tadd.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5979
+==================================================
+

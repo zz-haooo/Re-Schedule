@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1231
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of triples of real numbers \((a, b, c)\) such that \(a^{20} + b^{20} + c^{20} = a^{24} + b^{24} + c^{24} = 1\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

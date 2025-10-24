@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4592
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $\triangle ABC$ has circumcenter $O$ and incircle $\gamma$. Suppose that $\angle BAC = 60^\circ$ and $O$ lies on $\gamma$. If \[ \tan B \tan C = a + \sqrt{b} \] for positive integers $a$ and $b$, compute $100a+b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 408
+==================================================
+

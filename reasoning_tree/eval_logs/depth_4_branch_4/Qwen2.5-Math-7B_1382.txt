@@ -1,0 +1,33 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1382
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Recall that in any row of Pascal's Triangle, the first and last elements of the row are $1$ and each other element in the row is the sum of the two elements above it from the previous row. With this in mind, define the *Pascal Squared Triangle* as follows:
+
+- In the $n^{\text{th}}$ row, where $n \geq 1$, the first and last elements of the row equal $n^2$.
+- Each other element is the sum of the two elements directly above it.
+
+The first few rows of the Pascal Squared Triangle are shown below.
+
+\[
+\begin{array}{c@{\hspace{7em}} c@{\hspace{2pt}}c@{\hspace{2pt}}c@{\hspace{4pt}}c@{\hspace{2pt}} c@{\hspace{2pt}}c@{\hspace{2pt}}c@{\hspace{2pt}}c@{\hspace{3pt}}c@{\hspace{2pt}} c@{\hspace{2pt}}c}
+\vspace{4pt}
+\text{Row 1: } & & & & & & 1 & & & & & \\
+\vspace{4pt}
+\text{Row 2: } & & & & & 4 & & 4 & & & & \\
+\vspace{4pt}
+\text{Row 3: } & & & & 9 & & 8 & & 9 & & & \\
+\vspace{4pt}
+\text{Row 4: } & & &16& &17& &17& & 16& & \\
+\vspace{4pt}
+\text{Row 5: } & &25 & &33& &34 & &33 & &25 &
+\end{array}
+\]
+
+Let $S_n$ denote the sum of the entries in the $n^{\text{th}}$ row. For how many integers $1 \leq n \leq 10^6$ is $S_n$ divisible by $13$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 76926
+==================================================
+

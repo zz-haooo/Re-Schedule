@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14652
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $AB=13$, $BC=14$, and $CA=15$. Distinct points $D$, $E$, and $F$ lie on segments $\overline{BC}$, $\overline{CA}$, and $\overline{DE}$, respectively, such that $\overline{AD}\perp\overline{BC}$, $\overline{DE}\perp\overline{AC}$, and $\overline{AF}\perp\overline{BF}$. The length of segment $\overline{DF}$ can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find the value of $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6314
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A square with sides 6 inches is shown. If $P$ is a point such that the segment $\overline{PA}$, $\overline{PB}$, $\overline{PC}$ are equal in length, and segment $\overline{PC}$ is perpendicular to segment $\overline{FD}$, what is the area, in square inches, of triangle $APB$? [asy]
+pair A, B, C, D, F, P;
+A = (0,0); B= (2,0); C = (1,2); D = (2,2); F = (0,2); P = (1,1);
+draw(A--B--D--F--cycle);
+draw(C--P); draw(P--A); draw(P--B);
+label("$A$",A,SW); label("$B$",B,SE);label("$C$",C,N);label("$D$",D,NE);label("$P$",P,NW);label("$F$",F,NW);
+label("$6''$",(1,0),S);
+
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

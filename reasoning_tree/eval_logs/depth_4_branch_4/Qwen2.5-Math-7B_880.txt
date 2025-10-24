@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 880
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the land of Nyemo, the unit of currency is called a quack. The citizens use coins that are worth $1$, $5$, $25$, and $125$ quacks. How many ways can someone pay off $125$ quacks using these coins?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 82
+==================================================
+

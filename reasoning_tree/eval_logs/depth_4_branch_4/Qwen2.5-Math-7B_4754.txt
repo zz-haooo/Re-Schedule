@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4754
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be an isosceles triangle such that $AB = AC$ and $\angle A = 20^\circ$. Let $M$ be the foot of the altitude from $C$, and let $N$ be a point on the side $AC$ such that $CN = \frac{1}{2} BC$. Determine the measure of the angle $AMN$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

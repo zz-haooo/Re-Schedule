@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3798
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The following diagram shows an equilateral triangle and two squares that share common edges. The area of each square is $75$. Find the distance from point $A$ to point $B$.
+
+```latex
+\begin{asy}
+size(175);
+defaultpen(linewidth(0.8));
+pair A=(-3,0), B=(3,0), C=rotate(60,A)*B, D=rotate(270,B)*C, E=rotate(90,C)*B, F=rotate(270,C)*A, G=rotate(90,A)*C;
+draw(A--G--F--C--A--B--C--E--D--B);
+label("$A$", F, N);
+label("$B$", E, N);
+\end{asy}
+```
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5143
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The following list shows every number for which more than half of its digits are the digit $2$, in increasing order:
+\[
+2, 22, 122, 202, 212, 220, 221, 222, 223, 224, \dots
+\]
+If the $n$th term in the list is $2022$, what is $n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

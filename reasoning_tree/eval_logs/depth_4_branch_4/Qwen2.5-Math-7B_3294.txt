@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3294
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+30 students participated in the mathematical Olympiad. Each of them was given 8 problems to solve. The jury estimated their work with the following rule:
+1) Each problem was worth \( k \) points, if it wasn't solved by exactly \( k \) students;
+2) Each student received the maximum possible points in each problem or got 0 in it.
+
+Lasha got the least number of points. What's the maximal number of points he could have?
+
+**Remark:** Rule 1 means that if the problem was solved by exactly \( k \) students, then each of them got \( 30 - k \) points in it.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

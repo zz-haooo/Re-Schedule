@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11817
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Evaluate  
+  
+$$\begin{aligned}
+&\begin{aligned}&~~~~\quad1\left(\frac11+\frac12+\frac13+\frac14+\frac15+\frac16+\frac17+\frac18+\frac19+\frac1{10}\right)\end{aligned} \\
+&+\quad3\left(\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\frac{1}{5}+\frac{1}{6}+\frac{1}{7}+\frac{1}{8}+\frac{1}{9}+\frac{1}{10}\right) \\
+&+\quad5\left(\frac13+\frac14+\frac15+\frac16+\frac17+\frac18+\frac19+\frac1{10}\right) \\
+&+\quad7\left(\frac14+\frac15+\frac16+\frac17+\frac18+\frac19+\frac1{10}\right) \\
+&\begin{array}{cc}+&9\left(\frac15+\frac16+\frac17+\frac18+\frac19+\frac1{10}\right)+11\left(\frac16+\frac17+\frac18+\frac19+\frac1{10}\right)\end{array} \\
+&\begin{array}{cc}+&13\left(\frac17+\frac18+\frac19+\frac1{10}\right)+15\left(\frac18+\frac19+\frac1{10}\right)\end{array} \\
+&+\quad17\left(\frac19+\frac1{10}\right)+19\left(\frac1{10}\right)
+\end{aligned}$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 55
+==================================================
+

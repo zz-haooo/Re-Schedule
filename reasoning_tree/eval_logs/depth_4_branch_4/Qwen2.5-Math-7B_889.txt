@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 889
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $r$ be a nonzero real number. The values of $z$ which satisfy the equation
+\[ r^4z^4 + (10r^6-2r^2)z^2-16r^5z+(9r^8+10r^4+1) = 0 \]
+are plotted on the complex plane (i.e., using the real part of each root as the x-coordinate and the imaginary part as the y-coordinate). Show that the area of the convex quadrilateral with these points as vertices is independent of $r$, and find this area.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

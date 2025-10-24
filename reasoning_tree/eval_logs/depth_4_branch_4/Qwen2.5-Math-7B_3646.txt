@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3646
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Sequences $a_n$ and $b_n$ are defined for all positive integers $n$ such that $a_1 = 5$, $b_1 = 7$,  
+
+$$a_{n+1} = \frac{\sqrt{(a_n+b_n-1)^2+(a_n-b_n+1)^2}}{2},$$
+
+and 
+
+$$b_{n+1} = \frac{\sqrt{(a_n+b_n+1)^2+(a_n-b_n-1)^2}}{2}.$$  
+
+How many integers $n$ from 1 to 1000 satisfy the property that $a_n, b_n$ form the legs of a right triangle with a hypotenuse that has integer length?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

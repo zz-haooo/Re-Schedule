@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2763
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Call an ordered triple $(a, b, c)$ of integers feral if $b - a$, $c - a$, and $c - b$ are all prime numbers. Find the number of feral triples where $1 \leq a < b < c \leq 20$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 72
+==================================================
+

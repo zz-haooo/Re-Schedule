@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 885
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+While taking the SAT, you become distracted by your own answer sheet. Because you are not bound to the College Board's limiting rules, you realize that there are actually $32$ ways to mark your answer for each question, because you could fight the system and bubble in multiple letters at once: for example, you could mark $AB$, or $AC$, or $ABD$, or even $ABCDE$, or nothing at all!
+
+You begin to wonder how many ways you could mark off the 10 questions you haven't yet answered. To increase the challenge, you wonder how many ways you could mark off the rest of your answer sheet without ever marking the same letter twice in a row. (For example, if $ABD$ is marked for one question, $AC$ cannot be marked for the next one because $A$ would be marked twice in a row.) If the number of ways to do this can be expressed in the form $2^m p^n$, where $m,n > 1$ are integers and $p$ is a prime, compute $100m+n+p$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2013
+==================================================
+

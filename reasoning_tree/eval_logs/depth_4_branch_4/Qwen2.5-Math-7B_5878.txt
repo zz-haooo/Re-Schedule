@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5878
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A particle is located on the coordinate plane at $(5,0)$. Define a move for the particle as a counterclockwise rotation of $\pi/4$ radians about the origin followed by a translation of $10$ units in the positive $x$-direction. Given that the particle's position after $150$ moves is $(p,q)$, find the greatest integer less than or equal to $|p| + |q|$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10596
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+I have a bag with $6$ marbles numbered from $1$ to $6.$ Mathew has a bag with $12$ marbles numbered from $1$ to $12.$ Mathew chooses one marble from his bag and I choose two from mine. In how many ways can we choose the marbles (where the order of my choices does matter) such that the sum of the numbers on my marbles equals the number on his?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4488
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Michael is jogging along the beach when he observes a group of girls playing a game around an ellipse drawn in the sand. The ellipse has two foci, represented by two softball bats that are $24$ feet apart. Two children stand at the points where the ellipse intersects the line containing the bats, and these points are $40$ feet apart. Five other children stand at various points on the ellipse.
+
+The objective of the game is for each child to run from her starting point on the ellipse to one bat, then to the other bat, and finally return to her starting point. The child who completes this circuit in the shortest distance wins.
+
+Michael calculates the shortest possible distance a child could run from her starting point on the ellipse, touching both bats and returning to her starting point. If Michael's calculations are correct, what is the shortest distance one of the girls could run during the game?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 64
+==================================================
+

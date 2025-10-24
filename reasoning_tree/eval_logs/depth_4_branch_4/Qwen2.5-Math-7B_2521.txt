@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2521
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The ship *Meridiano do Bacalhau* conducts its fishing business over a period of $64$ days. Each day, the captain chooses a direction, either north or south, and the ship sails in that direction. On the first day, the ship sails $1$ mile; on the second day, it sails $2$ miles; generally, on the $n$-th day, it sails $n$ miles. After the $64$-th day, the ship is $2014$ miles north of its initial position. What is the greatest number of days that the ship could have sailed south?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

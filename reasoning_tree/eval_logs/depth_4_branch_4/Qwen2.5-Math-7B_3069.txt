@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3069
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find all integer solutions of the equation:
+
+\[
+\left\lfloor \frac{x}{1!} \right\rfloor + \left\lfloor \frac{x}{2!} \right\rfloor + \cdots + \left\lfloor \frac{x}{10!} \right\rfloor = 1001.
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 584
+==================================================
+

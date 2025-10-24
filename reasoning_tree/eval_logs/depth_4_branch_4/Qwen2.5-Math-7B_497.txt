@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 497
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let the sequence $\{a_n\}$ for $n \ge 0$ be defined as $a_0 = c$, and for $n \ge 0$,  
+$$a_n = \frac{2a_{n-1}}{4a^2_{n-1} - 1}.$$  
+Compute the sum of all values of $c$ such that $a_{2020}$ exists but $a_{2021}$ does not exist.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

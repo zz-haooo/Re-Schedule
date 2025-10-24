@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10701
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many positive three-digit integers less than 500 have at least two digits that are the same?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 112
+==================================================
+

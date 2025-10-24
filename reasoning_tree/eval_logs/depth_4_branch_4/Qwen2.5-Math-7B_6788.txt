@@ -1,0 +1,32 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6788
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $AHI$ is equilateral. We know $\overline{BC}$, $\overline{DE}$ and $\overline{FG}$ are all parallel to $\overline{HI}$ and $AB = BD = DF = FH$. What is the ratio of the area of trapezoid $FGIH$ to the area of triangle $AHI$? Express your answer as a common fraction.
+
+[asy]
+unitsize(0.2inch);
+defaultpen(linewidth(0.7));
+real f(real y)
+{
+  return (5*sqrt(3)-y)/sqrt(3);
+}
+draw((-5,0)--(5,0)--(0,5*sqrt(3))--cycle);
+draw((-f(5*sqrt(3)/4),5*sqrt(3)/4)--(f(5*sqrt(3)/4),5*sqrt(3)/4));
+draw((-f(5*sqrt(3)/2),5*sqrt(3)/2)--(f(5*sqrt(3)/2),5*sqrt(3)/2));
+draw((-f(15*sqrt(3)/4),15*sqrt(3)/4)--(f(15*sqrt(3)/4),15*sqrt(3)/4));
+label("$A$",(0,5*sqrt(3)),N);
+label("$B$",(-f(15*sqrt(3)/4),15*sqrt(3)/4),WNW);
+label("$C$",(f(15*sqrt(3)/4),15*sqrt(3)/4),ENE);
+label("$D$",(-f(5*sqrt(3)/2),5*sqrt(3)/2),WNW);
+label("$E$",(f(5*sqrt(3)/2),5*sqrt(3)/2),ENE);
+label("$F$",(-f(5*sqrt(3)/4),5*sqrt(3)/4),WNW);
+label("$G$",(f(5*sqrt(3)/4),5*sqrt(3)/4),ENE);
+label("$H$",(-5,0),W);
+label("$I$",(5,0),E);[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

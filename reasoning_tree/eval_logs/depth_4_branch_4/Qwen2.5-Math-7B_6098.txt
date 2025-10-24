@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6098
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The polynomial $f(z)=az^{2018}+bz^{2017}+cz^{2016}$ has real coefficients not exceeding $2019$, and $f\left(\tfrac{1+\sqrt{3}i}{2}\right)=2015+2019\sqrt{3}i$. Find the remainder when $f(1)$ is divided by $1000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 53
+==================================================
+

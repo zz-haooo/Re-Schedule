@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10046
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute the unique positive integer $n$ such that
+\[2 \cdot 2^2 + 3 \cdot 2^3 + 4 \cdot 2^4 + \dots + n \cdot 2^n = 2^{n + 10}.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 513
+==================================================
+

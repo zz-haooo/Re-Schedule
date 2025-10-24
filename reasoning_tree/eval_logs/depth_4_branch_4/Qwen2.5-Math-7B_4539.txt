@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4539
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a right-angled triangle with $\angle B = 90^{\circ}$. The length of the altitude $BD$ is equal to $12$. What is the minimum possible length of $AC$, given that both $AC$ and the perimeter of triangle $ABC$ are integers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 25
+==================================================
+

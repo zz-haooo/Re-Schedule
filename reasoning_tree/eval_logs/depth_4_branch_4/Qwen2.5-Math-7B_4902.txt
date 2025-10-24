@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4902
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We have $n$ positive integers greater than $1$ and less than $10000$ such that neither of them is prime but any two of them are relatively prime. Find the maximum value of $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 25
+==================================================
+

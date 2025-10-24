@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3551
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be a positive integer and let $d_1, d_2, \ldots, d_k$ be its divisors, such that $1 = d_1 < d_2 < \ldots < d_k = n$. Find all values of $n$ for which $k \geq 4$ and $n = d_1^2 + d_2^2 + d_3^2 + d_4^2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 130
+==================================================
+

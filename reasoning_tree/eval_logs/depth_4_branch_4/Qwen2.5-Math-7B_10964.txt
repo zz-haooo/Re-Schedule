@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10964
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We multiply the number $1234567 . . . 1000$ (juxtaposed are all natural numbers 1 to 1000) by a number from 1 to 9, and strike out all 1’s in the product. We multiply the number obtained by a nonzero one-digit number once again, and strike out the 1’s, and so on, many times over. What is the least number one can obtain in this manner?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

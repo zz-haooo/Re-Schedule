@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8821
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sports conference has 14 teams in two divisions of 7.  How many games are in a complete season for the conference if each team must play every other team in its own division twice and every team in the other division once?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 133
+==================================================
+

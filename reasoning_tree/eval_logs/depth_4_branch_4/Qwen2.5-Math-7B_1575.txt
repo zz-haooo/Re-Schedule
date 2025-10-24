@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1575
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The 40 unit squares of the $9 \times 9$ table are labeled. A horizontal or vertical row of 9 unit squares is considered "good" if it contains more labeled unit squares than unlabeled ones. How many "good" rows (both horizontal and vertical) can the table have in total?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

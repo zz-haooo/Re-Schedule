@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8534
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A library has six identical copies of a certain book. At any given time, some of these copies are at the library and some are checked out. How many different ways are there for some of the books to be in the library and the rest to be checked out if at least one book is in the library and at least one is checked out?  (The books should be considered indistinguishable.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

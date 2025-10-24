@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6527
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ and triangle $DEF$ are congruent, isosceles right triangles. The square inscribed in triangle $ABC$ has an area of 15 square centimeters. What is the area of the square inscribed in triangle $DEF$? Express your answer as a common fraction.
+
+[asy]
+draw((0,0)--(2,0)--(0,2)--(0,0)--cycle,linewidth(2));
+draw((0,0)--(1,0)--(1,1)--(0,1)--(0,0)--cycle,linewidth(2));
+draw((1/8,0)--(1/8,1/8)--(0,1/8),linewidth(1));
+
+draw((3,0)--(5,0)--(3,2)--(3,0)--cycle,linewidth(2));
+draw((3+2/3,0)--(3+4/3,2/3)--(3+2/3,4/3)--(3,2/3)--(3+2/3,0)--cycle,linewidth(2));
+draw((3+1/8,0)--(3+1/8,1/8)--(3,1/8),linewidth(1));
+
+label("A",(0,2),NW);
+label("B",(0,0),SW);
+label("C",(2,0),SE);
+
+label("D",(3,2),NW);
+label("E",(3,0),SW);
+label("F",(5,0),SE);
+
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 43
+==================================================
+

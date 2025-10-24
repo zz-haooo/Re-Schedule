@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 119
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+10 students are arranged in a row. Every minute, a new student is inserted in the row (which can occur in the front and in the back as well, hence $11$ possible places) with a uniform $\frac{1}{11}$ probability of each location. Then, either the frontmost or the backmost student is removed from the row (each with a $\frac{1}{2}$ probability). 
+
+Suppose you are the eighth in the line from the front. The probability that you exit the row from the front rather than the back is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $100m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 828
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13767
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the largest real number $a$ such that for all $n\geqslant1$ and for all real numbers $x_0,x_1,\ldots,x_n$ satisfying $0=x_0<x_1<x_2<\cdots<x_n$, we have $$\begin{aligned}\frac{1}{x_1-x_0}+\frac{1}{x_2-x_1}+\cdots+\frac{1}{x_n-x_{n-1}}\geqslant a\left(\frac{2}{x_1}+\frac{3}{x_2}+\cdots+\frac{n+1}{x_n}\right).\end{aligned}\quad(1)$$ The largest $a$ is in the format of $\frac{m}{n}$. Please provide the value of$ m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

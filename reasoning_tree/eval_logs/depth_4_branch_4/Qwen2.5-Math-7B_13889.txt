@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13889
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the maximal length $L$ of a sequence $a_{1}, \\ldots, a_{L}$ of positive integers satisfying both the following properties: - every term in the sequence is less than or equal to $2^{2023}$, and - there does not exist a consecutive subsequence $a_{i}, a_{i+1}, \\ldots, a_{j}$ (where $1 \\leqslant i \\leqslant j \\leqslant L$ ) with a choice of signs $s_{i}, s_{i+1}, \\ldots, s_{j} \\in\\{1,-1\\}$ for which $$s_{i} a_{i}+s_{i+1} a_{i+1}+\\cdots+s_{j} a_{j}=0$$ Please provide the sum of the base and exponent used in the expression for the maximal length $L$. 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2026
+==================================================
+

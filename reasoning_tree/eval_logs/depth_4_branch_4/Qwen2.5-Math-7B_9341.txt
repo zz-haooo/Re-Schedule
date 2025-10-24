@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9341
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The seven digits in Sam's phone number and the four digits in his house number have the same sum.  The four digits in his house number are distinct, and his phone number is 271-3147.  What is the largest possible value of Sam's house number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9871
+==================================================
+

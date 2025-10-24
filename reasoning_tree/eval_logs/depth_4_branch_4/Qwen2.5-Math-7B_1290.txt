@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1290
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are 300 points in space. Four planes $A$, $B$, $C$, and $D$ each have the property that they split the 300 points into two equal sets. (No plane contains one of the 300 points.) What is the maximum number of points that can be found inside the tetrahedron whose faces are on $A$, $B$, $C$, and $D$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

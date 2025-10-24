@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6191
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given $\triangle ABC$ and a point $P$ on one of its sides, call line $\ell$ the $\textit{splitting line}$ of $\triangle ABC$ through $P$ if $\ell$ passes through $P$ and divides $\triangle ABC$ into two polygons of equal perimeter. Let $\triangle ABC$ be a triangle where $BC = 219$ and $AB$ and $AC$ are positive integers. Let $M$ and $N$ be the midpoints of $\overline{AB}$ and $\overline{AC},$ respectively, and suppose that the splitting lines of $\triangle ABC$ through $M$ and $N$ intersect at $30^\circ.$ Find the perimeter of $\triangle ABC.$
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 459
+==================================================
+

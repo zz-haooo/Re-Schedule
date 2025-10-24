@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13801
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n>3$ be a positive integer. Equilateral triangle $ABC$ is divided into $n^2$ smaller congruent equilateral triangles (with sides parallel to its sides). Let $m$ be the number of rhombuses that contain two small equilateral triangles and $d$ the number of rhombuses that contain eight small equilateral triangles. Find the difference $m-d$ in terms of $n$. Please provide the value of $m-d$ when $n = 5$. The answer should be an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

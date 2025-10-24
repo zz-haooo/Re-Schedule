@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4378
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The board contains $20$ non-constant linear functions, not necessarily distinct. For each pair $(f, g)$ of these functions ($190$ pairs in total), Victor writes on the board a quadratic function $f(x) \cdot g(x) - 2$, and Solomiya writes on the board a quadratic function $f(x)g(x)-1$. Victor calculated that exactly $V$ of his quadratic functions have a root, and Solomiya calculated that exactly $S$ of her quadratic functions have a root. Find the largest possible value of $S-V$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

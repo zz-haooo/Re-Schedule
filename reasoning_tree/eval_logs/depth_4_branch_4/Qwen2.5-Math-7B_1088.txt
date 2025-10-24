@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1088
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $N=\overline{abc}$ be a three-digit number. It is known that we can construct an isosceles triangle with $a$, $b$, and $c$ as the lengths of sides. Determine how many possible three-digit numbers $N$ there are. 
+
+($N=\overline{abc}$ means that $a$, $b$, and $c$ are digits of $N$, and not $N=a \times b \times c$.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 165
+==================================================
+

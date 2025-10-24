@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1957
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+You are using a lock with four dials, each set to a number between 0 and 9 (inclusive). You typically leave the lock with each dial one higher than the correct value. However, last night, someone changed all the values to 5. You recall that none of the digits in your code are prime numbers, 0, or 1, and the average value of the digits is 5.
+
+**Question:**
+How many combinations will you have to try?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

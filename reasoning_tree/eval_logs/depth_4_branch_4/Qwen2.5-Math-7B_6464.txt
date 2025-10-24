@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6464
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Point $(x,y)$ is randomly picked from the rectangular region with vertices at $(0,0),(2008,0),(2008,2009),$ and $(0,2009)$. What is the probability that $x > 2y$? Express your answer as a common fraction.The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2511
+==================================================
+

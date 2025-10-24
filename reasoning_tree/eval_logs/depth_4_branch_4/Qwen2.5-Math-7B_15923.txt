@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15923
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are lily pads in a row numbered 0 to 11, in that order. There are predators on lily pads 3 and 6, and a morsel of food on lily pad 10. Fiona the frog starts on pad 0, and from any given lily pad, has a \(\frac{1}{2}\) chance to hop to the next pad, and an equal chance to jump 2 pads. Find the probability that Fiona reaches pad 10 without landing on either pad 3 or pad 6. The original answer is in \(\frac{k}{m}\) format, please give the value of \(k + m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 271
+==================================================
+

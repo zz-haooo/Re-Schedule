@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4082
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The pentagon below has three right angles. Find its area.
+
+\begin{asy}
+size(150);
+defaultpen(linewidth(1));
+draw((4,10)--(0,10)--origin--(10,0)--(10,2)--cycle);
+label("4",(2,10),N);
+label("10",(0,5),W);
+label("10",(5,0),S);
+label("2",(10,1),E);
+label("10",(7,6),NE);
+\end{asy}
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 76
+==================================================
+

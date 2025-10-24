@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9706
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$A$, $B$ and $C$ are circular regions as shown. There are 7 items in circle $C$. There are exactly 20 items in $A$ and 10 of those items are not in $B$. How many items are in $B$, but not in $C$?
+
+[asy]
+draw(Circle((0,0),50));
+label("$A$",(39,39));
+draw(Circle((10,-10),32));
+label("$B$",(-16,16));
+draw(Circle((5,-5),20));
+label("$C$",(22,-22));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

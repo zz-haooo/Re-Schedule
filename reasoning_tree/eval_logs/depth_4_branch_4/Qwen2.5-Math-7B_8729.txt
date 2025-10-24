@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8729
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Squares are constructed on each of the sides of triangle $\triangle ABC$, as shown.  If the perimeter of $\triangle ABC$ is 17, then what is the perimeter of the nine-sided figure that is composed of the remaining three sides of each of the squares? [asy]
+import olympiad; size(150); defaultpen(linewidth(0.8)); dotfactor=4;
+picture a;
+draw(a,(0,0)--(3,0)--(0,4)--cycle);
+label("$A$",(-2.1,-2.2),SW);
+label("$B$",(3.1,-2.2),SE);
+label("$C$",(0.05,0.3),N);
+draw(a,(3,0)--(3,-3)--(0,-3)--(0,0));
+draw(a,(0,0)--(-4,0)--(-4,4)--(0,4));
+draw(a,shift(-2.4,2.2)*rotate(90 - aTan(4/3))*((3,0)--(8,0)--(8,-5)--(3,-5)));
+add(currentpicture,rotate(-130)*a);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 51
+==================================================
+

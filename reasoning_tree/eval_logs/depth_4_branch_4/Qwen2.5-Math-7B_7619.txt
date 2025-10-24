@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7619
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There is a box containing $100$ balls, each of which is either orange or black. The box is equally likely to contain any number of black balls between $0$ and $100$, inclusive. A random black ball rolls out of the box. The probability that the next ball to roll out of the box is also black can be written in the form $\tfrac{p}{q}$ where $p$ and $q$ are relatively prime positive integers. Find $p + q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

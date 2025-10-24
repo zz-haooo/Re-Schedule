@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3806
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Geodude wants to assign one of the integers $1,2,3,\ldots,11$ to each lattice point $(x,y,z)$ in a 3D Cartesian coordinate system. In how many ways can Geodude do this if for every lattice parallelogram $ABCD$, the positive difference between the sum of the numbers assigned to $A$ and $C$ and the sum of the numbers assigned to $B$ and $D$ must be a multiple of $11$? 
+
+A lattice point is a point with all integer coordinates. A lattice parallelogram is a parallelogram with all four vertices lying on lattice points. Here, we say four not necessarily distinct points $A,B,C,D$ form a parallelogram $ABCD$ if and only if the midpoint of segment $AC$ coincides with the midpoint of segment $BD$. 
+
+Clarifications:
+- The "positive difference" between two real numbers $x$ and $y$ is the quantity $|x-y|$. Note that this may be zero.
+- The last sentence was added to remove confusion about "degenerate parallelograms."
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14641
+==================================================
+

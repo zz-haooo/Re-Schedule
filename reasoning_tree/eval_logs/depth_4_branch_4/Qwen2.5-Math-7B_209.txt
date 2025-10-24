@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 209
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the tribe of Zimmer, a boy is not considered a man until he completes a rite of passage involving a series of hikes. The first hike is a $5$ kilometer hike down the main road. The second hike is a $5\frac{1}{4}$ kilometer hike down a secondary road. Each subsequent hike is along a different road and is $\frac{1}{4}$ kilometer longer than the previous hike. The rite of passage is completed when the cumulative distance walked exceeds $1000$ kilometers. How many roads must a man walk down before he is considered a man in the tribe of Zimmer?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 73
+==================================================
+

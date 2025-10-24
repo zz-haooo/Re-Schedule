@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8418
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many ways are there to put 9 differently colored beads on a $3\times3$ grid if the purple bead and the green bead cannot be adjacent (either horizontally, vertically, or diagonally), and rotations and reflections of the grid are considered the same?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20160
+==================================================
+

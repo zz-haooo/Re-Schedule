@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2732
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a$, $b$, and $c$ be positive integers satisfying the following equations:
+
+$$a^4 + a^2b^2 + b^4 = 9633$$
+$$2a^2 + a^2b^2 + 2b^2 + c^5 = 3605$$
+
+What is the sum of all distinct values of $a + b + c$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3941
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An equilateral triangle $T$ with side length $2022$ is divided into equilateral unit triangles with lines parallel to its sides to obtain a triangular grid. The grid is covered with figures shown in the image below, which consist of $4$ equilateral unit triangles and can be rotated by any angle $k \cdot 60^{\circ}$ for $k \in \{1,2,3,4,5\}$.
+
+The covering satisfies the following conditions:
+
+1) It is possible not to use figures of some type and it is possible to use several figures of the same type. The unit triangles in the figures correspond to the unit triangles in the grid.
+2) Every unit triangle in the grid is covered, no two figures overlap, and every figure is fully contained in $T$.
+
+Determine the smallest possible number of figures of type $1$ that can be used in such a covering.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1011
+==================================================
+

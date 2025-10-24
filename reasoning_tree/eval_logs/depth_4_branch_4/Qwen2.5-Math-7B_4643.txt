@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4643
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the largest positive integer value of $n < 1000$ such that $\phi(36n) = \phi(25n) + \phi(16n)$, where $\phi(n)$ denotes the number of positive integers less than $n$ that are relatively prime to $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 996
+==================================================
+

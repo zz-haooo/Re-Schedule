@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2859
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$f(x)$ and $g(x)$ are linear functions such that for all $x$, $f(g(x)) = g(f(x)) = x$. If $f(0) = 4$ and $g(5) = 17$, compute $f(2006)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 122
+==================================================
+

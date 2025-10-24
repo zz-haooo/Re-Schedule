@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14755
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three times Dick's age plus Tom's age equals twice Harry's age. Double the cube of Harry's age is equal to three times the cube of Dick's age added to the cube of Tom's age. Their respective ages are relatively prime to each other. What is the sum of the squares of their ages?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 42
+==================================================
+

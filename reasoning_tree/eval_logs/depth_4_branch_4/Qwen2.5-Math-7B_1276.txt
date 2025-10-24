@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1276
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $w, x, y, z$ be integers from $0$ to $3$ inclusive. Find the number of ordered quadruples $(w, x, y, z)$ such that $5x^2 + 5y^2 + 5z^2 - 6wx - 6wy - 6wz$ is divisible by $4$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

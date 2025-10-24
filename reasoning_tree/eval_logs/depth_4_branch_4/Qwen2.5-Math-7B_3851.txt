@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3851
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $M$ be the smallest positive multiple of $2012$ that has $2012$ divisors. Suppose $M$ can be written as $\prod_{k=1}^{n}p_k^{a_k}$, where the $p_k$'s are distinct primes and the $a_k$'s are positive integers. Find $\sum_{k=1}^{n}(p_k + a_k)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1012
+==================================================
+

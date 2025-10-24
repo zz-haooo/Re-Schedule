@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7729
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ryan Alweiss storms into the Fine Hall common room with a gigantic eraser and erases all integers $n$ in the interval $[2, 728]$ such that $3^t$ doesn’t divide $n!$, where $t = \left\lceil \frac{n-3}{2} \right\rceil$. Find the sum of the leftover integers in that interval modulo $1000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

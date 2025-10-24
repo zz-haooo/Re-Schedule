@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1631
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three builders are scheduled to build a house in 60 days. However, they procrastinate and do nothing for the first 50 days. To complete the house on time, they decide to hire more workers and work at twice their original speed. If the new workers also work at this doubled rate, how many new workers are needed? Assume each builder works at the same rate and does not interfere with the others.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

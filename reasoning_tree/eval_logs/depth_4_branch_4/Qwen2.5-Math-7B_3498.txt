@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3498
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be a positive integer. In $n$-dimensional space, consider the $2^n$ points whose coordinates are all $\pm 1$. Imagine placing an $n$-dimensional ball of radius 1 centered at each of these $2^n$ points. Let $B_n$ be the largest $n$-dimensional ball centered at the origin that does not intersect the interior of any of the original $2^n$ balls. What is the smallest value of $n$ such that $B_n$ contains a point with a coordinate greater than 2?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

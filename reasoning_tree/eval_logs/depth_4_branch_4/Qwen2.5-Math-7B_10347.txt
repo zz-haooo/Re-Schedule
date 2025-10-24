@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10347
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For how many integers $n$ where $2 \le n \le 100$ is $\binom{n}{2}$ odd?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

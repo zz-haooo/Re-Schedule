@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10342
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The measures of the interior angles of a convex hexagon form an increasing arithmetic sequence. How many such sequences are possible if the hexagon is not equiangular and all of the angle degree measures are positive integers less than $150$ degrees?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

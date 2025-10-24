@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2985
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Some vertices of a regular $2024$-gon are marked such that for any regular polygon, all of whose vertices are vertices of the $2024$-gon, at least one of its vertices is marked. Find the minimal possible number of marked vertices.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 506
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4143
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ satisfies $AB=104$, $BC=112$, and $CA=120$. Let $\omega$ and $\omega_A$ denote the incircle and $A$-excircle of $\triangle ABC$, respectively. There exists a unique circle $\Omega$ passing through $A$ which is internally tangent to $\omega$ and externally tangent to $\omega_A$. Compute the radius of $\Omega$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 49
+==================================================
+

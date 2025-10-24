@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7589
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Tristan is eating his favorite cereal, Tiger Crunch, which has marshmallows of two colors, black and orange. He eats the marshmallows by randomly choosing from those remaining one at a time, and he starts out with $17$ orange and $5$ black marshmallows. If $\frac{p}{q}$ is the expected number of marshmallows remaining the instant that there is only one color left, and $p$ and $q$ are relatively prime positive integers, find $p + q$.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 37
+==================================================
+

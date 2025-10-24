@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5244
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Among $100$ points in the plane, no three are collinear, exactly $4026$ pairs are connected by line segments. Each point is then randomly assigned an integer from $1$ to $100$ inclusive, each equally likely, such that no integer appears more than once. Find the expected value of the number of segments which join two points whose labels differ by at least $50$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1037
+==================================================
+

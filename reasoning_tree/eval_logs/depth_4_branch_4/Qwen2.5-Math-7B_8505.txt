@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8505
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+You have a number of gold coins that you were going to distribute equally among your 11 best friends. However, after dividing your gold coins into 11 equal piles, you realize that if you give away all your gold coins, 2 people will receive an extra gold coin. You have less than 100 gold coins. What is the largest number of gold coins you could have to cause this to happen?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

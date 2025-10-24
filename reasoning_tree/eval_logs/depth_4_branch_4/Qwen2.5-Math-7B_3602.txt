@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3602
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Caroline wants to plant 10 trees in her orchard. Planting $n$ apple trees requires $n^2$ square meters, planting $n$ apricot trees requires $5n$ square meters, and planting $n$ plum trees requires $n^3$ square meters. If she is committed to growing only apple, apricot, and plum trees, what is the least amount of space in square meters that her garden will take up?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

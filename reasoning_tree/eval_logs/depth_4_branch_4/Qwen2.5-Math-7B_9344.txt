@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9344
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A pentagon is formed by cutting a triangular corner from a rectangular piece of paper. The five sides of the pentagon have lengths $13,$ $19,$ $20,$ $25$ and $31,$ in some order. Find the area of the pentagon.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 745
+==================================================
+

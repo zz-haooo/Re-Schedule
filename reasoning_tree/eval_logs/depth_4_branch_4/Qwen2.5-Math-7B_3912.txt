@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3912
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Lazy Linus wants to minimize his amount of laundry over the course of a week (seven days), so he decides to wear only three different T-shirts and three different pairs of pants for the week. However, he doesn't want to look dirty or boring, so he decides to wear each piece of clothing for either two or three (possibly nonconsecutive) days total, and he cannot wear the same outfit (which consists of one T-shirt and one pair of pants) on two different (not necessarily consecutive) days. How many ways can he choose the outfits for these seven days?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90720
+==================================================
+

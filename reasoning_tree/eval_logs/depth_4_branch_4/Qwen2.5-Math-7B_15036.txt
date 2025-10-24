@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15036
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Farmer Pythagoras has a field in the shape of a right triangle. The right triangle's legs have lengths \(3\) and \(4\) units. In the corner where those sides meet at a right angle, he leaves a small unplanted square \(S\) so that from the air it looks like the right angle symbol. The rest of the field is planted. The shortest distance from \(S\) to the hypotenuse is \(2\) units. What fraction of the field is planted? The original answer is in \(\frac{m}{n}\) format, please give the value of \(m + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 292
+==================================================
+

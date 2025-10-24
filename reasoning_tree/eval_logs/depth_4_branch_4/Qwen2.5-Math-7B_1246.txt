@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1246
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+15 ladies and 30 gentlemen attend a luxurious party. At the start of the party, each lady shakes hands with a random gentleman. At the end of the party, each lady shakes hands with another random gentleman. A lady may shake hands with the same gentleman twice (first at the start and then at the end of the party), and no two ladies shake hands with the same gentleman at the same time.
+
+Let $m$ and $n$ be relatively prime positive integers such that $\frac{m}{n}$ is the probability that the collection of ladies and gentlemen that shook hands at least once can be arranged in a single circle such that each lady is directly adjacent to someone if and only if she shook hands with that person. Find the remainder when $m$ is divided by 10000.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

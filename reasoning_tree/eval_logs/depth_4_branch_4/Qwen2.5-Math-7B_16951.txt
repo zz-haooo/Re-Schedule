@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16951
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An Annville Junior High School, $30\%$ of the students in the Math Club are in the Science Club, and $80\%$ of the students in the Science Club are in the Math Club. There are $15$ students in the Science Club. How many students are in the Math Club?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

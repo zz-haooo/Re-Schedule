@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5096
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Richard has four infinitely large piles of coins: a pile of pennies (worth 1 cent each), a pile of nickels (5 cents), a pile of dimes (10 cents), and a pile of quarters (25 cents). He chooses one pile at random and takes one coin from that pile. Richard then repeats this process until the sum of the values of the coins he has taken is an integer number of dollars. (One dollar is 100 cents.) What is the expected value of this final sum of money, in cents?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1025
+==================================================
+

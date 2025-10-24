@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1664
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A clueless ant makes the following route: starting at point $A$, it goes $1$ cm north, then $2$ cm east, then $3$ cm south, then $4$ cm west, immediately $5$ cm north, continues $6$ cm east, and so on, finally $41$ cm north and ends at point $B$. Calculate the distance between $A$ and $B$ (in a straight line).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 29
+==================================================
+

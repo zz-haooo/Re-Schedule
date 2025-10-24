@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8645
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two cones have the same volume. If one has a base with radius 3 times as large as the other's and a height of 24 inches, how many inches tall is the other?
+
+Note: The volume of a cone is $\frac{1}{3} \pi r^2 h,$ where $r$ is the radius and $h$ is the height.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 216
+==================================================
+

@@ -1,0 +1,47 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8522
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Lines $l$ and $m$ are parallel and points $A$, $B$, and $D$ are collinear. What is the value of $x$?
+
+[asy]
+
+unitsize(1.1 inch);
+
+draw((0,0)--(4,0),Arrows);
+
+draw((0,1)--(4,1),Arrows);
+
+draw((3,2)--(1,-1),Arrows);
+
+dot((0.3,0));
+label("$m$",(0.3,0),N);
+
+dot((0.3,1));
+label("$l$",(0.3,1),N);
+
+dot((3.7,0));
+
+dot((3.7,1));
+label("$C$",(3.7,1),N);
+
+dot((1.2,-0.7));
+
+dot((2.8,1.7));
+label("$A$",(2.8,1.7),NW);
+
+dot((2.34,1));
+label("$B$",(2.34,1),NW);
+label("$5x-8^\circ$",(2.34,1),SW);
+
+dot((1.66,0));
+label("$D$",(1.66,0),NW);
+label("$143^\circ$",(1.66,0),SE);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

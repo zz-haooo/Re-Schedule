@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 175
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Kobar and Borah are playing a game on a whiteboard with the following rules: They start with two distinct positive integers on the board. On each step, beginning with Kobar, each player takes turns changing the numbers on the board as follows:
+
+1. From $P$ and $Q$ to $2P-Q$ and $2Q-P$, or  
+2. From $P$ and $Q$ to $5P-4Q$ and $5Q-4P$.
+
+The game ends if a player writes an integer that is not positive. That player is declared to lose, and the opponent is declared the winner.
+
+At the beginning of the game, the two numbers on the board are $2024$ and $A$. It is known that Kobar does not lose on his first move. Determine the largest possible value of $A$ so that Borah can win this game.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2179
+==================================================
+

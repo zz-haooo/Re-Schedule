@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10904
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An integer-valued function $f$ is called tenuous if $f(x) + f(y) > y^2$ for all positive integers $x$ and $y.$  Let $g$ be a tenuous function such that $g(1) + g(2) + \dots + g(20)$ is as small as possible.  Compute the minimum possible value for $g(14).$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 136
+==================================================
+

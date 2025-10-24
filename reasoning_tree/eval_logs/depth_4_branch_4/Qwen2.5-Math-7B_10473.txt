@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10473
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $AB$ is congruent to $AC$, the measure of angle $ABC$ is $72^{\circ}$ and segment $BD$ bisects angle $ABC$ with point $D$ on side $AC$. If point $E$ is on side $BC$ such that segment $DE$ is parallel to side $AB$, and point $F$ is on side $AC$ such that segment $EF$ is parallel to segment $BD$, how many isosceles triangles are in the figure shown?
+
+[asy]
+size(150);
+draw((0,0)--(5,15)--(10,0)--cycle,linewidth(1));
+draw((0,0)--(8,6)--(6.5,0)--(9.25,2.25),linewidth(1));
+label("B",(0,0),W);
+label("A",(5,15),N);
+label("D",(8,6),E);
+label("E",(7,0),S);
+label("F",(9,3),E);
+label("C",(10,0),E);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

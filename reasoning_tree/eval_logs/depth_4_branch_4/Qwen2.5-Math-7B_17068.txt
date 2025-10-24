@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17068
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let
+$a=\frac{1^2}{1} + \frac{2^2}{3} + \frac{3^2}{5} + \; \dots \; + \frac{1001^2}{2001}$
+and
+$b=\frac{1^2}{3} + \frac{2^2}{5} + \frac{3^2}{7} + \; \dots \; + \frac{1001^2}{2003}.$
+Find the integer closest to $a-b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 501
+==================================================
+

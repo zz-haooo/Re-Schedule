@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15399
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jean has made a piece of stained glass art in the shape of two mountains, as shown in the figure below. One mountain peak is $8$ feet high while the other peak is $12$ feet high. Each peak forms a $90^\circ$ angle, and the straight sides form a $45^\circ$ angle with the ground. The artwork has an area of $183$ square feet. The sides of the mountain meet at an intersection point near the center of the artwork, $h$ feet above the ground. What is the value of $h$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

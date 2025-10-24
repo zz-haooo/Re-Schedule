@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6295
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In regular octagon $ABCDEFGH$, $M$ and $N$ are midpoints of $\overline{BC}$ and $\overline{FG}$ respectively.  Compute $[ABMO]/[EDCMO]$. ($[ABCD]$ denotes the area of polygon $ABCD$.) [asy]
+pair A,B,C,D,E,F,G,H;
+F=(0,0); E=(2,0); D=(2+sqrt(2),sqrt(2)); C=(2+sqrt(2),2+sqrt(2));
+B=(2,2+2sqrt(2)); A=(0,2+2*sqrt(2)); H=(-sqrt(2),2+sqrt(2)); G=(-sqrt(2),sqrt(2));
+draw(A--B--C--D--E--F--G--H--cycle);
+draw(A--E);
+pair M=(B+C)/2; pair N=(F+G)/2;
+draw(M--N);
+
+label("$A$",A,N); label("$B$",B,NE); label("$C$",C,E); label("$D$",D,E);
+
+label("$E$",E,S); label("$F$",F,S); label("$G$",G,W); label("$H$",H,W);
+label("$M$",M,NE); label("$N$",N,SW);
+
+label("$O$",(1,2.4),E);
+
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

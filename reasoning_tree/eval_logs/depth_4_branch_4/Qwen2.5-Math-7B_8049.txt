@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8049
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Evaluate
+$\frac{\log_{10}20^2 \cdot \log_{20}30^2 \cdot \log_{30}40^2 \cdot \cdot \cdot \log_{990}1000^2}{\log_{10}11^2 \cdot \log_{11}12^2 \cdot \log_{12}13^2 \cdot \cdot \cdot \log_{99}100^2}$
+.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 768
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5280
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCDEF$ be a regular hexagon with a side length of $3$. Points $X$, $Y$, and $Z$ are located on segments $AB$, $CD$, and $EF$ respectively, such that $AX = CY = EZ = 1$. The area of triangle $XYZ$ can be expressed in the form $\frac{a\sqrt{b}}{c}$, where $a$, $b$, and $c$ are positive integers, $b$ is not divisible by the square of any prime, and $\gcd(a, c) = 1$. Find $100a + 10b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2134
+==================================================
+

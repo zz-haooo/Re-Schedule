@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10055
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The decimal representation of $m/n,$ where $m$ and $n$ are relatively prime positive integers and $m < n,$ contains the digits $2, 5$, and $1$ consecutively, and in that order. Find the smallest value of $n$ for which this is possible.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 127
+==================================================
+

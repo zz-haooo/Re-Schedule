@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6767
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jonathon is given the following problem: Let $a$ and $b$ be positive real numbers such that $a + b = 1.$  Find the minimum value of
+\[\left( a + \frac{1}{a} \right)^2 + \left( b + \frac{1}{b} \right)^2.\]Jonathon reasons as follows: By AM-GM,
+\[a + \frac{1}{a} \ge 2,\]and
+\[b + \frac{1}{b} \ge 2,\]so
+\[\left( a + \frac{1}{a} \right)^2 + \left( b + \frac{1}{b} \right)^2 \ge 2^2 + 2^2 = 8.\]He concludes that the minimum value is 8, but this answer is incorrect.  What is the minimum value?
+
+As a bonus, determine where Jonathon went wrong.The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 27
+==================================================
+

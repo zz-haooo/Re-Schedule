@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7854
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Square $ABCD$ has side length $36$.  Point $E$ is on side $AB$ a distance $12$ from $B$, point $F$ is the midpoint of side $BC$, and point $G$ is on side $CD$ a distance $12$ from $C$.  Find the area of the region that lies inside triangle $EFG$ and outside triangle $AFD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 144
+==================================================
+

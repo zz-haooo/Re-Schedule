@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2290
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\sigma_1 : \mathbb{N} \to \mathbb{N}$ be a function that takes a natural number $n$, and returns the sum of the positive integer divisors of $n$. For example, $\sigma_1(6) = 1 + 2 + 3 + 6 = 12$. What is the largest number $n$ such that $\sigma_1(n) = 1854$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1234
+==================================================
+

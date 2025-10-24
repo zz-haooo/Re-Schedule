@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 951
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three lines $m$, $n$, and $\ell$ lie in a plane such that no two are parallel. Lines $m$ and $n$ meet at an acute angle of $14^{\circ}$, and lines $m$ and $\ell$ meet at an acute angle of $20^{\circ}$. Find, in degrees, the sum of all possible acute angles formed by lines $n$ and $\ell$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

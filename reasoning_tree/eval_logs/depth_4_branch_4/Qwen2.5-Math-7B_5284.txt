@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5284
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a square with $AB = 6$. A point $P$ inside the square is 2 units away from side $BC$ and 3 units away from side $CD$. What is the distance from $P$ to $A$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

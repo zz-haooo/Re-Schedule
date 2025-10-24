@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16650
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $x + \sqrt{x^{2} - 1} + \frac{1}{x - \sqrt{x^{2} - 1}} = 20$, then find the value of $1000 \times \left( x^{2} + \sqrt{x^{4} - 1} + \frac{1}{x^{2} + \sqrt{x^{4} - 1}} \right)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 51005
+==================================================
+

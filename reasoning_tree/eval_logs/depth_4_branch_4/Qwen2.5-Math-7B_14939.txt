@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14939
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Samia set off on her bicycle to visit her friend, traveling at an average speed of $17 ~kilometers~ per~ hour$. When she had gone half the distance to her friend's house, a tire went flat, and she walked the rest of the way at $5 ~kilometers~ per ~hour$. In all it took her $44~ minutes$ to reach her friend's house. In kilometers rounded to the nearest tenth, how far did Samia walk? If the answer is $x$ kilometers, what is the value of $10x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 28
+==================================================
+

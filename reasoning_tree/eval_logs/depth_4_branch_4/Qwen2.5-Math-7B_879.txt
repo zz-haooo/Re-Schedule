@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 879
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We are given a $5 \times 5$ square grid, divided into $1 \times 1$ tiles. Two tiles are called **linked** if they lie in the same row or column, and the distance between their centers is 2 or 3. For example, in the picture, the gray tiles are the ones linked to the red tile.
+
+![Grid Image](https://i.imgur.com/JVTQ9wB.png)
+
+Sammy wants to mark as many tiles in the grid as possible, such that no two of them are linked. What is the maximal number of tiles he can mark?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

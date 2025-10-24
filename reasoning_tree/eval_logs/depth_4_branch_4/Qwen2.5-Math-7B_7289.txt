@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7289
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Circles $\omega_a, \omega_b, \omega_c$ have centers $A, B, C$, respectively and are pairwise externally tangent at points $D, E, F$ (with $D\in BC, E\in CA, F\in AB$). Lines $BE$ and $CF$ meet at $T$. Given that $\omega_a$ has radius $341$, there exists a line $\ell$ tangent to all three circles, and there exists a circle of radius $49$ tangent to all three circles, compute the distance from $T$ to $\ell$.
+
+[i]Proposed by Andrew Gu.[/i]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 294
+==================================================
+

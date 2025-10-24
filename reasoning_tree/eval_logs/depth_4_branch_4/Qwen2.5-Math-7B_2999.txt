@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2999
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Peter and Basil together thought of ten quadratic trinomials. Then, Basil began calling consecutive natural numbers starting with some natural number. After each called number, Peter chose one of the ten polynomials at random and plugged in the called number. The results were recorded on the board. They eventually form a sequence. After they finished, their sequence was arithmetic. What is the greatest number of numbers that Basil could have called out?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

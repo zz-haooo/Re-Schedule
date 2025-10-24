@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2701
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Rectangle $ABCD$ measures $70$ by $40$. Eighteen points (including $A$ and $C$) are marked on the diagonal $AC$, dividing the diagonal into $17$ congruent pieces. Twenty-two points (including $A$ and $B$) are marked on the side $AB$, dividing the side into $21$ congruent pieces. Seventeen non-overlapping triangles are constructed as shown. Each triangle has two vertices that are two of these adjacent marked points on the side of the rectangle, and one vertex that is one of the marked points along the diagonal of the rectangle. Only the left $17$ of the $21$ congruent pieces along the side of the rectangle are used as bases of these triangles. Find the sum of the areas of these $17$ triangles.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 600
+==================================================
+

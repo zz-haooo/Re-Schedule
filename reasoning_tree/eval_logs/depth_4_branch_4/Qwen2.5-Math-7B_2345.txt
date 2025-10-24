@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2345
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find all prime numbers $p$ for which there exists an integer $n$ such that there are no integers $x, y$ satisfying $x^3 + y^3 \equiv n \pmod{p}$ (i.e., not all residues are the sum of two cubes).
+
+For example, for $p = 7$, one could set $n = \pm 3$ since $x^3, y^3 \equiv 0, \pm 1 \pmod{7}$, thus $x^3 + y^3 \equiv 0, \pm 1, \pm 2 \pmod{7}$ only.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

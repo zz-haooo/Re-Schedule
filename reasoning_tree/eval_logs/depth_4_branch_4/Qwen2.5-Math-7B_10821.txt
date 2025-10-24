@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10821
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$ABCD$, a rectangle with $AB = 12$ and $BC = 16$, is the base of pyramid $P$, which has a height of $24$. A plane parallel to $ABCD$ is passed through $P$, dividing $P$ into a frustum $F$ and a smaller pyramid $P'$. Let $X$ denote the center of the circumsphere of $F$, and let $T$ denote the apex of $P$. If the volume of $P$ is eight times that of $P'$, then the value of $XT$ can be expressed as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Compute the value of $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 177
+==================================================
+

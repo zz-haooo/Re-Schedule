@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1254
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An angle is considered as a point and two rays coming out of it. Find the largest value of $n$ such that it is possible to place $n$ angles of $60^\circ$ on a plane in such a way that any pair of these angles has exactly 4 intersection points.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

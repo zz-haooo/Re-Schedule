@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 420
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(x) = x^{2} + ax + b$. If for all nonzero real $x$:
+\[ f\left(x + \frac{1}{x}\right) = f\left(x\right) + f\left(\frac{1}{x}\right) \]
+and the roots of $f(x) = 0$ are integers, what is the value of $a^{2} + b^{2}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

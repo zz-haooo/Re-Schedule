@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5885
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let  
+  
+$$p(x,y) = a_0 + a_1x + a_2y + a_3x^2 + a_4xy + a_5y^2 + a_6x^3 + a_7x^2y + a_8xy^2 + a_9y^3.$$
+  
+Suppose that  
+  
+$$p(0,0) = p(1,0) = p( - 1,0) = p(0,1) = p(0, - 1) = p(1,1) = p(1, - 1) = p(2,2) = 0.$$  
+  
+There is a point $(\frac {a}{c},\frac {b}{c})$ for which $p\left(\frac {a}{c},\frac {b}{c}\right) = 0$ for all such polynomials, where $a, b$, and $c$ are positive integers, $a$ and $c$ are relatively prime, and $c > 1$. Find $a + b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

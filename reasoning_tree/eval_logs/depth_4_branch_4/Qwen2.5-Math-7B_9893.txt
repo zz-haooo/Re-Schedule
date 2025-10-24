@@ -1,0 +1,26 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9893
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, $\triangle ABE$, $\triangle BCE$ and $\triangle CDE$ are right-angled, with $\angle AEB=\angle BEC = \angle CED = 60^\circ$, and $AE=24$. [asy]
+pair A, B, C, D, E;
+A=(0,20.785);
+B=(0,0);
+C=(9,-5.196);
+D=(13.5,-2.598);
+E=(12,0);
+draw(A--B--C--D--E--A);
+draw(B--E);
+draw(C--E);
+label("A", A, N);
+label("B", B, W);
+label("C", C, SW);
+label("D", D, dir(0));
+label("E", E, NE);
+[/asy] Find the length of $CE.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

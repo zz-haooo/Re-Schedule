@@ -1,0 +1,25 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9275
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, $PQ=PR$ and $\angle QRP = 65^\circ$.
+
+[asy]
+draw((0,0)--(cos(13pi/36),sin(13pi/36))--(2cos(13pi/36),0)--(0,0), linewidth(1));
+draw((0,0)--(sin(13pi/18)*cos(5pi/36),sin(13pi/18)*sin(5pi/36)), linewidth(1));
+draw(((15/16)*sin(13pi/18)*cos(5pi/36),(15/16)*sin(13pi/18)*sin(5pi/36))--((15/16)*sin(13pi/18)*cos(5pi/36)+(1/16)*sin(13pi/18)*sin(5pi/36),(15/16)*sin(13pi/18)*sin(5pi/36)-(1/16)*sin(13pi/18)*cos(5pi/36))--(sin(13pi/18)*cos(5pi/36)+(1/16)*sin(13pi/18)*sin(5pi/36),sin(13pi/18)*sin(5pi/36)-(1/16)*sin(13pi/18)*cos(5pi/36)), linewidth(1));
+label("$Q$", (0,0), SW);
+label("$R$", (2cos(13pi/36),0), SE);
+label("$S$", (sin(13pi/18)*cos(5pi/36),sin(13pi/18)*sin(5pi/36)), NE);
+label("$P$", (cos(13pi/36),sin(13pi/36)), N);
+label("$65^\circ$", (2cos(13pi/36)-0.04,0), NW);
+label("$x^\circ$", (0.05,0.11), E);
+[/asy]
+
+What is the value of $x?$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

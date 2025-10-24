@@ -1,0 +1,38 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6322
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The radius $r$ of a circle inscribed within three mutually externally tangent circles of radii $a$, $b$ and $c$ is given by
+\[\frac{1}{r} = \frac{1}{a} + \frac{1}{b} + \frac{1}{c} + 2 \sqrt{\frac{1}{ab} + \frac{1}{ac} + \frac{1}{bc}}.\]What is the value of $r$ when $a = 4$, $b = 9$ and $c = 36$?
+
+[asy]
+unitsize(0.15 cm);
+
+pair A, B, C, P;
+real r = 1.86308;
+
+A = (0,0);
+B = (25,0);
+C = intersectionpoint(arc(A,22,0,180),arc(B,27,0,180));
+P = intersectionpoint(arc(A,10 + r,0,180),arc(B,15 + r,0,180));
+
+draw(Circle(A,10));
+draw(Circle(B,15));
+draw(Circle(C,12));
+draw(Circle(P,r));
+draw(A--(A + (0,-10)));
+draw(B--(B + (15,0)));
+draw(C--(C + (0,12)));
+draw(P--(P + (r,0)));
+
+label("$a$", A + (0,-10)/2, W);
+label("$b$", B + (15,0)/2, S);
+label("$c$", C + (0,12)/2, W);
+label("$r$", P + (r,0), E);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

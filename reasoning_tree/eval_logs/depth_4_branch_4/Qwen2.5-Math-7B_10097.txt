@@ -1,0 +1,26 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10097
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the five-sided star shown, the letters $A$, $B$, $C$, $D$, and $E$ are replaced by the numbers 3, 5, 6, 7, and 9, although not necessarily in this order. The sums of the numbers at the ends of the line segments $\overline{AB}$, $\overline{BC}$, $\overline{CD}$, $\overline{DE}$, and $\overline{EA}$ form an arithmetic sequence, although not necessarily in this order.  What is the middle term of the arithmetic sequence?
+
+[asy]
+pair A,B,C,D,E;
+A=(0,10);
+B=(5.9,-8.1);
+C=(-9.5,3.1);
+D=(9.5,3.1);
+E=(-5.9,-8.1);
+draw(A--B--C--D--E--cycle,linewidth(0.7));
+label("$A$",A,N);
+label("$B$",B,SE);
+label("$C$",C,NW);
+label("$D$",D,NE);
+label("$E$",E,SW);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

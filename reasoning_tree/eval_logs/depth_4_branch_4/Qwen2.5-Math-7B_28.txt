@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 28
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Joe has $1729$ randomly oriented and randomly arranged unit cubes, which are initially unpainted. He makes two cubes of side lengths $9$ and $10$ or of side lengths $1$ and $12$ (randomly chosen). These cubes are dipped into white paint. Then two more cubes of side lengths $1$ and $12$ or $9$ and $10$ are formed from the same unit cubes, again randomly oriented and randomly arranged, and dipped into paint. Joe continues this process until every side of every unit cube is painted. After how many times of doing this is the expected number of painted faces closest to half of the total?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

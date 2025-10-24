@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9901
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The water tank in the diagram below is in the shape of an inverted right circular cone. The radius of its base is 16 feet, and its height is 96 feet. The water in the tank is $25\%$ of the tank's capacity.  The height of the water in the tank can be written in the form $a\sqrt[3]{b}$, where $a$ and $b$ are positive integers and $b$ is not divisible by a perfect cube greater than 1.  What is $a+b$?
+
+[asy]
+size(150);
+defaultpen(linewidth(.8pt)+fontsize(8pt));
+
+draw(shift(0,96)*yscale(0.5)*Circle((0,0),16));
+draw((-16,96)--(0,0)--(16,96)--(0,96));
+
+draw(scale(0.75)*shift(0,96)*yscale(0.5)*Circle((0,0),16));
+
+draw((-18,72)--(-20,72)--(-20,0)--(-18,0));
+label("water's height",(-20,36),W);
+
+draw((20,96)--(22,96)--(22,0)--(20,0));
+label("96'",(22,48),E);
+
+label("16'",(8,96),S);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

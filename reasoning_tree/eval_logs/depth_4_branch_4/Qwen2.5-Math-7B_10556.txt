@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10556
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+John counts up from 1 to 13, and then immediately counts down again to 1, and then back up to 13, and so on, alternately counting up and down: \begin{align*}
+&(1, 2, 3,4,5,6,7,8,9,10,11,12,13,\\
+&\qquad\qquad12,11,10,9,8,7,6,5,4,3,2,1,2,3,4,\ldots ).
+\end{align*} What is the $5000^{\text{th}}$ integer in his list?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

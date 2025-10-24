@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 730
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Richard likes to solve problems from the IMO Shortlist. In 2013, Richard solves $5$ problems each Saturday and $7$ problems each Sunday. He has school on weekdays, so he "only" solves $2$, $1$, $2$, $1$, $2$ problems on each Monday, Tuesday, Wednesday, Thursday, and Friday, respectively, with the exception of December 3, 2013, where he solved $60$ problems out of boredom. Altogether, how many problems does Richard solve in 2013?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1100
+==================================================
+

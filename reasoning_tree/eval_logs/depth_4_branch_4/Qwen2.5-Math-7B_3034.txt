@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3034
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $V$ be a rectangular prism with integer side lengths. The largest face has an area of $240$ and the smallest face has an area of $48$. A third face has an area $x$, where $x$ is not equal to $48$ or $240$. What is the sum of all possible values of $x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 260
+==================================================
+

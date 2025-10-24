@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3340
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We call a path Valid if:
+
+1. It only comprises the following types of steps:
+   - $(x, y) \rightarrow (x + 1, y + 1)$
+   - $(x, y) \rightarrow (x + 1, y - 1)$
+
+2. It never goes below the x-axis.
+
+Let $M(n)$ be the set of all valid paths from $(0,0)$ to $(2n,0)$, where $n$ is a natural number. 
+
+Consider a Valid path $T \in M(n)$. Denote:
+
+$$\phi(T) = \prod_{i=1}^{2n} \mu_i$$
+
+where $\mu_i$ is defined as:
+
+- $1$, if the $i^{th}$ step is $(x, y) \rightarrow (x + 1, y + 1)$
+- $y$, if the $i^{th}$ step is $(x, y) \rightarrow (x + 1, y - 1)$
+
+Now, let $f(n) = \sum_{T \in M(n)} \phi(T)$. Evaluate the number of zeroes at the end of the decimal expansion of $f(2021)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

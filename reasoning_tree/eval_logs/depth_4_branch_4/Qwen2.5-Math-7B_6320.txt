@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6320
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Seven cards each containing one of the following letters C, B, T, A, E, M and H are placed in a hat. Each letter is used only once. Stu will pull four cards out at random and without replacement. What is the probability that Stu pulls out M, A, T, H in this order? Express your answer as a common fraction.The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 841
+==================================================
+

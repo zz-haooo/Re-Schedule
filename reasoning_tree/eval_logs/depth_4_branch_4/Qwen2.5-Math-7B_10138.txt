@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10138
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Pentagon ABCDE has a vertical line of symmetry. What is the $y$-coordinate of vertex C so that the area of the pentagon is 40 square units? [asy]
+unitsize(2mm);
+defaultpen(linewidth(.7pt)+fontsize(8pt));
+dotfactor=4;
+
+pair A=(0,0), B=(0,4), C=(2,16), D=(4,4), E=(4,0);
+pair[] dots={A,B,C,D,E};
+
+draw(B--C--D--E);
+dot(dots);
+
+axes(Arrows(4));
+
+label("A(0,0)",A,SW);
+label("E(4,0)",E,SE);
+label("D(4,4)",D,NE);
+label("C",C,NE);
+label("B(0,4)",B,NW);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

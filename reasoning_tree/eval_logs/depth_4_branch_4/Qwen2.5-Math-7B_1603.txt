@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1603
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Each cell of a $29 \times 29$ table contains one of the integers $1, 2, 3, \ldots, 29$, and each of these integers appears $29$ times. The sum of all the numbers above the main diagonal is equal to three times the sum of all the numbers below this diagonal. Determine the number in the central cell of the table.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

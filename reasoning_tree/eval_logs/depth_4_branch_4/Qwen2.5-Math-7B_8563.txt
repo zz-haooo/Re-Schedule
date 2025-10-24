@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8563
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A Chinese emperor orders a regiment of soldiers in his palace to divide into groups of $4$. They do so successfully. He then orders them to divide into groups of $3$, upon which $2$ of them are left without a group. He then orders them to divide into groups of $11$, upon which $5$ are left without a group. If the emperor estimates there are about two hundred soldiers in the regiment, what is the most likely number of soldiers in the regiment?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 236
+==================================================
+

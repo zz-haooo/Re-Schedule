@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 607
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The real numbers $x$, $y$, $z$, and $t$ satisfy the following equation:
+\[ 2x^2 + 4xy + 3y^2 - 2xz - 2yz + z^2 + 1 = t + \sqrt{y + z - t} \]
+Find 100 times the maximum possible value for $t$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 125
+==================================================
+

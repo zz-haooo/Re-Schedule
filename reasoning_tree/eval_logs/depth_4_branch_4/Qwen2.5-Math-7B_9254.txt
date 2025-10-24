@@ -1,0 +1,23 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9254
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The graph of the function $y=f(x)$ is shown below. For all $x > 4$, it is true that $f(x) > 0.4$. If $f(x) = \frac{x^2}{Ax^2 + Bx + C}$, where $A,B,$ and $C$ are integers, then find $A+B+C$. [asy]
+import graph; size(10.9cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-5.29,xmax=5.61,ymin=-2.42,ymax=4.34;
+
+Label laxis; laxis.p=fontsize(10);
+
+xaxis("$x$",xmin,xmax,defaultpen+black,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); yaxis("$y$",ymin,ymax,defaultpen+black,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); real f1(real x){return x^2/(2*x^2-2*x-12);} draw(graph(f1,xmin,-2.1),linewidth(1.2),Arrows(4)); draw(graph(f1,-1.84,2.67),linewidth(1.2),Arrows(4)); draw(graph(f1,3.24,xmax),linewidth(1.2),Arrows(4));
+label("$f$",(-5.2,1),NE*lsf);
+
+// clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle);
+draw((-2,-2.2)--(-2,4.2),dashed);
+draw((3,-2.2)--(3,4.2),dashed);
+draw((-5,1/2)--(5.5,1/2),dashed);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -12
+==================================================
+

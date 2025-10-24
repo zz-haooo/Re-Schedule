@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17014
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Points $R$, $S$ and $T$ are vertices of an equilateral triangle, and points $X$, $Y$ and $Z$ are midpoints of its sides. How many noncongruent triangles can be drawn using any three of these six points as vertices?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

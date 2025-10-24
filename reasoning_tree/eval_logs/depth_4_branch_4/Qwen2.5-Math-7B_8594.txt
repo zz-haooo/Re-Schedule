@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8594
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram below, $WXYZ$ is a trapezoid such that $\overline{WX}\parallel \overline{ZY}$ and $\overline{WY}\perp\overline{ZY}$.  If $YZ = 12$, $\tan Z = 1.5$, and $\tan X = 3$, then what is the area of $WXYZ$?
+
+[asy]
+pair WW,X,Y,Z;
+Z = (0,0);
+Y = (12,0);
+WW = (12,18);
+X= (18,18);
+draw(WW--X--Y--Z--WW);
+label("$W$",WW,N);
+label("$X$",X,N);
+label("$Y$",Y,S);
+label("$Z$",Z,S);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 162
+==================================================
+

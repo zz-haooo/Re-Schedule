@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2487
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Around a circle are written $2009$ integers, not necessarily distinct, so that if two numbers are neighbors, their difference is $1$ or $2$. We will say that a number is *huge* if it is greater than its two neighbors, and that it is *tiny* if it is less than its two neighbors. The sum of all the huge numbers is equal to the sum of all the tiny numbers plus $1810$. Determine how many odd numbers there can be around the circumference.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1005
+==================================================
+

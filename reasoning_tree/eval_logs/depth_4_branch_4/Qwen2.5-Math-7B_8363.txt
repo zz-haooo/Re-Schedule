@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8363
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute the product
+\[\frac{(1998^2 - 1996^2)(1998^2 - 1995^2) \dotsm (1998^2 - 0^2)}{(1997^2 - 1996^2)(1997^2 - 1995^2) \dotsm (1997^2 - 0^2)}.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3996
+==================================================
+

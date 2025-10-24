@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 696
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute the number of ways to erase 24 letters from the string ``OMOMO\cdots OMO'' (with length 27), such that the three remaining letters are O, M, and O in that order. Note that the order in which they are erased does not matter.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 455
+==================================================
+

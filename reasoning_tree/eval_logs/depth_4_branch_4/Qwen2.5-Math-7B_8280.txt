@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8280
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Positive integer $\underline{a}\,\, \underline{b}\,\, \underline{c}\,\, \underline{d}\,\, \underline{r}\,\, \underline{s}\,\, \underline{t}$  has digits $a$, $b$, $c$, $d$, $r$, $s$, and $t$, in that order, and none of the digits is $0$. The two-digit numbers $\underline{a}\,\, \underline{b}$ ,  $\underline{b}\,\, \underline{c}$ , $\underline{c}\,\, \underline{d}$ , and $\underline{d}\,\, \underline{r}$ , and the three-digit number $\underline{r}\,\, \underline{s}\,\, \underline{t}$ are all perfect squares. Find $\underline{a}\,\, \underline{b}\,\, \underline{c}\,\, \underline{d}\,\, \underline{r}\,\, \underline{s}\,\, \underline{t}$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8164961
+==================================================
+

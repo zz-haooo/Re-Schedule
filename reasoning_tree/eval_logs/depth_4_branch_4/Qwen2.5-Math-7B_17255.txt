@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17255
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Odell and Kershaw run for $30$ minutes on a circular track. Odell runs clockwise at $250 \, \text{m/min}$ and uses the inner lane with a radius of $50$ meters. Kershaw runs counterclockwise at $300 \, \text{m/min}$ and uses the outer lane with a radius of $60$ meters, starting on the same radial line as Odell. How many times after the start do they pass each other?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 47
+==================================================
+

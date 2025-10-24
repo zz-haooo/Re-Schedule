@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10949
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many four-digit numbers from 0000 to 9999 (we complete a one-, two-, or three-digit number to a four-digit one by writing zeros in front of it) are there such that the sum of their first two digits is equal to the sum of their last two digits?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 670
+==================================================
+

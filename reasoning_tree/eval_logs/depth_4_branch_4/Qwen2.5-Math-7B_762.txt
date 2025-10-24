@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 762
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $s(n)$ be the number of 1's in the binary representation of $n$. Find the number of ordered pairs of integers $(a, b)$ with $0 \leq a < 64, 0 \leq b < 64$ and $s(a+b) = s(a) + s(b) - 1$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 648
+==================================================
+

@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6817
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The line joining $(3,2)$ and $(6,0)$ divides the square shown into two parts. What fraction of the area of the square is above this line? Express your answer as a common fraction.
+
+[asy]
+draw((-2,0)--(7,0),linewidth(1),Arrows);
+draw((0,-1)--(0,4),linewidth(1),Arrows);
+
+draw((1,.25)--(1,-.25),linewidth(1));
+draw((2,.25)--(2,-.25),linewidth(1));
+draw((3,.25)--(3,-.25),linewidth(1));
+draw((4,.25)--(4,-.25),linewidth(1));
+draw((5,.25)--(5,-.25),linewidth(1));
+draw((6,.25)--(6,-.25),linewidth(1));
+
+draw((.25,1)--(-.25,1),linewidth(1));
+draw((.25,2)--(-.25,2),linewidth(1));
+draw((.25,3)--(-.25,3),linewidth(1));
+
+draw((3,0)--(6,0)--(6,3)--(3,3)--(3,0)--cycle,linewidth(2));
+
+label("$y$",(0,4),N);
+label("$x$",(7,0),E);
+label("$(3,0)$",(3,0),S);
+label("$(6,3)$",(6,3),N);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

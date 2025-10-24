@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8420
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The hexagon with the R is colored red.  Each hexagon is colored either red, yellow or green, such that no two hexagons with a common side are  colored the same color.  In how many  different ways can the figure be colored?
+
+[asy]
+path a=(0,0)--(10,0)--(15,8.7)--(10,17.3)--(0,17.3)--(-5,8.7)--cycle;
+draw(a);
+draw(shift((15,8.7))*a);
+draw(shift((15,-8.7))*a);
+draw(shift((30,17.3))*a);
+draw(shift((30,0))*a);
+draw(shift((30,-17.3))*a);
+draw(shift((45,26))*a);
+draw(shift((45,8.7))*a);
+draw(shift((45,-8.7))*a);
+draw(shift((60,17.3))*a);
+draw(shift((60,0))*a);
+draw(shift((60,-17.3))*a);
+draw(shift((75,8.7))*a);
+draw(shift((75,-8.7))*a);
+label("$R$",(5,10),S);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

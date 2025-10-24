@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4644
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be a triangle with $\angle ABC = 76^\circ$ and $\angle ACB = 72^\circ$. Points $P$ and $Q$ lie on the sides $AB$ and $AC$, respectively, such that $\angle ABQ = 22^\circ$ and $\angle ACP = 44^\circ$. Find the measure of $\angle APQ$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

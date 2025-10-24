@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9677
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Convert $199_{10}$ to base 2. Let $x$ be the number of zeros and $y$ be the number of ones in base 2. What is the value of $y-x?$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

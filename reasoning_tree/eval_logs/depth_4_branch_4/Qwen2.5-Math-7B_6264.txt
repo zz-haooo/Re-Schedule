@@ -1,0 +1,28 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6264
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The midpoints of the sides of a regular hexagon $ABCDEF$ are joined to form a smaller hexagon.  What fraction of the area of $ABCDEF$ is enclosed by the smaller hexagon? [asy]
+import olympiad; import geometry; size(150); defaultpen(linewidth(0.8)); dotfactor=4;
+pair[] bigHexagon = new pair[6];
+bigHexagon[0] = dir(0);
+pair[] smallHexagon = new pair[6];
+smallHexagon[0] = (dir(0) + dir(60))/2;
+for(int i = 1; i <= 7; ++i){
+
+bigHexagon[i] = dir(60*i);
+
+draw(bigHexagon[i]--bigHexagon[i - 1]);
+
+smallHexagon[i] = (bigHexagon[i] + bigHexagon[i - 1])/2;
+
+draw(smallHexagon[i]--smallHexagon[i - 1]);
+}
+dot(Label("$A$",align=dir(0)),dir(0)); dot(Label("$B$",align=dir(60)),dir(60)); dot(Label("$C$",align=dir(120)),dir(120)); dot(Label("$D$",align=dir(180)),dir(180)); dot(Label("$E$",align=dir(240)),dir(240)); dot(Label("$F$",align=dir(300)),dir(300));
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

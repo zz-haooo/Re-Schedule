@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1717
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Hamilton Avenue has eight houses. On one side of the street are the houses numbered $1, 3, 5, 7$ and directly opposite are houses $2, 4, 6, 8$ respectively. An eccentric postman starts deliveries at house $1$ and delivers letters to each of the houses, finally returning to house $1$ for a cup of tea. Throughout the entire journey he must observe the following rules:  
+1. The numbers of the houses delivered to must follow an odd-even-odd-even pattern throughout.  
+2. Each house except house $1$ is visited exactly once (house $1$ is visited twice).  
+3. The postman at no time is allowed to cross the road to the house directly opposite.  
+
+How many different delivery sequences are possible?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

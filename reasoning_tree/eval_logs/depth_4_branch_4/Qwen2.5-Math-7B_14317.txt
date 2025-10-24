@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14317
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \( A = \frac{2^2 + 3 \cdot 2 + 1}{3! \cdot 4!} + \frac{3^2 + 3 \cdot 3 + 1}{4! \cdot 5!} + \frac{4^2 + 3 \cdot 4 + 1}{5! \cdot 6!} + \dots + \frac{10^2 + 3 \cdot 10 + 1}{11! \cdot 12!} \). Find the remainder when \( 11! \cdot 12! \cdot A \) is divided by 11.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

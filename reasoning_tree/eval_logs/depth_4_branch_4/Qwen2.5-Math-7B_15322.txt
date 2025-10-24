@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15322
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider functions $f$ that satisfy \[|f(x)-f(y)|\leq \frac{1}{2}|x-y|\] for all real numbers $x$ and $y$. Of all such functions that also satisfy the equation $f(300) = f(900)$, find the greatest possible value of
+\[f(f(800))-f(f(400))?\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

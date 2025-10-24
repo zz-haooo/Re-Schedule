@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5650
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A deck of forty cards consists of four $1$'s, four $2$'s,..., and four $10$'s. A matching pair (two cards with the same number) is removed from the deck. Given that these cards are not returned to the deck, let $\frac{m}{n}$ be the probability that two randomly selected cards also form a pair, where $m$ and $n$ are relatively prime positive integers. Find $m + n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 758
+==================================================
+

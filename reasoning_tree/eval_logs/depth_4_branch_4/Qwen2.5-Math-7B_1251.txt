@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1251
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a, b, c, p, q, r > 0$ such that $(a,b,c)$ is a geometric progression and $(p, q, r)$ is an arithmetic progression. If 
+\[a^p b^q c^r = 6 \quad \text{and} \quad a^q b^r c^p = 29\]
+then compute $\lfloor a^r b^p c^q \rfloor$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 29
+==================================================
+

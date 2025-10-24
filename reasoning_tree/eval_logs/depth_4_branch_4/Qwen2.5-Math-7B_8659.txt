@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8659
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three of the following test scores are Cyprian's and the other three are Margaret's: 85, 87, 92, 93, 94, 98. Cyprian's mean score is 90. What is Margaret's mean score?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 93
+==================================================
+

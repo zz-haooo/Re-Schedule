@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4803
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Line $\ell$ passes through point $A$ and into the interior of the equilateral triangle $ABC$. Points $D$ and $E$ are the orthogonal projections of points $B$ and $C$ onto line $\ell$, respectively. Given that $DE = 1$ and $2BD = CE$, determine the area of triangle $ABC$ expressed as $m\sqrt{n}$, where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime. Find the value of $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

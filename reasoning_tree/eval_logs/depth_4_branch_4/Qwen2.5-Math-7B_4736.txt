@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4736
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For any positive integer $n$, let \( a_n = \sum_{k=1}^{\infty} \left\lfloor \frac{n+2^{k-1}}{2^k} \right\rfloor \), where \( \left\lfloor x \right\rfloor \) is the largest integer that is equal to or less than \( x \). Determine the value of \( a_{2015} \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2015
+==================================================
+

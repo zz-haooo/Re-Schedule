@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 154
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many different ways are there to write 2004 as a sum of one or more positive integers which are all "approximately equal" to each other? Two numbers are called approximately equal if their difference is at most 1. The order of terms does not matter: two ways which only differ in the order of terms are not considered different.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2004
+==================================================
+

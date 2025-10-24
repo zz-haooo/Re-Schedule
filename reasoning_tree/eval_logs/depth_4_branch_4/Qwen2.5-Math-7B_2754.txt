@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2754
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Across the face of a rectangular post-it note, you idly draw lines that are parallel to its edges. Each time you draw a line, there is a $50\%$ chance it'll be in each direction and you never draw over an existing line or the edge of the post-it note. After a few minutes, you notice that you've drawn 20 lines. What is the expected number of rectangles that the post-it note will be partitioned into?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 116
+==================================================
+

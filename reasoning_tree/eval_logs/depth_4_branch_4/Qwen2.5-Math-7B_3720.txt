@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3720
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a unit square and let $E$ and $F$ be points inside $ABCD$ such that the line containing $\overline{EF}$ is parallel to $\overline{AB}$. Point $E$ is closer to $\overline{AD}$ than point $F$ is to $\overline{AD}$. The line containing $\overline{EF}$ also bisects the square into two rectangles of equal area. Suppose $[AEFB] = [DEFC] = 2[AED] = 2[BFC]$. The length of segment $\overline{EF}$ can be expressed as $m/n$, where $m$ and $n$ are relatively prime positive integers. Compute $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

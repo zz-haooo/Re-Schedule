@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1914
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For each integer $n \ge 1$, define $a_n = \left\lfloor \frac{n}{\left\lfloor \sqrt{n} \right\rfloor} \right\rfloor$, where $\lfloor x \rfloor$ denotes the largest integer not exceeding $x$, for any real number $x$. Find the number of all $n$ in the set $\{1, 2, 3, \ldots, 2010\}$ for which $a_n > a_{n+1}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 43
+==================================================
+

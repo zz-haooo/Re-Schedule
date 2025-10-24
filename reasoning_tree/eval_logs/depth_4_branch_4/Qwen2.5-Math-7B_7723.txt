@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7723
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\vartriangle ABC$ be a triangle with $AB = 5$, $BC = 8$, and, $CA = 7$. Let the center of the $A$-excircle be $O$, and let the $A$-excircle touch lines $BC$, $CA$, and,$ AB$ at points $X, Y$ , and, $Z$, respectively. Let $h_1$, $h_2$, and, $h_3$ denote the distances from $O$ to lines $XY$ , $Y Z$, and, ZX, respectively. If $h^2_1+ h^2_2+ h^2_3$ can be written as $\frac{m}{n}$ for relatively prime positive integers $m, n$, find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2189
+==================================================
+

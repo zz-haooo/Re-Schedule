@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1543
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Call a positive integer $n \geq 2$ "junk" if there exist two distinct $n$-digit binary strings $a_1a_2\cdots a_n$ and $b_1b_2\cdots b_n$ such that:
+- $a_1 + a_2 = b_1 + b_2$,
+- $a_{i-1} + a_i + a_{i+1} = b_{i-1} + b_i + b_{i+1}$ for all $2 \leq i \leq n-1$,
+- $a_{n-1} + a_n = b_{n-1} + b_n$.
+
+Find the number of junk positive integers less than or equal to $2016$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 672
+==================================================
+

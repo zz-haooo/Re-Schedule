@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4202
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Positive integers $m$ and $n$ satisfy the equation $$(m + n)(24mn + 1) = 2023.$$ Find the value of $m + n + 12mn$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 151
+==================================================
+

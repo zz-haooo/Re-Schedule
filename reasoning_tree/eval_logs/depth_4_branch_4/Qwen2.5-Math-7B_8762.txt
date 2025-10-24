@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8762
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$\triangle ABC$ and $\triangle DBC$ share $BC$. $AB = 5\ \text{cm}$, $AC = 12\ \text{cm}$, $DC = 8\ \text{cm}$, and $BD = 20\ \text{cm}$. What is the least possible integral number of centimeters in $BC$?
+
+[asy]
+size(100); import graph; currentpen = fontsize(10pt);
+pair B = (0,0), C = (13,0), A = (-5,7), D = (16,10);
+
+draw(B--A--C--cycle); draw(B--D--C);
+label("$A$",A,W); label("$B$",B,W); label("$C$",C,E); label("$D$",D,E);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

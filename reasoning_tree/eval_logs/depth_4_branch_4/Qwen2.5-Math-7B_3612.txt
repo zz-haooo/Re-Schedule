@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3612
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $24$ participants who attended a meeting. Each pair of them either shook hands once or did not. A total of $216$ handshakes occurred during the meeting. For any two participants who have shaken hands, at most $10$ among the remaining $22$ participants have shaken hands with exactly one of these two persons. Define a *friend circle* as a group of $3$ participants where each person has shaken hands with the other two. Find the minimum possible number of friend circles.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 864
+==================================================
+

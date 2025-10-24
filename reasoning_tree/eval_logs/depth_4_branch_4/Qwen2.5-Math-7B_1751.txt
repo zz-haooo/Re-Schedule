@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1751
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There exist real numbers $a$, $b$, $c$, $d$, and $e$ such that for all positive integers $n$, we have:
+\[
+\sqrt{n} = \sum_{i=0}^{n-1} \sqrt[5]{\sqrt{ai^5 + bi^4 + ci^3 + di^2 + ei + 1} - \sqrt{ai^5 + bi^4 + ci^3 + di^2 + ei}}.
+\]
+Find the sum $a + b + c + d$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1656
+==================================================
+

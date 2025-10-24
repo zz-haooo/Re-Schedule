@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5521
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A triangle has vertices $P_{}^{}=(-8,5)$ , $Q=(-15,-19)$ , and $R=(1,-7)$ . The equation of the bisector of $\angle P$ can be written in the form $ax+2y+c=0$ . Find $a+c$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 89
+==================================================
+

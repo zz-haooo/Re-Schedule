@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7731
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\vartriangle ABC$ be a triangle. Let $Q$ be a point in the interior of $\vartriangle ABC$, and let $X, Y,Z$ denote the feet of the altitudes from $Q$ to sides $BC$, $CA$, $AB$, respectively. Suppose that $BC = 15$, $\angle ABC = 60^o$, $BZ = 8$, $ZQ = 6$, and  $\angle QCA = 30^o$. Let line $QX$ intersect the circumcircle of  $\vartriangle XY Z$ at the point $W\ne  X$. If the ratio $\frac{ WY}{WZ}$ can be expressed as $\frac{p}{q}$ for relatively prime positive integers $p, q$, find $p + q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

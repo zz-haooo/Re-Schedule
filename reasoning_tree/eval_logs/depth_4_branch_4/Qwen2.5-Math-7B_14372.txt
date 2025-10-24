@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14372
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A house and a store were each sold for $\$12000$. The house was sold at a loss of $20\%$ of its cost, and the store at a gain of $20\%$ of its cost. Find the entire transaction's net loss or gain in dollars.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1000
+==================================================
+

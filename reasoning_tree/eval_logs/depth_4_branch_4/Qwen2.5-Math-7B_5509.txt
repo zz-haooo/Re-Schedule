@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5509
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $a<b<c<d<e$ are consecutive positive integers such that $b+c+d$ is a perfect square and $a+b+c+d+e$ is a perfect cube, what is the smallest possible value of $c$?
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 675
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14965
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the arrangement of letters and numerals below, by how many different paths can one spell AMC8? Beginning at the A in the middle, a path only allows moves from one letter to an adjacent (above, below, left, or right, but not diagonal) letter. One example of such a path is traced in the picture.
+
+[asy] fill((0.5, 4.5)--(1.5,4.5)--(1.5,2.5)--(0.5,2.5)--cycle,lightgray); fill((1.5,3.5)--(2.5,3.5)--(2.5,1.5)--(1.5,1.5)--cycle,lightgray); label("$8$", (1, 0)); label("$C$", (2, 0)); label("$8$", (3, 0)); label("$8$", (0, 1)); label("$C$", (1, 1)); label("$M$", (2, 1)); label("$C$", (3, 1)); label("$8$", (4, 1)); label("$C$", (0, 2)); label("$M$", (1, 2)); label("$A$", (2, 2)); label("$M$", (3, 2)); label("$C$", (4, 2)); label("$8$", (0, 3)); label("$C$", (1, 3)); label("$M$", (2, 3)); label("$C$", (3, 3)); label("$8$", (4, 3)); label("$8$", (1, 4)); label("$C$", (2, 4)); label("$8$", (3, 4));[/asy]
+
+Find the number of different paths.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

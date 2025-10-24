@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16698
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sequence $a_1$, $a_2$, $a_3$, $\dots$ satisfies $a_1 = 19$, $a_9 = 99$, and, for all $n \ge 3$, $a_n$ is the arithmetic mean of the first $n - 1$ terms. Find the value of $a_2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 179
+==================================================
+

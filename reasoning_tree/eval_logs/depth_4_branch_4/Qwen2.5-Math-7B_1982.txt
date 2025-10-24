@@ -1,0 +1,28 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1982
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Fill in numbers in the boxes below so that the sum of the entries in each three consecutive boxes is $2005$. What is the number that goes into the leftmost box?
+
+```
+\begin{asy}
+size(300);
+label("999",(2.5,.5));
+label("888",(7.5,.5));
+
+draw((0,0)--(9,0));
+draw((0,1)--(9,1));
+for (int i=0; i<=9; ++i)
+{
+draw((i,0)--(i,1));
+}
+\end{asy}
+```
+
+(Note: Removed extraneous information like author details and unnecessary formatting instructions.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 118
+==================================================
+

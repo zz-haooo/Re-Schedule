@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13410
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A penny in a corner. A circle moves so that it is continually in contact with all three coordinate planes of an ordinary rectangular system. Find the locus of the center of the circle. Please provide the num of the possible condition that $x_{i}^{2} \leq r^{2}$. 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

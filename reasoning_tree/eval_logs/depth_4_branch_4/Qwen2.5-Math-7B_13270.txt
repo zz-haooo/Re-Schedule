@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13270
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $P$ be a polynomial, with real coefficients, in three variables and $F$ be a function of two variables such that  
+$P(u x, u y, u z)=u^{2} F(y-x, z-x)$  for all real $x, y, z, u$,
+
+and such that $P(1,0,0)=4, P(0,1,0)=5$, and $P(0,0,1)=6$. Also let $A, B, C$ be complex numbers with $P(A, B, C)=0$ and $|B-A|=10$. Find $\frac{\sqrt{30}}{6}|C-A|$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

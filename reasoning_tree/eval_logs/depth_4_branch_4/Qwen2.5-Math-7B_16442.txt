@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16442
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Points \(A\), \(B\), \(C\), and \(D\) are on a circle with diameter \(1\), and \(X\) is on diameter \(\overline{AD}\). If \(BX = CX\) and \(3 \angle BAC = \angle BXC = 36^{\circ}\), then find \(AX\) in the form of a trigonometric expression \(\cos x^\circ \sin y^\circ \csc z^\circ\). Please give the value of x + y + z.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

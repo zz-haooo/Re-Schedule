@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14632
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, medians $AD$ and $CE$ intersect at $P$, $PE=1.5$, $PD=2$, and $DE=2.5$. If the area of $AEDC$ is $x$, what is the value of $10x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 135
+==================================================
+

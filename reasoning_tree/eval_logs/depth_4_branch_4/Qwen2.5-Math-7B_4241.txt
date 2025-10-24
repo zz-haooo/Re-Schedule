@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4241
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider trapezoid $ABCD$ with $AB \parallel CD$, where $AB = 5$ and $CD = 9$. Additionally, $\angle C = 15^\circ$ and $\angle D = 75^\circ$. Let $M_1$ be the midpoint of $AB$ and $M_2$ be the midpoint of $CD$. What is the distance $M_1M_2$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

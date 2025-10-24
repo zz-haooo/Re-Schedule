@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7330
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For any positive integers $a$ and $b$ with $b > 1$, let $s_b(a)$ be the sum of the digits of $a$ when it is written in base $b$. Suppose $n$ is a positive integer such that $$\sum^{\lfloor \log_{23} n\rfloor}_{i=1}
+s_{20} \left( \left\lfloor \frac{n}{23^i} \right\rfloor \right)= 103 \,\,\, \text{and} \,\,\,
+\sum^{\lfloor \log_{20} n\rfloor}_{i=1} s_{23} \left( \left\lfloor \frac{n}{20^i} \right\rfloor \right)= 115$$
+Compute $s_{20}(n) - s_{23}(n)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 81
+==================================================
+

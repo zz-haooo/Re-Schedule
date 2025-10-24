@@ -1,0 +1,40 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10790
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the arrow-shaped polygon shown below, the angles at vertices $A$, $C$, $D$, $E$, and $F$ are right angles, $BC = FG = 5$, $CD = FE = 20$, $DE = 10$, and $AB = AG$.  Find the area of polygon $ABCDEFG$.
+
+[asy]
+unitsize(1.5 cm);
+
+pair A, B, C, D, E, F, G;
+
+A = (0,0);
+B = (1,1);
+C = (1,0.5);
+D = (2.5,0.5);
+E = (2.5,-0.5);
+F = (1,-0.5);
+G = (1,-1);
+
+draw(A--B--C--D--E--F--G--cycle);
+
+label("$A$", A, W);
+label("$B$", B, NE);
+label("$C$", C, S);
+label("$D$", D, NE);
+label("$E$", E, SE);
+label("$F$", F, N);
+label("$G$", G, SE);
+label("$5$", (B + C)/2, dir(0));
+label("$20$", (C + D)/2, N);
+label("$10$", (D + E)/2, dir(0));
+label("$20$", (E + F)/2, S);
+label("$5$", (F + G)/2, dir(0));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 300
+==================================================
+

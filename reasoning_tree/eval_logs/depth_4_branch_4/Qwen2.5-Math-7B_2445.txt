@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2445
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Nathan has discovered a new way to construct chocolate bars, but it's expensive! He starts with a single $1 \times 1$ square of chocolate and then adds more rows and columns from there. If his current bar has dimensions $w \times h$ (where $w$ is the number of columns and $h$ is the number of rows), then it costs $w^2$ dollars to add another row and $h^2$ dollars to add another column. What is the minimum cost to get his chocolate bar to size $20 \times 20$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5339
+==================================================
+

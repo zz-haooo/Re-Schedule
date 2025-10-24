@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9218
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the year 2001, the United States will host the International Mathematical Olympiad. Let $I$, $M$, and $O$ be distinct positive integers such that the product $I\cdot M\cdot O=2001$. What is the largest possible value of the sum $I+M+O$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 671
+==================================================
+

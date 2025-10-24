@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2137
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A wall contains three switches $A$, $B$, and $C$, each of which powers a light when flipped on. Every $20$ seconds, switch $A$ is turned on and then immediately turned off again. The same occurs for switch $B$ every $21$ seconds and switch $C$ every $22$ seconds. At time $t = 0$, all three switches are simultaneously on. Let $t = T > 0$ be the earliest time that all three switches are once again simultaneously on. Compute the number of times $t > 0$ before $T$ when at least two switches are simultaneously on.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 39
+==================================================
+

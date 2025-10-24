@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 936
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A chicken breeder went to check the price per chick he charged the previous year. He found an invoice, half erased, which read: \(72\) chickens sold for \(*679*\) escudos" (the digits of the units and tens of thousands were illegible). What price did each chick sell for last year?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 511
+==================================================
+

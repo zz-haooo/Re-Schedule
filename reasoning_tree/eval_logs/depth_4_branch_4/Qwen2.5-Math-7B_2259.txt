@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2259
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a drawer, there are at most $2009$ balls. Some of these balls are white, and the rest are blue, randomly distributed. If two balls are taken at the same time, the probability that both balls are either blue or both white is $\frac{1}{2}$. Determine the maximum number of white balls in the drawer such that the probability statement holds true.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 990
+==================================================
+

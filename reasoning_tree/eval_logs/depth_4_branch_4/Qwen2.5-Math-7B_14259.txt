@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14259
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The altitudes of a triangle are $12$, $15$, and $20$. If the largest angle in this triangle is $x^\circ$, determine the value of $x$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

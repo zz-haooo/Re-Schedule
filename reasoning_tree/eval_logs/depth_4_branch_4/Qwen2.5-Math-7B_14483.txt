@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14483
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Positive integers $a$, $b$, and $c$ are randomly and independently selected with replacement from the set $\{1, 2, 3,\dots, 2010\}$. Find the probability that $abc + ab + a$ is divisible by $3$. The original answer is in the form of a simplified fraction $\frac{m}{n}$, please give the value of $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3512
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Among the numbers $11n + 10^{10}$, where $1 \le n \le 10^{10}$ is an integer, how many are squares?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 44801
+==================================================
+

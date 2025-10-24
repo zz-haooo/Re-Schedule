@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1362
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Twelve $1$'s and ten $-1$'s are written on a chalkboard. You select 10 of the numbers and compute their product, then add up these products for every way of choosing 10 numbers from the 22 that are written on the chalkboard. What sum do you get?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -42
+==================================================
+

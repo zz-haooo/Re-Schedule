@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10337
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Seven people arrive to dinner, but the circular table only seats six.  If two seatings such that one is a rotation of the other are considered the same, then in how many different ways can we choose six people and seat them at the table?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 840
+==================================================
+

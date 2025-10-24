@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7279
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $AB = 13$, $BC = 14$, $CA = 15$. Squares $ABB_1A_2$, $BCC_1B_2$, $CAA_1B_2$ are constructed outside the triangle. Squares $A_1A_2A_3A_4$, $B_1B_2B_3B_4$ are constructed outside the hexagon $A_1A_2B_1B_2C_1C_2$. Squares $A_3B_4B_5A_6$, $B_3C_4C_5B_6$, $C_3A_4A_5C_6$ are constructed outside the hexagon $A_4A_3B_4B_3C_4C_3$. Find the area of the hexagon $A_5A_6B_5B_6C_5C_6$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19444
+==================================================
+

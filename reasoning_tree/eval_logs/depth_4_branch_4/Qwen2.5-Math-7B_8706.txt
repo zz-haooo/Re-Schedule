@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8706
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Kelly drove north for 9 miles and then east for 12 miles at an average rate of 42 miles per hour to arrive at the town of Prime. Brenda left from the same location, at the same time, and drove along a straight road to Prime at an average rate of 45 miles per hour. How many minutes earlier than Kelly did Brenda arrive?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

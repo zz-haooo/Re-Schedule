@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6073
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of four-element subsets of $\{1,2,3,4,\cdots, 20\}$ with the property that two distinct elements of a subset have a sum of $16$, and two distinct elements of a subset have a sum of $24$. For example, $\{3,5,13,19\}$ and $\{6,10,20,18\}$ are two such subsets.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 210
+==================================================
+

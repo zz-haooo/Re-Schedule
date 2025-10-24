@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3358
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The license plate of each automobile in Iran consists of a two-digit and a three-digit number, as well as a letter from the Persian alphabet. The digit $0$ is not used in these numbers. To each license plate, we assign the product of the two numbers on it. For example, if the two numbers are $12$ and $365$ on a license plate, the assigned number would be $12 \times 365 = 4380$. What is the average of all the assigned numbers to all possible license plates?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30525
+==================================================
+

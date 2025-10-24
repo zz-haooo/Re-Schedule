@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 176
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In quadrilateral $ABCD$, it is given that $AB = DB$ and $AD = BC$. If the angles are $
+abla ABD = 36^{\circ}$ and $
+abla BCD = 54^{\circ}$, find the measure of angle $
+abla ADC$ in degrees.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 102
+==================================================
+

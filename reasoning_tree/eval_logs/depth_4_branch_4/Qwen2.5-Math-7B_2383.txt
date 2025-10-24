@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2383
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Michelle is at the bottom-left corner of a $6 \times 6$ lattice grid, at $(0,0)$. The grid also contains a pair of one-time-use teleportation devices at $(2,2)$ and $(3,3)$. The first time Michelle moves to one of these points, she is instantly teleported to the other point and the devices disappear. If she can only move up or to the right in unit increments, in how many ways can she reach the point $(5,5)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 280
+==================================================
+

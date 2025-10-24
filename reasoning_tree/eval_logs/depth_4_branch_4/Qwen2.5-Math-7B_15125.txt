@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15125
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In unit square \(ABCD,\) the inscribed circle \(\omega\) intersects \(\overline{CD}\) at \(M,\) and \(\overline{AM}\) intersects \(\omega\) at a point \(P\) different from \(M.\) The length of \(AP\) is in the form \(\frac{\sqrt{n}}{k}\). Please find the value of \(k + m + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

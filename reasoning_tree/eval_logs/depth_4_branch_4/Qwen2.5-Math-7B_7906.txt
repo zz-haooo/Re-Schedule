@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7906
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below contains eight line segments, all the same length.  Each of the angles formed by the intersections of two segments is either a right angle or a $45$ degree angle.  If the outside square has area $1000$, find the largest integer less than or equal to the area of the inside square.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 171
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17051
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A $3\times3\times3$ cube is made of $27$ normal dice. Each die's opposite sides sum to $7$. What is the smallest possible sum of all of the values visible on the $6$ faces of the large cube?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

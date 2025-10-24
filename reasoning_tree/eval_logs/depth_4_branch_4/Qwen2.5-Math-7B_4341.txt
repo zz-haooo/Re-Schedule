@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4341
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The corners of a $2$-dimensional room in the shape of an isosceles right triangle are labeled $A$, $B$, $C$ where $AB = BC$. Walls $BC$ and $CA$ are mirrors. A laser is shot from $A$, hits off each of the mirrors once, and lands at a point $X$ on $AB$. Let $Y$ be the point where the laser hits off $AC$. If $\frac{AB}{AX} = 64$, and $\frac{CA}{AY} = \frac{p}{q}$ for coprime positive integers $p$ and $q$, find $p + q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 131
+==================================================
+

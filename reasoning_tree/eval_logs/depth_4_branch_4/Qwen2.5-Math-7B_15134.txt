@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15134
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Andy the Ant lives on a coordinate plane and is currently at $(-20, 20)$ facing east (that is, in the positive $x$-direction). Andy moves $1$ unit and then turns $90^{\circ}$ left. From there, Andy moves $2$ units (north) and then turns $90^{\circ}$ left. He then moves $3$ units (west) and again turns $90^{\circ}$ left. Andy continues his progress, increasing his distance each time by $1$ unit and always turning left. What are the coordinates of the point at which Andy makes the $2020$th left turn? The original answer is in the form $(m, n)$, please provide the value of $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -2020
+==================================================
+

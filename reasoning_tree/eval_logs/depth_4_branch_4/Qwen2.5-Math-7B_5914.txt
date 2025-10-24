@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5914
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For $t = 1, 2, 3, 4$ , define $S_t = \sum\limits_{i = 1}^{350}a_i^t$ , where $a_i \in \{1,2,3,4\}$ . If $S_1 = 513$ and $S_4 = 4745$ , find the minimum possible value for $S_2$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 905
+==================================================
+

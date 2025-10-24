@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10485
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In right triangle $ABC$, $AB=9$, $BC=13$, and $\angle B = 90^\circ$.  Points $D$ and $E$ are midpoints of $\overline{AB}$ and $\overline{AC}$ respectively; $\overline{CD}$ and $\overline{BE}$ intersect at point $X$.  Compute the ratio of the area of quadrilateral $AEXD$ to the area of triangle $BXC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

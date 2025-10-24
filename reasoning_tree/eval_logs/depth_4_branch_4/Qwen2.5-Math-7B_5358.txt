@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5358
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For each positive integer $n$, consider the highest common factor $h_n$ of the two numbers $n! + 1$ and $(n+1)!$. For $n < 100$, find the largest value of $h_n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 97
+==================================================
+

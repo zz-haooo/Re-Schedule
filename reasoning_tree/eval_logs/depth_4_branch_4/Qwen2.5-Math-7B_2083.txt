@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2083
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A cross is the figure composed of $6$ unit squares as shown below (and any figure made of it by rotation).
+
+![Cross Image](https://cdn.artofproblemsolving.com/attachments/6/0/6d4e0579d2e4c4fa67fd1219837576189ec9cb.png)
+
+Find the greatest number of crosses that can be cut from a $6 \times 11$ sheet of paper divided into unit squares, ensuring each cross consists of six such squares.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

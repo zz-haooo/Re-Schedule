@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14354
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The adjacent sides of the decagon shown meet at right angles. What is the perimeter of the decagon?
+
+\[ \begin{asy} \defaultpen(linewidth(.8pt)); \dotfactor=4; \dot(origin); \dot((12,0)); \dot((12,1)); \dot((9,1)); \dot((9,7)); \dot((7,7)); \dot((7,10)); \dot((3,10)); \dot((3,8)); \dot((0,8)); \draw(origin--(12,0)--(12,1)--(9,1)--(9,7)--(7,7)--(7,10)--(3,10)--(3,8)--(0,8)--cycle); \label("$8$",midpoint(origin--(0,8)),W); \label("$2$",midpoint((3,8)--(3,10)),W); \label("$12$",midpoint(origin--(12,0)),S); \end{asy} \]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 44
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1917
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For a natural number $n \ge 3$, we draw $n - 3$ internal diagonals in a non self-intersecting, but not necessarily convex, $n$-gon, cutting the $n$-gon into $n - 2$ triangles. It is known that the value (in degrees) of any angle in any of these triangles is a natural number and no two of these angle values are equal. What is the largest possible value of $n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 41
+==================================================
+

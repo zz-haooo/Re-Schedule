@@ -1,0 +1,23 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9406
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$, $ADE$, and $EFG$ are all equilateral. Points $D$ and $G$ are midpoints of $\overline{AC}$ and $\overline{AE}$, respectively. If $AB=4$, what is the perimeter of figure $ABCDEFG$? [asy]
+/* AMC8 2000 #15 Problem */
+draw((0,0)--(4,0)--(5,2)--(5.5,1)--(4.5,1));
+draw((0,0)--(2,4)--(4,0));
+draw((3,2)--(5,2));
+label("$A$", (3.7,0), SE);
+label("$B$", (0,0), SW);
+label("$C$", (2,4), N);
+label("$D$", (2.8,2), NE);
+label("$E$", (4.8,2), NE);
+label("$F$", (5.3,1.05), SE);
+label("$G$", (4.3, 1.05), SE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

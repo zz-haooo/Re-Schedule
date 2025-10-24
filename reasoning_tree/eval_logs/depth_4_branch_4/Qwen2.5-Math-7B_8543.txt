@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8543
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that we have a right triangle $ABC$ with the right angle at $B$ such that $AC = \sqrt{61}$ and $AB = 5.$ A circle is drawn with its center on $AB$ such that the circle is tangent to $AC$ and $BC.$ If $P$ is the point where the circle and side $AC$ meet, then what is $CP$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

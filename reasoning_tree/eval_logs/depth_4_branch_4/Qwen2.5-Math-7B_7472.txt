@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7472
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p_1 = 2012$ and $p_n = 2012^{p_{n-1}}$ for $n > 1$. Find the largest integer $k$ such that $p_{2012}- p_{2011}$ is divisible by $2011^k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2012
+==================================================
+

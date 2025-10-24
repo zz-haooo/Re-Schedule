@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3682
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Passing through the origin of the coordinate plane are $180$ lines, including the coordinate axes, which form $1^\circ$ angles with one another at the origin. Determine the sum of the x-coordinates of the points of intersection of these lines with the line $y = 100-x$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8950
+==================================================
+

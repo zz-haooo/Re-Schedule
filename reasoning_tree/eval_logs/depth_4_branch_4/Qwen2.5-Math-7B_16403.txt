@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16403
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the largest real number $C$ that satisfies the inequality $x^2 \geq C \lfloor x \rfloor (x-\lfloor x \rfloor)$ for every real $x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

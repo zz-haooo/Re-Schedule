@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4853
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Merlin summons the $n$ knights of Camelot for a conference. Each day, he assigns them to the $n$ seats at the Round Table. From the second day on, any two neighbors may interchange their seats if they were not neighbors on the first day. The knights try to sit in some cyclic order which has already occurred before on an earlier day. If they succeed, then the conference comes to an end when the day is over. What is the maximum number of days for which Merlin can guarantee that the conference will last?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

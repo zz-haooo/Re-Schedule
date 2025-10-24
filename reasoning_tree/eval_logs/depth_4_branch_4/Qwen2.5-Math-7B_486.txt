@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 486
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+William writes the number $1$ on a blackboard. Every turn, he erases the number $N$ currently on the blackboard and replaces it with either $4N + 1$ or $8N + 1$ until it exceeds $1000$, after which no more moves are made. If the minimum possible value of the final number on the blackboard is $M$, find the remainder when $M$ is divided by $1000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 173
+==================================================
+

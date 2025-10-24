@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3211
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the product of all real $x$ for which 
+\[ 2^{3x+1} - 17 \cdot 2^{2x} + 2^{x+3} = 0. \]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -3
+==================================================
+

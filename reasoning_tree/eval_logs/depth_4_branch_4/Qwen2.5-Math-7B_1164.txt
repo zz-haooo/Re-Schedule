@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1164
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a sequence of natural numbers $a_1$, $a_2$, $\dots$, $a_{1999}$, the expression $a_n - a_{n-1} - a_{n-2}$ is divisible by $100$ for $3 \leq n \leq 1999$. It is known that $a_1 = 19$ and $a_2 = 99$. Find the remainder when $a_1^2 + a_2^2 + \dots + a_{1999}^2$ is divided by $8$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5079
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An equilateral triangle $ABC$ has a side length of $7$. Point $P$ is located inside triangle $ABC$ such that $PB = 3$ and $PC = 5$. The distance between the circumcenters of triangles $ABC$ and $PBC$ can be expressed in the form $\frac{m\sqrt{n}}{p}$, where $n$ is not divisible by the square of any prime number, and $m$ and $p$ are relatively prime positive integers. Determine the value of $m + n + p$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

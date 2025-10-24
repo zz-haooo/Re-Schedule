@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10851
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Our basketball team has 10 players, including Steve and Danny.  We need to divide into two teams of 5 for an intra-squad scrimmage.  In how many ways can we do this if Steve and Danny insist on playing on opposing teams?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 70
+==================================================
+

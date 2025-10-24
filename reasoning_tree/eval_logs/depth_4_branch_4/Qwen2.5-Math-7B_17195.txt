@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17195
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Equilateral \(\triangle ABC\) has side length \(2\), \(M\) is the midpoint of \(\overline{AC}\), and \(C\) is the midpoint of \(\overline{BD}\). Find the area of \(\triangle CDM\). The original answer is in the format \(\frac{\sqrt{n}}{m}\), please give the value of n + m.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

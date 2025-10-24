@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9470
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The number $$\sqrt{104\sqrt6+468\sqrt{10}+144\sqrt{15}+2006}$$can be written as $a\sqrt2+b\sqrt3+c\sqrt5$, where $a$, $b$, and $c$ are positive integers.  Find $a\cdot b\cdot c.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 936
+==================================================
+

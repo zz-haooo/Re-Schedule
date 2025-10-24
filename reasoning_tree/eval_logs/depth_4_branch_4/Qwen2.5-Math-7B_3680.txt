@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3680
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine all four-digit numbers $\overline{abcd}$ such that
+
+$$a(a+b+c+d)(a^{2}+b^{2}+c^{2}+d^{2})(a^{6}+2b^{6}+3c^{6}+4d^{6})=\overline{abcd}$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2010
+==================================================
+

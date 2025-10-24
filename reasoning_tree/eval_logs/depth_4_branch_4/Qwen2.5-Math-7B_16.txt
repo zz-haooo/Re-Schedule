@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Danial went to a fruit stall that sells apples, mangoes, and papayas. Each apple costs $3$ RM, each mango costs $4$ RM, and each papaya costs $5$ RM. He bought at least one of each fruit and paid exactly $50$ RM. What is the maximum number of fruits that he could have bought?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

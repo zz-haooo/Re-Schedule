@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7487
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A regular pentagon can have the line segments forming its boundary extended to lines, giving an arrangement of lines that intersect at ten points. How many ways are there to choose five points of these ten so that no three of the points are collinear?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

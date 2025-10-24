@@ -1,0 +1,58 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8636
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, the grid is made up of squares. What is the area of the shaded region? [asy]
+
+size(8cm);
+
+// Fill area
+fill((0, 0)--(0, 2)--(3, 2)--(3, 3)--(7, 3)--(7, 4)--(12, 4)--cycle, gray(0.75));
+
+defaultpen(1);
+
+// Draw grid
+draw((0, 0)--(12, 0));
+draw((0, 1)--(12, 1));
+draw((0, 2)--(12, 2));
+draw((3, 3)--(12, 3));
+draw((7, 4)--(12, 4));
+draw((0, 0)--(12, 4));
+draw((0, 2)--(0, 0));
+draw((1, 2)--(1, 0));
+draw((2, 2)--(2, 0));
+draw((3, 3)--(3, 0));
+draw((4, 3)--(4, 0));
+draw((5, 3)--(5, 0));
+draw((6, 3)--(6, 0));
+draw((7, 4)--(7, 0));
+draw((8, 4)--(8, 0));
+draw((9, 4)--(9, 0));
+draw((10, 4)--(10, 0));
+draw((11, 4)--(11, 0));
+draw((12, 4)--(12, 0));
+
+// Draw lengths
+path height = (-0.5, 0)--(-0.5, 2);
+path width = (0, -0.5)--(12, -0.5);
+path height2 = (12.5, 0)--(12.5, 4);
+draw(height); draw(width); draw(height2);
+draw((-0.6, 0)--(-0.4, 0));
+draw((-0.6, 2)--(-0.4, 2));
+draw((0, -0.6)--(0, -0.4));
+draw((12, -0.6)--(12, -0.4));
+draw((12.4, 0)--(12.6, 0));
+draw((12.4, 4)--(12.6, 4));
+
+// label lengths
+label("$2$", (-0.5, 1), W);
+label("$12$", (6, -0.5), S);
+label("$4$", (12.5, 2), E);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5254
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Euhan and Minjune are playing a game. They choose a number $N$ so that they can only say integers up to $N$. Euhan starts by saying $1$, and each player takes turns saying either $n+1$ or $4n$ (if possible), where $n$ is the last number said. The player who says $N$ wins. What is the smallest number larger than $2019$ for which Minjune has a winning strategy?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2020
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7992
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Meredith drives 5 miles to the northeast, then 15 miles to the southeast, then 25 miles to the southwest, then 35 miles to the northwest, and finally 20 miles to the northeast. How many miles is Meredith from where she started?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

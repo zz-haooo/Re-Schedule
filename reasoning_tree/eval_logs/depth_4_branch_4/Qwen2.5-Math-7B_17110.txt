@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17110
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many $15$-letter arrangements of $5$ A's, $5$ B's, and $5$ C's have no A's in the first $5$ letters, no B's in the next $5$ letters, and no C's in the last $5$ letters? Provide your answer as a sum of binomial coefficients in the form \(\sum\limits_{k=0}^{n}\binom{m}{k}^{p}\), and then calculate the value of m + n + p.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

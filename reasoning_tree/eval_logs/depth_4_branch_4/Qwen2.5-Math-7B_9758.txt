@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9758
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Each of the integers $1,$ $2,$ $3,$ $\dots,$ $16$ is written on a separate slip of paper and these slips are placed in a pile. Jillian will randomly draw slips from the pile without replacement and will continue drawing until two of the numbers she has drawn from the pile have a product that is a perfect square. What is the maximum number of slips that Jillian can draw without obtaining a product that is a perfect square?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

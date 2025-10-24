@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13294
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be an integer greater than 1, and let $X$ be a set of $n$ elements. If the union $A_{1} \cup \cdots \cup A_{k}$ is a proper subset of $X$, and no element of $X$ is in exactly one of $A_{i}$, then the set of non-empty subsets $A_{1}, \ldots, A_{k}$ of $X$ is compact. Find the maximum cardinality of the set of proper non-empty subsets of $X$ such that no non-empty subset is compact, and compute its value for $n=100$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 198
+==================================================
+

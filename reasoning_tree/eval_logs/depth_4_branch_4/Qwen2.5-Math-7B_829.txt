@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 829
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On each side of an equilateral triangle with side length $n$ units, where $n$ is an integer, $1 \leq n \leq 100$, consider $n-1$ points that divide the side into $n$ equal segments. Through these points, draw lines parallel to the sides of the triangle, obtaining a net of equilateral triangles of side length one unit. On each of the vertices of these small triangles, place a coin head up. Two coins are said to be adjacent if the distance between them is 1 unit. A move consists of flipping over any three mutually adjacent coins. Find the number of values of $n$ for which it is possible to turn all coins tail up after a finite number of moves.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 67
+==================================================
+

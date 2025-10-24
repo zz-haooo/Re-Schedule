@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7482
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Proctors Andy and Kristin have a PUMaC team of eight students labelled $s_1, s_2, ... , s_8$ (the PUMaC staff being awful with names). The following occurs:
+$1$. Andy tells the students to arrange themselves in a line in arbitrary order.
+$2$. Kristin tells each student $s_i$ to move to the current spot of student $s_j$ , where $j \equiv 3i + 1$ (mod $8$).
+$3$. Andy tells each student $s_i$ to move to the current spot of the student who was in the $i$th position of the line after step $1$.
+How many possible orders can the students be in now?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1260
+==================================================
+

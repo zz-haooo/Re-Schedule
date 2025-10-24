@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13850
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given a collection of stones. The mass of each stone is $≤ 2 kg$ and their total mass is equal to $100 kg$. We selected a set of stones whose total mass differs from $10 kg$ by the least possible for this set number d. What is the greatest value of d for every admissible collection of stones? The original answer is in $\frac{m}{n}$ format, please give the value of $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

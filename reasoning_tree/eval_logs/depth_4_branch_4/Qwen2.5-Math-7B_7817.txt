@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7817
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Eight identical cubes with of size $1 \times 1 \times 1$ each have the numbers $1$ through $6$ written on their faces with the number $1$ written on the face opposite number $2$, number $3$ written on the face opposite number $5$, and number $4$ written on the face opposite number $6$. The eight cubes are stacked into a single $2 \times 2 \times 2$ cube. Add all of the numbers appearing on the outer surface of the new cube. Let $M$ be the maximum possible value for this sum, and $N$ be the minimum possible value for this sum. Find $M - N$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

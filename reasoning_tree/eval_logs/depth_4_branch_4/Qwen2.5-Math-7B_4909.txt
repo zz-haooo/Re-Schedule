@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4909
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An $8 \times 8 \times 8$ cube is painted red on 3 faces and blue on 3 faces such that no corner is surrounded by three faces of the same color. The cube is then cut into 512 unit cubes. How many of these cubes contain both red and blue paint on at least one of their faces?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 56
+==================================================
+

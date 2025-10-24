@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10844
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A boy has the following seven coins in his pocket: $2$ pennies, $2$ nickels, $2$ dimes, and $1$ quarter. He takes out two coins, records the sum of their values, and then puts them back with the other coins. He continues to take out two coins, record the sum of their values, and put them back. How many different sums can he record at most?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

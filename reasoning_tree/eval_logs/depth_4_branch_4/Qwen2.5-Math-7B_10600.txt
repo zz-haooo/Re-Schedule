@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10600
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A tangent from the point $(2 \cdot 1994, 2 \cdot 1994)$ to the circle $x^2 + y^2 = 1994^2$ touches circle at the point $(a,b).$  Compute $a + b.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 997
+==================================================
+

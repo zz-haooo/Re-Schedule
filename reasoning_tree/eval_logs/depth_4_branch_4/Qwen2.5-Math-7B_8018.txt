@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8018
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For what value of $x$ does the following determinant have the value $2013$?
+\[\left|\begin{array}{ccc}5+x & 8 & 2+x \\ 1 & 1+x & 3 \\ 2 & 1 & 2\end{array}\right|\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 497
+==================================================
+

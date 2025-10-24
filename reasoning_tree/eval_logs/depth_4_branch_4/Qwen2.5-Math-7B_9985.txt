@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9985
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+License plates from different states follow different alpha-numeric formats, which dictate which characters of a plate must be letters and which must be numbers. Florida has license plates with an alpha-numeric format like the one pictured. North Dakota, on the other hand, has a different format, also pictured. Assuming all 10 digits are equally likely to appear in the numeric positions, and all 26 letters are equally likely to appear in the alpha positions, how many more license plates can Florida issue than North Dakota? [asy]
+import olympiad; size(240); defaultpen(linewidth(0.8)); dotfactor=4;
+draw((0,0)--(3,0)--(3,1)--(0,1)--cycle);
+label("\LARGE HJF 94K",(1.5,0.6)); label("Florida",(1.5,0.2));
+draw((4,0)--(7,0)--(7,1)--(4,1)--cycle);
+label("\LARGE DGT 317",(5.5,0.6)); label("North Dakota",(5.5,0.2));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 28121600
+==================================================
+

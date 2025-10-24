@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5294
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p = 101$ and let $S$ be the set of $p$-tuples $(a_1, a_2, \dots, a_p) \in \mathbb{Z}^p$ of integers. Let $N$ denote the number of functions $f: S \to \{0, 1, \dots, p-1\}$ such that:
+- $f(a + b) + f(a - b) \equiv 2\big(f(a) + f(b)\big) \pmod{p}$ for all $a, b \in S$.
+- $f(a) = f(b)$ whenever all components of $a-b$ are divisible by $p$.
+
+Compute the number of positive integer divisors of $N$. (Here addition and subtraction in $\mathbb{Z}^p$ are done component-wise.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5152
+==================================================
+

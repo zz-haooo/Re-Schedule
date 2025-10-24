@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16260
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A planet orbits around a star $S$, as shown in the figure. The semi-major axis of the orbit is $a$. The perigee, namely the shortest distance between the planet and the star, is $0.5a$. When the planet passes point $P$ (on the line through the star and perpendicular to the major axis), its speed is $v_1$. What is the value of $v_2$ in terms of $v_1$ when it passes the perigee? The original answer is in the form \(\frac{k}{\sqrt{m}}v_1\). Please calculate the value of \(k + m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

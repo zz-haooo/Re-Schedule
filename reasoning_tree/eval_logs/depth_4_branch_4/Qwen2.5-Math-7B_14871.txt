@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14871
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Aaron the ant walks on the coordinate plane according to the following rules. He starts at the origin $p_0=(0,0)$ facing to the east and walks one unit, arriving at $p_1=(1,0)$. For $n=1,2,3,\dots$, right after arriving at the point $p_n$, if Aaron can turn $90^\circ$ left and walk one unit to an unvisited point $p_{n+1}$, he does that. Otherwise, he walks one unit straight ahead to reach $p_{n+1}$. Thus the sequence of points continues $p_2=(1,1), p_3=(0,1), p_4=(-1,1), p_5=(-1,0)$, and so on in a counterclockwise spiral pattern. Find the coordinates of $p_{2015}$ in the form $(x, y)$, and provide the sum $x + y$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -9
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7637
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\gamma_1$ and $\gamma_2$ be circles centered at $O$ and $ P$ respectively, and externally tangent to each other at point $Q$. Draw point $D$ on $\gamma_1$ and point $E$ on $\gamma_2$ such that line $DE$ is tangent to both circles. If the length $OQ = 1$ and the area of the quadrilateral $ODEP$ is $520$, then what is the value of length $PQ$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 64
+==================================================
+

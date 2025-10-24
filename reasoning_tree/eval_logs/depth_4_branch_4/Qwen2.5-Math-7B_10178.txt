@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10178
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The first term of a sequence is $2005$. Each succeeding term is the sum of the cubes of the digits of the previous term. What is the ${2005}^{\text{th}}$ term of the sequence?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 250
+==================================================
+

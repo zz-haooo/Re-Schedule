@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3385
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $k = 2^6 \cdot 3^5 \cdot 5^2 \cdot 7^3 \cdot 53$. Let $S$ be the sum of \(\frac{\text{gcd}(m,n)}{\text{lcm}(m,n)}\) over all ordered pairs of positive integers \((m, n)\) where \(mn = k\). If $S$ can be written in simplest form as \(\frac{r}{s}\), compute $r + s$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 895
+==================================================
+

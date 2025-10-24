@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2781
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute the number of ways to rearrange nine white cubes and eighteen black cubes into a $3 \times 3 \times 3$ cube such that each $1 \times 1 \times 3$ row or column contains exactly one white cube. Note that rotations are considered \textit{distinct}.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

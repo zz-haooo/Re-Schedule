@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17321
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Call a set of integers spacy if it contains no more than one out of any three consecutive integers. How many subsets of $\{1,2,3,\cdots,12\},$ including the empty set, are spacy?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 129
+==================================================
+

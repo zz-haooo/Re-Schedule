@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7420
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two logs of length 10 are laying on the ground touching each other. Their radii are 3 and 1, and the smaller log is fastened to the ground. The bigger log rolls over the smaller log without slipping, and stops as soon as it touches the ground again. The volume of the set of points swept out by the larger log as it rolls over the smaller one can be expressed as $n \pi$, where $n$ is an integer. Find $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 250
+==================================================
+

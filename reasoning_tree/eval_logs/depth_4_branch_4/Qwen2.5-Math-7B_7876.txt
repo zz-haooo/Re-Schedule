@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7876
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Starting with a sequence of $n 1's$, you can insert plus signs to get various sums. For example, when $n = 10$,  you can get the sum $1 + 1 + 1 + 11 + 11 + 111 = 136$, and the sum $1 + 1 + 11 + 111 + 111 = 235$.  Find the number of values of $n$ so that the sum of $1111$ is possible.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 121
+==================================================
+

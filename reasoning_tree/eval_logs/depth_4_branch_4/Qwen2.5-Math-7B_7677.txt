@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7677
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We say that a polynomial $p$ is respectful if $\forall x, y \in Z$, $y - x$ divides $p(y) - p(x)$, and $\forall x \in Z$, $p(x)  \in Z$. We say that a respectful polynomial is disguising if it is nonzero, and all of its non-zero coefficients lie between $0$ and $ 1$, exclusive. Determine $\sum deg(f)\cdot  f(2)$, where the sum includes all disguising polynomials $f$ of degree at most $5$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 290
+==================================================
+

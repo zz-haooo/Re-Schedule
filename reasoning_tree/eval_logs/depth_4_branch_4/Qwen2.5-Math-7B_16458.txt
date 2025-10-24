@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16458
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many non-congruent scalene triangles with perimeter $21$ have integer side lengths that form an arithmetic sequence? (In an arithmetic sequence, successive terms differ by the same amount.) Provide your answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

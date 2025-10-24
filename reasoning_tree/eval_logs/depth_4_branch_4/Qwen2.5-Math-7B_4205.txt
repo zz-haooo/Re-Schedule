@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4205
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There is a sequence defined by the following conditions:
+
+- $a(2) = 0$
+- $a(3) = 1$
+- For $n \geq 4$, $a(n) = a\left(\left\lfloor \frac{n}{2} \right\rfloor \right) + a\left(\left\lceil \frac{n}{2} \right\rceil \right)$
+
+Find the value of $a(2014)$.
+
+*Note:*
+- $\left\lfloor \frac{n}{2} \right\rfloor$ is the floor function, representing the largest integer less than or equal to $\frac{n}{2}$.
+- $\left\lceil \frac{n}{2} \right\rceil$ is the ceiling function, representing the smallest integer greater than or equal to $\frac{n}{2}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 34
+==================================================
+

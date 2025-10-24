@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3311
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p_1, p_2, p_3, p_4$ be four distinct prime numbers, and let $1 = d_1 < d_2 < \ldots < d_{16} = n$ be the divisors of $n = p_1 p_2 p_3 p_4$. Determine all $n < 2001$ such that $d_9 - d_8 = 22$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1995
+==================================================
+

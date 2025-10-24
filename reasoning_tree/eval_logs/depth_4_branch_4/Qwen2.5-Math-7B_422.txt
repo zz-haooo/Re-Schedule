@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 422
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be a triangle with side lengths $AB = 9$, $BC = 10$, $CA = 11$. Let $O$ be the circumcenter of $\triangle ABC$. Denote $D = AO \cap BC$, $E = BO \cap CA$, $F = CO \cap AB$. If $\frac{1}{AD} + \frac{1}{BE} + \frac{1}{FC}$ can be written in simplest form as $\frac{a \sqrt{b}}{c}$, find $a + b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 43
+==================================================
+

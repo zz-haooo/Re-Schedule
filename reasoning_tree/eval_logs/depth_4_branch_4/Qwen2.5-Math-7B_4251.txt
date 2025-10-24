@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4251
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Dexter's Laboratory has $2024$ robots, each with a program set up by Dexter. One day, his naughty sister Dee Dee intrudes and writes an integer in the set $\{1, 2, \dots, 113\}$ on each robot's forehead. Each robot detects the numbers on all other robots' foreheads and guesses its own number based on its program, individually and simultaneously.
+
+Find the largest positive integer $k$ such that Dexter can set up the programs so that, no matter how the numbers are distributed, there are always at least $k$ robots who guess their numbers correctly.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

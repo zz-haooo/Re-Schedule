@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3592
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A square has vertices $(0,10)$, $(0, 0)$, $(10, 0)$, and $(10,10)$ on the $x-y$ coordinate plane. A second quadrilateral is constructed with vertices $(0,10)$, $(0, 0)$, $(10, 0)$, and $(15,15)$. Find the positive difference between the areas of the original square and the second quadrilateral.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

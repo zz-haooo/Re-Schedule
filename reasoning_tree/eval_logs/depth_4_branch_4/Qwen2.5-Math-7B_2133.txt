@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2133
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider a string of $n$ 1's. We wish to place some $+$ signs in between so that the sum is $1000$. For instance, if $n=190$, one may put $+$ signs so as to get $11$ ninety times and $1$ ten times, and get the sum $1000$. If $a$ is the number of positive integers $n$ for which it is possible to place $+$ signs so as to get the sum $1000$, then find the sum of digits of $a$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

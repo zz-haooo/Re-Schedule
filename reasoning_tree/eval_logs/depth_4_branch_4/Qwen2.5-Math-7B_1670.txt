@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1670
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Define a permutation of the set $\{1,2,3,...,n\}$ to be \textit{sortable} if, upon cancelling an appropriate term of such permutation, the remaining $n-1$ terms are in increasing order. If $f(n)$ is the number of sortable permutations of $\{1,2,3,...,n\}$, find the remainder when \(\sum\limits_{i=1}^{2018} (-1)^i \cdot f(i)\) is divided by $1000$. Note that the empty set is considered sortable.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 153
+==================================================
+

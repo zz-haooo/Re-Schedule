@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 469
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute the smallest positive integer $x$ which satisfies the following congruences:
+
+1. $x^2 - 8x + 1 \equiv 0 \pmod{22}$
+2. $x^2 - 22x + 1 \equiv 0 \pmod{8}$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

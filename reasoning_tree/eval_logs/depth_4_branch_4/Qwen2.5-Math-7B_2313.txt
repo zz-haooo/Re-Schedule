@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2313
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Mark writes the expression $\sqrt{d}$ for each positive divisor $d$ of $8!$ on the board. Rishabh simplifies each expression to the form $a \sqrt{b}$, where $a$ and $b$ are integers such that $b$ is not divisible by the square of a prime number. For example, $\sqrt{20}$, $\sqrt{16}$, and $\sqrt{6}$ simplify to $2\sqrt{5}$, $4\sqrt{1}$, and $1\sqrt{6}$, respectively. Compute the sum of $a+b$ across all expressions that Rishabh writes.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3480
+==================================================
+

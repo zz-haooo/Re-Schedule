@@ -1,0 +1,36 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6592
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Regions $A, B, C, J$ and $K$ represent ponds. Logs leave pond $A$ and float down flumes (represented by arrows) to eventually end up in pond $B$ or pond $C$. On leaving a pond, the logs are equally likely to use any available exit flume. Logs can only float in the direction the arrow is pointing. What is the probability that a log in pond $A$ will end up in pond $B$? Express your answer as a common fraction.
+
+[asy]
+label("$A$",(10,22),S);
+label("$B$",(10,2),S);
+label("$C$",(10,-7),S);
+label("$J$",(2,13),S);
+label("$K$",(10,12),S);
+path a=(10,-10)..(20,0)--(0,0)..cycle;
+path b=(10,-7)..(3,0)--(17,0)..cycle;
+draw(a);
+draw(b);
+fill((3.1,0.1)--(16.9,0.1)--(16.9,-0.1)--(3.1,-0.1)--cycle,white);
+draw(Circle((10,0),3));
+draw(Circle((10,10),3));
+draw(Circle((10,20),3));
+draw((10,16.9)--(10,13.1),Arrow);
+draw((10,6.9)--(10,3.1),Arrow);
+draw(Circle((2,10),3));
+draw((2,7)--(2.5,0),Arrow);
+draw((1.5,7)--(0.2,0),Arrow);
+draw((10,16.9)--(2,13.2),Arrow);
+draw((10,16.9)--(19.8,0),Arrow);
+draw((10,6.9)--(17.2,0),Arrow);
+draw((3,8)--(10,3.1),Arrow);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

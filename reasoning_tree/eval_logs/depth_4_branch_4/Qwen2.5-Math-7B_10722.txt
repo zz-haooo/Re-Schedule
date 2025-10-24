@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10722
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute the smallest positive integer $x$ greater than 9 such that
+\[\lfloor x \rfloor - 19 \left\lfloor \frac{x}{19} \right\rfloor = 9 = \lfloor x \rfloor - 89 \left\lfloor \frac{x}{89} \right\rfloor.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1700
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2152
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\mathcal{A}$ be the set of finite sequences of positive integers $a_1, a_2, \dots, a_k$ such that $|a_n - a_{n-1}| = a_{n-2}$ for all $3 \leq n \leq k$. If $a_1 = a_2 = 1$, and $k = 18$, determine the number of elements of $\mathcal{A}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1597
+==================================================
+

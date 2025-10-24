@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1824
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ancient astronaut theorist Nutter B. Butter claims that the Caloprians from planet Calop, 30 light years away and at rest with respect to the Earth, wiped out the dinosaurs. The iridium layer in the crust, he claims, indicates spaceships with the fuel necessary to travel at 30\% of the speed of light here and back, and that their engines allowed them to instantaneously hop to this speed. He also says that Caloprians can only reproduce on their home planet. 
+
+Call the minimum life span, in years, of a Caloprian, assuming some had to reach Earth to wipe out the dinosaurs, $T$. Assume that, once a Caloprian reaches Earth, they instantaneously wipe out the dinosaurs. Then, $T$ can be expressed in the form $m\sqrt{n}$, where $n$ is not divisible by the square of a prime. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 101
+==================================================
+

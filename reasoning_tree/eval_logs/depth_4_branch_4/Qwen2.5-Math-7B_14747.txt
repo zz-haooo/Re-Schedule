@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14747
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a right triangle with sides \(a\) and \(b\), and hypotenuse \(c\), the altitude drawn on the hypotenuse is \(x\). Find the relationship between \(a\), \(b\), and \(x\) that satisfies \(\frac{k}{x^2} = \frac{m}{a^2} + \frac{n}{b^2}\). Please provide the sum of the coefficients \(k + m + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

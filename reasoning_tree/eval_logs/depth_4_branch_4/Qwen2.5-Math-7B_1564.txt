@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1564
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alex writes down some distinct integers on a blackboard. For each pair of integers, he writes the positive difference of those on a piece of paper. Find the sum of all $n \leq 2022$ such that it is possible for the numbers on the paper to contain only the positive integers between $1$ and $n$, inclusive, exactly once.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

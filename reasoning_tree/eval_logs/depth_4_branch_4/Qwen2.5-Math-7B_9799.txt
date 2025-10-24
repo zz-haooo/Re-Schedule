@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9799
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $a$, $b$, and $c$ are consecutive integers, find the area of the shaded region in the square below: [asy]
+size(1.75inch);
+pair A, B, C, D, W, X, Y, Z;
+A = (0,0); B = (7,0); C = (7,7); D = (0,7);
+W = (3,0); X = (7,3); Y = (4,7); Z = (0,4);
+draw(A--B--C--D--cycle); draw(W--X--Y--Z--cycle);
+fill(A--W--Z--cycle, gray); fill(B--X--W--cycle, gray); fill(C--Y--X--cycle, gray); fill(D--Z--Y--cycle, gray);
+label("$a$", A--W); label("$b$", W--B); label("$a$", B--X); label("$b$", X--C);
+label("$a$", C--Y); label("$b$", Y--D); label("$a$", D--Z); label("$b$", Z--A);
+label("$c$", W--X, NW); label("$c$", X--Y, SW); label("$c$", Y--Z, SE); label("$c$", Z--W, NE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

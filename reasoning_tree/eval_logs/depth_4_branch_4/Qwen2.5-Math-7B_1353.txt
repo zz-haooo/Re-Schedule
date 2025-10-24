@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1353
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+13 fractions are formed using each of the numbers $1, 2, \ldots, 26$ exactly once. For example: $\frac{12}{5}, \frac{18}{26}, \ldots$. What is the maximum number of these fractions that can be integers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

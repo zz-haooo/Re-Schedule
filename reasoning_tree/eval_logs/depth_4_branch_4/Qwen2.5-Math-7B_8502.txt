@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8502
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+"Modulo $m$ graph paper" consists of a grid of $m^2$ points, representing all pairs of integer residues $(x,y)$ where $0\le x<m$. To graph a congruence on modulo $m$ graph paper, we mark every point $(x,y)$ that satisfies the congruence. For example, a graph of $y\equiv x^2\pmod 5$ would consist of the points $(0,0)$, $(1,1)$, $(2,4)$, $(3,4)$, and $(4,1)$.
+
+The graphs of $$y\equiv 5x+2\pmod{16}$$and $$y\equiv 11x+12\pmod{16}$$on modulo $16$ graph paper have some points in common. What is the sum of the $x$-coordinates of those points?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

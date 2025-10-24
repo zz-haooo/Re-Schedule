@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2015
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A single section at a stadium can hold either $7$ adults or $11$ children. When $N$ sections are completely filled, an equal number of adults and children will be seated in them. What is the least possible value of $N$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

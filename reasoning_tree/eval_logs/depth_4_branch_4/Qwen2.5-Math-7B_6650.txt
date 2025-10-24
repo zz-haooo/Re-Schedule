@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6650
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two right triangles share a side as follows: [asy]
+pair pA, pB, pC, pD, pE;
+pA = (0, 0);
+pB = pA + 6 * dir(0);
+pC = pA + 10 * dir(90);
+pD = pB + 6 * dir(90);
+pE = (6 * pA + 10 * pD) / 16;
+draw(pA--pB--pC--pA);
+draw(pA--pB--pD--pA);
+label("$A$", pA, SW);
+label("$B$", pB, SE);
+label("$C$", pC, NW);
+label("$D$", pD, NE);
+label("$E$", pE, 3 * N);
+label("$6$", pA--pB, S);
+label("$10$", pA--pC, W);
+label("$6$", pB--pD, E);
+draw(rightanglemark(pB,pA,pC,12));
+draw(rightanglemark(pD,pB,pA,12));
+[/asy] What is the area of $\triangle ACE$?The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 79
+==================================================
+

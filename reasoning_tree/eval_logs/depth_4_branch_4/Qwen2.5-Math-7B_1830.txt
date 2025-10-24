@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1830
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $A$ be a set of numbers chosen from $1, 2, \ldots, 2015$ with the property that any two distinct numbers, say $x$ and $y$, in $A$ determine a unique isosceles triangle (which is non-equilateral) whose sides are of length $x$ or $y$. What is the largest possible size of $A$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

@@ -1,0 +1,41 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9951
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, $P$ is on $RS$ so that $QP$ bisects $\angle SQR$.  Also, $PQ=PR$, $\angle RSQ=2y^\circ$, and $\angle RPQ=3y^\circ$.  What is the measure, in degrees, of $\angle RPQ$? [asy]
+// C14
+import olympiad;
+size(7cm);
+
+real x = 50; real y = 20;
+
+pair q = (1, 0);
+pair r = (0, 0);
+pair p = intersectionpoints((10 * dir(x))--r, q--(shift(q) * 10 * dir(180 - x)))[0];
+pair s = intersectionpoints(r--(r + 10 * (p - r)), 10 * dir(180 - 2 * x)--q)[0];
+
+// Draw lines
+draw(p--s--q--p--r--q);
+
+// Label points
+label("$R$", r, SW);
+label("$Q$", q, SE);
+label("$S$", s, N);
+label("$P$", p, NW);
+
+// Label angles
+label("$x^\circ$", q, 2 * W + 2 * NW);
+label("$x^\circ$", q, 4 * N + 2 * NW);
+label("$2y^\circ$", s, 5 * S + 4 * SW);
+label("$3y^\circ$", p, 4 * S);
+
+// Tick marks
+add(pathticks(r--p, 2, spacing=0.6, s=2));
+add(pathticks(p--q, 2, spacing=0.6, s=2));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 108
+==================================================
+

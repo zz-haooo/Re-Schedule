@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2240
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For a permutation $\pi$ of the integers from 1 to 10, define
+\[ S(\pi) = \sum_{i=1}^{9} (\pi(i) - \pi(i+1))\cdot (4 + \pi(i) + \pi(i+1)), \]
+where $\pi (i)$ denotes the $i$th element of the permutation. Suppose that $M$ is the maximum possible value of $S(\pi)$ over all permutations $\pi$ of the integers from 1 to 10. Determine the number of permutations $\pi$ for which $S(\pi) = M$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40320
+==================================================
+

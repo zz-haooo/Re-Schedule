@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8315
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+This pattern is made from toothpicks. If the pattern is continued by adding two toothpicks to the previous stage, how many toothpicks are used to create the figure for the $15^{th}$ stage?
+
+[asy]draw((0,0)--(7.5,13)--(-7.5,13)--cycle);
+draw((0,0)--(-15,0)--(-7.5,13)--cycle);
+label("stage 2",(-4,0),S);
+draw((-23,0)--(-30.5,13)--(-38,0)--cycle);
+label("stage 1",(-30,0),S);
+draw((12,0)--(19.5,13)--(27,0)--cycle);
+draw((19.5,13)--(34.5,13)--(27,0)--cycle);
+draw((34.5,13)--(27,0)--(42,0)--cycle);
+label("stage 3",(27,0),S);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

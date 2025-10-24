@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7147
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $5$ students on a team for a math competition. The math competition has $5$ subject tests. Each student on the team must choose $2$ distinct tests, and each test must be taken by exactly two people. In how many ways can this be done?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2040
+==================================================
+

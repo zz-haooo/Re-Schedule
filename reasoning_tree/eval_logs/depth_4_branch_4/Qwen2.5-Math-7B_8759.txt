@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8759
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sequence of integers in the row of squares and in each of the two columns of squares form three distinct arithmetic sequences. What is the value of $N$?
+
+[asy]
+unitsize(0.35inch);
+draw((0,0)--(7,0)--(7,1)--(0,1)--cycle);
+draw((1,0)--(1,1));
+draw((2,0)--(2,1));
+draw((3,0)--(3,1));
+draw((4,0)--(4,1));
+draw((5,0)--(5,1));
+draw((6,0)--(6,1));
+draw((6,2)--(7,2)--(7,-4)--(6,-4)--cycle);
+draw((6,-1)--(7,-1));
+draw((6,-2)--(7,-2));
+draw((6,-3)--(7,-3));
+draw((3,0)--(4,0)--(4,-3)--(3,-3)--cycle);
+draw((3,-1)--(4,-1));
+draw((3,-2)--(4,-2));
+label("21",(0.5,0.8),S);
+label("14",(3.5,-1.2),S);
+label("18",(3.5,-2.2),S);
+label("$N$",(6.5,1.8),S);
+label("-17",(6.5,-3.2),S);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -7
+==================================================
+

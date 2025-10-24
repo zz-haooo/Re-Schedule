@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8638
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A triangle has vertices $P=(-8,5)$, $Q=(-15,-19)$, and $R=(1,-7)$. The equation of the bisector of $\angle P$ can be written in the form $ax+2y+c=0$. Find $a+c$.
+[asy] import graph; pointpen=black;pathpen=black+linewidth(0.7);pen f = fontsize(10); pair P=(-8,5),Q=(-15,-19),R=(1,-7),S=(7,-15),T=(-4,-17); MP("P",P,N,f);MP("Q",Q,W,f);MP("R",R,E,f); D(P--Q--R--cycle);D(P--T,EndArrow(2mm)); D((-17,0)--(4,0),Arrows(2mm));D((0,-21)--(0,7),Arrows(2mm)); [/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 89
+==================================================
+

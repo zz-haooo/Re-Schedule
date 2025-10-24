@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9004
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let
+\[x^{12} - 1 = p_1(x) p_2(x) \dotsm p_k(x),\]where each non-constant polynomial $p_i(x)$ is monic with integer coefficients, and cannot be factored further over the integers.  Find $k.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

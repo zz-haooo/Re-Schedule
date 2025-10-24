@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9414
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An elephant and a lion are currently 1 mile apart. The elephant runs directly away from the lion at 19 miles per hour, while the lion runs directly towards the elephant at 24 miles per hour.  How many minutes will it take for the lion to catch the elephant?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

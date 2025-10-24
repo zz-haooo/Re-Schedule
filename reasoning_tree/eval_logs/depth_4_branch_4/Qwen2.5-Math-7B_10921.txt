@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10921
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+ Players $A$ and $B$ play a game with $N\geq2012$ coins and $2012$ boxes arranged around a circle. Initially $A$ distributes the coins among the boxes so that there is at least $1$ coin in each box. Then the two of them make moves in the order $B,A,B,A,\cdots$ by the following rules:
+$\bullet$ On every move of his $B$ passes $1$ coin from every box to an adjacent box.
+$\bullet$ On every move of hers $A$ chooses several coins that were not involved in $B$'s previous
+move and are in different boxes. She passes every chosen coin to an adjacent box.
+Player $A’$s goal is to ensure at least $1$ coin in each box after every move of hers, regardless of
+how $B$ plays and how many moves are made. Find the least $N$ that enables her to succeed.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4022
+==================================================
+

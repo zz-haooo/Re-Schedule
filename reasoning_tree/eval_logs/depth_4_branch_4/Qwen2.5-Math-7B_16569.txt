@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16569
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A point in the plane, both of whose rectangular coordinates are integers with absolute values less than or equal to four, is chosen at random, with all such points having an equal probability of being chosen. Find the probability that the distance from the point to the origin is at most two units. Express your answer in the form \frac{k}{m} where k and m are coprime, and give the value of k + m.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 94
+==================================================
+

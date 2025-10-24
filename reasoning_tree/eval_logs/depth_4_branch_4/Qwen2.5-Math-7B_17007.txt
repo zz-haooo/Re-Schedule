@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17007
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A square piece of paper, \(4\) inches on a side, is folded in half vertically. Both layers are then cut in half parallel to the fold. Three new rectangles are formed, a large one and two small ones. Find the ratio of the perimeter of one of the small rectangles to the perimeter of the large rectangle. The original answer is in \(\frac{k}{m}\) format, please give the value of k + m.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

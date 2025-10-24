@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7819
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+And it came to pass that Jeb owned over a thousand chickens. So Jeb counted his chickens. And Jeb reported the count to Hannah. And Hannah reported the count to Joshua. And Joshua reported the count to Caleb. And Caleb reported the count to Rachel. But as fate would have it, Jeb had over-counted his chickens by nine chickens. Then Hannah interchanged the last two digits of the count before reporting it to Joshua. And Joshua interchanged the first and the third digits of the number reported to him before reporting it to Caleb. Then Caleb doubled the number reported to him before reporting it to Rachel. Now it so happens that the count reported to Rachel was the correct number of chickens that Jeb owned. How many chickens was that?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2052
+==================================================
+

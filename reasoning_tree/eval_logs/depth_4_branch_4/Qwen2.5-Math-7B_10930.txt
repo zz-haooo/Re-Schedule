@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10930
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find all positive integers $n>2$ such that
+
+$$
+n!\mid \prod_{\substack{p<q \leqslant n, p, q \text { primes }}}(p+q) .
+$$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

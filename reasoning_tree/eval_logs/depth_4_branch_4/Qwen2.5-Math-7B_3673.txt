@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3673
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $M$ be a set of six distinct positive integers whose sum is $60$. These numbers are written on the faces of a cube, one number to each face. A move consists of choosing three faces of the cube that share a common vertex and adding $1$ to the numbers on those faces. Determine the number of sets $M$ for which it’s possible, after a finite number of moves, to produce a cube all of whose sides have the same number.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 84
+==================================================
+

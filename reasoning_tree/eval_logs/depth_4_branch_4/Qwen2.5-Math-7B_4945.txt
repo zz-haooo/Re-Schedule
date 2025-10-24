@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4945
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $b$ be a real number randomly selected from the interval $[-17,17]$. Then, $m$ and $n$ are two relatively prime positive integers such that $\frac{m}{n}$ is the probability that the equation $$x^4 + 25b^2 = (4b^2 - 10b)x^2$$ has \textit{at least} two distinct real solutions. Find the value of $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 63
+==================================================
+

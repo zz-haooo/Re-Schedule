@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2057
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ satisfy $AB = 17$, $AC = \frac{70}{3}$, and $BC = 19$. Let $I$ be the incenter of $\triangle ABC$ and $E$ be the excenter of $\triangle ABC$ opposite $A$. (Note: this means that the circle tangent to ray $AB$ beyond $B$, ray $AC$ beyond $C$, and side $BC$ is centered at $E$.) Suppose the circle with diameter $IE$ intersects $AB$ beyond $B$ at $D$. If $BD = \frac{a}{b}$ where $a$ and $b$ are coprime positive integers, find $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 22
+==================================================
+

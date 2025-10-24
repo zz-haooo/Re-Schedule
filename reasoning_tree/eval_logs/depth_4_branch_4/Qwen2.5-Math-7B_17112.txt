@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17112
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The area of trapezoid $ABCD$ is $164\ \text{cm}^2$. The altitude is $8\ \text{cm}$, $AB$ is $10\ \text{cm}$, and $CD$ is $17\ \text{cm}$. What is the length of $BC$, in centimeters?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

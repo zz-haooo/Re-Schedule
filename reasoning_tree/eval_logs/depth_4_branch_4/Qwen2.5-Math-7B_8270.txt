@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8270
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of sequences of 10 letters where all the letters are either $A$ or $B$, the first letter is $A$, the last letter is $B$, and the sequence contains no three consecutive letters reading $ABA$. For example, count $AAABBABBAB$ and $ABBBBBBBAB$ but not $AABBAABABB$ or $AAAABBBBBA$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 86
+==================================================
+

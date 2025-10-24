@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8476
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $F(x)$ be a polynomial such that $F(6) = 15$ and\[\frac{F(3x)}{F(x+3)} = 9-\frac{48x+54}{x^2+5x+6}\]for $x \in \mathbb{R}$ such that both sides are defined. Find $F(12)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 66
+==================================================
+

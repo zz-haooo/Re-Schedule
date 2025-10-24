@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2411
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Cyclic quadrilateral $ABCD$ has $AC \perp BD$, $AB + CD = 12$, and $BC + AD = 13$. Find the greatest possible area of $ABCD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

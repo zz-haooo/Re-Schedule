@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2245
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+David, when submitting a problem for CMIMC, wrote his answer as $100\frac{x}{y}$, where $x$ and $y$ are two positive integers with $x < y$. Andrew interpreted the expression as a product of two rational numbers, while Patrick interpreted the answer as a mixed fraction. In this case, Patrick's number was exactly double Andrew's. What is the smallest possible value of $x + y$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 299
+==================================================
+

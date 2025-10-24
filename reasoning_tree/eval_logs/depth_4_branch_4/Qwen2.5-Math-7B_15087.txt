@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15087
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In $\triangle ABC$ with a right angle at $C$, point $D$ lies in the interior of $\overline{AB}$ and point $E$ lies in the interior of $\overline{BC}$ so that $AC=CD,$ $DE=EB,$ and the ratio $AC:DE=4:3$. The original answer is in the form x:y for the ratio $AD:DB$. Please give the value of x + y.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

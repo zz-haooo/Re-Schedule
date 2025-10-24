@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 634
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the unit cube $ABCDEFGH$ (with faces $ABCD$, $EFGH$ and connecting vertices labeled so that $\overline{AE}$, $\overline{BF}$, $\overline{CG}$, $\overline{DH}$ are edges of the cube), $L$ is the midpoint of $GH$. The area of $\triangle CAL$ can be written in the form $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Compute $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8758
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the coefficient of $x^3$ when $$24x^4 + 6x^3 + 4x^2-7x - 5$$is multiplied by $$6x^3 + 3x^2 + 3x + 4$$and the like terms are combined?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -15
+==================================================
+

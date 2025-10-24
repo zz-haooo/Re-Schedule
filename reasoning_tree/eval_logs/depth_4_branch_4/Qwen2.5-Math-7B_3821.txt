@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3821
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $ABCDE$ is a regular pentagon and $X$ is a point in its interior such that $\triangle CDX$ is equilateral, compute $\angle AXE$ in degrees.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 84
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15249
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \(Q(z)\) and \(R(z)\) be the unique polynomials such that\[z^{2021}+1=(z^2+z+1)Q(z)+R(z)\]and the degree of \(R\) is less than \(2.\) The original answer is in the form az^1 + b, please find the value of a + b.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -1
+==================================================
+

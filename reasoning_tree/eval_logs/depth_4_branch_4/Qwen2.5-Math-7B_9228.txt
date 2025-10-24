@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9228
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, points $X$, $Y$ and $Z$ are on the sides of $\triangle UVW$, as shown.  Line segments $UY$, $VZ$ and $WX$ intersect at $P$.  Point $Y$ is on $VW$ such that $VY:YW=4:3$. If $\triangle PYW$ has an area of 30 and $\triangle PZW$ has an area of 35, determine the area of $\triangle UXP$. [asy]
+size(6cm);
+pair v = (0, 0); pair w = (10, 0); pair u = (3.5, 7);
+pair y = 4 * w / 7;
+pair x = 56 * u / 140;
+pair p = IP(w--x, u--y);
+pair z = IP(v--(10 * p), u--w);
+draw(u--v--w--cycle);
+draw(u--y);draw(x--w);draw(z--v);
+
+label("$U$", u, N);
+label("$X$", x, NW);
+label("$P$", p, NE + 0.2 * W);
+label("$Z$", z, NE);
+label("$V$", v, SW);
+label("$Y$", y, S);
+label("$W$", w, SE);/*
+label("$a$", centroid(p, v, y), fontsize(10));
+label("$b$", centroid(p, z, u), fontsize(10));
+label("$c$", centroid(p, u, x), fontsize(10));
+label("$d$", centroid(p, x, v), fontsize(10));
+label("$30$", centroid(p, y, w) + 0.2 * W, fontsize(10));
+label("$35$", centroid(p, z, w), fontsize(10));*/
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 84
+==================================================
+

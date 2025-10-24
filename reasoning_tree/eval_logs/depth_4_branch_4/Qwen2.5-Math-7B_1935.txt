@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1935
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a non-degenerate triangle with perimeter $4$ such that $a = bc \sin^2 A$. If $M$ is the maximum possible area of $\triangle ABC$ and $m$ is the minimum possible area of $\triangle ABC$, then $M^2 + m^2$ can be expressed in the form $\frac{a}{b}$ for relatively prime positive integers $a$ and $b$. Compute $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 59
+==================================================
+

@@ -1,0 +1,39 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6915
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An equilateral triangle $PQR$ is inscribed in the ellipse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1,$ so that $Q$ is at $(0,b),$ and $\overline{PR}$ is parallel to the $x$-axis, as shown below.  Also, foci $F_1$ and $F_2$ lie on sides $\overline{QR}$ and $\overline{PQ},$ respectively.  Find $\frac{PQ}{F_1 F_2}.$
+
+[asy]
+unitsize(0.4 cm);
+
+pair A, B, C;
+pair[] F;
+real a, b, c, s;
+
+a = 5;
+b = sqrt(3)/2*5;
+c = 5/2;
+s = 8;
+
+A = (-s/2,-sqrt(3)/2*(s - 5));
+B = (0,b);
+C = (s/2,-sqrt(3)/2*(s - 5));
+F[1] = (c,0);
+F[2] = (-c,0);
+
+draw(yscale(b)*xscale(a)*Circle((0,0),1));
+draw(A--B--C--cycle);
+
+label("$P$", A, SW);
+label("$Q$", B, N);
+label("$R$", C, SE);
+dot("$F_1$", F[1], NE);
+dot("$F_2$", F[2], NW);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

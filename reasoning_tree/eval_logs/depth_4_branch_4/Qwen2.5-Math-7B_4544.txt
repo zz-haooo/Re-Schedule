@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4544
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For any positive integer $n$, let $f(n)$ be the maximum number of groups formed by a total of $n$ people such that the following holds: every group consists of an even number of members, and every two groups share an odd number of members. Compute $\sum_{n=1}^{2022} f(n) \mod 1000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 242
+==================================================
+

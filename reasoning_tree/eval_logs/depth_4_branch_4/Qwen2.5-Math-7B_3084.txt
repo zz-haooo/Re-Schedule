@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3084
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the sum of all positive integer values of $n$ that satisfy the equation:
+\[
+  \cos \left( \frac{\pi}{n} \right) \cos \left( \frac{2\pi}{n} \right) \cos \left( \frac{4\pi}{n} \right) \cos \left( \frac{8\pi}{n} \right) \cos \left( \frac{16\pi}{n} \right) = \frac{1}{32}?
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 47
+==================================================
+

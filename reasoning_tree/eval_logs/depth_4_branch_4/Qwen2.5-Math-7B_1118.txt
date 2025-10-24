@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1118
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We will say that a rearrangement of the letters of a word has no *fixed letters* if, when the rearrangement is placed directly below the word, no column has the same letter repeated. For instance, $HBRATA$ is a rearrangement with no fixed letter of $BHARAT$. How many distinguishable rearrangements with no fixed letters does $BHARAT$ have? (The two $A$s are considered identical.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 84
+==================================================
+

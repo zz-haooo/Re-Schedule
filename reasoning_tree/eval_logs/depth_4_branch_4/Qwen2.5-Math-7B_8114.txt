@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8114
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a, b$, and $c$ be real numbers. Let $u = a^2 + b^2 + c^2$ and $v = 2ab + 2bc + 2ca$. Suppose $2018u = 1001v + 1024$. Find the maximum possible value of $35a - 28b - 3c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

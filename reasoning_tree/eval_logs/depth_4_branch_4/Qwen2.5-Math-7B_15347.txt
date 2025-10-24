@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15347
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Abdul and Chiang are standing $48$ feet apart in a field. Bharat is standing in the same field as far from Abdul as possible so that the angle formed by his lines of sight to Abdul and Chiang measures $60^\circ$. What is the square of the distance (in feet) between Abdul and Bharat?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3072
+==================================================
+

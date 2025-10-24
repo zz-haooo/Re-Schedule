@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4189
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many ordered pairs of positive integers $(m, n)$ satisfy the system:
+
+\[
+\begin{align*}
+\gcd (m^3, n^2) & = 2^2 \cdot 3^2, \\
+\text{LCM} [m^2, n^3] & = 2^4 \cdot 3^4 \cdot 5^6,
+\end{align*}
+\]
+
+where $\gcd(a, b)$ and $\text{LCM}[a, b]$ denote the greatest common divisor and least common multiple of $a$ and $b$, respectively?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

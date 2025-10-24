@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2586
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider an arithmetic progression made up of $100$ terms. If the sum of all the terms of the progression is $150$ and the sum of the even terms is $50$, find the sum of the squares of the $100$ terms of the progression.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 83550
+==================================================
+

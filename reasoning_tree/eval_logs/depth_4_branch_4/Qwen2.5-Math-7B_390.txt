@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 390
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $P$ be a point on the graph of the function $y = x + \frac{2}{x}$ for $x > 0$. The lines $PA$ and $PB$ are perpendicular to the lines $y = x$ and $x = 0$, respectively, with $A$ and $B$ being the feet of these perpendiculars. Find the value of $\overrightarrow{PA} \cdot \overrightarrow{PB}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -1
+==================================================
+

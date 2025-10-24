@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3398
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Isaac repeatedly flips a fair coin. Whenever a particular face appears for the $2n+1$th time, for any nonnegative integer $n$, he earns a point. The expected number of flips it takes for Isaac to get $10$ points is $\frac{a}{b}$ for coprime positive integers $a$ and $b$. Find $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 39
+==================================================
+

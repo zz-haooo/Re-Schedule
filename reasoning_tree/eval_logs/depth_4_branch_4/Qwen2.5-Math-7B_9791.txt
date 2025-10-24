@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9791
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alula has the following quiz scores: 17, 10, 9, 14, 16, 8 and 10. What must the sum of her next three quiz scores be in order to have an overall average of 14?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 56
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 517
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given $2018$ ones in a row: $$\underbrace{1\,\,\,1\,\,\,1\,\,\,1 \,\,\, ... \,\,\,1 \,\,\,1 \,\,\,1 \,\,\,1}_{2018 \,\,\, ones}$$ in which plus symbols $(+)$ are allowed to be inserted in between the ones. What is the maximum number of plus symbols $(+)$ that need to be inserted so that the resulting sum is $8102$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1991
+==================================================
+

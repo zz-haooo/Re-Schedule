@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10766
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let the ordered triples $(x,y,z)$ of complex numbers that satisfy
+\begin{align*}
+x + yz &= 7, \\
+y + xz &= 10, \\
+z + xy &= 10.
+\end{align*}be $(x_1,y_1,z_1),$ $(x_2,y_2,z_2),$ $\dots,$ $(x_n,y_n,z_n).$  Find $x_1 + x_2 + \dots + x_n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

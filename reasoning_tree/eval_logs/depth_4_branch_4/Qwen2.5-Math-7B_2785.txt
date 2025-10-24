@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2785
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Using squares of side 1, a stair-like figure is formed in stages following a specific pattern. For example, the first stage uses 1 square, the second stage uses 5 squares, and so on. Determine the last stage for which the corresponding figure uses less than 2014 squares.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4331
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If Percy rolls a fair six-sided die until he rolls a $5$, what is his expected number of rolls, given that all of his rolls are prime?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

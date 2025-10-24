@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10129
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A fisherman can see seven aquatic creatures in a lake --- four crocodiles, a catfish, and two giant squid. If he does not wish to fish two crocodiles consecutively, in how many orders can he catch all seven creatures? (Individuals from the same species are indistinguishable.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

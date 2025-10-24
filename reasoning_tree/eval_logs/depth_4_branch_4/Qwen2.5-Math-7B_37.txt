@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 37
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On a board, the numbers from 1 to 2009 are written. A couple of them are erased and instead of them, the remainder of the sum of the erased numbers divided by 13 is written on the board. After a few repetitions of this process, only three numbers are left, of which two are 9 and 999. Find the third number.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

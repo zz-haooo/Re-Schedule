@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10801
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+As a prank, Tim decides to steal Nathan's fork at dinner, but so he doesn't get caught, he convinces other people to do it for him. On Monday, he convinces Joe to do it. On Tuesday, he could get either Ambie or John to do it. On Wednesday, he can't convince any of those three people to do it, but there are five other people he could convince to do it. On Thursday, none of those five will do it, nor the first three, but there are four others who are willing. Finally, on Friday, Tim does it himself. How many different combinations of people could Tim involve in the prank?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

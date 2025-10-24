@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6351
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $\angle C=90^\circ$, $AC=6$ and $BC=8$. Points $D$ and $E$ are on $\overline{AB}$ and $\overline{BC}$, respectively, and $\angle BED=90^\circ$. If $DE=4$, then what is the length of $BD$? [asy]
+import olympiad; import geometry; size(150); defaultpen(linewidth(0.8));
+draw(origin--(6,0)--(6,8)--cycle);
+draw((2,8/3)--(6,8/3));
+dot("$A$",origin,SW); dot("$B$",(6,8),NE); dot("$C$",(6,0),SE); dot("$D$",(2,8/3),W); dot("$E$",(6,8/3),E);
+draw(rightanglemark((6,8),(6,8/3),(2,8/3),12));
+draw(rightanglemark((6,8),(6,0),(origin),12));
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

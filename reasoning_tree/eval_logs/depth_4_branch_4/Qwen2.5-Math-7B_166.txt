@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 166
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A rectangle can be divided into $n$ equal squares. The same rectangle can also be divided into $n + 76$ equal squares. Find the value of $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 324
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3546
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Recall that $[x]$ denotes the largest integer not exceeding $x$ for real $x$. For integers $a, b$ in the interval $1 \leq a < b \leq 100$, find the number of ordered pairs $(a, b)$ satisfying the following equation:
+
+$$\left[a+\frac{b}{a}\right]=\left[b+\frac{a}{b}\right]$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 98
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4316
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the smallest integer $n \geq 1$ such that the equation:
+$$a^2 + b^2 + c^2 - nd^2 = 0$$
+has $(0, 0, 0, 0)$ as the unique solution.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7000
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sequence of positive integers $a_1,a_2,\ldots $ is such that for each $m$ and $n$ the following holds: if $m$ is a divisor of $n$ and $m<n$, then $a_m$ is a divisor of $a_n$ and $a_m<a_n$. Find the least possible value of $a_{2000}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 128
+==================================================
+

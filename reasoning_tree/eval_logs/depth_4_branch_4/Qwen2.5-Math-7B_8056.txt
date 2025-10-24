@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8056
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In an abandoned chemistry lab Gerome found a two-pan balance scale and three 1-gram weights, three
+5-gram weights, and three 50-gram weights. By placing one pile of chemicals and as many weights as
+necessary on the pans of the scale, Gerome can measure out various amounts of the chemicals in the pile.
+Find the number of diﬀerent positive weights of chemicals that Gerome could measure.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 129
+==================================================
+

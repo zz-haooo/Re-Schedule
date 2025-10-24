@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1086
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Solve for $x$ in the congruence: $$ x \equiv \left(\sum_{k=1}^{2007} k \right) \mod{2016}, $$ where $0 \leq x \leq 2015$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1044
+==================================================
+

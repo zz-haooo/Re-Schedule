@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7557
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given that there are $24$ primes between $3$ and $100$, inclusive, what is the number of ordered pairs $(p, a)$ with $p$ prime, $3 \le p < 100$, and $1 \le a < p$ such that $p \mid (a^{p-2} - a)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 48
+==================================================
+

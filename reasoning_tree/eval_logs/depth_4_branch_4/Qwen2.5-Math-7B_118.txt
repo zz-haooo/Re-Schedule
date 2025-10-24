@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 118
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a, b, c$ be positive integers such that $a, b, c, a+b-c, a+c-b, b+c-a, a+b+c$ are 7 distinct primes. The sum of two of $a, b, c$ is 800. If $d$ is the difference between the largest prime and the smallest prime among these 7 primes, find the maximum value of $d$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1594
+==================================================
+

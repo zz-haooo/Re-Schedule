@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8733
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The stem-and-leaf plot shows the number of minutes and seconds of one ride on each of the $17$ top-rated roller coasters in the world. In the stem-and-leaf plot, $2 \ 20$ represents $2$ minutes, $20$ seconds, which is the same as $140$ seconds. What is the median of this data set? Express your answer in seconds.
+
+\begin{tabular}{c|ccccc}
+0&28&28&50&&\\
+1&00&02&&&\\
+2&20&25&35&43&45\\
+3&00&00&00&30&36\\
+4&00&00&&&\\
+\end{tabular}
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 163
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1946
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Say that a 4-digit positive integer is \textit{mixed} if it has 4 distinct digits, its leftmost digit is neither the biggest nor the smallest of the 4 digits, and its rightmost digit is not the smallest of the 4 digits. For example, 2013 is mixed. How many 4-digit positive integers are mixed?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1680
+==================================================
+

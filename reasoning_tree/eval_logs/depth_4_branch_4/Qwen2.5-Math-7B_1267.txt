@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1267
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A $8 \times 8$ board is given, with sides directed north-south and east-west. It is divided into $1 \times 1$ cells in the usual manner. In each cell, there is at most one house. A house occupies only one cell.
+
+A house is considered "in the shade" if there is a house in each of the cells directly to the south, east, and west of its cell. Importantly, no house placed on the south, east, or west edge of the board can be in the shade.
+
+Determine the maximum number of houses that can be placed on the board such that no house is in the shade.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

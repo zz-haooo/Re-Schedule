@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13903
+Question: 在凸四边形 $A B C D$ 的外部分别作正 $\triangle A B Q 、 \triangle B C R 、 \triangle C D S 、 \triangle D A P$, 记四边形 $A B C D$ 的对角线的和为 $x$, 四边形 $P Q R S$ 的对边中点连线的和为 $y$. 求 $\frac{y}{x}$ 的最大值。原始答案为 $\frac{a+\sqrt{b}}{c}$ 的格式，请给出 a + b + c的值。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 6
+==================================================
+

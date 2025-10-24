@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16453
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A cyclist travels at a constant speed of $22.0\,\text{km/hr}$ except for a $20$ minute stop. The cyclist’s average speed was $17.5\,\text{km/hr}$. How far did the cyclist travel? If the answer is $x\,\text{km}$, what is the value of $x \times 10$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 285
+==================================================
+

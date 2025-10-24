@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9217
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $\tan \angle CAB = \frac{22}{7}$, and the altitude from $A$ divides $\overline{BC}$ into segments of length $3$ and $17$. What is the area of triangle $ABC$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 110
+==================================================
+

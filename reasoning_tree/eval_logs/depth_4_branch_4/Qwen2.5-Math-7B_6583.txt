@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6583
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If altitude $CD$ is $\sqrt3$ centimeters, what is the number of square centimeters in the area of $\Delta ABC$?
+
+[asy] import olympiad; pair A,B,C,D; A = (0,sqrt(3)); B = (1,0);
+C = foot(A,B,-B); D = foot(C,A,B); draw(A--B--C--A); draw(C--D,dashed);
+label("$30^{\circ}$",A-(0.05,0.4),E);
+label("$A$",A,N);label("$B$",B,E);label("$C$",C,W);label("$D$",D,NE);
+draw((0,.1)--(.1,.1)--(.1,0)); draw(D + .1*dir(210)--D + sqrt(2)*.1*dir(165)--D+.1*dir(120));
+[/asy]The answer is in the form k\sqrt{m}+n,. Please provide the value of k + m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

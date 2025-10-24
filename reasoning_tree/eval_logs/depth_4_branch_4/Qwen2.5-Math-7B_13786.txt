@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13786
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In each square of a garden shaped like a $2022\times2022$ board, there is initially a tree of height 0.A gardener and a lumberjack alternate turns playing the following game,with the gardener taking the first turn:
+
+• The gardener chooses a square in the garden.Each tree on that square and all the surrounding squares (of which there are at most eight) then becomes one unit taller. 
+• The lumberjack then chooses four different squares on the board.Each tree of positive height on those squares then becomes one unit shorter.
+
+We say that a tree is majestic if its height is at least $10^6$ .Determine the largest number $K$ such that the gardener can ensure there are eventually $K$ majestic trees on the board,no matter how the lumberjack plays. 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2271380
+==================================================
+

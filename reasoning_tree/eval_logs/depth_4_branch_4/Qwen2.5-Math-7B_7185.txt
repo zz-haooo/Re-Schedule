@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7185
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The polynomial $f(x)=x^3-3x^2-4x+4$ has three real roots $r_1$, $r_2$, and $r_3$.  Let $g(x)=x^3+ax^2+bx+c$ be the polynomial which has roots $s_1$, $s_2$, and $s_3$, where $s_1=r_1+r_2z+r_3z^2$, $s_2=r_1z+r_2z^2+r_3$, $s_3=r_1z^2+r_2+r_3z$, and $z=\frac{-1+i\sqrt3}2$.  Find the real part of the sum of the coefficients of $g(x)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -26
+==================================================
+

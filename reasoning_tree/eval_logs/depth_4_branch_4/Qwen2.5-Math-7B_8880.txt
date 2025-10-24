@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8880
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC,$ we have $\angle C = 3\angle A,$ $a = 27,$ and $c = 48.$  What is $b$?
+
+Note: $a$ is the side length opposite $\angle A,$ etc.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

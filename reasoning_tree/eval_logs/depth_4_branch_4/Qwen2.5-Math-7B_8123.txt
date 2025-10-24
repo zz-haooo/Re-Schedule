@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8123
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Aileen plays badminton where she and her opponent stand on opposite sides of a net and attempt to bat a birdie back and forth over the net. A player wins a point if their opponent fails to bat the birdie over the net. When Aileen is the server (the first player to try to hit the birdie over the net), she wins a point with probability $\frac{9}{10}$ . Each time Aileen successfully bats the birdie over the net, her opponent, independent of all previous hits, returns the birdie with probability $\frac{3}{4}$ . Each time Aileen bats the birdie, independent of all previous hits, she returns the birdie with probability $\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 73
+==================================================
+

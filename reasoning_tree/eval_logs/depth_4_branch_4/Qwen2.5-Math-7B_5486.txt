@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5486
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let triangle $ABC$ be a right triangle in the xy-plane with a right angle at $C$ . Given that the length of the hypotenuse $AB$ is $60$ , and that the medians through $A$ and $B$ lie along the lines $y=x+3$ and $y=2x+4$ respectively, find the area of triangle $ABC$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 400
+==================================================
+

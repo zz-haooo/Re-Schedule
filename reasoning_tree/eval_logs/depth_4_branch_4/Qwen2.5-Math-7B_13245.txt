@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13245
+Question: 在 $\triangle A B C$ 中, 已知 $\angle A=\alpha, C D 、 B E$ 分别是 $A B 、 A C$ 上的高, 则 $\frac{D E}{B C}=$ $\qquad$.#*请给出\alpha=\frac{\pi}{2}时的答案
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 0
+==================================================
+

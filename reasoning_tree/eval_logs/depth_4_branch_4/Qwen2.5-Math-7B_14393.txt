@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14393
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider two solid spherical balls:
+
+1. **First Ball**:
+   - Centered at $(0, 0, \frac{21}{2})$
+   - Radius $6$
+
+2. **Second Ball**:
+   - Centered at $(0, 0, 1)$
+   - Radius $\frac{9}{2}$
+
+Determine the number of lattice points (points with integer coordinates $(x, y, z)$) that lie in the intersection of these two spheres.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

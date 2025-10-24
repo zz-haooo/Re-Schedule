@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8803
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+George is about to get a certain amount of change less than one dollar from the cash register. If he gets the most quarters possible and the rest in pennies, he would need to receive 3 pennies to meet the amount. If he gets the most dimes possible and the rest in pennies, he would need to receive 8 pennies to meet the amount. What is the sum, in cents, of the possible amounts of change that he is trying to get?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 106
+==================================================
+

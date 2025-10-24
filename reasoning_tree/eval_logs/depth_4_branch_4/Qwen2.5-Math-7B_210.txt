@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 210
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(n)$ be the number of ways to write $n$ as a sum of powers of $2$, where the order of the summation is important. For example, $f(4) = 6$ because $4$ can be written as:
+- $4$
+- $2 + 2$
+- $2 + 1 + 1$
+- $1 + 2 + 1$
+- $1 + 1 + 2$
+- $1 + 1 + 1 + 1$
+
+Find the smallest $n$ greater than $2013$ for which $f(n)$ is odd.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2047
+==================================================
+

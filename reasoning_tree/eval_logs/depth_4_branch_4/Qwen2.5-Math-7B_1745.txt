@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1745
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be a right triangle with right angle $C$. Let $I$ be the incenter of $\triangle ABC$, and let $M$ lie on $AC$ and $N$ on $BC$, respectively, such that $M, I, N$ are collinear and $\overline{MN}$ is parallel to $AB$. If $AB = 36$ and the perimeter of $\triangle CMN$ is $48$, find the area of $\triangle ABC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 252
+==================================================
+

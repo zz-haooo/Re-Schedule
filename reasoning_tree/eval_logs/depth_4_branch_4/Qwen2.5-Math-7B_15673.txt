@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15673
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+At summer camp, there are $20$ campers in each of the swimming class, the archery class, and the rock climbing class. Each camper is in at least one of these classes. If $4$ campers are in all three classes, and $24$ campers are in exactly one of the classes, how many campers are in exactly two classes?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5187
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider real numbers $A$, $B$, \dots, $Z$ such that:
+\[ 
+  EVIL = \frac{5}{31}, \; 
+  LOVE = \frac{6}{29}, \text{ and } 
+  IMO  = \frac{7}{3}. 
+\] 
+If $OMO = \frac{m}{n}$ for relatively prime positive integers $m$ and $n$, find the value of $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 579
+==================================================
+

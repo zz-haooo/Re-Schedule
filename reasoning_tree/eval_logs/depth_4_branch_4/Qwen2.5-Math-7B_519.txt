@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 519
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Freddy, the king of flavortext, has an infinite chest of coins. For each number \( p \) in the interval \([0, 1]\), Freddy has a coin that has a probability \( p \) of coming up heads. Jenny the Joyous pulls out a random coin from the chest and flips it 10 times, and it comes up heads every time. She then flips the coin again. If the probability that the coin comes up heads on this 11th flip is \( \frac{p}{q} \) for two integers \( p, q \), find \( p + q \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

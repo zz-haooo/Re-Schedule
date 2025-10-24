@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5591
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Pyramid $OABCD$ has square base $ABCD,$ congruent edges $\overline{OA}, \overline{OB}, \overline{OC},$ and $\overline{OD},$ and $\angle AOB=45^\circ.$ Let $\theta$ be the measure of the dihedral angle formed by faces $OAB$ and $OBC.$ Given that $\cos \theta=m+\sqrt{n},$ where $m$ and $n$ are integers, find $m+n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

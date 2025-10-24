@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 915
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Broady The Boar is playing a board game consisting of a circle with $2021$ points on it, labeled $0$, $1$, $2$, \ldots, $2020$ in that order clockwise. Broady is rolling a $2020$-sided die which randomly produces a whole number between $1$ and $2020$, inclusive.
+
+Broady starts at the point labeled $0$. After each dice roll, Broady moves up the same number of points as the number rolled (point $2020$ is followed by point $0$). For example, if they are at $0$ and roll a $5$, they end up at $5$. If they are at $2019$ and roll a $3$, they end up at $1$.
+
+Broady continues rolling until they return to the point labeled $0$. What is the expected number of times they roll the dice?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2021
+==================================================
+

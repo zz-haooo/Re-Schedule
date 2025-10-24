@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9196
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $\overline{abcd}$ is a four-digit integer with no digits equal to zero such that $\overline{ab}$, $\overline{bc}$, and $\overline{cd}$ are distinct integers that each divide into $\overline{abcd}$. Find the smallest possible value of $\overline{abcd}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1155
+==================================================
+

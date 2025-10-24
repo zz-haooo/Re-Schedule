@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1853
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Victor has $3$ piles of $3$ cards each. He draws all of the cards, but cannot draw a card until all the cards above it have been drawn. For example, for his first card, Victor must draw the top card from one of the $3$ piles. In how many orders can Victor draw the cards?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1680
+==================================================
+

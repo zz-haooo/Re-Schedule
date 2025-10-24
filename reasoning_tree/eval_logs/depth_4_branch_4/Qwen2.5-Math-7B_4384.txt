@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4384
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A magician has $300$ cards, each with a unique number from $1$ to $300$. These cards are arranged in a $3 \times 100$ rectangle, with one card per unit square. The cards are placed such that consecutive numbers are in neighboring squares, but the numbers are not visible. The magician then turns over $k$ cards of his choice. What is the smallest value of $k$ such that the revealed cards can determine the exact positions of all other cards?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

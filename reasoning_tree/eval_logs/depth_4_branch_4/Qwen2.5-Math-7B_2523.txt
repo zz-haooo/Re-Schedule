@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2523
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The MIG is planning a lottery to give out prizes after the written tests, and the plan is very special. Contestants will be divided into prize groups to potentially receive a prize. However, based on the number of contestants, the ideal number of groups doesn't work as expected. Consider the following scenarios:
+
+- When dividing into $4$ groups, there are $3$ left over.
+- When dividing into $5$ groups, there are $2$ left over.
+- When dividing into $6$ groups, there is $1$ left over.
+- When dividing into $7$ groups, there are $2$ left over.
+
+Given that there are fewer than $300$ participants in the MIG, how many participants are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 247
+==================================================
+

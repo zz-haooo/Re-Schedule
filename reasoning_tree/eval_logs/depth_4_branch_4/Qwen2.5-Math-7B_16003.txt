@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16003
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the equation \(\frac{x(x - 1) - (m + 1)}{(x - 1)(m - 1)} = \frac{x}{m}\), find the value of \(m\) such that the roots are equal. The original answer is in the form \(-\frac{a}{b}\). Please provide the value of \(a + b\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

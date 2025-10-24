@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16284
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sides of $\triangle ABC$ form an arithmetic sequence of integers. The incircle $I$ is tangent to $AB$, $BC$, and $CA$ at points $D$, $E$, and $F$, respectively. Given that $DB = \frac{3}{2}$ and $FA = \frac{1}{2}$, find the radius of the incircle $I$. Express your answer in the form \frac{\sqrt{m}}{n}, where the fraction is in its simplest form. Calculate the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

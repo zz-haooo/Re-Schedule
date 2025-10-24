@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5264
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The points $A$, $B$, $C$, $D$, $E$ lie on a line $\ell$ in this order. Suppose $T$ is a point not on $\ell$ such that $\angle BTC = \angle DTE$, and $\overline{AT}$ is tangent to the circumcircle of triangle $BTE$. If $AB = 2$, $BC = 36$, and $CD = 15$, compute $DE$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 954
+==================================================
+

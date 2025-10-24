@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1090
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A rectangle $ABCD$ is divided into four smaller non-overlapping rectangles by two perpendicular line segments, whose endpoints lie on the sides of $ABCD$. Given that the smallest three rectangles have areas of $48$, $18$, and $12$, determine the area of rectangle $ABCD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 150
+==================================================
+

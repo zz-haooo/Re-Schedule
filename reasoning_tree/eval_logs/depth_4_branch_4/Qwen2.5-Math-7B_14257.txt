@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14257
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f$ be a function defined on positive integers such that $f(1)=4$, $f(2n)=f(n)$ and $f(2n+1)=f(n)+2$ for every positive integer $n$. Find the number of positive integers $k$ less than $2014$ for which $f(k)=8$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 165
+==================================================
+

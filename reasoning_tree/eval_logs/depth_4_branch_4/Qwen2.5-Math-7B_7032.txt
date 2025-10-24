@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7032
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram below, how many distinct paths are there from January 1 to December 31, moving from one adjacent dot to the next either to the right, down, or diagonally down to the right?
+
+[asy]
+size(340);
+int i, j;
+for(i = 0; i<10; i = i+1) {
+for(j = 0; j<5; j = j+1) {
+if(10*j + i == 11 || 10*j + i == 12 || 10*j + i == 14 || 10*j + i == 15 || 10*j + i == 18 || 10*j + i == 32 || 10*j + i == 35 || 10*j + i == 38 ) { }
+else{ label("$*$", (i,j));}
+}}
+label("$\leftarrow$"+"Dec. 31", (10.3,0));
+label("Jan. 1"+"$\rightarrow$", (-1.3,4));[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 372
+==================================================
+

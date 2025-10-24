@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1868
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows an isosceles triangle with base $21$ and height $28$. Inscribed in the triangle is a square. Find the area of the shaded region inside the triangle and outside of the square.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 150
+==================================================
+

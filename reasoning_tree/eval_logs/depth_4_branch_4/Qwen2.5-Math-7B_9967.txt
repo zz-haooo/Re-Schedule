@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9967
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A girls' track team must run 3 miles on the first day of practice and 6 miles every day after that. The boys' team must run 5 miles every day of practice. The coach will order new javelins at the end of the day that each girl's total mileage surpasses each boy's. How many total miles will each girl have run by the time the coach orders the new equipment?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4899
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A set $S$ of positive integers is \textit{sum-complete} if there are positive integers $m$ and $n$ such that an integer $a$ is the sum of the elements of some nonempty subset of $S$ if and only if $m \le a \le n$.
+
+Let $S$ be a sum-complete set such that $\{1, 3\} \subset S$ and $|S| = 8$. Find the greatest possible value of the sum of the elements of $S$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 223
+==================================================
+

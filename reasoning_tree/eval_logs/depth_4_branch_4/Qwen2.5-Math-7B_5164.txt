@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5164
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let triangle $ABC$ have $\angle BAC = 45^{\circ}$ and circumcircle $\Gamma$. Let $M$ be the intersection of the angle bisector of $\angle BAC$ with $\Gamma$. Let $\Omega$ be the circle tangent to segments $\overline{AB}$ and $\overline{AC}$ and internally tangent to $\Gamma$ at point $T$. Given that $\angle TMA = 45^{\circ}$ and that $TM = \sqrt{100 - 50 \sqrt{2}}$, the length of $BC$ can be written as $a \sqrt{b}$, where $b$ is not divisible by the square of any prime. Find $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

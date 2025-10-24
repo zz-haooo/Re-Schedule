@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2414
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The real numbers $a_0, a_1, \dots, a_{2013}$ and $b_0, b_1, \dots, b_{2013}$ satisfy the recurrence relations:
+\[
+a_{n} = \frac{1}{63} \sqrt{2n+2} + a_{n-1} \quad \text{and} \quad b_{n} = \frac{1}{96} \sqrt{2n+2} - b_{n-1}
+\]
+for every integer $n = 1, 2, \dots, 2013$. Given the initial conditions $a_0 = b_{2013}$ and $b_0 = a_{2013}$, compute the following sum:
+\[
+\sum_{k=1}^{2013} \left( a_kb_{k-1} - a_{k-1}b_k \right).
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 671
+==================================================
+

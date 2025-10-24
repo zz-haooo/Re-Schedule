@@ -1,0 +1,43 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9644
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The equation of the hyperbola shown below can be written as
+\[\frac{(x - h)^2}{a^2} - \frac{(y - k)^2}{b^2} = 1.\]Find $h + k + a + b.$
+
+[asy]
+unitsize(0.3 cm);
+
+real upperhyper (real x) {
+  return (3*sqrt((x + 1)^2/4 - 1) + 3);
+}
+
+real lowerhyper (real x) {
+  return (-3*sqrt((x + 1)^2/4 - 1) + 3);
+}
+
+int i, n = 10;
+
+for (i = -n; i <= n; ++i) {
+  draw((i,-n)--(i,n),gray(0.7));
+  draw((-n,i)--(n,i),gray(0.7));
+}
+
+draw((0,-n)--(0,n));
+draw((-n,0)--(n,0));
+
+draw(graph(upperhyper,-6,-3 - 0.01)--(-3,3),red);
+draw(graph(lowerhyper,-9.9,-3 - 0.01)--(-3,3),red);
+draw((1,3)--graph(upperhyper,1 + 0.01,4),red);
+draw((1,3)--graph(lowerhyper,1 + 0.01,7.9),red);
+draw(extension((-10,-10),(10,-10),(-1,3),(-1,3) + (2,3))--extension((-10,10),(10,10),(-1,3),(-1,3) + (2,3)),dashed);
+draw(extension((-10,-10),(10,-10),(-1,3),(-1,3) + (2,-3))--extension((-10,10),(10,10),(-1,3),(-1,3) + (2,-3)),dashed);
+
+dot((-1,3));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

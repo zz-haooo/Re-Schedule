@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15633
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Squares $ABCD$ and $EFGH$ are congruent, $AB=10$, and $G$ is the center of square $ABCD$. Find the area of the region in the plane covered by these squares.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 175
+==================================================
+

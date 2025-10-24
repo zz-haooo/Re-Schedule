@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3660
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Calculate the value of $\sqrt{\frac{11^4+100^4+111^4}{2}}$ and provide your answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11221
+==================================================
+

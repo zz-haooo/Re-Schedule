@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7445
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\{g_i\}_{i=0}^{\infty}$ be a sequence of positive integers such that $g_0=g_1=1$ and the following recursions hold for every positive integer $n$: \begin{align*}
+g_{2n+1} &= g_{2n-1}^2+g_{2n-2}^2 \\
+g_{2n} &= 2g_{2n-1}g_{2n-2}-g_{2n-2}^2
+\end{align*}
+Compute the remainder when $g_{2011}$ is divided by $216$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 34
+==================================================
+

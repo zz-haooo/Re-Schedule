@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4967
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ephram is growing $3$ different variants of radishes in a row of $13$ radishes total, but he forgot where he planted each radish variant and he can't tell what variant a radish is before he picks it. Ephram knows that he planted at least one of each radish variant, and all radishes of one variant will form a consecutive string, with all such possibilities having an equal chance of occurring. He wants to pick three radishes to bring to the farmers market, and wants them to all be of different variants. Given that he uses optimal strategy, the probability that he achieves this can be expressed as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

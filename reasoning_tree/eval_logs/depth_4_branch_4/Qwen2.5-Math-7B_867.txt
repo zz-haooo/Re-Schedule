@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 867
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The teacher gave each of her $37$ students $36$ pencils in different colors. It turned out that each pair of students received exactly one pencil of the same color. Determine the smallest possible number of different colors of pencils distributed.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 666
+==================================================
+

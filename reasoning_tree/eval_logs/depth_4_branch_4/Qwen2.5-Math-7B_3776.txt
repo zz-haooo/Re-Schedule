@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3776
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The dollar is now worth $\frac{1}{980}$ ounce of gold. After the $n^{th}$ 7001 billion dollars bailout package passed by congress, the dollar gains $\frac{1}{2^{2^{n-1}}}$ of its $(n-1)^{th}$ value in gold. After four bank bailouts, the dollar is worth $\frac{1}{b}(1-\frac{1}{2^c})$ in gold, where $b, c$ are positive integers. Find $b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 506
+==================================================
+

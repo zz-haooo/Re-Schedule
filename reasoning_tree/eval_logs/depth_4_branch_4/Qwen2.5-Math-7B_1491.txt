@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1491
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f_n(x) = n + x^2$. Evaluate the product \( \text{gcd}\{f_{2001}(2002), f_{2001}(2003)\} \times \text{gcd}\{f_{2011}(2012), f_{2011}(2013)\} \times \text{gcd}\{f_{2021}(2022), f_{2021}(2023)\} \), where \( \text{gcd}\{x, y\} \) is the greatest common divisor of \( x \) and \( y \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 125
+==================================================
+

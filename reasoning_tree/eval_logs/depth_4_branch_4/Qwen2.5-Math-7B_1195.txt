@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1195
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On $\triangle ABC$, let $D$ be a point on side $\overline{AB}$, $F$ be a point on side $\overline{AC}$, and $E$ be a point inside the triangle such that $\overline{DE} \parallel  \overline{AC}$ and $\overline{EF} \parallel \overline{AB}$. Given that $AF = 6$, $AC = 33$, $AD = 7$, $AB = 26$, and the area of quadrilateral $ADEF$ is $14$, find the area of $\triangle ABC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 143
+==================================================
+

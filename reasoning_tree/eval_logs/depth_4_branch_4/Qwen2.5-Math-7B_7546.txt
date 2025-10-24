@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7546
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ has $\overline{AB} = 5, \overline{BC} = 4, \overline{CA} = 6$. Points $D$ and $E$ are on sides $AB$ and $AC$, respectively, such that $\overline{AD} = \overline{AE} = \overline{BC}$. Let $CD$ and $BE$ intersect at $F$ and let $AF$ and $DE$ intersect at $G$. The length of $FG$ can be expressed in the form $\tfrac{a\sqrt{b}}{c}$ in simplified form. What is $a + b + c$?
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 255
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9173
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC,$ $AC = BC = 7.$  Let $D$ be a point on $\overline{AB}$ so that $AD = 8$ and $CD = 3.$  Find $BD.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

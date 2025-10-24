@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4770
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a square face of a cube with edge length $2$. A plane $P$ that contains point $A$ and the midpoint of line segment $\overline{BC}$ splits the cube into two pieces of equal volume. What is the square of the area of the intersection of plane $P$ and the cube?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

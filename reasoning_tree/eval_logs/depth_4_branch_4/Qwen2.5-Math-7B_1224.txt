@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1224
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the largest positive integer $n < 30$ such that $\frac{1}{2}(n^8 + 3n^4 - 4)$ is not divisible by the square of any prime number.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

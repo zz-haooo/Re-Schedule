@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7273
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Distinct prime numbers $p,q,r$ satisfy the equation $$2pqr+50pq=7pqr+55pr=8pqr+12qr=A$$ for some positive integer $A.$ What is $A$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1980
+==================================================
+

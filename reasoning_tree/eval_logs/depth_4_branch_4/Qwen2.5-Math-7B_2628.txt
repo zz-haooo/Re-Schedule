@@ -1,0 +1,26 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2628
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows rectangle $ABDE$ where $C$ is the midpoint of side $\overline{BD}$, and $F$ is the midpoint of side $\overline{AE}$. If $AB=10$ and $BD=24$, find the area of the shaded region.
+
+\[\text{[asy]}
+\text{size(300);}
+\text{defaultpen(linewidth(0.8));}
+\text{pair A = (0,10), B=origin, C=(12,0), D=(24,0), E=(24,10), F=(12,10), G=extension(C,E,D,F);}
+\text{filldraw(A--C--G--F--cycle, gray(0.7));}
+\text{draw(A--B--D--E--F^^E--G--D);}
+\text{label("$A$", A, NW);}
+\text{label("$B$", B, SW);}
+\text{label("$C$", C, S);}
+\text{label("$D$", D, SE);}
+\text{label("$E$", E, NE);}
+\text{label("$F$", F, N);}
+\text{[/asy]}
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

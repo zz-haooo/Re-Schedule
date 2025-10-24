@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5448
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+More than five competitors participated in a chess tournament. Each competitor played exactly once against each of the other competitors. Five of the competitors lost exactly two games each. All other competitors won exactly three games each. There were no draws in the tournament. Determine how many competitors there were and show a tournament that verifies all conditions.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

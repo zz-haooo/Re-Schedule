@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13007
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For any set $A = \{a_1, a_2, a_3, a_4\}$ of four distinct positive integers with sum $s_A = a_1 + a_2 + a_3 + a_4$, let $p_A$ denote the number of pairs $(i, j)$ with $1 \leq i < j \leq 4$ for which $a_i + a_j$ divides $s_A$. Determine the maximum value of $p_A$ among all sets of four distinct positive integers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 840
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There is a right triangle $\triangle ABC$ where $\angle A$ is the right angle. On side $AB$, there are three points $X$, $Y$, and $Z$ such that $\angle ACX = \angle XCY = \angle YCZ = \angle ZCB$ and $BZ = 2AX$. The smallest angle of $\triangle ABC$ is $\frac{a}{b}$ degrees, where $a$ and $b$ are positive integers such that $\gcd(a, b) = 1$. Find $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 277
+==================================================
+

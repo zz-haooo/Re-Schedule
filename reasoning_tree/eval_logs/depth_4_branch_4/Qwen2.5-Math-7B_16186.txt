@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16186
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Al and Barb start their new jobs on the same day. Al's schedule is $3$ work-days followed by $1$ rest-day. Barb's schedule is $7$ work-days followed by $3$ rest-days. On how many of their first $1000$ days do both have rest-days on the same day?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

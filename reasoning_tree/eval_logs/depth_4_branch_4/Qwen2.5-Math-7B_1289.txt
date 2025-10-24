@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1289
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two players play a game on a pile of \( n \) beans. On each player's turn, they may take exactly \( 1 \), \( 4 \), or \( 7 \) beans from the pile. One player goes first, and then the players alternate until somebody wins. A player wins when they take the last bean from the pile. For how many \( n \) between \( 2014 \) and \( 2050 \) (inclusive) does the second player win?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

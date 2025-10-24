@@ -1,0 +1,35 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10295
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A solid right prism $ABCDEF$ has a height of 16, as shown. Also, its bases are equilateral triangles with side length 12. Points $X$, $Y$, and $Z$ are the midpoints of edges $AC$, $BC$, and $DC$, respectively. Determine the perimeter of triangle $XYZ$. [asy]
+pair A, B, C, D, E, F, X, Y, Z;
+A=(0,0);
+B=(12,0);
+C=(6,-6);
+D=(6,-22);
+E=(0,-16);
+F=(12,-16);
+X=(A+C)/2;
+Y=(B+C)/2;
+Z=(C+D)/2;
+draw(A--B--C--A--E--D--F--B--C--D);
+draw(X--Y--Z--X, dashed);
+label("$A$", A, NW);
+label("$B$", B, NE);
+label("$C$", C, N);
+label("$D$", D, S);
+label("$E$", E, SW);
+label("$F$", F, SE);
+label("$X$", X, SW);
+label("$Y$", Y, SE);
+label("$Z$", Z, SE);
+label("12", (A+B)/2, dir(90));
+label("16", (B+F)/2, dir(0));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 26
+==================================================
+

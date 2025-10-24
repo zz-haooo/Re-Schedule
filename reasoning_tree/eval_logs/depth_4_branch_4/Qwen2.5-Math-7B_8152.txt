@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8152
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of ordered pairs of integers $(x, y)$ such that $$\frac{x^2}{y}- \frac{y^2}{x}= 3 \left( 2+ \frac{1}{xy}\right)$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

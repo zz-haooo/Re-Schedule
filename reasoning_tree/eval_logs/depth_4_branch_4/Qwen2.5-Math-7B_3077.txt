@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3077
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $(x,y)$ be the coordinates of a point chosen uniformly at random within the unit square with vertices at $(0,0), (0,1), (1,0),$ and $(1,1).$ The probability that $|x - \frac{1}{2}| + |y - \frac{1}{2}| < \frac{1}{2}$ is $\frac{p}{q},$ where $p$ and $q$ are relatively prime integers. Find $p + q.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

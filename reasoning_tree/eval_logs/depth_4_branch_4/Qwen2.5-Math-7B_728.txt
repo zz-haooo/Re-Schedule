@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 728
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find a number with $3$ digits, knowing that:
+1. The sum of its digits is $9$.
+2. The product of its digits is $24$.
+3. The number read from right to left is $\frac{27}{38}$ of the original.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 342
+==================================================
+

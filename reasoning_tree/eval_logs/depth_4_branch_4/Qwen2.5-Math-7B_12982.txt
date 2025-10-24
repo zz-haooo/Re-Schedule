@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12982
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+During a rebuilding project by contractors 'A', 'B' and 'C', there was a shortage of tractors. The contractors lent each other tractors as needed. At first, 'A' lent 'B' and 'C' as many tractors as they each already had. A few months later, 'B' lent 'A' and 'C' as many as they each already had. Still later, 'C' lent 'A' and 'B' as many as they each already had. By then each contractor had $24$ tractors. Please provide the total number of tractors the contractors originally had.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 204
+==================================================
+

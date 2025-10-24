@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9883
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Bob rolls a fair six-sided die each morning. If Bob rolls a composite number, he eats sweetened cereal. If he rolls a prime number, he eats unsweetened cereal. If he rolls a 1, then he rolls again. In a non-leap year, what is the expected value of the difference between the number of days Bob eats unsweetened cereal and the number of days he eats sweetened cereal? [asy]
+import olympiad; import geometry; size(50);
+
+defaultpen(linewidth(0.8));
+draw(unitsquare);
+draw((0,1)--(0.5,1.5)--(1.5,1.5)--(1.5,0.5)--(1,0)^^(1.5,1.5)--(1,1));
+dot((0.3,0.2)); dot((0.7,0.2));
+dot((0.3,0.5)); dot((0.7,0.5));
+dot((0.3,0.8)); dot((0.7,0.8));
+dot((1.125,0.375)); dot((1.25,0.75)); dot((1.375,1.125));
+dot((0.5,0.5/3 + 1)); dot((1.0,4/3));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 73
+==================================================
+

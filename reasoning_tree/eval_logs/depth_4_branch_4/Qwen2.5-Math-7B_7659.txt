@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7659
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three (not necessarily distinct) points in the plane which have integer coordinates between $ 1$ and $2020$, inclusive, are chosen uniformly at random. The probability that the area of the triangle with these three vertices is an integer is $a/b$ in lowest terms. If the three points are collinear, the area of the degenerate triangle is $0$. Find $a + b$.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9760
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The figure shows three squares with non-overlapping interiors. The area of the shaded square is 1 square inch. What is the area of rectangle $ABCD$, in square inches?
+
+[asy]size(100);
+pair A = (0,0), D = (3,0),C = (3,2),B = (0,2);
+draw(A--B--C--D--cycle);
+draw(A--(1,0)--(1,1)--(0,1)--cycle);
+filldraw(B--(1,2)--(1,1)--(0,1)--cycle,gray(.6),black);
+label("$A$",A,WSW);
+label("$B$",B,WNW);
+label("$C$",C,ENE);
+label("$D$",D,ESE);[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8734
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are two different isosceles triangles whose side lengths are integers and whose areas are $120.$ One of these two triangles, $\triangle XYZ,$ is shown. Determine the perimeter of the second triangle.
+
+[asy]
+draw((0,0)--(30,0)--(15,-8)--cycle,black+linewidth(1));
+label("$X$",(0,0),W);
+label("$Y$",(15,-8),S);
+label("$Z$",(30,0),E);
+label("30",(0,0)--(30,0),N);
+label("17",(0,0)--(15,-8),SW);
+label("17",(15,-8)--(30,0),SE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

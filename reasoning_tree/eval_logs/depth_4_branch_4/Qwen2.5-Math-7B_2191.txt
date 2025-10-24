@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2191
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+It is given a polygon with $2013$ sides labeled as $A_{1}A_{2}\ldots A_{2013}$. The vertices are marked with numbers such that the sum of the numbers on any $9$ consecutive vertices is constant and equal to $300$. Given that $A_{13}$ is marked with $13$ and $A_{20}$ is marked with $20$, determine the number with which $A_{2013}$ is marked.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 67
+==================================================
+

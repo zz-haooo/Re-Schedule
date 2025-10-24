@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 661
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \( f(x) \) be a monic cubic polynomial with \( f(0) = -64 \), and all roots of \( f(x) \) are non-negative real numbers. What is the largest possible value of \( f(-1) \)?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -125
+==================================================
+

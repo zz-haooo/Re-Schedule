@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10234
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+When we say that Ray is climbing up the stairs $m$ at a time, we mean that he starts on the floor (step $0$) then jumps to step $m$ and then to $2m$ and so on until the number of steps to the top is less than $m$. Ray climbs up a flight of stairs of $n$ steps in two ways. When he does it $4$ steps at a time, there are $3$ steps left at the top. When he does it $5$ steps at a time, there are $2$ steps left at the top. What is the smallest possible value of $n$ that is greater than $10$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 27
+==================================================
+

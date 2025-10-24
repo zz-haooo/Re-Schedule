@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10303
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A $\textit{composite number}$ is a number that has two or more prime factors. The number 87 can be expressed as the sum of two composite numbers in many ways. What is the minimum positive difference between two such numbers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

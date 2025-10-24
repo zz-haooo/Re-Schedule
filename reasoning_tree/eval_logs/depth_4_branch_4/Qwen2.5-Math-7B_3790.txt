@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3790
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of fractions in the following list that are in their lowest terms (i.e., for $\frac{p}{q}$, $\gcd(p,q) = 1$):
+
+$$\frac{1}{2014}, \frac{2}{2013}, \dots, \frac{1007}{1008}$$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 720
+==================================================
+

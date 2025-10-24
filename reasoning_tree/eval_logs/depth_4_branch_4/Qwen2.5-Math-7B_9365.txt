@@ -1,0 +1,29 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9365
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many square units are in the area of the pentagon shown here   with sides of length 15, 20, 27, 24 and 20 units?
+
+[asy]
+pair a,b,c,d,e;
+a=(0,0);
+b=(24,0);
+c=(24,27);
+d=(5.3,34);
+e=(0,20);
+draw((0,0)--(24,0)--(24,27)--(5.3,34)--(0,20)--cycle);
+draw((4.8,32.7)--(6.1,32.2)--(6.6,33.5));
+label("24",(12,0),S);
+label("27",(24,13.5),E);
+label("20",(15,30.5),NE);
+label("15",(2.6,27),NW);
+label("20",(0,10),W);
+draw((1.5,0)--(1.5,1.5)--(0,1.5));
+draw((22.5,0)--(22.5,1.5)--(24,1.5));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 714
+==================================================
+

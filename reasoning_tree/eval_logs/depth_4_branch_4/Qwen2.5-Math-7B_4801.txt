@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4801
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Kelvin the frog is hopping on the coordinate plane $\mathbb{R}^{2}$. He starts at the origin, and every second, he hops one unit to the right, left, up, or down, such that he always remains in the first quadrant $\{(x, y): x \geq 0, y \geq 0\}$. In how many ways can Kelvin make his first 14 jumps such that his 14th jump lands at the origin?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 613470
+==================================================
+

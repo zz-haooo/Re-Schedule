@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12922
+Question: 已知 \( \sin \alpha+2 \cos \beta=2 \). 则\( y=\sin \left(\alpha+\frac{\pi}{4}\right)+2 \sin \left(\beta+\frac{\pi}{4}\right) \)的值域为 $\left[\sqrt{a}-\frac{\sqrt{b}}{c}, \sqrt{d}+\frac{\sqrt{e}}{f}\right]$.请提供a+b+c+d+e+f的值
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 28
+==================================================
+

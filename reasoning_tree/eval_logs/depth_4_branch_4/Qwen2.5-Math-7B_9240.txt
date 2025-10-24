@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9240
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The roots of $x^3 + Px^2 + Qx - 19 = 0$ are each one more than the roots of $x^3 - Ax^2 + Bx - C = 0.$  If $A,$ $B,$ $C,$ $P,$ and $Q$ are constants, compute $A + B + C.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

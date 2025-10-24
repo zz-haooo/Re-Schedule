@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10472
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Circle $T$ has a circumference of $12\pi$ inches, and segment $XY$ is a diameter. If the measure of angle $TXZ$ is $60^{\circ}$, what is the length, in inches, of segment $XZ$?
+
+[asy]
+size(150);
+draw(Circle((0,0),13),linewidth(1));
+draw((-12,-5)--(-5,-12)--(12,5)--cycle,linewidth(1));
+dot((0,0));
+
+label("T",(0,0),N);
+label("X",(-12,-5),W);
+label("Z",(-5,-12),S);
+label("Y",(12,5),E);
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

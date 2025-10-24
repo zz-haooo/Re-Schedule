@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2673
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A lattice point in the plane is a point whose coordinates are both integers. Given a set of 100 distinct lattice points in the plane, find the smallest number of line segments $\overline{AB}$ for which $A$ and $B$ are distinct lattice points in this set, and the midpoint of $\overline{AB}$ is also a lattice point (not necessarily in the set).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1200
+==================================================
+

@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 705
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alexis noticed her brother Joshua measuring something on the floor. He was designing a sandcastle and needed to measure the base of a spiral staircase. The castle walls form a rectangle, and the center of the staircase is: 
+- 9 inches from one corner, 
+- 15 inches from another corner, 
+- 16 inches from a third corner, 
+- and some whole number of inches from the furthest corner. 
+
+Find the distance from the center of the staircase to the furthest corner of the rectangular castle, assuming all four distances are measured on the same plane (the ground).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

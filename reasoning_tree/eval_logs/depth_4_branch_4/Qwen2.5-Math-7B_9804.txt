@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9804
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute $i^{-100}+i^{-99}+i^{-98}+\cdots+i^{-1}+i^0+i^1+\cdots+i^{99}+i^{100}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

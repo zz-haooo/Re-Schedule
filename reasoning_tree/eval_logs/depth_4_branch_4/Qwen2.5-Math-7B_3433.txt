@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3433
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A circle intersects an equilateral triangle $\triangle XYZ$ at points $A$, $B$, $C$, $D$, $E$, and $F$ such that the points $X$, $A$, $B$, $Y$, $C$, $D$, $Z$, $E$, and $F$ lie on the equilateral triangle in that order. Given:
+
+- $AC^2 + CE^2 + EA^2 = 1900$
+- $BD^2 + DF^2 + FB^2 = 2092$
+
+Compute the positive difference between the areas of triangles $\triangle ACE$ and $\triangle BDF$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 96
+==================================================
+

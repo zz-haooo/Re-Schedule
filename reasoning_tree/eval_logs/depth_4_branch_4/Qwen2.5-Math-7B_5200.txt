@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5200
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of subsets $A \subset M = \{2^0, 2^1, 2^2, \dots, 2^{2005}\}$ such that the equation $x^2 - S(A)x + S(B) = 0$ has integral roots, where $S(M)$ is the sum of all elements of $M$, and $B = M \setminus A$ ($A$ and $B$ are not empty).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1003
+==================================================
+

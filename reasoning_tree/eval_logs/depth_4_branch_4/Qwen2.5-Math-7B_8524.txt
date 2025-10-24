@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8524
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In right triangle $ABC$, $M$ and $N$ are midpoints of legs $\overline{AB}$ and $\overline{BC}$, respectively. Leg $\overline{AB}$ is 6 units long, and leg $\overline{BC}$ is 8 units long. How many square units are in the area of $\triangle APC$? [asy]
+draw((0,0)--(8,0)--(0,6)--cycle);
+draw((4,0)--(0,6));
+draw((0,3)--(8,0));
+label("$A$",(0,6),NW); label("$B$",(0,0),SW); label("$C$",(8,0),SE); label("$M$",(0,3),W); label("$N$",(4,0),S); label("$P$",(8/3,2),SW);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

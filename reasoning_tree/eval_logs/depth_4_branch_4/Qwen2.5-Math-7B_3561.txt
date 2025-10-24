@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3561
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A mahogany bookshelf has four identical-looking books which are $200$, $400$, $600$, and $800$ pages long. Velma picks a random book off the shelf, flips to a random page to read, and puts the book back on the shelf. Later, Daphne also picks a random book off the shelf and flips to a random page to read. Given that Velma read page $122$ of her book and Daphne read page $304$ of her book, the probability that they chose the same book is $\frac{m}{n}$ for relatively prime positive integers $m$ and $n$. Compute $100m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6425
+==================================================
+

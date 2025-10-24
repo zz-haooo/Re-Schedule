@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14504
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Monic quadratic polynomial $P(x)$ and $Q(x)$ have the property that $P(Q(x))$ has zeros at $x=-23, -21, -17,$ and $-15$, and $Q(P(x))$ has zeros at $x=-59,-57,-51$ and $-49$. Find the sum of the minimum values of $P(x)$ and $Q(x)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -100
+==================================================
+

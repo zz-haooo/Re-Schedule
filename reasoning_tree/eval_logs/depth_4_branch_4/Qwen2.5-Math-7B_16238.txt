@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16238
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Circles with centers \(P\), \(Q\), and \(R\), having radii \(1\), \(2\), and \(3\), respectively, lie on the same side of line \(l\) and are tangent to \(l\) at \(P'\), \(Q'\), and \(R'\), respectively, with \(Q'\) between \(P'\) and \(R'\). The circle with center \(Q\) is externally tangent to each of the other two circles. Find the area of triangle \(PQR\). The original answer is in the form \(\sqrt{a}-\sqrt{b}\), please provide the value of \(a+b\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

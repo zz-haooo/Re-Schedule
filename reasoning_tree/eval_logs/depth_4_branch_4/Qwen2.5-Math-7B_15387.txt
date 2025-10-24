@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15387
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $a$, $b$, $c$ and $d$ are positive integers satisfying all of the following relations.
+$abcd=2^6\cdot 3^9\cdot 5^7$
+${lcm}(a,b)=2^3\cdot 3^2\cdot 5^3$
+${lcm}(a,c)=2^3\cdot 3^3\cdot 5^3$
+${lcm}(a,d)=2^3\cdot 3^3\cdot 5^3$
+${lcm}(b,c)=2^1\cdot 3^3\cdot 5^2$
+${lcm}(b,d)=2^2\cdot 3^3\cdot 5^2$
+${lcm}(c,d)=2^2\cdot 3^3\cdot 5^2$
+Find the greatest common divisor ${gcd}(a,b,c,d)$ and provide the answer as an integer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

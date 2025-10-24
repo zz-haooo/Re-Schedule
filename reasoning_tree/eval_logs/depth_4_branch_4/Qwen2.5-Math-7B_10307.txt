@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10307
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A picture frame consists of two rectangular strips of wood, each having a width of 1 inch on all sides.  If the area of the inner light gray strip is 100 $\text{in}^2$, then compute the area of the outer dark gray strip in square inches. [asy]
+import olympiad; import geometry; size(100); defaultpen(linewidth(0.8));
+real width = 0.4;
+filldraw((origin)--(7,0)--(7,5)--(0,5)--cycle,fillpen=gray(0.2));
+filldraw((origin + (width,width))--((7,0)+(-width,width))--((7,5)+(-width,-width))--((0,5)+(width,-width))--cycle,fillpen=gray(0.5));
+filldraw((origin + 2(width,width))--((7,0)+2(-width,width))--((7,5)+2(-width,-width))--((0,5)+2(width,-width))--cycle,fillpen=white);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 108
+==================================================
+

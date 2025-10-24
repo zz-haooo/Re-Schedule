@@ -1,0 +1,33 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8772
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Tim wants to create a circle graph showing the number of physicians whose specialty is aerospace medicine. He knows the following information.
+
+
+
+$\bullet$ 53 male physicians are under 35 years of age.
+
+$\bullet$ 8 female physicians are under 35 years of age.
+
+$\bullet$ 155 male physicians are between 35 and 44 years of age.
+
+$\bullet$ 17 female physicians are between 35 and 44 years of age.
+
+$\bullet$ 145 male physicians are between 45 and 54 years of age.
+
+$\bullet$ 10 female physicians are between 45 and 54 years of age.
+
+$\bullet$ 98 male physicians are over 54 years of age.
+
+$\bullet$ 2 female physicians are over 54 years of age.
+
+
+
+If he wants to include each of the eight groups in his graph, how many degrees would he use for the central angle of the "45-54 year-old Males" sector? Express your answer to the nearest whole number.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 107
+==================================================
+

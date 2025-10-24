@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2963
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Martha writes down a random mathematical expression consisting of 3 single-digit positive integers with an addition sign "$+$" or a multiplication sign "$\times$" between each pair of adjacent digits. For example, her expression could be $4 + 3 \times 3$, with a value of 13. Each positive digit is equally likely, each arithmetic sign ("$+$" or "$\times$") is equally likely, and all choices are independent. What is the expected value (average value) of her expression?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 50
+==================================================
+

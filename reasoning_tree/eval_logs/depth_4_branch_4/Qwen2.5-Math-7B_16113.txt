@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16113
+Question: 在 Rt $\triangle A B C$ 中, $\angle A B C=\frac{\pi}{2}, A B=\sqrt{3}, B C=1, \frac{\overrightarrow{P A}}{|\overrightarrow{P A}|}+\frac{\overrightarrow{P B}}{|\overrightarrow{P B}|}+\frac{\overrightarrow{P C}}{|\overrightarrow{P C}|}=\mathbf{0}$。求 $\angle B P C$ 的弧度数。答案的形式为$\frac{k\pi}{m}$，请给出k+m的值。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 5
+==================================================
+

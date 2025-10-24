@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15381
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f$ be the unique function defined on the positive integers such that \[\sum_{d\mid n}d\cdot f\left(\frac{n}{d}\right)=1\] for all positive integers $n$. What is the value of $f(2023)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 96
+==================================================
+

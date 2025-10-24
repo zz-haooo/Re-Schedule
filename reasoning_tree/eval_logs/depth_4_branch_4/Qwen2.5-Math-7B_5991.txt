@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5991
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(x)=(x^2+3x+2)^{\cos(\pi x)}$. Find the sum of all positive integers $n$ for which
+
+$\left |\sum\limits_{k=1}^n\log_{10}f(k)\right|=1.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

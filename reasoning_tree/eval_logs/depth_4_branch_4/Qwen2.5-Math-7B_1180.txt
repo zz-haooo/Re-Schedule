@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1180
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+\( f(x) = x^3 + 3x^2 - 1 \). Find the number of real solutions of \( f(f(x)) = 0 \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

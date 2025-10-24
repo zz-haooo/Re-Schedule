@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3048
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider a $1$-indexed array that initially contains the integers $1$ to $10$ in increasing order.
+
+The following action is performed repeatedly (any number of times):
+
+\[\text{def action():} \]
+\[\text{Choose an integer } n \text{ between } 1 \text{ and } 10 \text{ inclusive} \]
+\[\text{Reverse the array between indices } 1 \text{ and } n \text{ inclusive} \]
+\[\text{Reverse the array between indices } n+1 \text{ and } 10 \text{ inclusive (If } n = 10, \text{ we do nothing)} \]
+
+How many possible orders can the array have after we are done with this process?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

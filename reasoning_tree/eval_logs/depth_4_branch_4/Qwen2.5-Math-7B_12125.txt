@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12125
+Question: 求最小的实数 \lambda，使得对任意满足 \ds{i=1}{20}ix_i=0 的实数 x_1, x_2, \cdots, x_{20}，都有\left|\ds{i=1}{20}i^2x_i\right|\leq\lambda\displaystyle{\max_{1\leq i\leq 20}|x_i|}.（张端阳供题）
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 840
+==================================================
+

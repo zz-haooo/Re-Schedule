@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4787
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In how many ways can the number $2000$ be written as a sum of three positive, not necessarily different integers? (Sums like $1 + 2 + 3$ and $3 + 1 + 2$ etc. are considered the same.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 333333
+==================================================
+

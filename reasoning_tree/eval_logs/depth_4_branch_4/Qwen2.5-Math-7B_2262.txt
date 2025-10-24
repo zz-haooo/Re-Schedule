@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2262
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alex the Kat has written $61$ problems for a math contest, and there are a total of $187$ problems submitted. How many more problems does he need to write and submit before he has written half of the total problems?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 65
+==================================================
+

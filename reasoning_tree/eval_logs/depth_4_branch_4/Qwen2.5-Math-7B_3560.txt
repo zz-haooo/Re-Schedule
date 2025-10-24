@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3560
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Lines parallel to the sides of an equilateral triangle are drawn such that they divide each side into $10$ equal segments, resulting in the triangle being divided into $100$ congruent smaller triangles. Each of these $100$ triangles is referred to as a "cell." Additionally, lines parallel to each side of the original triangle are drawn through each vertex of the original triangle. The cells located between any two adjacent parallel lines form a "stripe." Determine the maximum number of cells that can be selected such that no two selected cells belong to the same stripe.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16919
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The rectangle shown has length $AC=32$, width $AE=20$, and $B$ and $F$ are midpoints of $\overline{AC}$ and $\overline{AE}$, respectively. Find the area of quadrilateral $ABDF$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 320
+==================================================
+

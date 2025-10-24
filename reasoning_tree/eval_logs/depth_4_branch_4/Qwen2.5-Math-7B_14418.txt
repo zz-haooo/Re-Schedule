@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14418
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In Cartesian coordinates, two areas \(M\) and \(N\) are defined as follows:  
+- \(M: y \geq 0, y \leq x, y \leq 2-x\);  
+- \(N: t \leq x \leq t+1\).  
+Here, \(t\) is a real number such that \(t \in [0,1]\).  
+
+Determine the area of \(M \cap N\). The original answer is in the form \(-at^2 + bt + \frac{c}{d}\), where \(\frac{c}{d}\) is a simplified fraction. Please give the value of \(a + b + c + d\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

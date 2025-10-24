@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16898
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Calculate the result of the expression $1990-1980+1970-1960+\cdots -20+10$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1000
+==================================================
+

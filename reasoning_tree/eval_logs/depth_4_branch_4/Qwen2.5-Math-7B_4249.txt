@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4249
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Milo rolls five fair dice, which have 4, 6, 8, 12, and 20 sides respectively, and each one is labeled $1$ to $n$ for the appropriate $n$. How many distinct ways can they roll a full house (three of one number and two of another)? The same numbers appearing on different dice are considered distinct full houses, so $(1,1,1,2,2)$ and $(2,2,1,1,1)$ would both be counted.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 248
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4983
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $2010$ red cards and $2010$ white cards. All of these $4020$ cards are shuffled and dealt in pairs to each of the $2010$ players sitting around a round table. The game consists of several rounds, each of which players simultaneously hand over cards to each other according to the following rules:  
+- If a player holds at least one red card, they pass one red card to the player sitting to their left.  
+- Otherwise, they transfer one white card to the left.  
+
+The game ends after the round when each player has one red card and one white card. Determine the maximum number of rounds possible.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2009
+==================================================
+

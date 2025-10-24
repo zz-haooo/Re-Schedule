@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3698
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The function $f(n)$ is defined on the positive integers and takes non-negative integer values. Given the conditions:
+
+- $f(2) = 0$
+- $f(3) > 0$
+- $f(9999) = 3333$
+
+and for all $m, n$:
+
+\[ f(m+n) - f(m) - f(n) = 0 \text{ or } 1. \]
+
+Determine the value of $f(1982)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 660
+==================================================
+

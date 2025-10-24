@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5892
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There is a complex number $z$ with imaginary part $164$ and a positive integer $n$ such that 
+$$\frac {z}{z + n} = 4i.$$
+Find $n$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 697
+==================================================
+

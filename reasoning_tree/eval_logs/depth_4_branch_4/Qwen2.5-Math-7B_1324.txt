@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1324
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, let $O$ be the circumcenter and $G$ be the centroid. The line perpendicular to $OG$ at $O$ intersects $BC$ at $M$ such that $M$, $G$, and $A$ are collinear, and $OM = 3$. Compute the area of $\triangle ABC$, given that $OG = 1$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

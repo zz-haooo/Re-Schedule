@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3050
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Andrew and Beatrice practice their free throws in basketball. One day, they attempted a total of $105$ free throws between them, with each person taking at least one free throw. If Andrew made exactly $\frac{1}{3}$ of his free throw attempts and Beatrice made exactly $\frac{3}{5}$ of her free throw attempts, what is the highest number of successful free throws they could have made between them?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 59
+==================================================
+

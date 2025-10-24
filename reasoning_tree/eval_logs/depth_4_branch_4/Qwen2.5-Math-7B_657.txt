@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 657
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many positive integer solutions does the equation have:
+\[ \left\lfloor \frac{x}{10} \right\rfloor = \left\lfloor \frac{x}{11} \right\rfloor + 1 \]
+where \( \lfloor x \rfloor \) denotes the integer part of \( x \), for example, \( \lfloor 2 \rfloor = 2 \), \( \lfloor \pi \rfloor = 3 \), \( \lfloor \sqrt{2} \rfloor = 1 \).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 110
+==================================================
+

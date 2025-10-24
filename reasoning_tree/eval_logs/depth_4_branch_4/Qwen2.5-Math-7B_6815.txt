@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6815
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A rubber ball is dropped from a height of 100 feet.  Each the time ball bounces, it rises to a height $\frac{2}{5}$ of the previous height.  Find the total distance the ball travels, in feet.The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 703
+==================================================
+

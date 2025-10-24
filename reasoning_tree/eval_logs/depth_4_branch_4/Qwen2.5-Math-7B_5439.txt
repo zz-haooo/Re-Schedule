@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5439
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Joana divided \(365\) by all integers from \(1\) to \(365\) and added all the remainders. Then she divided \(366\) by all the integers from \(1\) to \(366\) and also added all the remainders. Which of the two sums is greater and what is the difference between them?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

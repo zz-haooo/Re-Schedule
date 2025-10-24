@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10394
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $x$ is an integer that satisfies the following congruences: \begin{align*}
+3+x &\equiv 2^2 \pmod{3^3} \\
+5+x &\equiv 3^2 \pmod{5^3} \\
+7+x &\equiv 5^2 \pmod{7^3}
+\end{align*}What is the remainder when $x$ is divided by $105$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

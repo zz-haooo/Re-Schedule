@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 122
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The average age of the participants in a mathematics competition (gymnasts and high school students) increases by exactly one month if three high school age students $18$ years each are included in the competition or if three gymnasts aged $12$ years each are excluded from the competition. How many participants were initially in the contest?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 108
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4710
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The three roots of the cubic $30x^3 - 50x^2 + 22x - 1$ are distinct real numbers between $0$ and $1$. For every nonnegative integer $n$, let $s_n$ be the sum of the $n$th powers of these three roots. What is the value of the infinite series \[ s_0 + s_1 + s_2 + s_3 + \dots \] ?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

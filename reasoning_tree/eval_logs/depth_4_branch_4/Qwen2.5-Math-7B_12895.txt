@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12895
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+
+Define a positive integer $n$ to be squarish if either $n$ is itself a perfect square or the distance from $n$ to the nearest perfect square is a perfect square. For example, 2016 is squarish, because the nearest perfect square to 2016 is $45^2=2025$ and 2025-2016=9 is a perfect square. (Of the positive integers between l and 10, only 6 and 7 are not squarish.) For a positive integer $N$, let $S(N)$ be the number of squarish integers between l and $N$, inclusive. Find positive constants $\alpha$ and $\beta$ such that $$\lim_{N\to\infty}\frac{S(N)}{N^{\alpha}}=\beta,$$ or show that no such constants exist. Please provide the sum of $12\alpha v$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 25
+==================================================
+

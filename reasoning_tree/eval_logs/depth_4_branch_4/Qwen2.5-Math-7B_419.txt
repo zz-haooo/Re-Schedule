@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 419
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram below, \( \overline{AB} \) and \( \overline{CD} \) are parallel, \( \angle BXY = 45^\circ \), \( \angle DZY = 25^\circ \), and \( XY = YZ \). What is the degree measure of \( \angle YXZ \)?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 55
+==================================================
+

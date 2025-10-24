@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16788
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the sequence $2001, 2002, 2003, \ldots$, each term after the third is found by subtracting the previous term from the sum of the two terms that precede that term. For example, the fourth term is $2001 + 2002 - 2003 = 2000$. What is the value of the $2004^\text{th}$ term in this sequence?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

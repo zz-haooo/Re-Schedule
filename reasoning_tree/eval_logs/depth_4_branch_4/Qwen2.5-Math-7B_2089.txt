@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2089
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a$ be a positive real number and $n$ a non-negative integer. Determine $S-T$, where 
+$$ S = \sum_{k=-2n}^{2n+1} \frac{(k-1)^2}{a^{| \lfloor \frac{k}{2} \rfloor |}} $$ 
+and  
+$$ T = \sum_{k=-2n}^{2n+1} \frac{k^2}{a^{| \lfloor \frac{k}{2} \rfloor |}} $$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8408
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A stadium staircase with 150 steps is numbered from 1 to 150. Jan starts on step 130 and steps down to step number 127, then to step number 124, and continues downward to step 13 stepping only on every third step. Jen starts on step number 3 and steps up to step number 7, then to step number 11, and continues upward to step 139 stepping only on every fourth step. How many steps were stepped on by both Jan and Jen (not necessarily at the same time)?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3573
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a tournament with $8$ players, each pair of players played exactly one match. Each match ended either with a win for one player, who received $2$ points while the opponent received $0$ points, or in a draw, where both players received $1$ point each. After all matches were completed, it was found that every player had the same number of points. Determine the minimal total number of draws.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2413
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Triangle $ABC$ has side lengths $AC=3$, $BC=4$, and $AB=5$. Let $R$ be a point on the incircle $\omega$ of $\triangle ABC$. The altitude from $C$ to $\overline{AB}$ intersects $\omega$ at points $P$ and $Q$. Then, the greatest possible area of $\triangle PQR$ is $\frac{m\sqrt{n}}{p}$, where $m$ and $p$ are relatively prime positive integers, and $n$ is a positive integer not divisible by the square of any prime. Find $m+n+p$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 43
+==================================================
+

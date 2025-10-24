@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3788
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $18$ children in the class. Parents decided to give the children a cake. To do this, they first learned from each child the area of the piece they want to get. After that, they showed a square-shaped cake, the area of which is exactly equal to the sum of the $18$ named numbers. However, when they saw the cake, the children wanted their pieces to be squares too. The parents cut the cake with lines parallel to the sides of the cake (cuts do not have to start or end on the side of the cake). For what maximum $k$ are the parents guaranteed to cut out $k$ square pieces from the cake, which can be given to $k$ children so that each of them gets what they want?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1713
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In an old script found in the ruins of Persepolis, it is written:
+
+"This script has been finished in a year whose 13th power is 258145266804692077858261512663. If you are skilled in Arithmetic, you will know the year this script is finished easily."
+
+Find the year the script is finished. Provide a reason for your answer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 183
+==================================================
+

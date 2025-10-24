@@ -1,0 +1,87 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6794
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A solid $5\times 5\times 5$ cube is composed of unit cubes. Each face of the large, solid cube is partially painted with gray paint, as shown. [asy]
+
+fill((0,0)--(0,1)--(1,1)--(1,0)--cycle,gray);
+
+fill((0,4)--(0,5)--(1,5)--(1,4)--cycle,gray);
+
+fill((4,1)--(5,1)--(5,0)--(4,0)--cycle,gray);
+
+fill((1,2)--(2,2)--(2,1)--(1,1)--cycle,gray);
+
+fill((2,2)--(3,2)--(3,1)--(2,1)--cycle,gray);
+
+fill((3,2)--(4,2)--(4,1)--(3,1)--cycle,gray);
+
+fill((1,3)--(2,3)--(2,2)--(1,2)--cycle,gray);
+
+fill((3,3)--(4,3)--(4,2)--(3,2)--cycle,gray);
+
+fill((1,4)--(2,4)--(2,3)--(1,3)--cycle,gray);
+
+fill((2,4)--(3,4)--(3,3)--(2,3)--cycle,gray);
+
+fill((3,4)--(4,4)--(4,3)--(3,3)--cycle,gray);
+
+fill((4,5)--(5,5)--(5,4)--(4,4)--cycle,gray);
+
+draw((0,0)--(0,1)--(1,1)--(1,0)--(0,0),rgb(0,0,0));
+
+draw((0,1)--(0,2)--(1,2)--(1,1),rgb(0,0,0));
+
+draw((0,2)--(0,3)--(1,3)--(1,2),rgb(0,0,0));
+
+draw((0,3)--(0,4)--(1,4)--(1,3),rgb(0,0,0));
+
+draw((0,4)--(0,5)--(1,5)--(1,4),rgb(0,0,0));
+
+draw((1,0)--(1,1)--(2,1)--(2,0)--(1,0),rgb(0,0,0));
+
+draw((2,1)--(3,1)--(3,0)--(2,0),rgb(0,0,0));
+
+draw((3,1)--(4,1)--(4,0)--(3,0),rgb(0,0,0));
+
+draw((4,1)--(5,1)--(5,0)--(4,0),rgb(0,0,0));
+
+draw((1,2)--(2,2)--(2,1)--(1,1),rgb(0,0,0));
+
+draw((2,2)--(3,2)--(3,1)--(2,1)--(2,2),rgb(0,0,0));
+
+draw((3,2)--(4,2)--(4,1),rgb(0,0,0));
+
+draw((4,2)--(5,2)--(5,1)--(4,1),rgb(0,0,0));
+
+draw((1,3)--(2,3)--(2,2)--(1,2)--(1,3),rgb(0,0,0));
+
+draw((2,3)--(3,3)--(3,2),rgb(0,0,0));
+
+draw((3,3)--(4,3)--(4,2),rgb(0,0,0));
+
+draw((4,3)--(5,3)--(5,2),rgb(0,0,0));
+
+draw((1,4)--(2,4)--(2,3),rgb(0,0,0));
+
+draw((2,4)--(3,4)--(3,3),rgb(0,0,0));
+
+draw((3,4)--(4,4)--(4,3),rgb(0,0,0));
+
+draw((4,4)--(5,4)--(5,3),rgb(0,0,0));
+
+draw((1,5)--(2,5)--(2,4),rgb(0,0,0));
+
+draw((2,5)--(3,5)--(3,4),rgb(0,0,0));
+
+draw((3,5)--(4,5)--(4,4),rgb(0,0,0));
+
+draw((4,5)--(5,5)--(5,4),rgb(0,0,0));
+
+[/asy] 	 	What fraction of the entire solid cube's unit cubes have no paint on them? Express your answer as a common fraction.The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 194
+==================================================
+

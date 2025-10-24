@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5990
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Charles has two six-sided die. One of the die is fair, and the other die is biased so that it comes up six with probability $\frac{2}{3}$ and each of the other five sides has probability $\frac{1}{15}$. Charles chooses one of the two dice at random and rolls it three times. Given that the first two rolls are both sixes, the probability that the third roll will also be a six is $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 167
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2499
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many positive three-digit integers $abc$ can represent a valid date in $2013$, where either $a$ corresponds to a month and $bc$ corresponds to the day in that month, or $ab$ corresponds to a month and $c$ corresponds to the day? For example, 202 is a valid representation for February 2nd, and 121 could represent either January 21st or December 1st.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 273
+==================================================
+

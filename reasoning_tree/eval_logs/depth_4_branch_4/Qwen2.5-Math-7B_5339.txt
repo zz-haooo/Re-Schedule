@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5339
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A rectangular piece of paper is divided into polygonal areas in the following way: at each step, one of the existing surfaces is cut by a straight line, resulting in two new areas. What is the minimum number of cuts needed such that among the obtained polygons, there are $251$ polygons with $11$ sides?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2007
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 592
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Dilhan has objects of 3 types: $A$, $B$, and $C$. He also has 6 functions: $f_{A,B}$, $f_{A,C}$, $f_{B,A}$, $f_{B,C}$, $f_{C,A}$, and $f_{C,B}$. Each function $f_{X,Y}$ takes an object of type $X$ and outputs an object of type $Y$. Dilhan wants to compose his 6 functions, without repeats, in such a way that the resulting expression is well-typed. This means an object can be taken in by the first function, and the resulting output can then be taken in by the second function, and so on. Determine the number of possible orders in which he can compose his 6 functions to satisfy this constraint.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

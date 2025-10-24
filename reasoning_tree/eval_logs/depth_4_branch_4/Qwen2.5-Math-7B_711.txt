@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 711
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ana has \(22\) coins. She can take from her friends either \(6\) coins or \(18\) coins, or she can give \(12\) coins to her friends. She can perform these operations as many times as she wants. Find the least number of coins Ana can have.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

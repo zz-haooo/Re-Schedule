@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8673
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A school is arranging chairs in rows for an assembly. $11$ chairs make a complete row, and right now there are $110$ chairs total. The school wants to have as few empty seats as possible, but all rows of chairs must be complete. If $70$ students will attend the assembly, how many chairs should be removed?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 33
+==================================================
+

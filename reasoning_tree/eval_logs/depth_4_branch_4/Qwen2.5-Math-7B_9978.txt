@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9978
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Mr. Smith brings home 7 animals for his 7 children.  Each child will adopt a pet to be her or his own.  There are 4 different cats (a Siamese, a Persian, a Calico, and a Minx), 2 different dogs (a Poodle and a Golden Retriever), and a goldfish.  Anna and Betty refuse to take care of the goldfish, and Charlie and Danny insist on having cats.  The other 3 kids are easier to please -- they'll take anything.  In how many ways can Mr. Smith give the children pets they'll want?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 864
+==================================================
+

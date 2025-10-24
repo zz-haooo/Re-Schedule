@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9305
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Rationalize the denominator of $\displaystyle \frac{1}{\sqrt[3]{3} - \sqrt[3]{2}}$. With your answer in the form $\displaystyle \frac{\sqrt[3]{A} + \sqrt[3]{B} + \sqrt[3]{C}}{D}$, and the fraction in lowest terms, what is $A + B + C + D$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

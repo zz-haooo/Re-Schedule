@@ -1,0 +1,42 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10185
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The first three stages of a pattern are shown below, in which each line segment represents a toothpick. If the pattern continues such that at each successive stage, three toothpicks are added to the previous arrangement, how many toothpicks are necessary to create the arrangement for the 250th stage? [asy]
+size(150);
+defaultpen(linewidth(0.7));
+void drawSquare(pair A){
+
+draw((A.x + 0.1,A.y)--(A.x + 0.9,A.y));
+
+draw((A.x,A.y + 0.1)--(A.x,A.y + 0.9));
+
+draw((A.x + 1,A.y + 0.1)--(A.x + 1,A.y + 0.9));
+
+draw((A.x + 0.1,A.y + 1)--(A.x + 0.9,A.y + 1));
+}
+
+int k = 0;
+
+for(int i = 1; i <= 3; ++i){
+
+for(int j = 0; j < i; ++j){
+
+drawSquare((k,0));
+
+++k;
+
+}
+
+draw((k+0.1,0.5)--(k+0.9,0.5),EndArrow);
+
+++k;
+}
+label("$\cdots$",(k,0.5));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 751
+==================================================
+

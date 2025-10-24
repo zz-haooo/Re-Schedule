@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5579
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A beam of light strikes $\overline{BC}\,$ at point $C\,$ with angle of incidence $\alpha=19.94^\circ\,$ and reflects with an equal angle of reflection as shown.  The light beam continues its path, reflecting off line segments $\overline{AB}\,$ and $\overline{BC}\,$ according to the rule: angle of incidence equals angle of reflection.  Given that $\beta=\alpha/10=1.994^\circ\,$ and $AB=BC,\,$ determine the number of times the light beam will bounce off the two line segments.  Include the first reflection at $C\,$ in your count.
+
+AIME 1994 Problem 14.png
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 71
+==================================================
+

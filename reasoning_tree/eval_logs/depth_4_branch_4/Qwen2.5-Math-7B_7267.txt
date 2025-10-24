@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7267
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For some real number $c,$ the graphs of the equation $y=|x-20|+|x+18|$ and the line $y=x+c$ intersect at exactly one point. What is $c$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

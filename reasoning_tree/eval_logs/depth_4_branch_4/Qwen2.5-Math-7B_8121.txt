@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8121
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The following diagram shows a grid of $36$ cells. Find the number of rectangles pictured in the diagram that contain at least three cells of the grid.
+[img]https://cdn.artofproblemsolving.com/attachments/a/4/e9ba3a35204ec68c17a364ebf92cc107eb4d7a.png[/img]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 345
+==================================================
+

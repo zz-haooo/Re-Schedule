@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1021
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two right triangles are placed next to each other to form a quadrilateral as shown. What is the perimeter of the quadrilateral?
+
+\[ \text{[asy]} \]
+\[ \text{size}(4\text{cm}); \]
+\[ \text{fill}((-5,0)--(0,12)--(0,6)--(8,0)--\text{cycle}, \text{gray}+\text{opacity}(0.3)); \]
+\[ \text{draw}((0,0)--(0,12)--(-5,0)--\text{cycle}); \]
+\[ \text{draw}((0,0)--(8,0)--(0,6)); \]
+\[ \text{label}("5", (-2.5,0), \text{S}); \]
+\[ \text{label}("13", (-2.5,6), \text{dir}(140)); \]
+\[ \text{label}("6", (0,3), \text{E}); \]
+\[ \text{label}("8", (4,0), \text{S}); \]
+\[ \text{[/asy]} \]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 42
+==================================================
+

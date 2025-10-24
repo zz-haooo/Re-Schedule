@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6593
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Rectangle $ABCD$ is inscribed in triangle $EFG$ such that side $AD$ of the rectangle is on side $EG$ of the triangle, as shown. The triangle's altitude from $F$ to side $EG$ is 7 inches, and $EG = 10 \text{ inches}$. The length of segment $AB$ is equal to half the length of segment $AD$. What is the area of rectangle $ABCD$? Express your answer as a common fraction.
+
+[asy]
+import math;
+size(101);
+real x = 35/12;
+currentpen = linewidth(1)+fontsize(10pt);
+pair E1 = (0,0), G = (10,0), F = (3,7), A = (3*x/7,0), D = G - (7*x/7,0), B = extension(E1,F,A,A+(0,1)), C = extension(G,F,D,D+(0,1));
+draw(E1--F--G--cycle); draw(A--B--C--D); label("$A$",A,S); label("$B$",B,NW); label("$C$",C,NE); label("$D$",D,S); label("$E$",E1,W); label("$F$",F,NNW); label("$G$",G,ESE);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1297
+==================================================
+

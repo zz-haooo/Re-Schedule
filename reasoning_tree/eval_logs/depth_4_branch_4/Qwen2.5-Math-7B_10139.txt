@@ -1,0 +1,40 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10139
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, what is the perimeter of polygon $PQRST$? [asy]
+
+import olympiad;
+
+size(6cm); // ADJUST
+
+pair p = (0, 6);
+pair q = (3, 6);
+
+pair r = (3, 3);
+pair t = (0, 0);
+pair s = (7, 0);
+
+draw(p--q--r--s--t--cycle);
+label("$P$", p, NW);
+label("$Q$", q, NE);
+label("$R$", r, E + NE);
+label("$S$", s, SE);
+label("$T$", t, SW);
+
+label("$6$", p / 2, W);
+label("$3$", p + (q - p) / 2, 2 * N);
+label("$7$", s / 2, S);
+
+draw(rightanglemark(p, t, s));
+draw(rightanglemark(t, p, q));
+draw(rightanglemark(p, q, r));
+add(pathticks(p--q, s=6));
+add(pathticks(q--r, s=6));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

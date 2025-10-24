@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16828
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If \(x \neq 0\) or \(4\) and \(y \neq 0\) or \(6\), then \(\frac{2}{x}+\frac{3}{y}=\frac{1}{2}\) is equivalent to the equation \(\frac{ay}{y-b}=x\). Please determine the sum of a and b.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

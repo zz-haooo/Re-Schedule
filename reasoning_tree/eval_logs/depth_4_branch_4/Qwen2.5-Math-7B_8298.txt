@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8298
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $w=\cos40^\circ+i\sin40^\circ $, then
+\[|w+2w^2+3w^3+ \dots +9w^9|^{-1}\]can be expressed in the form $\frac{a}{b} \sin n^\circ,$ where $a$ and $b$ are relatively prime positive integers, and $n$ is a positive integer smaller than 90.  Find $a + b + n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

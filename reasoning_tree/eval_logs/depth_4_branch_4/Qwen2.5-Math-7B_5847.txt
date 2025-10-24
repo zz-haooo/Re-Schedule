@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5847
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A frog is placed at the origin on the number line , and moves according to the following rule: in a given move, the frog advances to either the closest point with a greater integer coordinate that is a multiple of $3$, or to the closest point with a greater integer coordinate that is a multiple of $13$. A move sequence is a sequence of coordinates that correspond to valid moves, beginning with $0$ and ending with $39$. For example, $0,\ 3,\ 6,\ 13,\ 15,\ 26,\ 39$ is a move sequence. How many move sequences are possible for the frog?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 169
+==================================================
+

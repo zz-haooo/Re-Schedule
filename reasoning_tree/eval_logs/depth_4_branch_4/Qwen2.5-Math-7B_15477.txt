@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15477
+Question: 若 $x^{2}+y^{2} \leqslant 1(x y \in \mathbf{R})$, 求 $x^{2}+x y-y^{2}$ 的最大值与最小值所组成的区间。答案形如 \left[-\frac{\sqrt{k}}{m}, \frac{\sqrt{k}}{m}\right]，请给出k + m的值。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 7
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 250
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $100$ countries participating in an olympiad. Suppose $n$ is a positive integer such that each of the $100$ countries is willing to communicate in exactly $n$ languages. If each set of $20$ countries can communicate in exactly one common language, and no language is common to all $100$ countries, what is the minimum possible value of $n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

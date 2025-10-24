@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8262
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The value of
+$$\left(1-\frac{1}{2^2-1}\right)\left(1-\frac{1}{2^3-1}\right)\left(1-\frac{1}{2^4-1}\right)\dots\left(1-\frac{1}{2^{29}-1}\right)$$
+can be written as $\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $2m - n.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

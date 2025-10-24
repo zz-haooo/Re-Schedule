@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16306
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are 22 black and 3 blue balls in a bag. Ahmet chooses an integer $n$ between 1 and 25. Betül draws $n$ balls from the bag one by one such that no ball is put back after it is drawn. If exactly 2 of the $n$ balls are blue and the second blue ball is drawn at the $n^{th}$ order, Ahmet wins; otherwise, Betül wins. To increase the possibility of winning, what integer should Ahmet choose?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

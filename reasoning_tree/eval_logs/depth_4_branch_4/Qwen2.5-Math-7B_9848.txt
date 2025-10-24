@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9848
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $(a_1, b_1),$ $(a_2, b_2),$ $\dots,$ $(a_n, b_n)$ be the real solutions to
+\begin{align*}
+a + \frac{17a + 6b}{a^2 + b^2} &= 6, \\
+b + \frac{6a - 17b}{a^2 + b^2} &= 0.
+\end{align*}Find $a_1 + b_1 + a_2 + b_2 + \dots + a_n + b_n.$
+
+Hint: Use complex numbers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

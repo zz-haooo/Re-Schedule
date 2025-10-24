@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16457
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jack and Jill run \(10\) kilometers. They start at the same point, run \(5\) kilometers up a hill, and return to the starting point by the same route. Jack has a \(10\) minute head start and runs at the rate of \(15\) km/hr uphill and \(20\) km/hr downhill. Jill runs \(16\) km/hr uphill and \(22\) km/hr downhill. How far from the top of the hill are they when they pass going in opposite directions? The original answer is in \(\frac{k}{m}\) format, please give the value of k + m.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 62
+==================================================
+

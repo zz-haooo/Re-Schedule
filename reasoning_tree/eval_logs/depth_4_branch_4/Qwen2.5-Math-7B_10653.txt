@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10653
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $z$ be a complex number such that $|z| = 2.$  Find the largest possible distance between $(3 + 4i)z^3$ and $z^5$ when plotted in the complex plane.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 72
+==================================================
+

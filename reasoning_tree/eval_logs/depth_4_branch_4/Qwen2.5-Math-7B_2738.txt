@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2738
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Points $A$, $B$, $C$, $D$, and $E$ are on the same plane such that $A, E, C$ lie on a line in that order, $B, E, D$ lie on a line in that order, $AE = 1$, $BE = 4$, $CE = 3$, $DE = 2$, and $\angle AEB = 60^\circ$. Let $AB$ and $CD$ intersect at $P$. The square of the area of quadrilateral $PAED$ can be expressed as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 967
+==================================================
+

@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4030
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On a plane, there is an invisible rabbit hiding on a lattice point. We want to place $n$ hunters on some lattice points to catch the rabbit. In each turn, the following steps occur in order:
+
+1. The rabbit jumps to an adjacent lattice point in the top, bottom, left, or right direction.
+2. Each hunter moves to an adjacent lattice point in the top, bottom, left, or right direction (each hunter can move in a different direction). Then, they shoot a bullet which travels $\frac{334111214}{334111213}i$ units in the direction they chose.
+
+If a bullet hits the rabbit, then it is caught. Find the smallest number $n$ such that the rabbit would definitely be caught in a finite number of turns.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

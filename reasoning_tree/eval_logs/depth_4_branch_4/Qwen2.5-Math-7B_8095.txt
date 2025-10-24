@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8095
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On a typical morning Aiden gets out of bed, goes through his morning preparation, rides the bus, and walks from the bus stop to work arriving at work 120 minutes after getting out of bed. One morning Aiden got out of bed late, so he rushed through his morning preparation getting onto the bus in half the usual time, the bus ride took 25 percent longer than usual, and he ran from the bus stop to work in half the usual time it takes him to walk arriving at work 96 minutes after he got out of bed. The next morning Aiden got out of bed extra early, leisurely went through his morning preparation taking 25 percent longer than usual to get onto the bus, his bus ride took 25 percent less time than usual, and he walked slowly from the bus stop to work taking 25 percent longer than usual. How many minutes after Aiden got out of bed did he arrive at work that day?
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 126
+==================================================
+

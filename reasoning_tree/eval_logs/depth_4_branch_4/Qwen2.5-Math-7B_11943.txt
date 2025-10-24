@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11943
+Question: 设 X=\{1,2,\cdots,10\}，f:X\rightarrow X 的映射满足① f\circ f=I_X，其中 f\circ f 是复合映射，I_X 为 X 上的恒等映射；② |f(i)-i|\leq 2，对任意 i\in X.求映射 f 的数目.
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 401
+==================================================
+

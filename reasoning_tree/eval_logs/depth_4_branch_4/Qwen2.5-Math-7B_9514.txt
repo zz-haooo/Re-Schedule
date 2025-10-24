@@ -1,0 +1,32 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9514
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three congruent isosceles triangles $DAO,$ $AOB,$ and $OBC$ have $AD=AO=OB=BC=10$ and $AB=DO=OC=12.$ These triangles are arranged to form trapezoid $ABCD,$ as shown. Point $P$ is on side $AB$ so that $OP$ is perpendicular to $AB.$ [asy]
+pair A, B, C, D, O, P;
+A= (6, 8);
+B=(18, 8);
+C=(24, 0);
+D=(0,0);
+O=(12,0);
+P=(12,8);
+draw(A--B--C--D--A);
+draw(A--O--B);
+draw(O--P, dashed);
+label("A", A, NW);
+label("B", B, NE);
+label("C", C, SE);
+label("D", D, SW);
+label("O", O, S);
+label("P", P, N);
+label("12", (D+O)/2, S);
+label("12", (O+C)/2, S);
+label("10", (A+D)/2, NW);
+label("10", (B+C)/2, NE);
+[/asy] What is the length of $OP?$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

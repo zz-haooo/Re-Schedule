@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8184
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are relatively prime positive integers $s$ and $t$ such that $$\sum_{n=2}^{100}\left(\frac{n}{n^2-1}- \frac{1}{n}\right)=\frac{s}{t}$$ Find $s + t$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 25249
+==================================================
+

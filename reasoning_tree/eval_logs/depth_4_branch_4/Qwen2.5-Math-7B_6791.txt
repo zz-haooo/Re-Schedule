@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6791
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The four complex roots of
+\[2z^4 + 8iz^3 + (-9 + 9i)z^2 + (-18 - 2i)z + (3 - 12i) = 0,\]when plotted in the complex plane, form a rhombus.  Find the area of the rhombus.The answer is in the form k\sqrt{m}+n,. Please provide the value of k + m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

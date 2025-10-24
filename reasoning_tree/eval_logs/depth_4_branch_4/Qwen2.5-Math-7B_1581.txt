@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1581
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A round robin tournament is held with $2016$ participants. Each player plays each other player once, and no games result in ties. We say a pair of players $A$ and $B$ is a dominant pair if all other players either defeat both $A$ and $B$ or are defeated by both $A$ and $B$. Find the maximum number of dominant pairs.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2015
+==================================================
+

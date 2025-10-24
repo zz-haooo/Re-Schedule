@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7639
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of ordered pairs of integers $(x, y)$ such that $2167$ divides $3x^2 + 27y^2 + 2021$ with $0 \le x, y \le 2166$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2352
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 358
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We take $100$ consecutive natural numbers $a_1, a_2, \ldots, a_{100}$. Determine the last two digits of the number $a_1^8 + a_2^8 + \ldots + a_{100}^8$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

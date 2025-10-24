@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8448
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the number of pairs $(a,b)$ of real numbers such that $10, a, b, ab$ is an arithmetic progression.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

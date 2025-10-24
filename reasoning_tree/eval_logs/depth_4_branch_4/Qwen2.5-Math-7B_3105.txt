@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3105
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For $n \geq 1$, let $a_n$ be the number beginning with $n$ 9's followed by 744; for example, $a_4 = 9999744$. Define \[ f(n) = \max \{ m \in \mathbb{N} \mid 2^m \text{ divides } a_n \}, \] for $n \geq 1$. Find $f(1) + f(2) + f(3) + \cdots + f(10)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 75
+==================================================
+

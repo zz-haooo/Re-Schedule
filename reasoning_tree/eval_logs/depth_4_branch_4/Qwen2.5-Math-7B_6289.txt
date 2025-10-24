@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6289
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A game board is constructed by shading two of the regions formed by the altitudes of an equilateral triangle as shown. What is the probability that the tip of the spinner will come to rest in a shaded region? Express your answer as a common fraction. [asy]
+import olympiad; size(100); defaultpen(linewidth(0.8));
+pair A = (0,0), B = (1,0), C = (0.5,sqrt(3)/2);
+pair D = (A + B)/2, E = (B + C)/2, F = (C + A)/2;
+pair M = intersectionpoint(A--E,B--F);
+draw(A--B--C--cycle);
+draw(A--E^^B--F^^C--D);
+filldraw(D--M--B--cycle,fillpen=gray(0.6));
+filldraw(F--M--C--cycle,fillpen=gray(0.6));
+draw(M--(0.4,0.5),EndArrow(size=10));
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

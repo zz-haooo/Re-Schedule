@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7372
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many integers $n$ are there such that $0  \le n \le 720$ and $n^2 \equiv 1$ (mod $720$)?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

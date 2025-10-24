@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16004
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A particle of mass $m$ moving at speed $v_0$ collides with a particle of mass $M$ which is originally at rest. The fractional momentum transfer $f$ is the absolute value of the final momentum of $M$ divided by the initial momentum of $m$.
+
+The fractional energy transfer is the absolute value of the final kinetic energy of $M$ divided by the initial kinetic energy of $m$.
+
+If the collision is perfectly elastic, under what condition will the fractional energy transfer between the two objects be a maximum? Express your answer as a relationship between $m$ and $M$ in the form k*m = n*M, and provide the sum of k and n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

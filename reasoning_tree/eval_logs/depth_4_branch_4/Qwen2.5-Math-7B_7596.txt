@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7596
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In regular pentagon $ABCDE$, let $O \in CE$ be the center of circle $\Gamma$ tangent to $DA$ and $DE$. $\Gamma$ meets $DE$ at $X$ and $DA$ at $Y$ . Let the altitude from $B$ meet $CD$ at $P$. If $CP = 1$, the area of $\vartriangle COY$ can be written in the form $\frac{a}{b}  \frac{\sin c^o}{\cos^2 c^o}$ , where $a$ and $b$ are relatively prime positive integers and $c$ is an integer in the range $(0, 90)$. Find $a + b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 39
+==================================================
+

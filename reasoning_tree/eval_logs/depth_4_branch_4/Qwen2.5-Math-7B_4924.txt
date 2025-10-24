@@ -1,0 +1,30 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4924
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The figure below shows a triangle $ABC$ with a semicircle on each of its three sides.
+
+```latex
+\begin{asy}
+  unitsize(5);
+  pair A = (0, 20 * 21) / 29.0;
+  pair B = (-20^2, 0) / 29.0;
+  pair C = (21^2, 0) / 29.0;
+  draw(A -- B -- C -- cycle);
+  label("$A$", A, S);
+  label("$B$", B, S);
+  label("$C$", C, S);
+  filldraw(arc((A + C)/2, C, A)--cycle, gray);
+  filldraw(arc((B + C)/2, C, A)--cycle, white);
+  filldraw(arc((A + B)/2, A, B)--cycle, gray);  
+  filldraw(arc((B + C)/2, A, B)--cycle, white);
+\end{asy}
+```
+
+If $AB = 20$, $AC = 21$, and $BC = 29$, what is the area of the shaded region?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 210
+==================================================
+

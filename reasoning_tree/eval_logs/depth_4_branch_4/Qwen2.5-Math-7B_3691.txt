@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3691
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If digits $A$, $B$, and $C$ (between $0$ and $9$ inclusive) satisfy:
+\[
+\begin{array}{c@{\,}c@{\,}c@{\,}c}
+ & C & C & A \\
++ & B & 2 & B \\\hline
+ & A & 8 & 8 \\
+\end{array}
+\]
+What is $A \cdot B \cdot C$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 42
+==================================================
+

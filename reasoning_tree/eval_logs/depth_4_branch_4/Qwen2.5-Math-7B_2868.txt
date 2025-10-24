@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2868
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the $5 \times 5 \times 5$ equilateral triangular grid as shown:
+
+```asy
+size(5cm);
+real n = 5;
+for (int i = 0; i < n; ++i) {
+    draw((0.5*i,0.866*i)--(n-0.5*i,0.866*i));
+}
+for (int i = 0; i < n; ++i) {
+    draw((n-i,0)--((n-i)/2,(n-i)*0.866));
+}
+for (int i = 0; i < n; ++i) {
+    draw((i,0)--((n+i)/2,(n-i)*0.866));
+}
+```
+
+Ethan chooses two distinct upward-oriented equilateral triangles bounded by the gridlines. The probability that Ethan chooses two triangles that share exactly one vertex can be expressed as $\frac{m}{n}$ for relatively prime positive integers $m$ and $n$. Compute $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9902
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The numbers 2, 3, 5, 7, 11, 13 are arranged in a multiplication table, with three along the top and the other three down the left.  The multiplication table is completed and the sum of the nine entries is tabulated.  What is the largest possible sum of the nine entries?
+
+\[
+\begin{array}{c||c|c|c|}
+\times & a & b & c \\ \hline \hline
+d & & & \\ \hline
+e & & & \\ \hline
+f & & & \\ \hline
+\end{array}
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 420
+==================================================
+

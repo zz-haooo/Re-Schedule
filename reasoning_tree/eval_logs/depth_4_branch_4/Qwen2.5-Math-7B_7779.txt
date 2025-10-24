@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7779
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alice, Bob, and Carol each independently roll a fair six-sided die and obtain the numbers $a, b, c$, respectively. They then compute the polynomial $f(x)=x^{3}+p x^{2}+q x+r$ with roots $a, b, c$. If the expected value of the sum of the squares of the coefficients of $f(x)$ is $\frac{m}{n}$ for relatively prime positive integers $m, n$, find the remainder when $m+n$ is divided by 1000 .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 551
+==================================================
+

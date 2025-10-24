@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10838
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+"Modulo $m$ graph paper" consists of a grid of $m^2$ points, representing all pairs of integer residues $(x,y)$ where $0\le x, y <m$. To graph a congruence on modulo $m$ graph paper, we mark every point $(x,y)$ that satisfies the congruence. For example, a graph of $y\equiv x^2\pmod 5$ would consist of the points $(0,0)$, $(1,1)$, $(2,4)$, $(3,4)$, and $(4,1)$.
+
+The graph of $$3x\equiv 4y-1 \pmod{35}$$has a single $x$-intercept $(x_0,0)$ and a single $y$-intercept $(0,y_0)$, where $0\le x_0,y_0<35$.
+
+What is the value of $x_0+y_0$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

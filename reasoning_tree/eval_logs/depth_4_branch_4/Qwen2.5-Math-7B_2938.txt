@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2938
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For how many positive integers $n$, $1 \leq n \leq 2008$, can the set $\{1, 2, 3, \ldots, 4n\}$ be divided into $n$ disjoint 4-element subsets such that every one of the $n$ subsets contains the element which is the arithmetic mean of all the elements in that subset?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1004
+==================================================
+

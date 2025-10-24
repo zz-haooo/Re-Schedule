@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8421
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\{a_n\}_{n\geq 1}$ be an arithmetic sequence and $\{g_n\}_{n\geq 1}$ be a geometric sequence such that the first four terms of $\{a_n+g_n\}$ are $0$, $0$, $1$, and $0$, in that order.  What is the next term of $\{a_n+g_n\}$?
+
+Note: Duplicate problem
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

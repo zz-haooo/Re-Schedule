@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1158
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Anna and Berta play a game in which they take turns removing marbles from a table. Anna takes the first turn. At the beginning of each turn, if there are $n \geq 1$ marbles on the table, the player whose turn it is removes $k$ marbles, where $k \geq 1$ satisfies one of the following conditions:
+
+1. $k$ is an even number and $k \leq \frac{n}{2}$.
+2. $k$ is an odd number and $\frac{n}{2} \leq k \leq n$.
+
+A player wins the game if she removes the last marble from the table.
+
+Determine the smallest number $N \geq 100000$ such that Berta can enforce a victory if there are exactly $N$ marbles on the table at the beginning.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 131070
+==================================================
+

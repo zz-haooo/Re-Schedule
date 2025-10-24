@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1827
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram below, rectangle $ABCD$ has $AB = 5$ and $AD = 12$. Also, $E$ is a point in the same plane outside $ABCD$ such that the perpendicular distances from $E$ to the lines $AB$ and $AD$ are $12$ and $1$, respectively, and $\triangle ABE$ is acute. There exists a line passing through $E$ which splits $ABCD$ into two figures of equal area. Suppose that this line intersects $\overline{AB}$ at a point $F$ and $\overline{CD}$ at a point $G$. Find $FG^2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 145
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2852
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $2000 < N < 2100$ be an integer. Suppose the last day of year $N$ is a Tuesday while the first day of year $N+2$ is a Friday. The fourth Sunday of year $N+3$ is the $m$th day of January. What is $m$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

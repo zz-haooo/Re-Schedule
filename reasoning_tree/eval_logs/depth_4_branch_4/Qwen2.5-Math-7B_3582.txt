@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3582
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Siva has the following expression, which is missing operations:
+$$\frac{1}{2} \_ \frac{1}{4} \_ \frac{1}{8} \_ \frac{1}{16} \_ \frac{1}{32}.$$ 
+
+For each blank, he flips a fair coin: 
+- If it comes up heads, he fills it with a plus.
+- If it comes up tails, he fills it with a minus.
+
+Afterwards, he computes the value of the expression. He then repeats the entire process with a new set of coin flips and operations. 
+
+If the probability that the positive difference between his computed values is greater than $\frac{1}{2}$ can be expressed as $\frac{a}{b}$ for relatively prime positive integers $a$, $b$, then find $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 39
+==================================================
+

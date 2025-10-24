@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13273
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a solid sphere of radius $R$ the density $\rho$ is a function of $r$, the distance from the center of the sphere. If the magnitude of the gravitational force of attraction due to the sphere at any point inside the sphere is $k r^{2}$, where $k$ is a constant, find $\rho$ as a function of $r$. Find also the magnitude of the force of attraction at a point outside the sphere at a distance $r$ from the center. (Assume that the magnitude of the force of attraction at a point $P$ due to a thin spherical shell is zero if $P$ is inside the shell, and is $m / r^{2}$ if $P$ is outside the shell, $m$ being the mass of the shell, and $r$ the distance of $P$ from the center.)The answer can be written as $\frac{k R^{m}}{r^{n}}$ for $r > R$. Find the value of $m + n$. 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

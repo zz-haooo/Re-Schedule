@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14601
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A solid tetrahedron is sliced off a solid wooden unit cube by a plane passing through two nonadjacent vertices on one face and one vertex on the opposite face not adjacent to either of the first two vertices. The tetrahedron is discarded and the remaining portion of the cube is placed on a table with the cut surface face down. What is the height of this object in the form of \(\frac{a \sqrt{b}}{c}\), where \(a\), \(b\), and \(c\) are integers? Please find the value of a + b + c.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9719
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Square $BCFE$ is inscribed in right triangle $AGD$, as shown below. If $AB = 28$ units and $CD = 58$ units, what is the area of square $BCFE$?
+
+[asy]
+draw((9,15.6)--(10.7,14.6)--(11.7,16.3));
+draw((0,0)--(10,17.3)--(40,0)--cycle);
+draw((7,0)--(19,0)--(19,12.1)--(7,12.1)--cycle);
+label("$A$",(0,0),SW);
+label("$B$",(7,0),S);
+label("$C$",(19,0),S);
+label("$D$",(40,0),SE);
+label("$E$",(7,12.1),NW);
+label("$F$",(19,12.1),NE);
+label("$G$",(10,17.3),N);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1624
+==================================================
+

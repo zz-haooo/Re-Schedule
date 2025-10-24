@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 266
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jack and Jill are playing a chance game. They take turns alternately rolling a fair six-sided die labeled with the integers 1 through 6 (fair meaning the numbers appear with equal probability). Jack wins if a prime number appears when he rolls, while Jill wins if a number greater than 1 appears when she rolls. The game terminates as soon as one of them has won. If Jack rolls first in a game, then the probability that Jill wins the game can be expressed as $\frac{m}{n}$ where $m$ and $n$ are relatively prime positive integers. Compute $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

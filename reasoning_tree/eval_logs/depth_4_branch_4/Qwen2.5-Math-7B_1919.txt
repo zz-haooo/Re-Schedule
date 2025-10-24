@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1919
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the positive integers $n$ that are not divisible by $3$ if the number $2^{n^2-10} + 2133$ is a perfect cube. 
+
+Solve the Diophantine equation $x^3 = 2^{n^2-10} + 2133$ where $x, n \in \mathbb{N}$ and $3 \nmid n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

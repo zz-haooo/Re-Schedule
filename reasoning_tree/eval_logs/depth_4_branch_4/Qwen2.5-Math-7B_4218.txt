@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4218
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let triangle $ABC$ have side lengths $AB = 13$, $BC = 14$, $AC = 15$. Let $I$ be the incenter of $\triangle ABC$. The circle centered at $A$ with radius $AI$ intersects the circumcircle of $\triangle ABC$ at points $H$ and $J$. Let $L$ be a point that lies on both the incircle of $\triangle ABC$ and line $HJ$. If the minimal possible value of $AL$ is $\sqrt{n}$, where $n \in \mathbb{Z}$, find $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

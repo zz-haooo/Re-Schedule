@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9524
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The inhabitants of the island of Jumble use the standard Kobish alphabet ($20$ letters, A through T).  Each word in their language is $4$ letters or less, and for some reason, they insist that all words contain the letter A at least once. How many words are possible?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30860
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1861
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In quadrilateral $ABCD$, where $AC = BD$ and $\angle B = 60^\circ$, denote by $M$ and $N$ the midpoints of $\overline{AB}$ and $\overline{CD}$, respectively. Given that $MN = 12$ and the area of quadrilateral $ABCD$ is 420, compute $AC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 37
+==================================================
+

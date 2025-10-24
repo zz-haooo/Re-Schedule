@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10974
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A Parliament of $2000 MP$s decided to ratify the state budget of 200 expenditure items. Each $MP$ prepared a draft budget with what (s)he thinks the maximum possible allocation for each item so that the total expenditure does not exceed a given ceiling, S. For each item, the Parliament approves the maximum expenditure approved by not less than k $MP$s. What is the least value of k to ensure that the approved total does not exceed S?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1991
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3366
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We are given a series of similar triangles with areas $1^2, 3^2, 5^2, \ldots, 49^2$. If the smallest triangle has a perimeter of 4, what is the sum of the perimeters of all the triangles?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2500
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 534
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We select a real number $\alpha$ uniformly and at random from the interval $(0,500)$. Define 
+\[ S = \frac{1}{\alpha} \sum_{m=1}^{1000} \sum_{n=m}^{1000} \left\lfloor \frac{m+\alpha}{n} \right\rfloor. \]
+Let $p$ denote the probability that $S \ge 1200$. Compute $1000p$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

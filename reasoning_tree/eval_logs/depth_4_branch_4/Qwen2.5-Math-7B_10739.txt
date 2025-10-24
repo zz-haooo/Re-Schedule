@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10739
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $P(x) = (x-1)(x-2)(x-3)$. For how many polynomials $Q(x)$ does there exist a polynomial $R(x)$ of degree 3 such that $P\left(Q(x)\right) = P(x)\cdot R(x)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 22
+==================================================
+

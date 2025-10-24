@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13785
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find all positive integers $n\geqslant2$ for which there exist $n$ real numbers $a_{1}<\cdots<a_{n}$ and a real number $r>0$ such that the $\frac{1}{2}n(n-1)$ differences $a_{j}-a_{i}$ for $1\leqslant i<j\leqslant n$ are equal, in some order, to the numbers $r^{1},r^{2},\ldots,r^{\frac{1}{2}n(n-1)}$. Please provide the sum of all such $n$ values.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

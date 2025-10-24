@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14223
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jane and Jena sit at non-adjacent chairs of a four-chair circular table. In a turn, one person can move to an adjacent chair without a person. Jane moves in the first turn, and alternates with Jena afterwards. After nine moves, in how many ways can Jena be adjacent to Jane?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 32
+==================================================
+

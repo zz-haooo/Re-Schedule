@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10633
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In how many ways can we seat 6 people around a round table if Fred and Gwen insist on sitting opposite each other?  (Two seatings are considered equivalent if one is a rotation of the other.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

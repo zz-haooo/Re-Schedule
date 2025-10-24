@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15359
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Define an $upno$ to be a positive integer of $2$ or more digits where the digits are strictly increasing moving left to right. Similarly, define a $downno$ to be a positive integer of $2$ or more digits where the digits are strictly decreasing moving left to right. For instance, the number $258$ is an $upno$ and $8620$ is a $downno$. Let $U$ equal the total number of $upnos$ and let $D$ equal the total number of $downnos$. Find the value of $|U-D|$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 511
+==================================================
+

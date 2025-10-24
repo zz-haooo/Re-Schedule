@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10713
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A stairway with three steps has three risers that are each 8 inches high and three treads that are each 10 inches deep. What is the area, in square inches, of this figure that is the side panel of the stairway?
+
+[asy]size(101);
+real textsize = 10pt;
+draw((0,0)--(30,0)--(30,8)--(20,8)--(20,16)--(10,16)--(10,24)--(0,24)--cycle);
+draw((31,0)--(33,0)^^(32,0)--(32,8)^^(31,8)--(33,8));
+label("$8''$ riser",(33,4),E,fontsize(textsize));
+draw((10,25)--(10,27)^^(10,26)--(20,26)^^(20,25)--(20,27));
+label("$10''$",(15,27),N,fontsize(textsize));
+label("tread",(15,32),N,fontsize(textsize));[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 480
+==================================================
+

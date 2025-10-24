@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4828
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be equilateral with integer side length. Point $X$ lies on $\overline{BC}$ strictly between $B$ and $C$ such that $BX<CX$. Let $C'$ denote the reflection of $C$ over the midpoint of $\overline{AX}$. If $BC'=30$, find the sum of all possible side lengths of $\triangle ABC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 130
+==================================================
+

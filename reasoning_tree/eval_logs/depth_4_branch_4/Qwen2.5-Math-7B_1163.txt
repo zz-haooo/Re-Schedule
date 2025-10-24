@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1163
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the remainder when dividing the number \( A = 1 \cdot 2 + 2 \cdot 3 + 3 \cdot 4 + \ldots + 2009 \cdot 2010 + 2010 \cdot 2011 \) by 2012.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

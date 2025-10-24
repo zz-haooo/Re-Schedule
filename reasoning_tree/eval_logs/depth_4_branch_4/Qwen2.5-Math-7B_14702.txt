@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14702
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+From point $P$ outside a circle, with a circumference of $10$ units, a tangent is drawn. Also from $P$, a secant is drawn dividing the circle into unequal arcs with lengths $m$ and $n$. It is found that $t_1$, the length of the tangent, is the mean proportional between $m$ and $n$. If $m$ and $t$ are integers, find the number of possible integer values for $t$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

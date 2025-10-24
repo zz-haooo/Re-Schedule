@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1554
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given $x, y, z \in \mathbb{R}^+$, which are solutions to the system of equations:
+\[
+x^2 + xy + y^2 = 57
+\]
+\[
+y^2 + yz + z^2 = 84
+\]
+\[
+z^2 + zx + x^2 = 111
+\]
+What is the value of $xy + 3yz + 5zx$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 270
+==================================================
+

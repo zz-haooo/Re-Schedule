@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2695
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The subnumbers of an integer $n$ are the numbers that can be formed by using a contiguous subsequence of the digits. For example, the subnumbers of 135 are 1, 3, 5, 13, 35, and 135. Compute the number of primes less than 1,000,000,000 that have no non-prime subnumbers. One such number is 37, because 3, 7, and 37 are prime, but 135 is not one, because the subnumbers 1, 35, and 135 are not prime.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2072
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$ABCDEF GH$ is a regular octagon with a side length of $10$ units. Consider a circle with center $A$ and radius $AC$, which intersects another circle with center $D$ and radius $CD$ at a point $I$, different from $C$. What is the length of the segment $IF$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

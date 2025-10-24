@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10392
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Sally has a bagful of candy. She arranges it into an $a$ by $b$ grid, but she has $2a+b$ candies leftover. Her big sister Rita comes along and says, "I can do better than that!" Rita neatly arranges the candies into a $5a-4$ by $\frac{b-1}{3}$ grid and has none leftover. What is the maximum number of candies in Sally's bag?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 208
+==================================================
+

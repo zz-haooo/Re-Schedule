@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10423
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On the student government ballot at Dusable High School, the six candidates for president are listed first, followed by the four candidates for vice president, followed by the five candidates for secretary and ending with the three candidates for treasurer. In how many ways can the candidates be listed on the ballot?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12441600
+==================================================
+

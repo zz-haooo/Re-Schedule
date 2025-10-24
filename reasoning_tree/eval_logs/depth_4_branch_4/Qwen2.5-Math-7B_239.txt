@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 239
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the least odd number $a > 5$ satisfying the following conditions: There are positive integers $m_1, m_2, n_1, n_2$ such that $a = m_1^2 + n_1^2$, $a^2 = m_2^2 + n_2^2$, and $m_1 - n_1 = m_2 - n_2$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 261
+==================================================
+

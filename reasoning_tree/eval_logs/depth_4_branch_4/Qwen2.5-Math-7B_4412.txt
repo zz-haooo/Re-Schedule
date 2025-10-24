@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4412
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The following diagram shows a square where each side has seven dots that divide the side into six equal segments. All the line segments that connect these dots and form a $45^{\circ}$ angle with a side of the square are drawn as shown. The area of the shaded region is 75. Find the area of the original square.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 180
+==================================================
+

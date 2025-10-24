@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1646
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $x^2 + px + q$ has two distinct roots $x = a$ and $x = b$. Furthermore, suppose that the positive difference between the roots of $x^2 + ax + b$, the positive difference between the roots of $x^2 + bx + a$, and twice the positive difference between the roots of $x^2 + px + q$ are all equal. Given that $q$ can be expressed in the form $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers, compute $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

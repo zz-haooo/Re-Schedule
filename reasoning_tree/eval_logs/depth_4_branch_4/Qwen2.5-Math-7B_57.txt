@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 57
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Byan is playing a game called "raven, raven, falcon" with his three friends. His friends sit in a circle, and Byan walks clockwise around them, tapping each friend he passes on the head and saying either "raven" or "falcon," each with a probability of $\frac{1}{2}$. The game ends when Byan has said "falcon" twice. The probability that one of his friends will be called a "falcon" twice can be expressed as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $100m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 107
+==================================================
+

@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11733
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$\cos18^{\circ}+2\cos36^{\circ}+\cdots+20\cos360^{\circ}$
+=_______。
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

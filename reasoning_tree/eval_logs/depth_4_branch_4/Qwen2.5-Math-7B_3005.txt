@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3005
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Quadrilateral $ABCD$ has integer side lengths, and angles $\angle ABC$, $\angle ACD$, and $\angle BAD$ are right angles. Compute the smallest possible value of $AD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 25
+==================================================
+

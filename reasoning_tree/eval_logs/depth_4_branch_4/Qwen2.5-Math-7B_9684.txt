@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9684
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the smallest positive integer $n$ for which $n^2$ is divisible by 18 and $n^3$ is divisible by 640?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 120
+==================================================
+

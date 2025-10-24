@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4715
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the sum of all positive integers $n$ with the following properties:
+
+- $n$ is not divisible by any primes larger than $10$.
+- For some positive integer $k$, the positive divisors of $n$ are ordered as:
+  \[1 = d_1 < d_2 < d_3 < \cdots < d_{2k} = n.\]
+- The divisors of $n$ satisfy the condition:
+  \[d_1 + d_2 + \cdots + d_k = 3k.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 416
+==================================================
+

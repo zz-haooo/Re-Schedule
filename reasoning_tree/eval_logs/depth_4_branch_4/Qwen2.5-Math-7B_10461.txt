@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10461
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The figure below is composed of the rectangles $A$, $B$, $C$, and $D$ with whole number values for length and width. The areas of regions $A$, $B$, and $C$ in square meters, are shown in the diagram. What is the area in square meters of rectangle $D$? [asy]
+draw((0,0)--(0,11)--(13,11)--(13,0)--cycle);
+draw((0,6)--(13,6)); draw((8,11)--(8,0));
+label("$A$",(0,11),SE); label("$B$",(8,11),SE); label("$C$",(8,6),SE); label("$D$",(0,6),SE);
+label("40",(6,9)); label("25",(11,9)); label("30",(11,2)); label("?", (6,2));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 48
+==================================================
+

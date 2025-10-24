@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 948
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Beto plays the following game with his computer: initially, the computer randomly picks $30$ integers from $1$ to $2015$, and Beto writes them on a chalkboard (there may be repeated numbers). On each turn, Beto chooses a positive integer $k$ and some of the numbers written on the chalkboard, and subtracts $k$ from each of the chosen numbers, with the condition that the resulting numbers remain non-negative. The objective of the game is to reduce all $30$ numbers to $0$, in which case the game ends. Find the minimal number $n$ such that, regardless of which numbers the computer chooses, Beto can end the game in at most $n$ turns.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

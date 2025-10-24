@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3935
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An equilateral triangle $ABC$ is divided by nine lines parallel to $BC$ into ten bands that are equally wide. The bands are colored alternately red and blue, with the smallest band colored red. The difference between the total area in red and the total area in blue is $20\, \text{cm}^2$. 
+
+What is the area of triangle $ABC$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 200
+==================================================
+

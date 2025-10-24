@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7664
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+ You are walking along a road of constant width with sidewalks on each side. You can only walk on the sidewalks or cross the road perpendicular to the sidewalk. Coming up on a turn, you realize that you are on the “outside” of the turn; i.e., you are taking the longer way around the turn. The turn is a circular arc. Assuming that your destination is on the same side of the road as you are currently, let $\theta$ be the smallest turn angle, in radians, that would justify crossing the road and then crossing back after the turn to take the shorter total path to your destination. What is $\lfloor 100 \cdot \theta \rfloor$ ?
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 200
+==================================================
+

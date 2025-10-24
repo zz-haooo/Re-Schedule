@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13761
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be an even positive integer. Let $p$ be a monic, real polynomial of degree $2n;$ that is to say, $p(x)=x^{2n}+a_{2n-1}x^{2n-1}+\cdots+a_{1}x+a_{0}$ for some real coefficients $a_{0},\ldots,a_{2n-1}.$ Suppose that $p(1/k)=k^{2}$ for all integers $k$ such that $1\leq|k|\leq n.$ Find all other real numbers $x$ for which $p(1/x)=x^2.$ The original answer is in the form of $\pm m/n!$, please give the value of m+ n
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

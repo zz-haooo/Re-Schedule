@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3650
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given two natural numbers $w$ and $n$, the tower of $n$ $w$'s is the natural number $T_n(w)$ defined by
+
+\[ T_n(w) = w^{w^{\cdots^{w}}},\]
+
+with $n$ $w$'s on the right side. More precisely, $T_1(w) = w$ and $T_{n+1}(w) = w^{T_n(w)}$. For example, $T_3(2) = 2^{2^2} = 16$, $T_4(2) = 2^{16} = 65536$, and $T_2(3) = 3^3 = 27$. Find the smallest tower of $3$'s that exceeds the tower of $1989$ $2$'s. In other words, find the smallest value of $n$ such that $T_n(3) > T_{1989}(2)$. Justify your answer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1988
+==================================================
+

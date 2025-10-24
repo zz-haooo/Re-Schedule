@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1248
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a table with $88$ rows and $253$ columns, each cell is colored either purple or yellow. Suppose that for each yellow cell $c$, the following condition holds:  
+$$x(c) \cdot y(c) \geq 184,$$  
+where $x(c)$ is the number of purple cells in the same row as $c$, and $y(c)$ is the number of purple cells in the same column as $c$.  
+Find the least possible number of cells that are colored purple.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2024
+==================================================
+

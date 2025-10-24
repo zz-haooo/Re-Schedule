@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5939
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In $\triangle{ABC}$ with $AB = 12$, $BC = 13$, and $AC = 15$, let $M$ be a point on $\overline{AC}$ such that the incircles of $\triangle{ABM}$ and $\triangle{BCM}$ have equal radii. Then $\frac{AM}{CM} = \frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p + q$.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 45
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12991
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three distinct vertices are chosen at random from the vertices of a given regular polygon of $(2n+1)$ sides. If all such choices are equally likely, what is the probability that the center of the given polygon lies in the interior of the triangle determined by the three chosen random points? The original answer is in the format \frac{m}{k}, please provide the value of m + k when n = 1.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

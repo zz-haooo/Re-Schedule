@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2434
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a convex quadrilateral for which $DA = AB$ and $CA = CB$. Set $I_0 = C$ and $J_0 = D$, and for each nonnegative integer $n$, let $I_{n+1}$ and $J_{n+1}$ denote the incenters of $\triangle I_nAB$ and $\triangle J_nAB$, respectively.
+
+Suppose that \[ \angle DAC = 15^{\circ}, \quad \angle BAC = 65^{\circ} \quad \text{and} \quad \angle J_{2013}J_{2014}I_{2014} = \left( 90 + \frac{2k+1}{2^n} \right)^{\circ} \] for some nonnegative integers $n$ and $k$. Compute $n+k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2021
+==================================================
+

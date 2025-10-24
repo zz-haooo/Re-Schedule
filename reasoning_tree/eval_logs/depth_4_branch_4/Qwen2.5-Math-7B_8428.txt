@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8428
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $d_1 = a^2 + 2^a + a \cdot 2^{(a+1)/2}$ and $d_2 = a^2 + 2^a - a \cdot 2^{(a+1)/2}$. If $1 \le a \le 251$, how many integral values of $a$ are there such that $d_1 \cdot d_2$ is a multiple of $5$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 101
+==================================================
+

@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7263
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+At a recent math contest, Evan was asked to find $2^{2016} \pmod{p}$ for a given prime number $p$ with $100 < p < 500$. Evan has forgotten what the prime $p$ was, but still remembers how he solved it:
+[list]
+[*] Evan first tried taking $2016$ modulo $p - 1$, but got a value $e$ larger than $100$.
+[*] However, Evan noted that $e - \frac{1}{2}(p - 1) = 21$, and then realized the answer was $-2^{21} \pmod{p}$.
+[/list]
+What was the prime $p$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 211
+==================================================
+

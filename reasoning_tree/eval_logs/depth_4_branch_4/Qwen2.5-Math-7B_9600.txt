@@ -1,0 +1,36 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9600
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In rectangle $ABCD$, points $F$ and $G$ lie on $\overline{AB}$ so that $AF = FG = GB$ and $E$ is the midpoint of $\overline{DC}$. Also, $\overline{AC}$ intersects $\overline{EF}$ at $H$ and $\overline{EG}$ at $J$. The area of rectangle $ABCD$ is 70. Find the area of triangle $EHJ$.
+
+[asy]
+pair A,B,C,D,I,F,G,H,J;
+A=(0,0);
+B=(9,0);
+C=(9,5);
+D=(0,5);
+F=(3,0);
+G=(6,0);
+I=(4.5,5);
+H=(3.5,1.67);
+J=(5,3.33);
+draw(A--B--C--D--cycle);
+draw(A--C);
+draw(F--I--G);
+label("$A$",A,W);
+label("$B$",B,E);
+label("$C$",C,E);
+label("$D$",D,W);
+label("$E$",I,N);
+label("$F$",F,S);
+label("$G$",G,S);
+label("$H$",H,NW);
+label("$J$",J,NE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

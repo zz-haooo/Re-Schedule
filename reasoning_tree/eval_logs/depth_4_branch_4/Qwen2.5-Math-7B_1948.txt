@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1948
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of different numbers of the form $\left\lfloor\frac{i^2}{2015} \right\rfloor$, with $i = 1, 2, \ldots, 2015$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2016
+==================================================
+

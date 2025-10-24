@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14367
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Usain is walking for exercise by zigzagging across a $100$-meter by $30$-meter rectangular field, beginning at point $A$ and ending on the segment $\overline{BC}$. He wants to increase the distance walked by zigzagging as shown in the figure below $(APQRS)$. What angle $\theta=\angle PAB=\angle QPC=\angle RQB=\cdots$ will produce a path length of $120$ meters? (Do not assume the zigzag path has exactly four segments as shown; there could be more or fewer.) If the answer is in the form of \(\arccos\frac{k}{m}\), provide the value of k + m.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

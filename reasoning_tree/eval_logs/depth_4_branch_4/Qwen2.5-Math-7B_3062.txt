@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3062
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two circles have radii of 5 and 26, respectively. The smaller circle passes through the center of the larger one. What is the difference between the lengths of the longest and shortest chords of the larger circle that are tangent to the smaller circle?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

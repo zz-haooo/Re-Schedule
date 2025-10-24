@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14577
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Point $B$ is due east of point $A$. Point $C$ is due north of point $B$. The distance between points $A$ and $C$ is $10\sqrt{2}$, and $\angle BAC = 45^\circ$. Point $D$ is $20$ meters due north of point $C$. Calculate the distance $AD$ and determine the interval in which this distance falls, expressed as (a, b) where a and b are consecutive integers. Please find the value of a + b.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 63
+==================================================
+

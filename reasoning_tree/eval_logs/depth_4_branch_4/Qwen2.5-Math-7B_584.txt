@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 584
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A large number of rocks are placed on a table. On each turn, one may remove some rocks from the table following these rules: on the first turn, only one rock may be removed, and on every subsequent turn, one may remove either twice as many rocks or the same number of rocks as they have discarded on the previous turn. Determine the minimum number of turns required to remove exactly $2012$ rocks from the table.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

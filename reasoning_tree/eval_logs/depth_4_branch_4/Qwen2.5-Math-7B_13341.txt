@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13341
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be a positive integer and fix $2 n$ distinct points on a circumference. Split these points into $n$ pairs and join the points in each pair by an arrow (i.e., an oriented line segment). The resulting configuration is good if no two arrows cross, and there are no arrows $\overrightarrow{A B}$ and $\overrightarrow{C D}$ such that $A B C D$ is a convex quadrangle oriented clockwise. Determine when n=6， the number of good configurations.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 924
+==================================================
+

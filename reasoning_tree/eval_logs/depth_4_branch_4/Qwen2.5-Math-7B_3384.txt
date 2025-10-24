@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3384
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose two circles $\Omega_1$ and $\Omega_2$ with centers $O_1$ and $O_2$ have radii $3$ and $4$, respectively. Suppose that points $A$ and $B$ lie on circles $\Omega_1$ and $\Omega_2$, respectively, such that segments $AB$ and $O_1O_2$ intersect and that $AB$ is tangent to $\Omega_1$ and $\Omega_2$. If $O_1O_2=25$, find the area of quadrilateral $O_1AO_2B$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 84
+==================================================
+

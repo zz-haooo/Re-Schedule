@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17150
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Patty has $20$ coins consisting of nickels and dimes. If her nickels were dimes and her dimes were nickels, she would have $70$ cents more. How much are her coins worth in dollars? Provide your answer as a numerical value, and then multiply it by 100 to give your final answer.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 115
+==================================================
+

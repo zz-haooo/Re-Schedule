@@ -1,0 +1,9 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13675
+Question: 一张台球桌形状是正六边形 $A B C D E F$ ，一个球从 $A B$ 的中点 $P$ 击出，击中 $B C$ 边上的某点 $Q$ ，并且依次碰击 $C D 、 D E 、 E F 、 F A$ 各边，最后击中 $A B$ 边上的某一点. 设 $\angle B P Q=\theta$ ， $\theta$ 的范围为$\theta\in[arc\mathrm{tan}\frac{a\sqrt{3}}{b}, arc\mathrm{tan}\frac{c\sqrt{3}}{d}]$,求$a+b+c+d$。
+提示：利用入射角等于反射角的原理。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 24
+==================================================
+

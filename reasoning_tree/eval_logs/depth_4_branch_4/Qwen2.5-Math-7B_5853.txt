@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5853
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In right triangle $ABC$ with right angle $C$, $CA = 30$ and $CB = 16$. Its legs $CA$ and $CB$ are extended beyond $A$ and $B$. Points $O_1$ and $O_2$ lie in the exterior of the triangle and are the centers of two circles with equal radii. The circle with center $O_1$ is tangent to the hypotenuse and to the extension of leg $CA$, the circle with center $O_2$ is tangent to the hypotenuse and to the extension of leg $CB$, and the circles are externally tangent to each other. The length of the radius either circle can be expressed as $p/q$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 737
+==================================================
+

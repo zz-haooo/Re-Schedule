@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16859
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A point is chosen at random within the square in the coordinate plane whose vertices are $(0, 0)$, $(2020, 0)$, $(2020, 2020)$, and $(0, 2020)$. The probability that the point is within $d$ units of a lattice point is $\frac{1}{2}$. (A point $(x, y)$ is a lattice point if $x$ and $y$ are both integers.) If the answer is $d$ to the nearest tenth, what is the value of $10d$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

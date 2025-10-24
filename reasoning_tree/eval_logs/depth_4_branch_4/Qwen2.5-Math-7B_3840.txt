@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3840
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $P$ and $Q$ be points on $AC$ and $AB$, respectively, of triangle $\triangle ABC$ such that $PB=PC$ and $PQ \perp AB$. Suppose $\frac{AQ}{QB}=\frac{AP}{PB}$. Find $\angle CBA$, in degrees.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

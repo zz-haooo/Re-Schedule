@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13462
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An unbiased coin is tossed $n$ times. $H$ is the number of heads and $T$ is the number of tails. What is the expected value of $|H-T|$? In other words, evaluate in closed form:
+$$
+\frac{1}{2^{n-1}} \sum_{k<n / 2}(n-2 k)\binom{n}{k}
+$$
+(In this problem, "closed form" means a form that does not involve a series. The given series can be reduced to a single term involving only binomial coefficients, rational functions of $n$ and $2^{n}$, and the largest integer function $[x]$.)
+The expected value of $|H-T|$ is $\frac{b}{a}$ when $n=3$. Find the value of $a+b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

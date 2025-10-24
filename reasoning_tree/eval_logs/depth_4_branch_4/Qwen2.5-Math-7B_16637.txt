@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16637
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a small pond, there are eleven lily pads in a row labeled $0$ through $10$. A frog is sitting on pad $1$. When the frog is on pad $N$, where $0<N<10$, it will jump to pad $N-1$ with probability $\frac{N}{10}$ and to pad $N+1$ with probability $1-\frac{N}{10}$. Each jump is independent of the previous jumps. If the frog reaches pad $0$, it will be eaten by a patiently waiting snake. If the frog reaches pad $10$, it will exit the pond, never to return. Find the probability that the frog will escape being eaten by the snake. The original answer is in \frac{m}{n} format, please give the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 209
+==================================================
+

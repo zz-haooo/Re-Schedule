@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5147
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let the sequence $\{ a_n \}_{n = -2}^\infty$ satisfy the following initial conditions and recursive formula:
+- $a_{-1} = a_{-2} = 0$
+- $a_0 = 1$
+
+For all non-negative integers $n$, the sequence satisfies:
+$$n^2 = \sum_{k = 0}^n a_{n - k}a_{k - 1} + \sum_{k = 0}^n a_{n - k}a_{k - 2}$$
+
+Given that $a_{2018}$ is a rational number, find the maximum integer $m$ such that $2^m$ divides the denominator of the reduced form of $a_{2018}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4029
+==================================================
+

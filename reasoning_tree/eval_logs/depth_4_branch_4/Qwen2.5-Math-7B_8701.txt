@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8701
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Fido's leash is tied to a stake at the center of his yard, which is in the shape of a regular hexagon. His leash is exactly long enough to reach the midpoint of each side of his yard. If the fraction of the area of Fido's yard that he is able to reach while on his leash is expressed in simplest radical form as $\frac{\sqrt{a}}{b}\pi$, what is the value of the product $ab$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

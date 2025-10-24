@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 508
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Joey wrote a system of equations on a blackboard, where each of the equations was of the form $a + b = c$ or $a \cdot b = c$ for some variables or integers $a, b, c$. Then Sean came to the board and erased all of the plus signs and multiplication signs, so that the board reads:
+
+$x\,\,\,\, z = 15$
+
+$x\,\,\,\, y = 12$
+
+$x\,\,\,\, x = 36$
+
+If $x, y, z$ are integer solutions to the original system, find the sum of all possible values of $100x + 10y + z$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2037
+==================================================
+

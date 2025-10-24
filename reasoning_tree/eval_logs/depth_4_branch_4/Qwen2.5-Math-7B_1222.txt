@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1222
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Lev and Alex are racing on a number line. Alex is much faster, so he goes to sleep until Lev reaches $100$. Lev runs at $5$ integers per minute and Alex runs at $7$ integers per minute (in the same direction). How many minutes from the start of the race will it take Alex to catch up to Lev (who is still running after Alex wakes up)?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 70
+==================================================
+

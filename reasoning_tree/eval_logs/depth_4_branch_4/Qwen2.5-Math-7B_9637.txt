@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9637
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The sequence $\{a_n\}$ is defined by $$
+a_0 = 1,a_1 = 1, \text{ and } a_n = a_{n - 1} + \frac {a_{n - 1}^2}{a_{n - 2}}\text{ for }n\ge2.
+$$The sequence $\{b_n\}$ is defined by $$
+b_0 = 1,b_1 = 3, \text{ and } b_n = b_{n - 1} + \frac {b_{n - 1}^2}{b_{n - 2}}\text{ for }n\ge2.$$Find $\frac {b_{32}}{a_{32}}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 561
+==================================================
+

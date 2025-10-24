@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10831
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $PQRS$ be a square piece of paper. $P$ is folded onto $R$ and then $Q$ is folded onto $S$. The area of the resulting figure is 9 square inches. Find the perimeter of square $PQRS$. [asy]
+/* AMC8 1998 #20P */
+size(1inch,1inch);
+label("$P$", (0, 72), SE);
+label("$Q$", (72, 72), SW);
+label("$S$", (0, 0), NE);
+label("$R$", (72, 0), NW);
+draw((0,0)--(72,0)--(72,72)--(0,72)--cycle);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

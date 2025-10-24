@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2954
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of positive divisors $d$ of $15! = 15 \cdot 14 \cdot \cdots \cdot 2 \cdot 1$ such that $\gcd(d, 60) = 5$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

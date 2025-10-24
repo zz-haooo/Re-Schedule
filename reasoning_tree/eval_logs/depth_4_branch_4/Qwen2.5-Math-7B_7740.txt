@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7740
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\vartriangle ABC$ be a triangle with $\angle BAC = 90^o$,  $\angle ABC = 60^o$, and  $\angle BCA = 30^o$ and $BC = 4$. Let the incircle of $\vartriangle ABC$ meet sides $BC$, $CA$, $AB$ at points $A_0$, $B_0$, $C_0$, respectively. Let $\omega_A$, $\omega_B$, $\omega_C$ denote the circumcircles of triangles $\vartriangle B_0IC_0$ , $\vartriangle C_0IA_0$ , $\vartriangle A_0IB_0$, respectively. We construct triangle $T_A$ as follows: let $A_0B_0$ meet $\omega_B$ for the second time at $A_1\ne A_0$, let $A_0C_0$ meet $\omega_C$ for the second time at $A_2\ne  A_0$, and let $T_A$ denote the triangle $\vartriangle A_0A_1A_2$. Construct triangles $T_B$, $T_C$ similarly. If the sum of the areas of triangles $T_A$, $T_B$, $T_C$ equals $\sqrt{m} - n$ for positive integers $m$, $n$, find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

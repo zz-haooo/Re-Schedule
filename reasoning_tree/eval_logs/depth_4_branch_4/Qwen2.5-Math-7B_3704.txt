@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3704
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The rectangle in the figure has dimensions $16 \times 20$ and is divided into $10$ smaller equal rectangles. What is the perimeter of each of the $10$ smaller rectangles?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

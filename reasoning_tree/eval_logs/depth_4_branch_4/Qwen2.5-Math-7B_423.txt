@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 423
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+You have two blackboards, $A$ and $B$. You need to write some integers on them, where each integer is greater than or equal to $2$ and less than or equal to $20$. The condition is that each number on blackboard $A$ must be co-prime with each number on blackboard $B$. Determine the maximum possible value of the product of the number of integers written on $A$ and the number of integers written on $B$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 65
+==================================================
+

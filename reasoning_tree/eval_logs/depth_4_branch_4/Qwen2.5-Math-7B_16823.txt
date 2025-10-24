@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16823
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The chord $[CD]$ of the circle with diameter $[AB]$ is perpendicular to $[AB]$. Let $M$ and $N$ be the midpoints of $[BC]$ and $[AD]$, respectively. If $|BC|=6$ and $|AD|=2\sqrt{3}$, find the length of $|MN|$. The original answer is in the form \(\sqrt{m}\). Please find the value of \(m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

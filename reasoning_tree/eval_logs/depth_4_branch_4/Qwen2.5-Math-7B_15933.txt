@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15933
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A farmer bought $749$ sheep. He sold $700$ of them for the price paid for the $749$ sheep. The remaining $49$ sheep were sold at the same price per head as the other $700$. Based on the cost, what is the percent gain on the entire transaction? Provide your answer as a number.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 67
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine all natural numbers $n$ for which the number $A = n^4 + 4n^3 + 5n^2 + 6n$ is a perfect square of a natural number.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

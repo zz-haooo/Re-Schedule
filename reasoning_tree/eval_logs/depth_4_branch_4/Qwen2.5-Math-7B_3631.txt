@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3631
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+At the beginning of a game, the numbers $1, 2, \ldots, 2004$ are written on a desk. A move consists of:
+
+1. Selecting some numbers from those on the desk.
+2. Calculating the remainder of the sum of these numbers when divided by $11$ and writing this remainder on the desk.
+3. Deleting the selected numbers.
+
+In this game, after several moves, only two numbers remained on the desk. One of them was $1000$. What was the other number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

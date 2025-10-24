@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16463
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A light flashes in one of three different colors: red, green, and blue. Every $3$ seconds, it flashes green. Every $5$ seconds, it flashes red. Every $7$ seconds, it flashes blue. If it is supposed to flash in two colors at once, it flashes the more infrequent color. How many times has the light flashed green after $671$ seconds?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 154
+==================================================
+

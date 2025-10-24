@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3047
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Among the coordinates $(x,y)$ where $1 \leq x,y \leq 101$, choose some points such that there do not exist $4$ points which form an isosceles trapezium with its base parallel to either the $x$ or $y$ axis (including rectangles). Find the maximum number of coordinate points that can be chosen.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 201
+==================================================
+

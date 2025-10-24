@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7086
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Vernonia High School has 85 seniors, each of whom plays on at least one of the school’s three varsity sports teams: football, baseball, and lacrosse. It so happens that $74$ are on the football team; $26$ are on the baseball team; $17$ are on both the football and lacrosse teams; $18$ are on both the baseball and football teams; and $13$ are on both the baseball and lacrosse teams. Compute the number of seniors playing all three sports, given that twice this number are members of the lacrosse team.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

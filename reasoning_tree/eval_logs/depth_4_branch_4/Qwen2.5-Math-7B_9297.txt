@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9297
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If the three-digit number $\underline{2d2}$ is divisible by 7, what is $d$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3473
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are 100 houses on the street, divided into 50 pairs. Each pair consists of houses directly opposite each other across the street. On the right side, houses have even numbers, while on the left side, houses have odd numbers. The numbers on both sides increase from the start to the end of the street but are not necessarily consecutive, meaning some numbers might be skipped.
+
+For each house on the right side, the difference between its number and the number of the opposite house was calculated, and all these differences were unique. Let $n$ be the largest house number on this street. Find the smallest possible value of $n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 199
+==================================================
+

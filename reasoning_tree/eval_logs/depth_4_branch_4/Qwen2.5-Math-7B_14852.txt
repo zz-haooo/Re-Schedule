@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14852
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An unfair coin lands on heads with a probability of $\frac{1}{4}$. When tossed $n>1$ times, the probability of exactly two heads is the same as the probability of exactly three heads. What is the value of $n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14585
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jesse cuts a circular disk of radius \(12\), along \(2\) radii to form \(2\) sectors, one with a central angle of \(120^\circ\). He makes two circular cones using each sector to form the lateral surface of each cone. The ratio of the volume of the smaller cone to the larger cone is in the form \(\frac{\sqrt{k}}{n}\). Please give the value of \(k + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

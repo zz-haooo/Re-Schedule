@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13005
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On some planet, there are $2^N$ countries ($N \ge 4)$. Each country has a flag $N$ units wide and one unit high composed of $N$ fields of size $1 \times 1$, each field being either yellow or blue. No two countries have the same flag. We say that a set of $N$ flags is diverse if these flags can be arranged into an $N \times N$ square so that all $N$ fields on its main diagonal will have the same color. Determine the smallest positive integer $M$ such that among any $M$ distinct flags, there exist $N$ flags forming a diverse set. Assume $N = 4$, provide the value of $M$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

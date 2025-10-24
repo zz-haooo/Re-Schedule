@@ -1,0 +1,38 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6851
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Right triangle $ABC$ (hypotenuse $\overline{AB}$) is inscribed in equilateral triangle $PQR,$ as shown.  If $PC = 3$ and $BP = CQ = 2,$ compute  $AQ.$
+
+[asy]
+unitsize(0.8 cm);
+
+pair A, B, C, P, Q, R;
+
+P = (0,0);
+Q = (5,0);
+R = 5*dir(60);
+A = Q + 8/5*dir(120);
+B = 2*dir(60);
+C = (3,0);
+
+draw(A--B--C--cycle);
+draw(P--Q--R--cycle);
+draw(rightanglemark(A,C,B,10));
+
+label("$A$", A, NE);
+label("$B$", B, NW);
+label("$C$", C, S);
+label("$P$", P, SW);
+label("$Q$", Q, SE);
+label("$R$", R, N);
+label("$2$", (C + Q)/2, S);
+label("$3$", (C + P)/2, S);
+label("$2$", (B + P)/2, NW);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

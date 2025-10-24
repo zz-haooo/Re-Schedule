@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2550
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $C$ be the number of ways to arrange the letters of the word CATALYSIS, $T$ be the number of ways to arrange the letters of the word TRANSPORT, $S$ be the number of ways to arrange the letters of the word STRUCTURE, and $M$ be the number of ways to arrange the letters of the word MOTION. What is $\frac{C - T + S}{M}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 126
+==================================================
+

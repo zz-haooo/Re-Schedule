@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1325
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The natural numbers from $1$ up to $300$ are evenly located around a circle. We say that such an ordering is "alternate" if each number is either less than its two neighbors or greater than its two neighbors. We will call a pair of neighboring numbers a "good" pair if, by removing that pair from the circumference, the remaining numbers form an alternate ordering. Determine the least possible number of good pairs in which there can be an alternate ordering of the numbers from $1$ to $300$ inclusive.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 150
+==================================================
+

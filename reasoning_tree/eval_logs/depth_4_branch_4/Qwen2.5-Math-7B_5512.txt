@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5512
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sample of 121 integers is given, each between 1 and 1000 inclusive, with repetitions allowed. The sample has a unique mode (most frequent value). Let $D$ be the difference between the mode and the arithmetic mean of the sample. What is the largest possible value of $\lfloor D\rfloor$? (For real $x$, $\lfloor x\rfloor$ is the greatest integer less than or equal to $x$.)
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 947
+==================================================
+

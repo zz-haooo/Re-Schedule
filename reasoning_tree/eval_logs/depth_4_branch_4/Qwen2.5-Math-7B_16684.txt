@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16684
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle \(ABC\), the median from vertex \(A\) is perpendicular to the median from vertex \(B\). If the lengths of sides \(AC\) and \(BC\) are \(6\) and \(7\) respectively, find the length of side \(AB\). The original answer is in the form \(\sqrt{k}\). Please find the value of \(k\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

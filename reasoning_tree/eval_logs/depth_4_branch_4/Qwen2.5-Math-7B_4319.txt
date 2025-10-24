@@ -1,0 +1,31 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4319
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+As in the following diagram, square $ABCD$ and square $CEFG$ are placed side by side (i.e. $C$ is between $B$ and $E$ and $G$ is between $C$ and $D$). If $CE = 14$, $AB > 14$, compute the minimal area of $\triangle AEG$. 
+
+```asy
+size(120); defaultpen(linewidth(0.7)+fontsize(10)); 
+pair D2(real x, real y) {
+ pair P = (x,y);
+ dot(P,linewidth(3)); return P;
+}
+int big = 30, small = 14;
+filldraw((0,big)--(big+small,0)--(big,small)--cycle, rgb(0.9,0.5,0.5));
+draw(scale(big)*unitsquare); draw(shift(big,0)*scale(small)*unitsquare);
+label("$A$",D2(0,big),NW);
+label("$B$",D2(0,0),SW);
+label("$C$",D2(big,0),SW);
+label("$D$",D2(big,big),N);
+label("$E$",D2(big+small,0),SE);
+label("$F$",D2(big+small,small),NE);
+label("$G$",D2(big,small),NE);
+```
+
+Note: Unnecessary information like author or edit history has been removed.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 98
+==================================================
+

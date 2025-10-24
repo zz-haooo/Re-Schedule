@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3371
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The positive real numbers $a, b, c$ satisfy the following equations:
+
+$$\frac{a}{2b+1} + \frac{2b}{3c+1} + \frac{3c}{a+1} = 1$$
+
+$$\frac{1}{a+1} + \frac{1}{2b+1} + \frac{1}{3c+1} = 2$$
+
+What is the value of $\frac{1}{a} + \frac{1}{b} + \frac{1}{c}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

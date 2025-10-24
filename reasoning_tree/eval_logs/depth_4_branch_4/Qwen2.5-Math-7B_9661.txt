@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9661
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The American Mathematics College is holding its orientation for incoming freshmen. The incoming freshman class contains fewer than $500$ people. When the freshmen are told to line up in columns of $23$, $22$ people are in the last column. When the freshmen are told to line up in columns of $21$, $14$ people are in the last column. How many people are in the incoming freshman class?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 413
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16278
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The buttons \( \{\times, +, \div\} \) on a calculator have their functions swapped. A button instead performs one of the other two functions; no two buttons have the same function. The calculator claims that \( 2 + 3 \div 4 = 10 \) and \( 4 \times 2 \div 3 = 5 \). What does \( 4 + 3 \times 2 \div 1 \) equal on this calculator? Find the value.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

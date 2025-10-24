@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7119
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The function $ f$ satisfies \[f(x) \plus{} f(2x \plus{} y) \plus{} 5xy \equal{} f(3x \minus{} y) \plus{} 2x^2 \plus{} 1\] for all real numbers $ x$, $ y$. Determine the value of $ f(10)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -49
+==================================================
+

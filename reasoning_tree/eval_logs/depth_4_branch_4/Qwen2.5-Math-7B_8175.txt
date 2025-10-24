@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8175
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a, b$, and $c$ be real numbers such that $3^a = 125$,  $5^b = 49$,and $7^c = 8$1.
+Find the product $abc$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4966
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The cells of a $2021 \times 2021$ table are filled with numbers using the following rule. The bottom left cell, which we label with coordinate $(1, 1)$, contains the number $0$. For every other cell $C$, we consider a route from $(1, 1)$ to $C$, where at each step we can only go one cell to the right or one cell up (not diagonally). If we take the number of steps in the route and add the numbers from the cells along the route, we obtain the number in cell $C$. For example, the cell with coordinate $(2, 1)$ contains $1 = 1 + 0$, the cell with coordinate $(3, 1)$ contains $3 = 2 + 0 + 1$, and the cell with coordinate $(3, 2)$ contains $7 = 3 + 0 + 1 + 3$. What is the last digit of the number in the cell $(2021, 2021)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

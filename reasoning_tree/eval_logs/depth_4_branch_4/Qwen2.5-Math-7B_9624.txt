@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9624
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Mary and Jenna are playing a game in which each girl rolls a twenty-sided die with numbers from 1 to 20 on the faces.  If the number on the die that Mary rolls is a factor of the number on the die that Jenna rolls, Mary wins.  If the number on the die that Jenna rolls is a factor of the number on the die that Mary rolls, Jenna wins.  For how many possible rolls would both girls win?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

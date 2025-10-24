@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 653
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In Occidentalia, there are $20$ different companies, each looking to hire $15$ new employees. A group of $300$ applicants interview with each of the companies. Each company qualifies each applicant as suitable or not suitable to work in it, such that each company finds exactly $p$ suitable applicants, with $p > 15$. Furthermore, each applicant is found suitable by at least one company. What is the smallest value of $p$ for which it is always possible to assign $15$ applicants to each company, given that each company is assigned only applicants that it considers suitable, and that each of the $300$ applicants is assigned to a company?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

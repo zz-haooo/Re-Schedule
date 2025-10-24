@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4511
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\alpha$ denote $\cos^{-1}(\tfrac{2}{3})$. The recursive sequence $a_0, a_1, a_2, \ldots$ satisfies $a_0 = 1$ and, for all positive integers $n$,  
+$$a_n = \dfrac{\cos(n\alpha) - (a_1a_{n-1} + \cdots + a_{n-1}a_1)}{2a_0}.$$  
+Suppose that the series  
+$$\sum_{k=0}^\infty\dfrac{a_k}{2^k}$$  
+can be expressed uniquely as $\tfrac{p\sqrt{q}}{r}$, where $p$ and $r$ are coprime positive integers and $q$ is not divisible by the square of any prime. Find the value of $p+q+r$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

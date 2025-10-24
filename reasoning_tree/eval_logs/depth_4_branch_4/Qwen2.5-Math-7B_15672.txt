@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15672
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $f(x)=x^3+7x^2+9x+10$. Find the value of $p$ such that for every integer $a,b$, the statement
+\[
+f(a) \equiv f(b) \ (\text{mod } p) \Rightarrow a \equiv b \ (\text{mod } p)
+\]
+is satisfied.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

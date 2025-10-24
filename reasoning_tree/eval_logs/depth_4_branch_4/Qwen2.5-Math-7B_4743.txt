@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4743
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A cardboard box in the shape of a rectangular parallelepiped is to be enclosed in a cylindrical container with a hemispherical lid. If the total height of the container from the base to the top of the lid is $60$ centimeters and its base has a radius of $30$ centimeters, find the volume of the largest box that can be completely enclosed inside the container with the lid on.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 64000
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13776
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_0, a_1, a_2, \ldots$ be a sequence of real numbers such that $a_0=0, a_1=1$, and for every $n \geqslant 2$ there exists $1 \leqslant k \leqslant n$ satisfying
+$$
+a_n=\frac{a_{n-1}+\cdots+a_{n-k}}{k}
+$$
+Find the maximal possible value of $a_{2018}-a_{2017}$. The original answer is in the form \frac{m}{n^2}, please give the value of $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4033
+==================================================
+

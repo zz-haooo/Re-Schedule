@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 770
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle with side lengths $13$, $14$, and $15$. The points on the interior of $\triangle ABC$ that are at least $1$ unit away from each side are shaded. The area of the shaded region can be expressed in simplest form as $\frac{m}{n}$. Find the value of $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 193
+==================================================
+

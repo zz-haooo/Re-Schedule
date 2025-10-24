@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7346
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A polynomial $f(x)$ with integer coefficients is called $\textit{splitty}$ if and only if for every prime $p$, there exists polynomials $g_p, h_p$ with integer coefficients with degrees strictly smaller than the the degree of $f$, such that all coefficients of $f-g_ph_p$ are divisible by $p$. Compute the sum of all positive integers $n \leq 100$ such that $x^4+16x^2+n$ is $\textit{splitty}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 693
+==================================================
+

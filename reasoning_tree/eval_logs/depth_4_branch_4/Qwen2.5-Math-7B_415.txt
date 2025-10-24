@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 415
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+21 Savage has a 12-car garage, with a row of spaces numbered 1, 2, 3, \ldots, 12. How many ways can he choose 6 of them to park his 6 identical cars in, if no 3 spaces with consecutive numbers may be all occupied?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 357
+==================================================
+

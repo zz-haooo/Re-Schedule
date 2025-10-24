@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8715
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\mathbf{v}_1,$ $\mathbf{v}_2,$ $\dots,$ $\mathbf{v}_k$ be unit vectors such that
+\[\mathbf{v}_1 + \mathbf{v}_2 + \dots + \mathbf{v}_k = \begin{pmatrix} 6 \\ -5 \end{pmatrix}.\]Find the smallest possible value of $k.$
+
+Note: A unit vector is a vector of magnitude 1.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8
+==================================================
+

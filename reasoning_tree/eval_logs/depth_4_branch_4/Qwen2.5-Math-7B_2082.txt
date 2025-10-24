@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2082
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Initially, there are $3^{80}$ particles at the origin $(0,0)$. At each step, the particles are moved to points above the $x$-axis as follows: if there are $n$ particles at any point $(x,y)$, then $\left\lfloor \frac{n}{3} \right\rfloor$ of them are moved to $(x+1,y+1)$, $\left\lfloor \frac{n}{3} \right\rfloor$ are moved to $(x,y+1)$, and the remaining to $(x-1,y+1)$. For example, after the first step, there are $3^{79}$ particles each at $(1,1)$, $(0,1)$, and $(-1,1)$. After the second step, there are $3^{78}$ particles each at $(-2,2)$ and $(2,2)$, $2 \times 3^{78}$ particles each at $(-1,2)$ and $(1,2)$, and $3^{79}$ particles at $(0,2)$. After $80$ steps, the number of particles at $(79,80)$ is:
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 80
+==================================================
+

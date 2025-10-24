@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14872
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Four circles, no two of which are congruent, have centers at $A$, $B$, $C$, and $D$, and points $P$ and $Q$ lie on all four circles. The radius of circle $A$ is $\frac{5}{8}$ times the radius of circle $B$, and the radius of circle $C$ is $\frac{5}{8}$ times the radius of circle $D$. Furthermore, $AB = CD = 39$ and $PQ = 48$. Let $R$ be the midpoint of $\overline{PQ}$. Find the value of $\overline{AR}+\overline{BR}+\overline{CR}+\overline{DR}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 192
+==================================================
+

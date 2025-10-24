@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9537
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Tamara knows that the arithmetic mean of her five quiz scores is 95$\%$. However, she has misplaced one of these quizzes. The ones she can find have scores of 100$\%$, 100$\%$, 99$\%$ and 98$\%$. What is her score on the misplaced quiz?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 78
+==================================================
+

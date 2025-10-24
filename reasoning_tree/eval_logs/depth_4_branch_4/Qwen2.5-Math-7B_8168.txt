@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8168
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A [i]derangement [/i] of the letters $ABCDEF$ is a permutation of these letters so that no letter ends up in the position it began such as $BDECFA$. An [i]inversion [/i] in a permutation is a pair of letters $xy$ where $x$ appears before $y$ in the original order of the letters, but $y$ appears before $x$ in the permutation. For example, the derangement $BDECFA$ has seven inversions: $AB, AC, AD, AE, AF, CD$, and $CE$. Find the total number of inversions that appear in all the derangements of $ABCDEF$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2275
+==================================================
+

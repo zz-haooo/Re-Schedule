@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 950
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Xavier takes a permutation of the numbers $1$ through $2011$ at random, where each permutation has an equal probability of being selected. He then cuts the permutation into increasing contiguous subsequences, such that each subsequence is as long as possible. Compute the expected number of such subsequences.
+
+**Clarification**: An increasing contiguous subsequence is an increasing subsequence all of whose terms are adjacent in the original sequence. For example, $1,3,4,5,2$ has two maximal increasing contiguous subsequences: $(1,3,4,5)$ and $(2)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1006
+==================================================
+

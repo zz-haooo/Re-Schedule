@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 679
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Rthea, a distant planet, is home to creatures whose DNA consists of two distinguishable strands of bases with a fixed orientation. Each base is one of the letters \(H, M, N, T\), and each strand consists of a sequence of five bases, forming five pairs. Due to the chemical properties of the bases, each pair must consist of distinct bases. Additionally, the bases \(H\) and \(M\) cannot appear next to each other on the same strand; the same restriction applies to \(N\) and \(T\). How many possible DNA sequences are there on Rthea?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 28812
+==================================================
+

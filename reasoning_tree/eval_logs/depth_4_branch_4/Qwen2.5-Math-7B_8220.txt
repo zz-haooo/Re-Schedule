@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8220
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two cubes with edge length $3$ and two cubes with edge length $4$ sit on plane $P$ so that the four cubes share a vertex, and the two larger cubes share no faces with each other as shown below. The cube vertices that do not touch $P$ or any of the other cubes are labeled $A$, $B$, $C$, $D$, $E$, $F$, $G$, and $H$. The four cubes lie inside a right rectangular pyramid whose base is on $P$ and whose triangular sides touch the labeled vertices with one side containing vertices $A$, $B$, and $C$, another side containing vertices $D$, $E$, and $F$, and the two other sides each contain one of $G$ and $H$. Find the volume of the pyramid.
+[img]https://cdn.artofproblemsolving.com/attachments/c/7/dd0a0f54d62ad0961416a605f3bd8d789008b3.png[/img]
+
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1152
+==================================================
+

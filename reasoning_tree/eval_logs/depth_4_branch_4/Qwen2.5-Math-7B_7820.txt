@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7820
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The number $1$ is special. The number $2$ is special because it is relatively prime to $1$. The number $3$ is not special because it is not relatively prime to the sum of the special numbers less than it, $1 + 2$. The number $4$ is special because it is relatively prime to the sum of the special numbers less than it. So, a number bigger than $1$ is special only if it is relatively prime to the sum of the special numbers less than it. Find the twentieth special number.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 29
+==================================================
+

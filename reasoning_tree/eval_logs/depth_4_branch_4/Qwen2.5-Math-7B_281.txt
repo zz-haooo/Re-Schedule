@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 281
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On a table, there are $100$ red and $k$ white buckets, all initially empty. In each move, a red and a white bucket are selected, and an equal amount of water is added to both. After a certain number of moves, no bucket is empty, and for every pair of buckets that were selected together at least once, the amount of water in these buckets is the same. Find all possible values of $k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 100
+==================================================
+

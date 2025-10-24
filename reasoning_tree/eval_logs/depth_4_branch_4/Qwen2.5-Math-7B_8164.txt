@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8164
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are relatively prime positive integers $m$ and $n$ so that the parabola with equation $y = 4x^2$ is tangent to the parabola with equation $x = y^2 + \frac{m}{n}$ . Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

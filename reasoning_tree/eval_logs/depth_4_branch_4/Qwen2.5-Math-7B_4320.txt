@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4320
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the smallest possible value of $n$ such that $n+2$ people can stand inside or on the border of a regular $n$-gon with side length $6$ feet where each pair of people are at least $6$ feet apart.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

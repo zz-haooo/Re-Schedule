@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7615
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jackson begins at $1$ on the number line. At each step, he remains in place with probability $85\%$ and increases his position on the number line by $1$ with probability $15\%$. Let $d_n$ be his position on the number line after $n$ steps, and let $E_n$ be the expected value of $\tfrac{1}{d_n}$. Find the least $n$ such that $\tfrac{1}{E_n}
+> 2017$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13446
+==================================================
+

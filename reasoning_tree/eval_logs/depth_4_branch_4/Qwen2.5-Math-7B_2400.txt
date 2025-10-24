@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2400
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $N = 30^{2015}$. Find the number of ordered 4-tuples of integers $(A, B, C, D) \in \{1, 2, \ldots, N\}^4$ (not necessarily distinct) such that for every integer $n$, $An^3 + Bn^2 + 2Cn + D$ is divisible by $N$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

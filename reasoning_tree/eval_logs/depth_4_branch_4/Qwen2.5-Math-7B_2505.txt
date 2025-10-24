@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2505
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, $D$ is a point on $AB$ between $A$ and $B$, $E$ is a point on $AC$ between $A$ and $C$, and $F$ is a point on $BC$ between $B$ and $C$ such that $AF$, $BE$, and $CD$ all meet inside $\triangle ABC$ at a point $G$. Given that the area of $\triangle ABC$ is $15$, the area of $\triangle ABE$ is $5$, and the area of $\triangle ACD$ is $10$, compute the area of $\triangle ABF$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

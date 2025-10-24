@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17225
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+All three vertices of an equilateral triangle are on the parabola $y = x^2$, and one of its sides has a slope of $2$. The $x$-coordinates of the three vertices have a sum of $m/n$, where $m$ and $n$ are relatively prime positive integers. What is the value of $m + n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

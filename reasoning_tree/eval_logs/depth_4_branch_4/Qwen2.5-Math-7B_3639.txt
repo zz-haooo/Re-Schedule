@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3639
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle with vertices located at the centers of mass of Vincent Huang's house, Tristan Shin's house, and Edward Wan's house; assume the three are not collinear. Let $N = 2017$, and define the $A$-antipodes to be the points $A_1, \dots, A_N$ on segment $BC$ such that $BA_1 = A_1A_2 = \cdots = A_{N-1}A_N = A_NC$. Similarly, define the $B$-antipodes and $C$-antipodes. A line $\ell_A$ through $A$ is called a qevian if it passes through an $A$-antipode. Similarly, define qevians through $B$ and $C$. Compute the number of ordered triples $(\ell_A, \ell_B, \ell_C)$ of concurrent qevians through $A$, $B$, and $C$, respectively.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6049
+==================================================
+

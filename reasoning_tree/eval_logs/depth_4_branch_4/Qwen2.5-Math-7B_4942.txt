@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4942
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Real numbers $a$ and $b$ are chosen so that each of two quadratic trinomials $x^2 + ax + b$ and $x^2 + bx + a$ has two distinct real roots, and the product of these trinomials has exactly three distinct real roots. Determine all possible values of the sum of these three roots.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

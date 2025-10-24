@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10085
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $z$ be a complex number such that $z^{13} = 1.$  Let $w_1,$ $w_2,$ $\dots,$ $w_k$ be all the possible values of
+\[z + z^3 + z^4 + z^9 + z^{10} + z^{12}.\]Find $w_1^2 + w_2^2 + \dots + w_k^2.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 43
+==================================================
+

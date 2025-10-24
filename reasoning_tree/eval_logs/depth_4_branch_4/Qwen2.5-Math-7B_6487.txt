@@ -1,0 +1,31 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6487
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The ellipse whose equation is
+\[\frac{x^2}{25} + \frac{y^2}{9} = 1\]is graphed below.  The chord $\overline{AB}$ passes through a focus $F$ of the ellipse.  If $AF = \frac{3}{2},$ then find $BF.$
+
+[asy]
+unitsize (0.6 cm);
+
+pair A, B, F;
+
+F = (4,0);
+A = (35/8,3*sqrt(15)/8);
+B = (55/16,-9*sqrt(15)/16);
+
+draw(xscale(5)*yscale(3)*Circle((0,0),1));
+draw(A--B);
+draw((-6,0)--(6,0));
+draw((0,-4)--(0,4));
+
+dot("$A$", A, NE);
+dot("$B$", B, SE);
+dot("$F$", F, NW);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15257
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Hiram's algebra notes are $50$ pages long and are printed on $25$ sheets of paper; the first sheet contains pages $1$ and $2$, the second sheet contains pages $3$ and $4$, and so on. One day he leaves his notes on the table before leaving for lunch, and his roommate decides to borrow some pages from the middle of the notes. When Hiram comes back, he discovers that his roommate has taken a consecutive set of sheets from the notes and that the average (mean) of the page numbers on all remaining sheets is exactly $19$. How many sheets were borrowed?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

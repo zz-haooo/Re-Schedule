@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1609
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine for how many positive integers $n \in \{1, 2, \ldots, 2022\}$ it holds that $402$ divides at least one of
+\[ n^2 - 1, \quad n^3 - 1, \quad n^4 - 1 \]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

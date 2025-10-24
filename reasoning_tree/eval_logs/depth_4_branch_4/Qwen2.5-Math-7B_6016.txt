@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6016
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider all $1000$-element subsets of the set $\{1, 2, 3, ... , 2015\}$ . From each such subset choose the least element. The arithmetic mean of all of these least elements is $\frac{p}{q}$ , where $p$ and $q$ are relatively prime positive integers. Find $p + q$ .
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 431
+==================================================
+

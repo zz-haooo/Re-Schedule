@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10127
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many different positive three-digit integers can be formed using only the digits in the set $\{2, 3, 5, 5, 5, 6, 6\}$ if no digit may be used more times than it appears in the given set of available digits?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 43
+==================================================
+

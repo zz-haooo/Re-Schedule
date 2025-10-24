@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16701
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a circle with center at \(O\) and radius \(r\), chord \(AB\) is drawn with length equal to \(r\) (units). From \(O\), a perpendicular to \(AB\) meets \(AB\) at \(M\). From \(M\), a perpendicular to \(OA\) meets \(OA\) at \(D\). In terms of \(r\), find the area of triangle \(MDA\) in appropriate square units. The original answer is in the form \(\frac{k r^2 \sqrt{m}}{n}\), where \(k\), \(m\), and \(n\) are integers. Please provide the value of \(k + m + n\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

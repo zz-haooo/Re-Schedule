@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5085
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Sam has 1 Among Us task left. He and his task are located at two randomly chosen distinct vertices of a 2021-dimensional unit hypercube. Let $E$ denote the expected distance he has to walk to get to his task, given that he is only allowed to walk along edges of the hypercube. Compute $\lceil 10E \rceil$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10105
+==================================================
+

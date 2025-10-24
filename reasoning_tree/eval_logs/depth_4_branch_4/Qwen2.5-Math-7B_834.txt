@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 834
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Benji has a $2 \times 2$ grid, which he proceeds to place chips on. One by one, he places a chip on one of the unit squares of the grid at random. However, if at any point there is more than one chip on the same square, Benji moves two chips on that square to the two adjacent squares, which he calls a chip-fire. He keeps adding chips until there is an infinite loop of chip-fires. What is the expected number of chips that will be added to the board?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

@@ -1,0 +1,37 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6835
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC,$ $D$ lies on $\overline{BC}$ and $F$ lies on $\overline{AB}.$  Let $\overline{AD}$ and $\overline{CF}$ intersect at $P.$
+
+[asy]
+unitsize(0.8 cm);
+
+pair A, B, C, D, F, P;
+
+A = (1,4);
+B = (0,0);
+C = (6,0);
+D = interp(B,C,7/12);
+F = interp(A,B,5/14);
+P = extension(A,D,C,F);
+
+draw(A--B--C--cycle);
+draw(A--D);
+draw(C--F);
+
+label("$A$", A, N);
+label("$B$", B, SW);
+label("$C$", C, SE);
+label("$D$", D, S);
+label("$F$", F, W);
+label("$P$", P, SW);
+[/asy]
+
+If $AP:PD = 4:3$ and $FP:PC = 1:2,$ find $\frac{AF}{FB}.$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

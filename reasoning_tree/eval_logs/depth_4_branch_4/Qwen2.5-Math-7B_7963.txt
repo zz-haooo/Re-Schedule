@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7963
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Five rays $\overrightarrow{OA}$,$\overrightarrow{OB}$, $\overrightarrow{OC}$, $\overrightarrow{OD}$, and $\overrightarrow{OE}$  radiate in a clockwise order from $O$ forming four non-overlapping angles such that $\angle EOD = 2\angle COB$, $\angle COB = 2\angle BOA$, while $\angle DOC = 3\angle BOA$. If $E$, $O$, $A$ are collinear with $O$ between $A$ and $E$, what is the degree measure of $\angle DOB?$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

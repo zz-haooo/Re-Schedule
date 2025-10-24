@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4929
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $x_1, x_2, \ldots, x_5$ be real numbers. Find the least positive integer $n$ with the following property: if some $n$ distinct sums of the form $x_p + x_q + x_r$ (with $1 \le p < q < r \le 5$) are equal to $0$, then $x_1 = x_2 = \cdots = x_5 = 0$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

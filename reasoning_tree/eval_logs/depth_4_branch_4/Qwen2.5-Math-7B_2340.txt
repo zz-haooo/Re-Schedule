@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2340
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $A_1A_2A_3\ldots A_{12}$ be a regular dodecagon. Find the number of right triangles whose vertices are in the set $\{A_1, A_2, A_3, \ldots, A_{12}\}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

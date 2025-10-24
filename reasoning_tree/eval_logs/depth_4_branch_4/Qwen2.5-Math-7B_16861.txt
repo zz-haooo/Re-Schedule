@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16861
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Lines in the $xy$-plane are drawn through the point $(3,4)$ and the trisection points of the line segment joining the points $(-4,5)$ and $(5,-1)$. Find the equation of one of these lines. The equation is in the form mx + ny + p = 0. Please give the value of m + n + p.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14261
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A ladder is formed by removing some consecutive unit squares of a $10 \times 10$ chessboard such that for each $k$-th row ($k \in \{1,2,\dots, 10\}$), the leftmost $k-1$ unit squares are removed. Find the number of rectangles formed by the composition of unit squares that the ladder has.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 715
+==================================================
+

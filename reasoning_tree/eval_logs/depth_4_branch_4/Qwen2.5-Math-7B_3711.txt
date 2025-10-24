@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3711
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A container is shaped like a square-based pyramid where the base has side length $23$ centimeters and the height is $120$ centimeters. The container is open at the base of the pyramid and stands in an open field with its vertex pointing down. One afternoon, $5$ centimeters of rain falls in the open field, partially filling the previously empty container. Find the depth in centimeters of the rainwater in the bottom of the container after the rain.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

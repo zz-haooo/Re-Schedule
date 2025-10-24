@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 142
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine all non-negative integers $n$ for which there exist two relatively prime non-negative integers $x$ and $y$ and a positive integer $k \geq 2$ such that $3^n = x^k + y^k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

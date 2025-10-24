@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3235
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC$, points $D$, $E$, and $F$ are on sides $BC$, $CA$, and $AB$ respectively, such that $BF = BD = CD = CE = 5$ and $AE - AF = 3$. Let $I$ be the incenter of $\triangle ABC$. The circumcircles of $\triangle BFI$ and $\triangle CEI$ intersect at $X \neq I$. Find the length of $DX$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

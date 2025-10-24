@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 329
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $a, b, c > 0$ are integers such that:
+\[
+abc - bc - ac - ab + a + b + c = 2013.
+\]
+Find the number of possibilities for the ordered triple $(a, b, c)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 18
+==================================================
+

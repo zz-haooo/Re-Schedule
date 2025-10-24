@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5837
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given that $x, y,$ and $z$ are real numbers that satisfy:
+\begin{align*} x &= \sqrt{y^2-\frac{1}{16}}+\sqrt{z^2-\frac{1}{16}}, \\ y &= \sqrt{z^2-\frac{1}{25}}+\sqrt{x^2-\frac{1}{25}}, \\ z &= \sqrt{x^2 - \frac 1{36}}+\sqrt{y^2-\frac 1{36}}, \end{align*}
+and that $x+y+z = \frac{m}{\sqrt{n}},$ where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime, find $m+n.$
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

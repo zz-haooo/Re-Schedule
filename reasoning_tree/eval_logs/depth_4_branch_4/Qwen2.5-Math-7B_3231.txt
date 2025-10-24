@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3231
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute $ax^{2018} + by^{2018}$, given that there exist real numbers $a$, $b$, $x$, and $y$ which satisfy the following four equations:
+\[
+\begin{align*}
+ax^{2014} + by^{2014} &= 6, \\
+ax^{2015} + by^{2015} &= 7, \\
+ax^{2016} + by^{2016} &= 3, \\
+ax^{2017} + by^{2017} &= 50.
+\end{align*}
+\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -417
+==================================================
+

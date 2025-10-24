@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8643
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two circles, one centered at $(-3,2)$ and the other centered at $(0,-1)$, are internally tangent as shown. [asy]
+import graph; size(7cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-9.34,xmax=9.27,ymin=-9.36,ymax=7.89;
+
+Label laxis; laxis.p=fontsize(10);
+
+xaxis(xmin,xmax,Ticks(laxis,Step=2.0,Size=2,OmitTick(0)),Arrows(6),above=true); yaxis(ymin,ymax,Ticks(laxis,Step=2.0,Size=2,OmitTick(0)),Arrows(6),above=true); draw(circle((0,-1),7.07)); draw(circle((-3,2),2.83));
+
+dot((0,-1),ds); label("$(0, -1)$",(0.23,-1.87),SE*lsf); dot((-3,2),ds); label("$(-3, 2)$",(-2.82,2.29),N*lsf); dot((1,6),ds); label("$(1, 6)$",(1.2,6.3),NE*lsf); dot((-5,4),ds);
+
+clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle);
+
+[/asy] If the equation of the smaller circle can be written as $x^2 + y^2 + Dx + Ey + F = 0$, find $D + E + F$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

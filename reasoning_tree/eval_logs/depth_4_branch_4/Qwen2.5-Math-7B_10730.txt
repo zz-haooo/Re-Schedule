@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10730
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In coordinate space, a particle starts at the point $(2,3,4)$ and ends at the point $(-1,-3,-3),$ along the line connecting the two points.  Along the way, the particle intersects the unit sphere centered at the origin at two points.  Then the distance between these two points can be expressed in the form $\frac{a}{\sqrt{b}},$ where $a$ and $b$ are positive integers, and $b$ is not divisible by the square of a prime.  Find $a + b.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 59
+==================================================
+

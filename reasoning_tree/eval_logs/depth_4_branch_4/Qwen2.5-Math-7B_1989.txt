@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1989
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ranu starts with one standard die on a table. At each step, she rolls all the dice on the table: if all of them show a 6 on top, then she places one more die on the table; otherwise, she does nothing more on this step. After 2013 such steps, let $D$ be the number of dice on the table. What is the expected value (average value) of $6^D$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10071
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2957
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $a_1, a_2, a_3, \ldots$ is an infinite geometric sequence such that for all $i \ge 1$, $a_i$ is a positive integer. Suppose furthermore that $a_{20} + a_{21} = 20^{21}$. If the minimum possible value of $a_1$ can be expressed as $2^a 5^b$ for positive integers $a$ and $b$, find $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

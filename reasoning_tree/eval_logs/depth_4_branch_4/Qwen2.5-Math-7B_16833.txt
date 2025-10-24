@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16833
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the overlapping triangles $\triangle{ABC}$ and $\triangle{ABE}$ sharing common side $AB$, $\angle{EAB}$ and $\angle{ABC}$ are right angles, $AB = 4$, $BC = 6$, $AE = 8$, and $\overline{AC}$ and $\overline{BE}$ intersect at $D$. Find the difference between the areas of $\triangle{ADE}$ and $\triangle{BDC}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

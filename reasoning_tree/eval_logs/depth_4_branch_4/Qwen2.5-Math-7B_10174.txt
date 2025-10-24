@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10174
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many 9-step paths are there from $E$ to $G$?[asy]size(4cm,4cm);int w=6;int h=5;int i;for (i=0; i<h; ++i){draw((0,i) -- (w-1,i));}for (i=0; i<w; ++i){draw((i, 0)--(i,h-1));}label("$G$", (w-1,0), SE);label("$E$", (0,h-1), NW);[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 126
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1614
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_0, a_1, \ldots$ be a sequence of positive integers such that $a_0 = 1$, and for all positive integers $n$, $a_n$ is the smallest composite number relatively prime to all of $a_0, a_1, \ldots, a_{n-1}$. Compute $a_{10}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 841
+==================================================
+

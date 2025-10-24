@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5232
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Senior military doctor Bautze exposed $abccc$ malingerers among $aabbb$ draftees who claimed not to be fit for military service. He managed to expose all but one draftee. (He would have exposed this one too if the lucky guy was not taken by a stroke at the very moment when the doctor yelled at him "Turn around!") How many malingerers were exposed by the vigilant doctor? 
+
+Each digit substitutes a letter. The same digits substitute the same letters, while distinct digits substitute distinct letters.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10999
+==================================================
+

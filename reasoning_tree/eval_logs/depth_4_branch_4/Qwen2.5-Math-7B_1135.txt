@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1135
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $E$ denote the set of all natural numbers $n$ such that $3 < n < 100$ and the set $\{ 1, 2, 3, \ldots , n\}$ can be partitioned into $3$ subsets with equal sums. Find the number of elements of $E$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 64
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10971
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The streets of a city are represented on a map as straight lines that divide a square into 25 smaller squares of side 1. (The borderline of the city is considered to be the union of 4 streets.) There is a snow plow at the bottom right corner of the bottom left square. Find the length of the shortest path for the plow to pass through all streets and come back to its starting point.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

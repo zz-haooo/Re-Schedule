@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2507
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the minimum positive value of $1 \times 2 \times 3 \times 4 \times \ldots \times 2020 \times 2021 \times 2022$ where you can replace $\times$ with $+$ or $-$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

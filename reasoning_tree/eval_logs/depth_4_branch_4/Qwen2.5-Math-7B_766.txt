@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 766
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A $12 \times 12$ board is divided into $144$ unit squares by drawing lines parallel to the sides. Two rooks placed on two unit squares are said to be non-attacking if they are not in the same column or same row. Find the least number $N$ such that if $N$ rooks are placed on the unit squares, one rook per square, we can always find $7$ rooks such that no two are attacking each other.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 73
+==================================================
+

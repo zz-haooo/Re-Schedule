@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 393
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given a cube, on each edge, write a number, either $1$ or $-1$. For each face of the cube, multiply the four numbers on the edges of this face and write the product on this face. Finally, add all the eighteen numbers that were written on the edges and faces of the cube.
+
+What is the smallest possible sum that can be obtained?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -12
+==================================================
+

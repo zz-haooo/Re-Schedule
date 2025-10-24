@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1786
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alice and Bob live on the same road. At time $t$, they both decide to walk to each other's houses at constant speed. However, they were busy thinking about math so that they didn't realize passing each other. Alice arrived at Bob's house at $3:19\text{pm}$, and Bob arrived at Alice's house at $3:29\text{pm}$. Charlie, who was driving by, noted that Alice and Bob passed each other at $3:11\text{pm}$. Find the difference in minutes between the time Alice and Bob left their own houses and noon on that day.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 179
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3517
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Denote by $Re(z)$ and $Im(z)$ the real part and imaginary part, respectively, of a complex number $z$; that is, if $z = a + bi$, then $Re(z) = a$ and $Im(z) = b$. Suppose that there exists some real number $k$ such that:
+\[
+Im \left( \frac{1}{w} \right) = Im \left( \frac{k}{w^2} \right) = Im \left( \frac{k}{w^3} \right) 
+\]
+for some complex number $w$ with $||w||=\frac{\sqrt{3}}{2}$, $Re(w) > 0$, and $Im(w) \ne 0$. If $k$ can be expressed as $\frac{\sqrt{a}-b}{c}$ for integers $a$, $b$, $c$ with $a$ squarefree, find $a + b + c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 68
+==================================================
+

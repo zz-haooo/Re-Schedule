@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6082
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $SP_1P_2P_3EP_4P_5$ be a heptagon. A frog starts jumping at vertex $S$. From any vertex of the heptagon except $E$, the frog may jump to either of the two adjacent vertices. When it reaches vertex $E$, the frog stops and stays there. Find the number of distinct sequences of jumps of no more than $12$ jumps that end at $E$.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 351
+==================================================
+

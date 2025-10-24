@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10265
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the area of the shaded region in the figure below? Round your answer to the nearest square centimeter.
+
+[asy]
+draw((0,0) -- (3,0) -- (3,3) -- (0,3)--cycle) ; draw((3,0)-- (12,0) -- (12,9) -- (3, 9)--cycle);
+
+label ( "3 cm", (0,1.5), W); label ( "3 cm", (1.5 ,0), S);
+label ( "9 cm", (3+9/2 ,0), S);label ( "9 cm", (12 ,9/2), E);
+draw( rightanglemark( (3, 9) , (3,0) , (12,0) ,31 ));
+draw( rightanglemark( (3,0), (12,0), (12, 9) ,31 ));
+draw( rightanglemark( (3,0), (3,3), (0, 3) ,21 ));
+draw( rightanglemark( (3,3), (0, 3) , (0,0) ,21 ));
+draw( (0,0) -- (12, 9));
+fill( (3, 9/4) -- (12, 9) -- (3,9)-- cycle , darkgray); draw( rightanglemark( (12,9) , (3, 9), (3,0), 31 ));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 30
+==================================================
+

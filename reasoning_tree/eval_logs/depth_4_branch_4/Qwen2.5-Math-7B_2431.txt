@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2431
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A particle is at the origin of the Cartesian plane, $(0, 0)$. In each step, the particle can move $1$ unit in any of the four directions: left, right, up, or down. Determine the number of ways the particle can move from $(0, 0)$ to $(0, 2)$ in exactly $6$ steps. 
+
+Note: Two paths are considered different if the order of traversal of each point differs, even if the same set of points is traversed.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 225
+==================================================
+

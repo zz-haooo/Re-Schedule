@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 228
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Bob starts with an empty whiteboard. He then repeatedly chooses one of the digits $1, 2, \ldots, 9$ (uniformly at random) and appends it to the end of the currently written number. Bob stops when the number on the board is a multiple of $25$. Let $E$ be the expected number of digits that Bob writes. If $E = \frac{m}{n}$ for relatively prime positive integers $m$ and $n$, find $100m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 8102
+==================================================
+

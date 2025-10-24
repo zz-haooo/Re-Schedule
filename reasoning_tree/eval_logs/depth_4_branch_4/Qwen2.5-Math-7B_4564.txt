@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4564
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+At a party, there were some couples attending. As they arrive, each person gets to talk with all the other persons who are already in the room. During the party, after all the guests arrive, groups of persons form such that:
+1. No two persons forming a couple belong to the same group.
+2. For each two persons that do not form a couple, there is one and only one group to which both belong.
+
+Find the number of couples attending the party, knowing that there are fewer groups than persons at the party.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

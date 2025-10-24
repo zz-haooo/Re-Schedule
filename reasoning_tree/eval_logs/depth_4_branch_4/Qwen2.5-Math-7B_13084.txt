@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13084
+Question: 已知函数 $f(x)=\frac{x^{3}+3 x}{3 x^{2}+1}$, 数列 $\left\{x_{n}\right\}$ 满足 $x_{1}=2, x_{n+1}=f\left(x_{n}\right)\left(n \in \mathbf{N}_{+}\right)$. 记 $b_{n}=\log _{3}\left(\frac{x_{n+1}-1}{x_{n+1}+1}\right)\left(n \in \mathbf{N}_{+}\right)$. （1）证明: $\left\{b_{n}\right\}$ 为等比数列, 并求数列 $\left\{b_{n}\right\}$的通项公式； (2) 记 $c_{n}=-n b_{n}\left(n \in \mathbf{N}_{+}\right)$, 求数列 $\left\{c_{n}\right\}$的前 $n$ 项和公式 $T_{n}$ 。请提供 $T_{n}$ 的值当 $n = 1$ 时。答案应为整数形式。
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 3
+==================================================
+

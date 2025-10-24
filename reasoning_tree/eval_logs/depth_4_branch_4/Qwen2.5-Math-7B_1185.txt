@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1185
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be a triangle with $BA<AC$, $BC=10$, and $BA=8$. Let $H$ be the orthocenter of $\triangle ABC$. Let $F$ be the point on segment $AC$ such that $BF=8$. Let $T$ be the point of intersection of $FH$ and the extension of line $BC$. Suppose that $BT=8$. Find the area of $\triangle ABC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 40
+==================================================
+

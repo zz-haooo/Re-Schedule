@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8942
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the diagram, $PQR$ is a straight line.  What is the value of $x$?
+
+[asy]
+draw((-2,0)--(8,0),linewidth(0.7)); draw((8,0)--(5,-5.5)--(0,0),linewidth(0.7));
+label("$P$",(-2,0),W); label("$Q$",(0,0),N); label("$R$",(8,0),E); label("$S$",(5,-5.5),S);
+
+label("$136^\circ$",(0,0),SW); label("$64^\circ$",(7,0),S);
+
+label("$x^\circ$",(5,-4.5));
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 72
+==================================================
+

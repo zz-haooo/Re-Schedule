@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4744
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $x_1 = \sqrt{10}$ and $y_1 = \sqrt{3}$. For all $n \geq 2$, let
+\[
+x_n = x_{n-1} \sqrt{77} + 15y_{n-1}, \\
+y_n = 5x_{n-1} + y_{n-1} \sqrt{77}.
+\]
+Find $x_5^6 + 2x_5^4 - 9x_5^4y_5^2 - 12x_5^2y_5^2 + 27x_5^2y_5^4 + 18y_5^4 - 27y_5^6$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4608
+==================================================
+

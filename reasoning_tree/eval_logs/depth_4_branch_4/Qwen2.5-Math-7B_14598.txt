@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14598
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a$, $b$, and $c$ be positive integers with $a \ge b \ge c$ such that
+$a^2-b^2-c^2+ab=2011$ and
+$a^2+3b^2+3c^2-3ab-2ac-2bc=-1997$.
+
+What is the value of $a$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 253
+==================================================
+

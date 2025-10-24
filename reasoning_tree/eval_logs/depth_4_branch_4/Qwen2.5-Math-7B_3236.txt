@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3236
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Trapezoid $ABCD$ is an isosceles trapezoid with $AD = BC$. Point $P$ is the intersection of the diagonals $AC$ and $BD$. If the area of $\triangle ABP$ is $50$ and the area of $\triangle CDP$ is $72$, what is the area of the entire trapezoid?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 242
+==================================================
+

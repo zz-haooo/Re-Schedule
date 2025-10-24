@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2793
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $x=\sqrt{37-20\sqrt{3}}$. Find the value of \(\frac{x^4-9x^3+5x^2-7x+68}{x^2-10x+19}\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

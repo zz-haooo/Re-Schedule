@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5231
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $a_1, a_2, a_3, \dots$ is an increasing arithmetic progression of positive integers. Given that $a_3 = 13$, compute the maximum possible value of $a_{a_1} + a_{a_2} + a_{a_3} + a_{a_4} + a_{a_5}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 365
+==================================================
+

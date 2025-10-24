@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10107
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sphere is inscribed in a right cone with base radius $12$ cm and height $24$ cm, as shown. The radius of the sphere can be expressed as $a\sqrt{c} - a$ cm. What is the value of $a + c$? [asy]
+import three; size(120); defaultpen(linewidth(1)); pen dashes = linetype("2 2") + linewidth(1);
+currentprojection = orthographic(0,-1,0.16);
+void drawticks(triple p1, triple p2, triple tickmarks) {
+
+draw(p1--p2); draw(p1 + tickmarks-- p1 - tickmarks); draw(p2 + tickmarks -- p2 - tickmarks);
+}
+real r = 6*5^.5-6;
+triple O = (0,0,0), A = (0,0,-24);
+draw(scale3(12)*unitcircle3); draw((-12,0,0)--A--(12,0,0)); draw(O--(12,0,0),dashes);
+draw(O..(-r,0,-r)..(0,0,-2r)..(r,0,-r)..cycle);
+draw((-r,0,-r)..(0,-r,-r)..(r,0,-r)); draw((-r,0,-r)..(0,r,-r)..(r,0,-r),dashes);
+
+drawticks((0,0,2.8),(12,0,2.8),(0,0,0.5));
+drawticks((-13,0,0),(-13,0,-24),(0.5,0,0));
+label("$12$", (6,0,3.5), N); label("$24$",(-14,0,-12), W);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

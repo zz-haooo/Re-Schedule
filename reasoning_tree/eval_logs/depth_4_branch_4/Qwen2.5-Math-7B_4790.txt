@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4790
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute
+$$
+2022^{\left(2022^{\cdot ^ {\cdot ^{\cdot ^{\left(2022^{2022}\right)}}}}\right)} \pmod{111}
+$$
+where there are $2022$ instances of $2022$ in the tower. (Give the answer as an integer from $0$ to $110$).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 75
+==================================================
+

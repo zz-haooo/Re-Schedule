@@ -1,0 +1,37 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10010
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In rectangle $ABCD$, we have $AB=8$, $BC=9$, $H$ is on $\overline{BC}$ with $BH=6$, $E$ is on $AD$ with $DE=4$, line $EC$ intersects line $AH$ at $G$, and $F$ is on line $AD$ with $\overline{GF}\perp \overline{AF}$. Find the length $\overline{GF}$.
+
+[asy]
+pair A,B,C,D,I,F,G,H;
+F=(0,0);
+D=(6,0);
+I=(10,0);
+A=(15,0);
+B=(15,8);
+H=(9,8);
+C=(6,8);
+G=(0,20);
+draw(A--B--C--D--cycle,linewidth(0.7));
+draw(A--F--G--cycle,linewidth(0.7));
+draw(G--I,linewidth(0.7));
+label("4",(8,0),S);
+label("8",(15,4),E);
+label("6",(12,8),N);
+label("$A$",A,SE);
+label("$B$",B,NE);
+label("$C$",C,W);
+label("$D$",D,S);
+label("$E$",I,S);
+label("$F$",F,W);
+label("$G$",G,W);
+label("$H$",H,NE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9241
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $x$ and $y$ be real numbers such that
+\[xy - \frac{x}{y^2} - \frac{y}{x^2} = 3.\]Find the sum of all possible values of $(x - 1)(y - 1).$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

@@ -1,0 +1,31 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1856
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A semicircle is joined to the side of a triangle, with the common edge removed. Sixteen points are arranged on the figure, as shown below. How many non-degenerate triangles can be drawn from the given points?
+
+\[\text{[asy]}\]
+\[\text{draw}((0,-2)--\text{arc}((0,0),1,0,180)--\text{cycle});\]
+\[\text{dot}((-0.8775,-0.245));\]
+\[\text{dot}((-0.735,-0.53));\]
+\[\text{dot}((-0.5305,-0.939));\]
+\[\text{dot}((-0.3875,-1.225));\]
+\[\text{dot}((-0.2365,-1.527));\]
+\[\text{dot}((0.155,-1.69));\]
+\[\text{dot}((0.306,-1.388));\]
+\[\text{dot}((0.4,-1.2));\]
+\[\text{dot}((0.551,-0.898));\]
+\[\text{dot}((0.837,-0.326));\]
+\[\text{dot}(\text{dir}(25));\]
+\[\text{dot}(\text{dir}(50));\]
+\[\text{dot}(\text{dir}(65));\]
+\[\text{dot}(\text{dir}(100));\]
+\[\text{dot}(\text{dir}(115));\]
+\[\text{dot}(\text{dir}(140));\]
+\[\text{[/asy]}\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 540
+==================================================
+

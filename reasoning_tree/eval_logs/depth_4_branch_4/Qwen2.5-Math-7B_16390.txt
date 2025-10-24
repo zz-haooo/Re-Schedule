@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16390
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $D$ be a point on side $[AB]$ of triangle $ABC$ with $|AB| = |AC|$, such that $[CD]$ is an angle bisector and $m(\widehat{ABC}) = 40^\circ$. Let $F$ be a point on the extension of $[AB]$ beyond $B$ such that $|BC| = |AF|$. Let $E$ be the midpoint of $[CF]$. If $G$ is the intersection of lines $ED$ and $AC$, what is the value of $x$ if $m(\widehat{FBG}) = x^\circ$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 150
+==================================================
+

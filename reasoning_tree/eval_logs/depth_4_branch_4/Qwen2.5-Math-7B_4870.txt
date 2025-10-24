@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4870
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the area of the region in the coordinate plane satisfying the following conditions:
+
+- $x \le 2y$
+- $y \le 2x$
+- $x + y \le 60$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 600
+==================================================
+

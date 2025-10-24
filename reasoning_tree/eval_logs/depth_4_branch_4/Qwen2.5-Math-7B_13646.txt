@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13646
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine all rational numbers $a$ for which the matrix
+$$
+\left(\begin{array}{cccc}
+a & -a & -1 & 0 \\
+a & -a & 0 & -1 \\
+1 & 0 & a & -a \\
+0 & 1 & a & -a
+\end{array}\right)
+$$
+is the square of a matrix with all rational entries. Provide the integer value of $a$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

@@ -1,0 +1,35 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9897
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A cube has side length $6$. Its vertices are alternately colored black and purple, as shown below. What is the volume of the tetrahedron whose corners are the purple vertices of the cube? (A tetrahedron is a pyramid with a triangular base.)
+
+[asy]
+import three;
+real t=-0.05;
+triple A,B,C,D,EE,F,G,H;
+A = (0,0,0);
+B = (cos(t),sin(t),0);
+D= (-sin(t),cos(t),0);
+C = B+D;
+EE = (0,0,1);
+F = B+EE;
+G = C + EE;
+H = D + EE;
+draw(surface(B--EE--G--cycle),rgb(.6,.3,.6),nolight);
+draw(surface(B--D--G--cycle),rgb(.7,.4,.7),nolight);
+draw(surface(D--EE--G--cycle),rgb(.8,.5,.8),nolight);
+draw(B--C--D);
+draw(EE--F--G--H--EE);
+draw(B--F);
+draw(C--G);
+draw(D--H);
+pen pu=rgb(.5,.2,.5)+8; pen bk=black+8;
+dot(B,pu); dot(C,bk); dot(D,pu); dot(EE,pu); dot(F,bk); dot(G,pu); dot(H,bk);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 72
+==================================================
+

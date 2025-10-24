@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9955
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three circles, each of radius $3$, are drawn with centers at $(14, 92)$, $(17, 76)$, and $(19, 84)$. A line passing through $(17,76)$ is such that the total area of the parts of the three circles to one side of the line is equal to the total area of the parts of the three circles to the other side of it. What is the absolute value of the slope of this line?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

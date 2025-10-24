@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1750
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $\triangle ABC$, point $D$ lies between $A$ and $C$ such that $AC = 3AD$. Point $E$ lies between $B$ and $C$ such that $BC = 4EC$. Points $B$, $G$, $F$, and $D$ are on a straight line in that order, and $BD = 5GF = 5FD$. Given that the area of $\triangle ABC$ is $900$, find the area of triangle $\triangle EFG$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

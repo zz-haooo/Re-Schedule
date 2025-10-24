@@ -1,0 +1,33 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10374
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A right hexagonal prism has a height of 3 feet and each edge of the hexagonal bases is 6 inches. What is the sum of the areas of the non-hexagonal faces of the prism, in square feet?
+
+[asy]import three;
+
+currentprojection=orthographic(1/2,-1,1/2);
+
+draw((0,0,0)--(1,0,0)--(1.5,0.86,0)--(1,1.72,0)--(0,1.72,0)--(-0.5,0.86,0)--cycle);
+
+draw((0,0,6)--(1,0,6)--(1.5,0.86,6)--(1,1.72,6)--(0,1.72,6)--(-0.5,0.86,6)--cycle);
+
+draw((0,0,0)--(0,0,6));
+
+draw((1,0,0)--(1,0,6));
+
+draw((1.5,0.86,0)--(1.5,0.86,6));
+
+draw((1,1.72,0)--(1,1.72,6));
+
+draw((0,1.72,0)--(0,1.72,6));
+
+draw((-0.5,0.86,0)--(-0.5,0.86,6));
+
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2162
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Sheila is making a regular-hexagon-shaped sign with side length $1$. Let $ABCDEF$ be the regular hexagon, and let $R$, $S$, $T$, and $U$ be the midpoints of $FA$, $BC$, $CD$, and $EF$, respectively. Sheila splits the hexagon into four regions of equal width: trapezoids $ABSR$, $RSCF$, $FCTU$, and $UTDE$. She then paints the middle two regions gold. The fraction of the total hexagon that is gold can be written in the form $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Compute $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19
+==================================================
+

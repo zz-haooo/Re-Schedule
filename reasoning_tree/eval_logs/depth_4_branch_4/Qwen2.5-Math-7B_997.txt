@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 997
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $n$ sticks which have distinct integer lengths. Suppose that it's possible to form a non-degenerate triangle from any $3$ distinct sticks among them. It's also known that there are sticks of lengths $5$ and $12$ among them. What's the largest possible value of $n$ under such conditions?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

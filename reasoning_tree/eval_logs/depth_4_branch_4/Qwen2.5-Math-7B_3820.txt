@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3820
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+We have four registers, $R_1, R_2, R_3, R_4$, such that $R_i$ initially contains the number $i$ for $1 \leq i \leq 4$. We are allowed two operations:
+
+1. Simultaneously swap the contents of $R_1$ and $R_3$ as well as $R_2$ and $R_4$.
+
+2. Simultaneously transfer the contents of $R_2$ to $R_3$, the contents of $R_3$ to $R_4$, and the contents of $R_4$ to $R_2$. For example, if we do this once, then $(R_1, R_2, R_3, R_4) = (1, 4, 2, 3)$.
+
+Using these two operations as many times as desired and in whatever order, what is the total number of possible outcomes?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

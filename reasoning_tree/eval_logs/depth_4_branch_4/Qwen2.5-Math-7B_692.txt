@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 692
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Initially, a natural number $n$ is written on the blackboard. Then, at each minute, Neymar chooses a divisor $d > 1$ of $n$, erases $n$, and writes $n + d$. If the initial number on the board is $2022$, what is the largest composite number that Neymar will never be able to write on the blackboard?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2033
+==================================================
+

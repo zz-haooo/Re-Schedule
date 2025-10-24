@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16937
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the smallest result that can be obtained from the following process?  
+Choose three different numbers from the set $\{3,5,7,11,13,17\}$.  
+Add two of these numbers.  
+Multiply their sum by the third number.  
+Find the smallest possible result.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

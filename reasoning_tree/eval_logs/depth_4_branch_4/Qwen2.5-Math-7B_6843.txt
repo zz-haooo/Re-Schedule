@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6843
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $p(x)$ be the polynomial of degree at most 8 such that
+\[p(n) = \frac{1}{n}\]for $n = 1,$ 2, 3, $\dots,$ 9.  Find $p(10).$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

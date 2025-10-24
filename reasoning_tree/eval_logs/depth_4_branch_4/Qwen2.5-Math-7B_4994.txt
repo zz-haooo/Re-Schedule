@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4994
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the maximum length of a broken line on the surface of a unit cube, such that:
+- The line's links are the cube's edges and diagonals of faces.
+- The line does not intersect itself.
+- The line passes no more than once through any vertex of the cube.
+- The endpoints of the line are in two opposite vertices of the cube.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

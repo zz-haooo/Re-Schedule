@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11578
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many positive integers $n$ are there such that $n$ is an exact divisor of at least one of the numbers $10^{40}, 20^{30}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2301
+==================================================
+

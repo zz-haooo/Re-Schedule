@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9607
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \[A = \lceil \log_2 2 \rceil + \lceil \log_2 3 \rceil + \dots + \lceil \log_2 1000 \rceil\]and \[B =  \lfloor \log_2 2 \rfloor + \lfloor \log_2 3 \rfloor + \dots + \lfloor \log_2 1000 \rfloor.\]Compute $A-B.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 990
+==================================================
+

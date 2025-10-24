@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4046
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the system of equations:
+
+\[ a + 2b + 3c + \ldots + 26z = 2020 \]
+\[ b + 2c + 3d + \ldots + 26a = 2019 \]
+\[ \vdots \]
+\[ y + 2z + 3a + \ldots + 26x = 1996 \]
+\[ z + 2a + 3b + \ldots + 26y = 1995 \]
+
+where each equation is a rearrangement of the first equation with the variables cycling and the coefficients staying in place. Find the value of:
+
+\[ z + 2y + 3x + \ldots + 26a \]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1995
+==================================================
+

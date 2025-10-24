@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2200
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Simon expands factored polynomials with his favorite AI, ChatSFFT. However, he has not paid for a premium ChatSFFT account, so when he goes to expand \((m - a)(n - b)\), where \(a, b, m, n\) are integers, ChatSFFT returns the sum of the two factors instead of the product. However, when Simon plugs in certain pairs of integer values for \(m\) and \(n\), he realizes that the value of ChatSFFT’s result is the same as the real result in terms of \(a\) and \(b\). How many such pairs are there?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

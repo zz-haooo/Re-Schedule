@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4702
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\pi$ be a permutation of the numbers from $1$ through $2012$. What is the maximum possible number of integers $n$ with $1 \le n \le 2011$ such that $\pi(n)$ divides $\pi(n + 1)$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1006
+==================================================
+

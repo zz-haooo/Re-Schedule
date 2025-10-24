@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14361
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $T$ be the triangle in the coordinate plane with vertices $(0,0)$, $(4,0)$, and $(0,3)$. Consider the following five isometries (rigid transformations) of the plane: rotations of $90^{\circ}$, $180^{\circ}$, and $270^{\circ}$ counterclockwise around the origin, reflection across the $x$-axis, and reflection across the $y$-axis. Find how many of the $125$ sequences of three of these transformations (not necessarily distinct) will return $T$ to its original position.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

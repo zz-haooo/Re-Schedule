@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3603
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a triangle with angles $A$, $B$, and $C$. Suppose $\tan A$, $\tan B$, $\tan C$ form a geometric sequence in that order. If $1 \le \tan A + \tan B + \tan C \le 2015$, find the number of possible integer values for $\tan B$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

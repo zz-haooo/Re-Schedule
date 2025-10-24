@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2394
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Since this is the $6$th Greek Math Olympiad and the year is $1989$, can you find the last two digits of $6^{1989}$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 96
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13428
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For a fixed positive integer $n$ let $x_{1}, x_{2}, \ldots, x_{n}$ be real numbers satisfying $0 \leq x_{k} \leq 1$ for $k=1,2, \ldots, n$. Determine the maximum value, as a function of $n$, of the sum of the $n(n-1) / 2$ terms:
+$$
+\sum_{\substack{i, j=1 \\ i<j}}^{n}\left|x_{i}-x_{j}\right|.
+$$
+Please provide the value of this sum when n = 3. 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12873
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the greatest possible value of $\sum_{i=1}^{10}\cos(3x_i)$ for real numbers $x_1,x_2,\ldots,x_{10}$ satisfying $\sum_{i=1}^{10}\cos(x_i)=0.$ The original answer is in \frac{m}{n} format, please give the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 529
+==================================================
+

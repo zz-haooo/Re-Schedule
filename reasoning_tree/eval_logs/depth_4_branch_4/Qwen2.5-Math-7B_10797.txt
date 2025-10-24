@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10797
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A blue plane, a red plane and a white plane are waiting to take off from an airport that has two runways. Planes must take off from the airport one at a time, but can take off from either runway. In how many ways can the three takeoffs be scheduled? (One such way is the blue plane on runway A, followed by the red plane on runway B, followed by the white plane on runway B.)
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 48
+==================================================
+

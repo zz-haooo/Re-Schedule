@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4243
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Maryssa, Stephen, and Cynthia played a game. Each of them independently privately chose one of Rock, Paper, and Scissors at random, with all three choices being equally likely. Given that at least one of them chose Rock and at most one of them chose Paper, the probability that exactly one of them chose Scissors can be expressed as $\frac{m}{n}$ for relatively prime positive integers $m$ and $n$. Compute $100m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 916
+==================================================
+

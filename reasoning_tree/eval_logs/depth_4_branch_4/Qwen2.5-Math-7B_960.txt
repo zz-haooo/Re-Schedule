@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 960
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a$ be a number with $n$ digits ($n > 1$). A number $b$ with $2n$ digits is obtained by writing two copies of $a$ one after the other. If $\frac{b}{a^2}$ is an integer $k$, find the possible values of $k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

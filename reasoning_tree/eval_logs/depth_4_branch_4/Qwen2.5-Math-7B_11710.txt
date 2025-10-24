@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11710
+Question: 已知正项数列 $\left\{a_{n}\right\}$ 满足:  
+$a_{1}=1$,  
+$(n+1) a_{n}^{2}-2 n a_{n+1}^{2}+\sqrt{n^{2}+n} a_{n} a_{n+1}=0$,  
+$z_{n}=\prod\limits_{k=1}^{n}\left(1-\frac{\mathrm{i}}{a_{k}}\right)$ ( $\mathrm{i}$ 为虚数单位).  
+求 $\left|z_{2019}-z_{2020}\right|$ 的值.
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 1
+==================================================
+

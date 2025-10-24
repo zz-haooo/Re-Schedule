@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6587
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $f(x) = \frac{1 + x}{1 - 3x}, f_1(x) = f(f(x)), f_2(x) = f(f_1(x)),$ and in general $f_n(x) = f(f_{n-1}(x)),$ then $f_{1993}(3)=$The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

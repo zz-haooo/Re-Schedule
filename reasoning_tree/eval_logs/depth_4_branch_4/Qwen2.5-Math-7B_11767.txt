@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11767
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Every positive integer is marked with a number from the set $\{0,1,2\}$, according to the following rule:  
+if a positive integer $k$ is marked with $j$, then the integer $k+j$ is marked with 0.  
+Let $S$ denote the sum of marks of the first 2019 positive integers. Determine the maximum possible value of $S$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2021
+==================================================
+

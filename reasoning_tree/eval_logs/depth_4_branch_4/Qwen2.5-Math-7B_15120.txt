@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15120
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the median of the following list of $4040$ numbers?  
+$1, 2, 3, \ldots, 2020, 1^2, 2^2, 3^2, \ldots, 2020^2$
+Calculate the median of this list and provide the value of the median multiplied by 10.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 19765
+==================================================
+

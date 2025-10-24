@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2984
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Square $ABCD$ is cut by a line segment $EF$ into two rectangles $AEFD$ and $BCFE$. The lengths of the sides of each of these rectangles are positive integers. It is known that the area of the rectangle $AEFD$ is $30$ and it is larger than the area of the rectangle $BCFE$. Find the area of square $ABCD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

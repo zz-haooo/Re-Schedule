@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3056
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A regular polygon with $20$ vertices is given. Alice colors each vertex in one of two colors. Bob then draws a diagonal connecting two opposite vertices. Now Bob draws perpendicular segments to this diagonal, each segment having vertices of the same color as endpoints. He gets a fish from Alice for each such segment he draws. How many fish can Bob guarantee getting, no matter Alice's goodwill?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

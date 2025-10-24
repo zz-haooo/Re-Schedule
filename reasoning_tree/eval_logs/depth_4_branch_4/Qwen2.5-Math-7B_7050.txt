@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7050
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Calculate the number of ways of choosing $4$ numbers from the set ${1,2,\cdots ,11}$ such that at least $2$ of the numbers are consecutive.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 274
+==================================================
+

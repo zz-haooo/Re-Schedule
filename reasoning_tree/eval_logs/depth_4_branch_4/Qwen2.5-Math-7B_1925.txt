@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1925
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+On a board, the numbers $1, 2, 3, \ldots, 98, 99$ are written. One must mark $50$ of them such that the sum of any two marked numbers is never equal to $99$ or $100$. How many ways can one mark these numbers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1
+==================================================
+

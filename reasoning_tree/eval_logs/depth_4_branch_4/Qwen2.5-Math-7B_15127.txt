@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 15127
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Ms. Carr asks her students to read any $5$ of the $10$ books on a reading list. Harold randomly selects $5$ books from this list, and Betty does the same. Find the probability that there are exactly $2$ books that they both select. The answer should be expressed in the form \(\frac{k}{m}\), where the fraction is in simplest form. Please give the value of \(k + m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 88
+==================================================
+

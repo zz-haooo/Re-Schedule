@@ -1,0 +1,19 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4101
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $x$ is a real number, let $\lfloor x \rfloor$ be the greatest integer that is less than or equal to $x$. If $n$ is a positive integer, let $S(n)$ be defined by
+\[
+  S(n) 
+    = \left\lfloor \frac{n}{10^{\lfloor \log n \rfloor}} \right\rfloor
+        + 10 \left( n - 10^{\lfloor \log n \rfloor} 
+               \cdot \left\lfloor \frac{n}{10^{\lfloor \log n \rfloor}} \right\rfloor
+             \right) \, .
+\]
+(All the logarithms are base 10.) How many integers $n$ from 1 to 2011 (inclusive) satisfy $S(S(n)) = n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 108
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2350
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $X$ be a point inside convex quadrilateral $ABCD$ such that $\angle AXB + \angle CXD = 180^{\circ}$. Given $AX = 14$, $BX = 11$, $CX = 5$, $DX = 10$, and $AB = CD$, find the sum of the areas of $\triangle AXB$ and $\triangle CXD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 90
+==================================================
+

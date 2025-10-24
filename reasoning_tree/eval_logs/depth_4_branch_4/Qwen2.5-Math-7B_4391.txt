@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4391
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A positive integer is written on each of the six faces of a cube. For each vertex of the cube, we compute the product of the numbers on the three adjacent faces. The sum of these products is $1001$. What is the sum of the six numbers on the faces?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 31
+==================================================
+

@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13377
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For $n=1,2, \ldots$ let
+$$
+S_{n}=\log \left(\sqrt[n^{2}]{1^{1} \cdot 2^{2} \cdot \ldots \cdot n^{n}}\right)-\log (\sqrt{n})
+$$
+where $\log$ denotes the natural logarithm. Find $\lim\limits _{n \rightarrow \infty} S_{n}$. The original answer is in $-\frac{m}{n}$ format, please give the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

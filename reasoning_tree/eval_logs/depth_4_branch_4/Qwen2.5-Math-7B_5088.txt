@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5088
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $A$ be the set $\{1,2,\ldots,n\}$, where $n \geq 2$. Find the least number $n$ for which there exist permutations $\alpha$, $\beta$, $\gamma$, $\delta$ of the set $A$ such that:
+\[ \sum_{i=1}^n \alpha(i) \beta(i) = \frac{19}{10} \sum_{i=1}^n \gamma(i)\delta(i) . \]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 28
+==================================================
+

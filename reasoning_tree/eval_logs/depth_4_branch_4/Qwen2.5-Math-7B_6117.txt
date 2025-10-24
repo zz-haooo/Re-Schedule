@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6117
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $S$ be the set of positive integers $N$ with the property that the last four digits of $N$ are $2020,$ and when the last four digits are removed, the result is a divisor of $N.$ For example, $42,020$ is in $S$ because $4$ is a divisor of $42,020.$ Find the sum of all the digits of all the numbers in $S.$ For example, the number $42,020$ contributes $4+2+0+2+0=8$ to this total.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 93
+==================================================
+

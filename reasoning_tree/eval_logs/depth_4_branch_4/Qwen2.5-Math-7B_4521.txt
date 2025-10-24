@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4521
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose that $10$ mathematics teachers gather at a circular table with $25$ seats to discuss the upcoming mathematics competition. Each teacher is assigned a unique integer ID number between $1$ and $10$, and the teachers arrange themselves in such a way that teachers with consecutive ID numbers are not separated by any other teacher (IDs $1$ and $10$ are considered consecutive). In addition, each pair of teachers is separated by at least one empty seat. Given that seating arrangements obtained by rotation are considered identical, how many ways are there for the teachers to sit at the table?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4004
+==================================================
+

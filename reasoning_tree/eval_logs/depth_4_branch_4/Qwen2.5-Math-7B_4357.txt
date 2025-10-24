@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4357
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be a triangle with $AB = 5$, $AC = 4$, and $BC = 6$. The internal angle bisector of $\angle C$ intersects the side $AB$ at point $D$. Points $M$ and $N$ are taken on sides $BC$ and $AC$, respectively, such that $DM \parallel AC$ and $DN \parallel BC$. If $(MN)^2 = \frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers, what is the sum of the digits of $|p - q|$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

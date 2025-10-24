@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10382
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+What is the positive difference between the median and the mode of the data given in the stem and leaf plot below? In this plot $5|8$ represents $58.$
+
+\begin{tabular}{|c|c|}\hline
+\textbf{Tens} & \textbf{Units} \\ \hline
+1 & $2 \hspace{2mm} 3 \hspace{2mm} 4 \hspace{2mm} 5 \hspace{2mm} 5$ \\ \hline
+2 & $2 \hspace{2mm} 2 \hspace{2mm} 2 \hspace{2mm} \hspace{2mm} \hspace{2mm} \hspace{1.5mm}$ \\ \hline
+3 & $1 \hspace{2mm} 1 \hspace{2mm} 8 \hspace{2mm} 9 \hspace{2mm} \hspace{1.9mm}$ \\ \hline
+4 & $ 0 \hspace{2mm} 1 \hspace{2mm} 2 \hspace{2mm} 3 \hspace{2mm} \hspace{1.9mm}$ \\ \hline
+5 & $ 2 \hspace{2mm} 8 \hspace{2mm} 9 \hspace{2mm} \hspace{2mm} \hspace{2mm} \hspace{1.5mm}$ \\\hline
+\end{tabular}
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 9
+==================================================
+

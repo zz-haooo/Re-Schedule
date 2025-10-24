@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8608
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+I have 6 shirts, 4 pairs of pants, and 6 hats. The pants come in tan, black, blue, and gray. The shirts and hats come in those colors, and also white and yellow. I refuse to wear an outfit in which all 3 items are the same color. How many choices for outfits, consisting of one shirt, one hat, and one pair of pants, do I have?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 140
+==================================================
+

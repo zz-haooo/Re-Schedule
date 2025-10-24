@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4390
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find all positive integers $n$ such that both $837 + n$ and $837 - n$ are cubes of positive integers.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 494
+==================================================
+

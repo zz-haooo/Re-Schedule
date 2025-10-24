@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8702
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Two years ago there were 20 trailer homes on Elm Street with an average age of 18 years. At that time, a group of brand new trailer homes was then added to Elm Street. Today, the average age of all the trailer homes on Elm Street is 14 years. How many new trailer homes were added two years ago?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

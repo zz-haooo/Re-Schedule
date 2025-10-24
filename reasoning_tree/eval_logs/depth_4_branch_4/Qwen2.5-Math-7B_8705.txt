@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8705
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Each block on the grid shown in the Figure is 1 unit by 1 unit.  Suppose we wish to walk from $A$ to $B$ via a 7 unit path, but we have to stay on the grid -- no cutting across blocks.  How many different paths can we take?[asy]size(3cm,3cm);int w=5;int h=4;int i;for (i=0; i<h; ++i){draw((0,i) -- (w-1,i));}for (i=0; i<w; ++i){draw((i, 0)--(i,h-1));}label("B", (w-1,h-1), NE);label("A", (0,0), SW);[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

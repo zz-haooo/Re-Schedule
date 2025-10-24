@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2188
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a chess festival held at a school with $2017$ students, each pair of students played at most one match against each other. By the end of the event, it was observed that for any pair of students who played a match against each other, at least one of them had played at most $22$ matches. What is the maximum possible number of matches in this event?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 43890
+==================================================
+

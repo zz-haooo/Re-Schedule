@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2670
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find a positive integer $n$ such that if you place the digit $2$ on the left and the digit $1$ on the right of $n$, the resulting number is equal to $33n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 87
+==================================================
+

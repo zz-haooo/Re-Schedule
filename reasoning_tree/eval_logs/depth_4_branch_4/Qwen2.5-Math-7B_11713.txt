@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 11713
+Question: 设方程 $x y z=900$ 的全部正整数解为 $\left(x_{i}, y_{i}, z_{i}\right)(1 \leqslant i \leqslant n)$. 则 $\sum_{k=1}^{n}\left(x_{k c}+y_{k}+z_{k}\right)=\qquad$.
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 22572
+==================================================
+

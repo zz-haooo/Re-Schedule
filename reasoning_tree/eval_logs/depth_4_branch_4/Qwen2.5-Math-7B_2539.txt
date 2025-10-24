@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2539
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Calculate the sum $\sum_{n=1}^{1,000,000} \lfloor \sqrt{n} \rfloor$.
+
+You may use the formula $\sum_{i=1}^{k} i^2=\frac{k(k +1)(2k +1)}{6}$ without a proof.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 666167500
+==================================================
+

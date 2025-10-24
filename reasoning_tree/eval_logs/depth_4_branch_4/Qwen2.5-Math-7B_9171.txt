@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9171
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Tracy had a bag of candies, and none of the candies could be broken into pieces. She ate $\frac{1}{3}$ of them and then gave $\frac{1}{4}$ of what remained to her friend Rachel. Tracy and her mom then each ate 15 candies from what Tracy had left. Finally, Tracy's brother took somewhere from one to five candies, leaving Tracy with three candies. How many candies did Tracy have at the start?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 72
+==================================================
+

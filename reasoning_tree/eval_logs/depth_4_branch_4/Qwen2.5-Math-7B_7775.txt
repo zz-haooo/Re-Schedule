@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7775
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alien Connor starts at $(0,0)$ and walks around on the integer lattice. Specifically, he takes one step of length one in a uniformly random cardinal direction every minute, unless his previous four steps were all in the same directionin which case he randomly picks a new direction to step in. Every time he takes a step, he leaves toxic air on the lattice point he just left, and the toxic cloud remains there for $150$ seconds. After taking $5$ steps total, the probability that he has not encountered his own toxic waste canb be written as $\tfrac{a}{b}$ for relatively prime positive integers $a,b.$ Find $a+b.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 505
+==================================================
+

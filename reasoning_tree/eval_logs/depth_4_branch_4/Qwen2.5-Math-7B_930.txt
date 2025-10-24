@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 930
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For a bijective function $g : \mathbb{R} \to \mathbb{R}$, we say that a function $f : \mathbb{R} \to \mathbb{R}$ is its superinverse if it satisfies the following identity: 
+\[(f \circ g)(x) = g^{-1}(x)\]
+where $g^{-1}$ is the inverse of $g$. Given:
+\[g(x) = x^3 + 9x^2 + 27x + 81\]
+and $f$ is its superinverse, find:
+\[|f(-289)|\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

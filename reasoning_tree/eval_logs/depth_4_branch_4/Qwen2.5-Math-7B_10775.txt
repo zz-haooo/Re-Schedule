@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10775
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A large candle is $119$ centimeters tall. It is designed to burn down more quickly when it is first lit and more slowly as it approaches its bottom. Specifically, the candle takes $10$ seconds to burn down the first centimeter from the top, $20$ seconds to burn down the second centimeter, and $10k$ seconds to burn down the $k$-th centimeter. (The candle burns down each individual centimeter at a fixed rate.)
+
+Suppose it takes $T$ seconds for the candle to burn down completely. Compute the candle's height in centimeters $\tfrac{T}{2}$ seconds after it is lit.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

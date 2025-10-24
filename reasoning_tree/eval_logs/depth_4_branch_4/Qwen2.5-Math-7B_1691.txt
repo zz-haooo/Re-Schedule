@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1691
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The side lengths $a, b, c$ of a triangle $ABC$ are positive integers. Let:
+
+$$T_{n} = (a+b+c)^{2n} - (a-b+c)^{2n} - (a+b-c)^{2n} + (a-b-c)^{2n}$$
+
+for any positive integer $n$. If $\frac{T_{2}}{2T_{1}} = 2023$ and $a > b > c$, determine all possible perimeters of the triangle $ABC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 49
+==================================================
+

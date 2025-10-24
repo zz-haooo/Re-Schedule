@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7426
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Shirley has a magical machine.  If she inputs a positive even integer $n$, the machine will output $n/2$, but if she inputs a positive odd integer $m$, the machine will output $m+3$. The machine keeps going by automatically using its output as a new input, stopping immediately before it obtains a number already processed. Shirley wants to create the longest possible output sequence possible with initial input at most $100$. What number should she input?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 67
+==================================================
+

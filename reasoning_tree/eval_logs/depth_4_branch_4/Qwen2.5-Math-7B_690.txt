@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 690
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle AEF$ be a triangle with $EF = 20$ and $AE = AF = 21$. Let $B$ and $D$ be points chosen on segments $AE$ and $AF$, respectively, such that $BD$ is parallel to $EF$. Point $C$ is chosen in the interior of $\triangle AEF$ such that quadrilateral $ABCD$ is cyclic. If $BC = 3$ and $CD = 4$, then the ratio of the areas $\frac{[ABCD]}{[AEF]}$ can be written as $\frac{a}{b}$ for relatively prime positive integers $a$ and $b$. Compute $100a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5300
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2878
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alice is standing on the circumference of a large circular room with a radius of $10$. In the center of the room, there is a circular pillar with a radius of $5$ that obstructs Alice's view. The total visible area in the room can be expressed in the form $\frac{m\pi}{n} + p\sqrt{q}$, where $m$ and $n$ are relatively prime positive integers, and $p$ and $q$ are integers with $q$ being square-free. Compute $m + n + p + q$. Note that the pillar is not included in the total area of the room.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 206
+==================================================
+

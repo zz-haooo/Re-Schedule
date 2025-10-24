@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1889
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The points $A$, $B$, $M$, and $N$ lie on a circle with center $O$. The radii $OA$ and $OB$ are perpendicular to each other. The line segment $MN$ is parallel to $AB$ and intersects the radius $OA$ at point $P$. Find the radius of the circle given that $|MP| = 12$ and $|PN| = 2\sqrt{14}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

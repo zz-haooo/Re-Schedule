@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7882
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Each of the distinct letters in the following subtraction problem represents a different digit. Find the number represented by the word [b]TEAM[/b]
+
+[size=150][b]
+  PURPLE
+- COMET
+________
+[color=#FFFFFF].....[/color]TEAM [/b][/size]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6852
+==================================================
+

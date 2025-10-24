@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2407
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In an isosceles triangle $ABC$ with an angle $\angle A = 20^\circ$ and base $BC = 12$, a point $E$ on the side $AC$ is chosen such that $\angle ABE = 30^\circ$. Additionally, a point $F$ is on the side $AB$ such that $EF = FC$. Find the length of $FC$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

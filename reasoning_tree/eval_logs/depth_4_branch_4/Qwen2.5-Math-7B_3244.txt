@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3244
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $u=\{a_1, \ldots, a_5\}$, where all $a_i \in \{0,1\}$. Let $D(u)$ be the set of all subsequences of $u$ with length 4. Let $A$ be a set of sequences $u_1, \ldots, u_{|A|}$ with the property that $|D(u_i) \cap D(u_j)| = 0$ for all $i \neq j$. What is the maximum value of $|A|$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

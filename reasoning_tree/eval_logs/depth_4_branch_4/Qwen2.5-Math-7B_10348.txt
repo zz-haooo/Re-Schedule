@@ -1,0 +1,46 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10348
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Three dice with faces numbered 1 through 6 are stacked as shown. Seven of the eighteen faces are visible, leaving eleven faces hidden(back, bottom, between). What is the total number of dots NOT visible in this view? [asy]
+/* AMC8 2000 #8 Problem */
+draw((0,0)--(1,0)--(1.5,0.66)--(1.5,3.66)--(.5,3.66)--(0,3)--cycle);
+draw((1.5,3.66)--(1,3)--(1,0));
+draw((0,3)--(1,3));
+draw((0,1)--(1,1)--(1.5,1.66));
+draw((0,2)--(1,2)--(1.5,2.66));
+
+fill(circle((.75, 3.35), .08));
+fill(circle((.25, 2.75), .08));
+fill(circle((.75, 2.25), .08));
+fill(circle((.25, 1.75), .08));
+fill(circle((.75, 1.75), .08));
+fill(circle((.25, 1.25), .08));
+fill(circle((.75, 1.25), .08));
+fill(circle((.25, 0.75), .08));
+fill(circle((.75, 0.75), .08));
+fill(circle((.25, 0.25), .08));
+fill(circle((.75, 0.25), .08));
+fill(circle((.5, .5), .08));
+
+/* Right side */
+fill(circle((1.15, 2.5), .08));
+fill(circle((1.25, 2.8), .08));
+fill(circle((1.35, 3.1), .08));
+
+fill(circle((1.12, 1.45), .08));
+fill(circle((1.26, 1.65), .08));
+fill(circle((1.40, 1.85), .08));
+
+fill(circle((1.12, 1.85), .08));
+fill(circle((1.26, 2.05), .08));
+fill(circle((1.40, 2.25), .08));
+
+fill(circle((1.26, .8), .08));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 41
+==================================================
+

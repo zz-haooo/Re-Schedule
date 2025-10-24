@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10517
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find $a+b+c$, given that $x+y\neq -1$ and  \begin{align*}
+ax+by+c&=x+7,\\
+a+bx+cy&=2x+6y,\\
+ay+b+cx&=4x+y.
+\end{align*}
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

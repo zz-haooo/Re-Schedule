@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7307
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $S = \{(x, y) \in Z^2 | 0 \le x \le 11, 0\le y \le 9\}$. Compute the number of sequences $(s_0, s_1, . . . , s_n)$ of elements in $S$ (for any positive integer $n \ge 2$) that satisfy the following conditions:
+$\bullet$ $s_0 = (0, 0)$ and $s_1 = (1, 0)$,
+$\bullet$ $s_0, s_1, . . . , s_n$ are distinct,
+$\bullet$ for all integers $2  \le  i  \le  n$, $s_i$ is obtained by rotating $s_{i-2}$ about $s_{i-1}$ by either $90^o$ or $180^o$ in the
+clockwise direction.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 646634
+==================================================
+

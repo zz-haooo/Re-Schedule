@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17037
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Jamal wants to save 30 files onto disks, each with 1.44 MB space. 3 of the files take up 0.8 MB, 12 of the files take up 0.7 MB, and the rest take up 0.4 MB. It is not possible to split a file onto 2 different disks. What is the smallest number of disks needed to store all 30 files?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

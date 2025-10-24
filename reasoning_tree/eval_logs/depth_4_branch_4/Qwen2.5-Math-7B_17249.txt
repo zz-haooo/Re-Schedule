@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17249
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A player pays $\textdollar 5$ to play a game. A die is rolled. If the number on the die is odd, the game is lost. If the number on the die is even, the die is rolled again. In this case, the player wins if the second number matches the first and loses otherwise. How much should the player win if the game is fair? (In a fair game, the probability of winning times the amount won is what the player should pay.) If the answer is $\textdollar x$, what is the value of $x$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 60
+==================================================
+

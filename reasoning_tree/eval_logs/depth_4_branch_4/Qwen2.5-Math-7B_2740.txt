@@ -1,0 +1,18 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2740
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Navi and Ozna are playing a game where Ozna starts first, and the two take turns making moves. A positive integer is written on the board. A move consists of either:
+
+1. Subtracting any positive integer at most 2015 from it, or
+2. If the integer on the board is divisible by $2014$, dividing it by $2014$.
+
+The first person to make the integer $0$ wins. To make Navi's condition worse, Ozna gets to pick integers $a$ and $b$ such that $a \ge 2015$ and all numbers of the form $an + b$ will not be the starting integer, where $n$ is any positive integer.
+
+Find the minimum number of starting integers where Navi wins.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2013
+==================================================
+

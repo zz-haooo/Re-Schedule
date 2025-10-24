@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1265
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Seongcheol has $3$ red shirts and $2$ green shirts, such that he cannot tell the difference between his three red shirts and he similarly cannot tell the difference between his two green shirts. In how many ways can he hang them in a row in his closet, given that he does not want the two green shirts next to each other?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

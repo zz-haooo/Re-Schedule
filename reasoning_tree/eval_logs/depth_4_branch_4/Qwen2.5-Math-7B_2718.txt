@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2718
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose \( \{a_1,a_2,\ldots,a_7\} \) is a set of pair-wisely different positive integers. If \( a_1, 2a_2, \ldots, 7a_7 \) can form an arithmetic series (in this order), find the smallest positive value of \(|a_7-a_1|\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 360
+==================================================
+

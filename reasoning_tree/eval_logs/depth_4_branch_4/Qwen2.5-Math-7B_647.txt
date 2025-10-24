@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 647
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $BCDE$ be a trapezoid with $BE \parallel CD$, $BE = 20$, $BC = 2\sqrt{34}$, $CD = 8$, $DE = 2\sqrt{10}$. Draw a line through $E$ parallel to $BD$ and a line through $B$ perpendicular to $BE$, and let $A$ be the intersection of these two lines. Let $M$ be the intersection of diagonals $BD$ and $CE$, and let $X$ be the intersection of $AM$ and $BE$. If $BX$ can be written as $\frac{a}{b}$, where $a, b$ are relatively prime positive integers, find $a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 203
+==================================================
+

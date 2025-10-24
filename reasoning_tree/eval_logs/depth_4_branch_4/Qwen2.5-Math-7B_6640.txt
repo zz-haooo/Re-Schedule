@@ -1,0 +1,32 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6640
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Square $ABCD$ has sides of length 4, and $M$ is the midpoint of $\overline{CD}$. A circle with radius 2 and center $M$ intersects a circle with radius 4 and center $A$ at points $P$ and $D$. What is the distance from $P$ to $\overline{AD}$? Express your answer as a common fraction.
+
+[asy]
+pair A,B,C,D,M,P;
+D=(0,0);
+C=(10,0);
+B=(10,10);
+A=(0,10);
+M=(5,0);
+P=(8,4);
+dot(M);
+dot(P);
+draw(A--B--C--D--cycle,linewidth(0.7));
+draw((5,5)..D--C..cycle,linewidth(0.7));
+draw((7.07,2.93)..B--A--D..cycle,linewidth(0.7));
+label("$A$",A,NW);
+label("$B$",B,NE);
+label("$C$",C,SE);
+label("$D$",D,SW);
+label("$M$",M,S);
+label("$P$",P,N);
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

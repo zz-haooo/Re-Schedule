@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 16671
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A class of $50$ students took an exam with $4$ questions. At least $1$ of any $40$ students gave exactly $3$ correct answers, at least $2$ of any $40$ gave exactly $2$ correct answers, and at least $3$ of any $40$ gave exactly $1$ correct answer. At least $4$ of any $40$ students gave exactly $4$ wrong answers. What is the least number of students who gave an odd number of correct answers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

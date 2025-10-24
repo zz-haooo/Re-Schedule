@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4827
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+For an odd number $n$, we define $n!! = n \cdot (n-2) \cdot (n-4) \cdots 3 \cdot 1$. Determine how many different residues modulo $1000$ are obtained from $n!!$ when $n = 1, 3, 5, \ldots$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 15
+==================================================
+

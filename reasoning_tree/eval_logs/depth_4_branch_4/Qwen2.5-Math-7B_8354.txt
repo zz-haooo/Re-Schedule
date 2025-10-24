@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8354
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A "slackrope walker" is much like a tightrope walker except that the rope on which he performs is not pulled tight. Paul, a slackrope walker, has a rope tied to two $15\text{ m}$ high poles which are $14\text{ m}$ apart. When he is standing on the rope $5\text{ m}$ away from one of the poles, he is $3\text{ m}$ above the ground. How long in meters is the rope?
+
+[asy]
+draw((0,0)--(14,0)--(14,15)--(5,3)--(0,15)--cycle,black+linewidth(1));
+draw((0,3)--(5,3)--(5,0),black+linewidth(1)+dashed);
+draw((0,-3)--(6,-3),black+linewidth(1));
+draw((8,-3)--(14,-3),black+linewidth(1));
+draw((0,-3.5)--(0,-2.5),black+linewidth(1));
+draw((14,-3.5)--(14,-2.5),black+linewidth(1));
+draw((0,0)--(1,0)--(1,1)--(0,1)--cycle,black+linewidth(1));
+draw((14,0)--(14,1)--(13,1)--(13,0)--cycle,black+linewidth(1));
+draw(rotate(90)*Label("Paul"),(5,3),3N);
+label("5",(0,3)--(5,3),N);
+label("3",(5,0)--(5,3),E);
+label("14",(7,-3));
+label("15",(14,0)--(14,15),E);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 28
+==================================================
+

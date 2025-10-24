@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1823
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Tony's favorite "sport" is a spectator event known as the $\textit{Super Mega Ultra Galactic Thumbwrestling Championship}$ (SMUG TWC). During the $2008$ SMUG TWC, $2008$ professional thumb-wrestlers who have dedicated their lives to earning lithe, powerful thumbs, compete to earn the highest title of $\textit{Thumbzilla}$. The SMUG TWC is designed so that, in the end, any set of three participants can share a banana split while telling FOX$^\text{TM}$ television reporters about a bout between some pair of the three contestants. Given that there are exactly two contestants in each bout, let $m$ be the minimum number of bouts necessary to complete the SMUG TWC (so that the contestants can enjoy their banana splits and chat with reporters). Compute $m$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1007012
+==================================================
+

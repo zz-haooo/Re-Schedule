@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2599
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $N$ be the greatest positive integer that can be expressed using all seven Roman numerals $I$, $V$, $X$, $L$, $C$, $D$, and $M$ exactly once each, and let $n$ be the least positive integer that can be expressed using these numerals exactly once each. Find $N - n$. Note that the arrangement $CM$ is never used in a number along with the numeral $D$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 222
+==================================================
+

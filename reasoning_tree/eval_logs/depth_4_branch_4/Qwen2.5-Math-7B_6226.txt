@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6226
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+$A$ solid cube has side length $3$ inches. $A$ $2$-inch by $2$-inch square hole is cut into the center of each face. The edges of each cut are parallel to the edges of the cube, and each hole goes all the way through the cube. What is the volume, in cubic inches, of the remaining solid?  
+$(A)\ 7 \qquad (B)\ 8 \qquad (C)\ 10 \qquad (D)\ 12 \qquad (E)\ 15$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

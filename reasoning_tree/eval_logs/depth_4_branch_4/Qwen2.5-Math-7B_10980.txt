@@ -1,0 +1,8 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10980
+Question: 平面上五点 $A, B, C, D, E$ 满足 $\overrightarrow{A B}=\overrightarrow{B C}=\overrightarrow{C D}, \overrightarrow{E A} \cdot \overrightarrow{E B}=4, \overrightarrow{E B} \cdot \overrightarrow{E C}=5$, $\overrightarrow{E C} \cdot \overrightarrow{E D}=8$, 则 $\overrightarrow{E A} \cdot \overrightarrow{E D}$ 的值为 $\qquad$.
+让我们一步一步地思考。请以"Answer: \boxed{<final_answer>}"的格式输出最终答案。如果是选择题，请按顺序输出正确的选项，不带任何标点或空格。对于其他类型的问题，请只输出最终答案的数值。
+Solution: 3
+==================================================
+

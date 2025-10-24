@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9034
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Deanna has $44$ pieces of candy. What is the largest number of kids whom she can give an equal number of candies such that every kid gets at least $3$ pieces?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12986
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Skipper’s doghouse has a regular hexagonal base that measures one metre on each side. Skipper is tethered to a $2$-metre rope which is fixed to a vertex. What is the area of the region outside the doghouse that Skipper can reach? Calculate an approximate answer by using $\pi=3.14$ or $\pi=22/7$. The original answer is in the format $n\pi$, please give the value of n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

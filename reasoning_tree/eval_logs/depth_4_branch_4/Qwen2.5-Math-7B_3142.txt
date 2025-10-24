@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3142
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In duck language, only the letters $q$, $a$, and $k$ are used. There is no word with two consonants in succession, as ducks cannot pronounce them. However, all other four-letter words are meaningful in duck language. How many such words are there? 
+
+In duck language, the letter $a$ is a vowel, while $q$ and $k$ are consonants.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 21
+==================================================
+

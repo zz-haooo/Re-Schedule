@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 144
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are $25$ towns in a country. Find the smallest $k$ for which one can set up two-direction flight routes connecting these towns so that the following conditions are satisfied:
+1) From each town, there are exactly $k$ direct routes to $k$ other towns.
+2) If two towns are not connected by a direct route, then there is a town which has direct routes to these two towns.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

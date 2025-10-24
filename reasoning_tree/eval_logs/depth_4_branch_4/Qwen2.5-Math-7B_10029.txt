@@ -1,0 +1,34 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10029
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABCD$ be a parallelogram. We have that $M$ is the midpoint of $AB$ and $N$ is the midpoint of $BC.$ The segments $DM$ and $DN$ intersect $AC$ at $P$ and $Q$, respectively. If $AC = 15,$ what is $QA$? [asy]
+pair A, B, C, D, pM, pN, O, P, Q;
+A = (25, 0) * dir(-20);
+B = (15, 0) * dir(60);
+C = (25, 0) * dir(160);
+D = (15, 0) * dir(-120);
+pM = 0.5 * A + 0.5 * B;
+pN = 0.5 * B + 0.5 * C;
+O = 0.25 * A + 0.25 * B + 0.25 * C + 0.25 * D;
+P = 0.33 * C + 0.67 * A;
+Q = 0.67 * C + 0.33 * A;
+draw(A--B--C--D--cycle);
+draw(A--C);
+draw(pM--D);
+draw(pN--D);
+label("$A$", A, S);
+label("$B$", B, NE);
+label("$C$", C, NW);
+label("$D$", D, S);
+label("$M$", pM, NE);
+label("$N$", pN, NW);
+label("$P$", P, N);
+label("$Q$", Q, NE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

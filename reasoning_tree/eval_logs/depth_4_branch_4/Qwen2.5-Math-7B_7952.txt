@@ -1,0 +1,14 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7952
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the number of sets $A$ that satisfy the three conditions:
+$\star$ $A$ is a set of two positive integers
+$\star$ each of the numbers in $A$ is at least $22$ percent the size of the other number
+$\star$ $A$ contains the number $30.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 129
+==================================================
+

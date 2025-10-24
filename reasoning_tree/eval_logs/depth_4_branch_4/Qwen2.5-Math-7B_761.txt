@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 761
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There is a rectangular field that measures $20\,\text{m}$ by $15\,\text{m}$. Xiaoyu the butterfly is sitting at the perimeter of the field on one of the $20\,\text{m}$ sides such that he is $6\,\text{m}$ from a corner. He flies in a straight line to another point on the perimeter. His flying path splits the field into two parts with equal area. How far in meters did Xiaoyu fly?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17
+==================================================
+

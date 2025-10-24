@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2525
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the greatest value of the sum $M = 11xy + 3x + 2012yz$, where $x, y, z$ are non-negative integers satisfying the condition $x + y + z = 1000$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 503000000
+==================================================
+

@@ -1,0 +1,27 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9620
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Assume that the length of Earth's equator is exactly 25,100 miles and that the Earth is a perfect sphere. The town of Lena, Wisconsin, is at $45^{\circ}$ North Latitude, exactly halfway between the equator and the North Pole. What is the number of miles in the circumference of the circle on Earth parallel to the equator and through Lena, Wisconsin? Express your answer to the nearest hundred miles.  (You may use a calculator for this problem.)
+
+[asy]
+size(4.5cm,4.5cm);
+draw(unitcircle);
+draw((-1,0)..(0,-0.2)..(1,0));
+draw((-0.95,0.05)..(0,0.2)..(0.97,0.05),1pt+dotted);
+draw((-0.7,0.7)..(0,0.6)..(0.7,0.7));
+draw((-0.65,0.75)..(0,0.8)..(0.66,0.75),1pt+dotted);
+dot((0,0));
+draw((0,0)--(1,0));
+draw((0,0)--(0.7,0.7));
+dot((0.7,0.7));
+dot((0,0.72));
+label("Lena",(0.7,0.7),ENE);
+label("$45^\circ$",shift(0.3,0.1)*(0,0));
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 17700
+==================================================
+

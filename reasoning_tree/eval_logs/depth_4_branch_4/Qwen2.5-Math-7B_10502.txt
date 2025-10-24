@@ -1,0 +1,32 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10502
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the figure, point $A$ is the center of the circle, the measure of angle $RAS$ is 74 degrees, and the measure of angle $RTB$ is 28 degrees. What is the measure of minor arc $BR$, in degrees? [asy]
+unitsize(1.2cm);
+defaultpen(linewidth(.7pt)+fontsize(8pt));
+dotfactor=3;
+
+pair A=(0,0), B=(-1,0), T=(2,0);
+pair T0=T+10*dir(162);
+pair[] RS=intersectionpoints(Circle(A,1),T--T0);
+pair Sp=RS[0];
+pair R=RS[1];
+pair[] dots={A,B,T,Sp,R};
+dot(dots);
+
+draw(Circle(A,1));
+draw(B--T--R);
+
+label("$T$",T,S);
+label("$A$",A,S);
+label("$B$",B,W);
+label("$R$",R,NW);
+label("$S$",Sp,NE);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 81
+==================================================
+

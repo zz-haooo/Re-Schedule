@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8381
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+If $2004$ is split after the third digit into a three-digit integer  and a one-digit integer, then the two integers, $200$ and $4$, have  a common factor greater than one.  The years $2005$ and $2006$  each have this same property, too.  What is the first    odd-numbered year after $2006$ that has this property?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2013
+==================================================
+

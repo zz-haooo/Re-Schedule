@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10939
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose we have two identical cardboard polygons. We placed one polygon upon the other one and aligned. Then we pierced polygons with a pin at a point. Then we turned one of the polygons around this pin by $25^{\circ}300^{\prime}$ . It turned out that the polygons coincided (aligned again). What is the minimal possible number of sides of the polygons? 
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 144
+==================================================
+

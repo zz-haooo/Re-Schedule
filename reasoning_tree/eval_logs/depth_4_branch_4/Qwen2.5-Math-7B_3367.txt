@@ -1,0 +1,13 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3367
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\triangle ABC$ be a triangle with $AB = 13$, $BC = 14$, and $CA = 15$. The altitude from $A$ intersects $BC$ at $D$.
+
+Let $\omega_1$ and $\omega_2$ be the incircles of $\triangle ABD$ and $\triangle ACD$, respectively. The common external tangent of $\omega_1$ and $\omega_2$ (other than $BC$) intersects $AD$ at $E$. Compute the length of $AE$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

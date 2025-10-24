@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1507
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Alice's favorite number has the following properties:
+
+- It has 8 distinct digits.
+- The digits are decreasing when read from left to right.
+- It is divisible by 180.
+
+What is Alice's favorite number?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 97654320
+==================================================
+

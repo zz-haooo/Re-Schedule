@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1249
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A semicircle with diameter length $16$ contains a circle with radius $3$ that is tangent to both the inside of the semicircle and its diameter. A second larger circle is tangent to the inside of the semicircle, the outside of the smaller circle, and the diameter of the semicircle. The diameter of the second circle can be expressed as $\frac{n + k\sqrt{2}}{m}$, where $m$, $n$, and $k$ are positive integers, and $m$ and $n$ have no common factors. Find $m + n + k$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 361
+==================================================
+

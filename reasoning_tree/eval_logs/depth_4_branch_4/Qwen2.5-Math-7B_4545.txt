@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4545
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In a chess tournament, each of two players has only one game played. After 2 rounds, 5 players left the tournament. At the end of the tournament, it was found that the total number of games played is 100. How many players were there at the start of the tournament?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 105
+==================================================
+

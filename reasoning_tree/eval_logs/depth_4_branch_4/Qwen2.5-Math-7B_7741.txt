@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7741
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let  $\vartriangle ABC$ be a triangle with $AB = 4$, $BC = 6$, and $CA = 5$. Let the angle bisector of $\angle BAC$ intersect $BC$ at the point $D$ and the circumcircle of $\vartriangle ABC$ again at the point $M\ne A$. The perpendicular bisector of segment $DM$ intersects the circle centered at $M$ passing through $B$ at two points, $X$ and $Y$ . Compute $AX \cdot AY$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 36
+==================================================
+

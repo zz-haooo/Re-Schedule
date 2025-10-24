@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14421
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $P$ be a polynomial such that $(x-4)P(2x) = 4(x-1)P(x)$, for every real $x$. If $P(0) \neq 0$, what is the degree of $P$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2
+==================================================
+

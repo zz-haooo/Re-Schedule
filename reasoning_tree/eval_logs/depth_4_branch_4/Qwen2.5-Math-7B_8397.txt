@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8397
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $a_{0} = 2$, $a_{1} = 5$, and $a_{2} = 8$, and for $n > 2$ define $a_{n}$ recursively to be the remainder when $4(a_{n-1} + a_{n-2} + a_{n-3})$ is divided by $11$. Find $a_{2018} \cdot a_{2020} \cdot a_{2022}$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 112
+==================================================
+

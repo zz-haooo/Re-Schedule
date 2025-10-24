@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9507
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+How many ordered pairs of real numbers $(x,y)$ satisfy the following system of equations? \[\left\{ \begin{aligned} x+3y&=3 \\ \left| |x| - |y| \right| &= 1 \end{aligned}\right.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

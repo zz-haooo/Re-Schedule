@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8153
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Harold has $3$ red checkers and $3$ black checkers. Find the number of distinct ways that Harold can place these checkers in stacks. Two ways of stacking checkers are the same if each stack of the rst way matches a corresponding stack in the second way in both size and color arrangement. So, for example, the $3$ stack arrangement $RBR, BR, B$ is distinct from $RBR, RB, B$, but the $4$ stack arrangement $RB, BR, B, R$ is the same as $B, BR, R, RB$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 131
+==================================================
+

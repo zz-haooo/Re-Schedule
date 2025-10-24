@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7095
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let \[f(x)=x^4-6x^3+26x^2-46x+65.\] Let the roots of $f(x)$ be $a_k+ib_k$ for $k=1,2,3,4$.  Given that the $a_k$, $b_k$ are all integers, find $|b_1|+|b_2|+|b_3|+|b_4|.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

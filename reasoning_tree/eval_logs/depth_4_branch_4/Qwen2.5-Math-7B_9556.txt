@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9556
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+There are 20 cars in my building's parking lot.  All of the cars are red or white.  Also, all the cars are either 2-door or 4-door.  12 of them are red, 15 of them are 4-door, and 4 of them are 2-door and white.  How many of the cars are 4-door and red?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

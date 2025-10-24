@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4573
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $ABC$ be a right triangle with hypotenuse $\overline{AC}$ and circumcenter $O$. Point $E$ lies on $\overline{AB}$ such that $AE = 9$, $EB = 3$. Point $F$ lies on $\overline{BC}$ such that $BF = 6$, $FC = 2$. Now suppose $W, X, Y$, and $Z$ are the midpoints of $\overline{EB}$, $\overline{BF}$, $\overline{FO}$, and $\overline{OE}$, respectively. Compute the area of quadrilateral $WXYZ$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 12
+==================================================
+

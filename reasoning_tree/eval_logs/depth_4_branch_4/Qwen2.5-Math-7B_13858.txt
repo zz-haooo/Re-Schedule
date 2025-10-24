@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 13858
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given the equation $\begin{aligned}\frac{x-49}{50}+\frac{x-50}{49}=\frac{49}{x-50}+\frac{50}{x-49}\end{aligned}$, if the sum of all possible values of $x$ is $\frac{b}{a}$, find the value of $a+b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14801
+==================================================
+

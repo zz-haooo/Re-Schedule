@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2547
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Keith has $10$ coins labeled $1$ through $10$, where the $i$th coin has weight $2^i$. The coins are all fair, so the probability of flipping heads on any of the coins is $\frac{1}{2}$. After flipping all of the coins, Keith takes all of the coins which land heads and measures their total weight, $W$. If the probability that $137 \leq W \leq 1061$ is $\frac{m}{n}$ for coprime positive integers $m,n$, determine $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 743
+==================================================
+

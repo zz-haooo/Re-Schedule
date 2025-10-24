@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7137
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Suppose $a$, $b$ and $c$ are integers such that the greatest common divisor of $x^2+ax+b$ and $x^2+bx+c$ is $x+1$ (in the set of polynomials in $x$ with integer coefficients), and the least common multiple of $x^2+ax+b$ and $x^2+bx+c$ $x^3-4x^2+x+6$.  Find $a+b+c$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: -6
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2105
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Consider the following one-person game: A player starts with a score $0$ and writes the number $20$ on an empty whiteboard. At each step, she may erase any one integer (call it $a$) and write two positive integers (call them $b$ and $c$) such that $b + c = a$. The player then adds $b \times c$ to her score. She repeats this step several times until she ends up with all $1$'s on the whiteboard. Then the game is over, and the final score is calculated. Let $M$ and $m$ be the maximum and minimum final scores that can be possibly obtained, respectively. Find $M - m$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 0
+==================================================
+

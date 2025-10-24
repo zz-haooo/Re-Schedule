@@ -1,0 +1,17 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6384
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Rodney uses the following clues to try to guess a secret number:
+\begin{tabular}{ c }
+It is a two-digit integer.\\
+The tens digit is odd.\\
+The units digit is even.\\
+The number is greater than 65.
+\end{tabular}If Rodney guesses a number that has each of these properties, what is the probability that Rodney will guess the correct number? Express your answer as a common fraction.The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

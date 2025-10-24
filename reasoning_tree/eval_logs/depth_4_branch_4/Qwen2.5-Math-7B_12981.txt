@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 12981
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Evaluate $29 \frac{27}{28} \times 27\frac{14}{15}$. The original answer is in the form of $a + \frac{m}{n}$, where a is the integer part. Please provide the value of a + m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1358
+==================================================
+

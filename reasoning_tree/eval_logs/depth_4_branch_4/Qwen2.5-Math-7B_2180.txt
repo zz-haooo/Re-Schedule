@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2180
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Evan writes a computer program that randomly rearranges the digits $0, 2, 4, 6$, and $8$ to create a five-digit number with no leading zeroes. If he executes this program once, the probability that the program outputs an integer divisible by 4 can be written in the form $\frac{m}{n}$, where $m$ and $n$ are positive integers that share no common factors. What is $100m + n$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 508
+==================================================
+

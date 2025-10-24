@@ -1,0 +1,16 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9632
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+At the Gooddog Obedience School, dogs can learn to do three tricks: sit, stay, and roll over. Of the dogs at the school: \begin{tabular}{l@{\qquad}l}
+50 dogs can sit & 17 dogs can sit and stay \\
+29 dogs can stay & 12 dogs can stay and roll over \\
+34 dogs can roll over & 18 dogs can sit and roll over \\
+9 dogs can do all three & 9 dogs can do none
+\end{tabular} How many dogs are in the school?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 84
+==================================================
+

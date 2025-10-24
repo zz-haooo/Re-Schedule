@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1947
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $A, B, C$ be points in that order along a line, such that $AB = 20$ and $BC = 18$. Let $\omega$ be a circle of nonzero radius centered at $B$, and let $\ell_1$ and $\ell_2$ be tangents to $\omega$ through $A$ and $C$, respectively. Let $K$ be the intersection of $\ell_1$ and $\ell_2$. Let $X$ lie on segment $\overline{KA}$ and $Y$ lie on segment $\overline{KC}$ such that $XY \parallel BC$ and $XY$ is tangent to $\omega$. What is the largest possible integer length for $XY$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 35
+==================================================
+

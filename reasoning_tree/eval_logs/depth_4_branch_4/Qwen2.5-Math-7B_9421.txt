@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9421
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The terms $x, x + 2, x + 4, \dots, x + 2n$ form an arithmetic sequence, with $x$ an integer. If each term of the sequence is cubed, the sum of the cubes is $-1197$. What is the value of $n$ if $n > 3$?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 6
+==================================================
+

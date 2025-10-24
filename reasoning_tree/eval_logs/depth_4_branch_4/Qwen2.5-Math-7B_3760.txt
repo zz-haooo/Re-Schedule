@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3760
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A magician has a hat that contains $a$ white rabbits and $b$ black rabbits. The magician repeatedly draws pairs of rabbits chosen at random from the hat, without replacement. Call a pair of rabbits *checkered* if it consists of one white rabbit and one black rabbit. Given that the magician eventually draws out all the rabbits without ever drawing out an unpaired rabbit and that the expected value of the number of checkered pairs that the magician draws is $2020$, compute the number of possible pairs $(a,b)$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 16
+==================================================
+

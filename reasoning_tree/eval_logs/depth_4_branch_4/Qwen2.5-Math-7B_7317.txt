@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7317
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Michel starts with the string HMMT. An operation consists of either replacing an occurrence of H with HM, replacing an occurrence of MM with MOM, or replacing an occurrence of T with MT. For example, the two strings that can be reached after one operation are HMMMT and HMOMT. Compute the number of distinct strings Michel can obtain after exactly $10$ operations.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 144
+==================================================
+

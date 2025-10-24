@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 17147
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A bag initially contains red marbles and blue marbles only, with more blue than red. Red marbles are added to the bag until only \(\frac{1}{3}\) of the marbles in the bag are blue. Then yellow marbles are added to the bag until only \(\frac{1}{5}\) of the marbles in the bag are blue. Finally, the number of blue marbles in the bag is doubled. What fraction of the marbles now in the bag are blue? Express your answer in the form \(\frac{k}{m}\) where the fraction is simplified, and find the value of \(k + m\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

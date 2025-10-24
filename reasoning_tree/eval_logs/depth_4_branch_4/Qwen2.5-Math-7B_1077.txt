@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1077
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $n$ be an integer. Dayang is given $n$ sticks of lengths $1, 2, 3, \ldots, n$. She may connect the sticks at their ends to form longer sticks, but cannot cut them. She wants to use all these sticks to form a square.
+
+For example, for $n = 8$, she can make a square of side length $9$ using these connected sticks: $1 + 8$, $2 + 7$, $3 + 6$, and $4 + 5$. 
+
+How many values of $n$, with $1 \le n \le 2018$, allow her to do this?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 504
+==================================================
+

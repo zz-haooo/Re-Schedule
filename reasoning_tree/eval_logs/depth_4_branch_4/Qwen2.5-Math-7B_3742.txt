@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 3742
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Compute the number of two-digit positive integers that are divisible by both of their digits. For example, $36$ is one of these two-digit positive integers because it is divisible by both $3$ and $6$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 14
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1392
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A convex quadrilateral $ABCD$ is given where $\angle DAB = \angle ABC = 45^\circ$, $DA = 3$, $AB = 7\sqrt{2}$, and $BC = 4$. Calculate the length of side $CD$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 5
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1143
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In $\triangle ABC$, $AB=17$, $AC=25$, and $BC=28$. Points $M$ and $N$ are the midpoints of $\overline{AB}$ and $\overline{AC}$ respectively, and $P$ is a point on $\overline{BC}$. Let $Q$ be the second intersection point of the circumcircles of $\triangle BMP$ and $\triangle CNP$. It is known that as $P$ moves along $\overline{BC}$, line $PQ$ passes through some fixed point $X$. Compute the sum of the squares of the distances from $X$ to each of $A$, $B$, and $C$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 878
+==================================================
+

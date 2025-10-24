@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1650
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Centuries ago, the pirate Captain Blackboard buried a vast amount of treasure in a single cell of a $2 \times 4$ grid-structured island. The treasure was buried in a single cell of an $M \times N$ ($2 \le M$, $N$) grid. You and your crew have reached the island and have brought special treasure detectors to find the cell with the treasure. 
+
+For each detector, you can set it up to scan a specific subgrid $[a,b] \times [c,d]$ with $1 \le a \le b \le 2$ and $1 \le c \le d \le 4$. Running the detector will tell you whether the treasure is in the region or not, though it cannot say where in the region the treasure was detected. 
+
+You plan on setting up $Q$ detectors, which may only be run simultaneously after all $Q$ detectors are ready. What is the minimum $Q$ required to guarantee to determine the location of the Blackboard’s legendary treasure?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4019
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The diagram below shows circles with radii $1$ and $2$ that are externally tangent to each other and internally tangent to a circle with radius $3$. There are relatively prime positive integers $m$ and $n$ such that a circle with radius $\frac{m}{n}$ is internally tangent to the circle with radius $3$ and externally tangent to the other two circles as shown. Find $m+n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 13
+==================================================
+

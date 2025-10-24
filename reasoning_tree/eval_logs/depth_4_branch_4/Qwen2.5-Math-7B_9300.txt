@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9300
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In triangle $ABC,$ $AB = 3,$ $AC = 6,$ and $\cos \angle A = \frac{1}{8}.$  Find the length of angle bisector $\overline{AD}.$
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+

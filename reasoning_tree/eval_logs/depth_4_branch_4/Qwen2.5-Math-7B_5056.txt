@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5056
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Evaluate the sum of the number of decimal digits in $2^{1997}$ and $5^{1997}$. Let $m$ be the number of decimal digits in $2^{1997}$, and $n$ be the number of decimal digits in $5^{1997}$. Find $m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1998
+==================================================
+

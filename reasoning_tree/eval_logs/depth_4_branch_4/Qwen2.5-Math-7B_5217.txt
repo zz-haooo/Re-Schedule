@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5217
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In chess, there are two types of minor pieces, the bishop and the knight. A bishop may move along a diagonal, as long as there are no pieces obstructing its path. A knight may jump to any lattice square $\sqrt{5}$ away as long as it isn't occupied.
+
+One day, a bishop and a knight were on squares in the same row of an infinite chessboard, when a huge meteor storm occurred, placing a meteor in each square on the chessboard independently and randomly with probability $p$. Neither the bishop nor the knight were hit, but their movement may have been obstructed by the meteors.
+
+The value of $p$ that would make the expected number of valid squares that the bishop can move to and the number of squares that the knight can move to equal can be expressed as $\frac{a}{b}$ for relatively prime positive integers $a, b$. Compute $100a + b$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 102
+==================================================
+

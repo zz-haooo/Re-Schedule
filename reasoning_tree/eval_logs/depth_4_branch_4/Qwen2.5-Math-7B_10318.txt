@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 10318
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+An $\textit{abundant number}$ is a positive integer, the sum of whose distinct proper factors is greater than the number. (The $\textit{proper factors}$ of a number are all of its factors except the number itself.) How many numbers less than 25 are abundant numbers?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 4
+==================================================
+

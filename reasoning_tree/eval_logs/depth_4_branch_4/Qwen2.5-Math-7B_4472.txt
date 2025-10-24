@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4472
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A $2023 \times 2023$ grid of lights begins with every light off. Each light is assigned a coordinate $(x, y)$. For every distinct pair of lights $(x_1, y_1)$ and $(x_2, y_2)$, with $x_1 < x_2$ and $y_1 > y_2$, all lights strictly between them (i.e., $x_1 < x < x_2$ and $y_2 < y < y_1$) are toggled. After this procedure is done, how many lights are on?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1022121
+==================================================
+

@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8178
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $x$ be a real number such that $3 \sin^4 x -2 \cos^6 x = -\frac{17}{25}$ . Then $3 \cos^4 x - 2 \sin^6 x = \frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $10m + n$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 445
+==================================================
+

@@ -1,0 +1,20 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6376
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A sphere is inscribed in a cone with height 4 and base radius 3.  What is the ratio of the volume of the sphere to the volume of the cone?
+
+[asy]
+fill(circle((1.5,0),1.5),gray(.7));
+draw((0,3)--(4,0)--(0,-3));
+draw(circle((1.5,0),1.5));
+draw((0,0)..(1.5,-.3)..(3,0));
+draw((0,0)..(1.5,.3)..(3,0),dashed);
+draw(xscale(.15)*circle((0,0),3));
+[/asy]The answer is in the form rac{m}{n}, where gcd(m, n) = 1. Please provide the value of m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 11
+==================================================
+

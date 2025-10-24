@@ -1,0 +1,15 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 4201
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Given a set $I=\{(x_1,x_2,x_3,x_4) \mid x_i \in \{1,2,\cdots,11\}\}$. 
+
+$A \subseteq I$, satisfying that for any $(x_1,x_2,x_3,x_4), (y_1,y_2,y_3,y_4) \in A$, there exists $i, j \ (1 \leq i < j \leq 4)$, such that $(x_i - x_j)(y_i - y_j) < 0$. 
+
+Find the maximum value of $|A|$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 24
+==================================================
+

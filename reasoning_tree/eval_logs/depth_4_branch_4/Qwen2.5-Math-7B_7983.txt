@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 7983
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+In the tribe of Zimmer, being able to hike long distances and knowing the roads through the forest are both extremely important, so a boy who reaches the age of manhood is not designated as a man by the tribe until he completes an interesting rite of passage. The man must go on a sequence of hikes. The first hike is a $5$ kilometer hike down the main road. The second hike is a $5\frac{1}{4}$ kilometer hike down a secondary road. Each hike goes down a different road and is a quarter kilometer longer than the previous hike. The rite of passage is completed at the end of the hike where the cumulative distance walked by the man on all his hikes exceeds $1000$ kilometers. So in the tribe of Zimmer, how many roads must a man walk down, before you call him a man?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 73
+==================================================
+

@@ -1,0 +1,22 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 6363
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Points $A$ and $B$ are selected on the graph of $y = -\frac{1}{2}x^2$ so that triangle $ABO$ is equilateral. Find the length of one side of triangle $ABO$. [asy]
+size(150);
+draw( (-4, -8) -- (-3.4641, -6)-- (-3, -9/2)-- (-5/2, -25/8)-- (-2,-2)-- (-3/2, -9/8) -- (-1, -1/2) -- (-3/4, -9/32) -- (-1/2, -1/8) -- (-1/4, -1/32) -- (0,0) -- (1/4, -1/32) -- (1/2, -1/8) -- (3/4, -9/32) -- (1, -1/2) -- (3/2, -9/8)-- (2,-2)-- (5/2, -25/8)--(3, -9/2)-- (3.4641, -6) -- (4, -8) , Arrows);
+draw( (-3.4641, -6) -- (0,0) -- (3.4641, -6)--cycle);
+
+dot((-3.4641, -6)); dot((0,0)); dot((3.4641, -6));
+label("$B$", (-3.4641, -6), NW); label("$A$", (3.4641, -6), NE);
+label("$O$", (0,0), NW);
+draw( (-6,0) -- (6,0), EndArrow);
+label("$y$", (0,5), N); label("$x$", (6,0), E);
+draw( (0,-7) -- (0,5), EndArrow);
+[/asy]The answer is in the form k\sqrt{m}+n,. Please provide the value of k + m + n.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 7
+==================================================
+

@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9440
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Find the integer closest in value to
+\[\frac{1}{\sqrt[4]{5^4+1}-\sqrt[4]{5^4-1}}.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 250
+==================================================
+

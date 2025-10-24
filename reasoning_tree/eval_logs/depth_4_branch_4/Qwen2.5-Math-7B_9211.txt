@@ -1,0 +1,21 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 9211
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The data in the stem and leaf plot shown are the long jump distances, in centimeters, that the girls team of Pseudo H.S. made at practice today. $(51|1$ represents $511$ centimeters$.)$ What is the sum of the median and mode of the data?
+
+\begin{tabular}{l|lllll}
+51& 1\\
+52&\\
+53& 2& 5\\
+54& 0& 2& 2& 5\\
+55& 0& 1& 3& 4& 7\\
+56& 0& 2& 5\\
+57& 0& 1\\
+\end{tabular}
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1093
+==================================================
+

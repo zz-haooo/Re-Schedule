@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 5524
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Someone observed that $6! = 8 \cdot 9 \cdot 10$.  Find the largest positive integer $n^{}_{}$ for which $n^{}_{}!$ can be expressed as the product of $n - 3_{}^{}$ consecutive positive integers.
+
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 23
+==================================================
+

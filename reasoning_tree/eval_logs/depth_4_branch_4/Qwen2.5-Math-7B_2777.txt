@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 2777
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Determine the value of \((101 \times 99) - (102 \times 98) + (103 \times 97) - (104 \times 96) + \ldots + (149 \times 51) - (150 \times 50)\).
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 1275
+==================================================
+

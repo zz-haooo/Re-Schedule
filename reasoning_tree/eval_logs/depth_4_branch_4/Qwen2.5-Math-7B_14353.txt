@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 14353
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+A bee starts flying from point $P_0$. She flies 1 inch due east to point $P_1$. For $j \ge 1$, once the bee reaches point $P_j$, she turns $30^{\circ}$ counterclockwise and then flies $j+1$ inches straight to point $P_{j+1}$. When the bee reaches $P_{2015}$, she is exactly $a\sqrt{b} + c\sqrt{d}$ inches away from $P_0$, where $a$, $b$, $c$, and $d$ are positive integers and $b$ and $d$ are not divisible by the square of any prime. Find the value of $a+b+c+d$.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 2024
+==================================================
+

@@ -1,0 +1,24 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 1838
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The picture below shows how Juan wants to divide a square field into three regions, all sharing a well at vertex $B$. If the side length of the field is $60$ meters, and each of the three regions has the same area, how far must the points $M$ and $N$ be from $D$? Note: The area of each region includes the area occupied by the well.
+
+```latex
+\begin{asy}
+pair A=(0,0), B=(60,0), C=(60,-60), D=(0,-60), M=(0,-40), N=(20,-60);
+pathpen=black;
+D(MP("A",A,W)--MP("B",B,NE)--MP("C",C,SE)--MP("D",D,SW)--cycle);
+D(B--MP("M",M,W));
+D(B--MP("N",N,S));
+D(CR(B,3));
+\end{asy}
+```
+
+Unrelated information has been removed for clarity.
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 20
+==================================================
+

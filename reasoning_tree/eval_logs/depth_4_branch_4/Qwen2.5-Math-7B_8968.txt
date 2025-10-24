@@ -1,0 +1,11 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8968
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The energy stored by any pair of positive charges is inversely proportional to the distance between them, and directly proportional to their charges. Three identical point charges start at the vertices of an equilateral triangle, and this configuration stores 15 Joules of energy. How much more energy, in Joules, would be stored if one of these charges was moved to the midpoint of the opposite side?
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 10
+==================================================
+

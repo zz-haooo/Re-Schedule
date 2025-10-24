@@ -1,0 +1,12 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8908
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+Let $\mathbf{a},$ $\mathbf{b},$ $\mathbf{c}$ be vectors such that $\|\mathbf{a}\| = \|\mathbf{b}\| = 1$ and $\|\mathbf{c}\| = 2.$  Find the maximum value of
+\[\|\mathbf{a} - 2 \mathbf{b}\|^2 + \|\mathbf{b} - 2 \mathbf{c}\|^2 + \|\mathbf{c} - 2 \mathbf{a}\|^2.\]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 42
+==================================================
+

@@ -1,0 +1,50 @@
+🚀 Batch Token-Level Branching Log
+==================================================
+Question ID: 8686
+Question: Solve the following math problem step by step. The last line of your response should be of the form \boxed{Answer} where Answer is the answer to the problem.
+
+The entire graph of the function $f(x)$ is shown below ($f$ is only defined when $x$ is between $-4$ and $4$ inclusive). How many values of $x$ satisfy $f(f(x)) = 2$?
+
+[asy]
+import graph; size(9cm);
+
+real lsf=0.5;
+
+pen dps=linewidth(0.7)+fontsize(10);
+
+defaultpen(dps); pen ds=black;
+
+real xmin=-4.5,xmax=4.5,ymin=-0.5,ymax=4.5;
+
+Label laxis; laxis.p=fontsize(10);
+
+xaxis("$x$",xmin,xmax,defaultpen+black,Ticks(laxis,Step=1.0,Size=2,OmitTick(0)),Arrows(6),above=true);
+yaxis("$y$",ymin,ymax,defaultpen+black,Ticks(laxis,Step=1.0,Size=2,OmitTick(0)),Arrows(6),above=true);
+
+//draw((xmin,(-(0)-(-2)*xmin)/-2)--(-1,(-(0)-(-2)*-1)/-2),linewidth(1.2),BeginArrow(6)); //draw((-1,1)--(3,5),linewidth(1.2));
+
+//draw((3,(-(-16)-(2)*3)/2)--(xmax,(-(-16)-(2)*xmax)/2),linewidth(1.2),EndArrow(6));
+
+real f(real x) { return -.5*x^2-1.5*x+2;}
+draw(graph(f,-4,-2));
+draw((-2,3)--(2,1));
+real f(real x) { return .5*x^2-1.5x+2;}
+draw(graph(f,2,4));
+
+label("$f(x)$",(-3,5),E);
+
+dot("$(-4,0)$", (-4,0), NW);
+dot("$(-3,2)$", (-3,2), NW);
+dot("$(-2,3)$", (-2,3), N);
+dot("$(0,2)$", (0,2), NE);
+dot("$(2,1)$", (2,1), S);
+dot("$(3,2)$", (3,2), SE);
+dot("$(4,4)$", (4,4), NE);
+
+//clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle);
+[/asy]
+
+Remember to put your answer in \boxed{...} format on its own line.
+Solution: 3
+==================================================
+
