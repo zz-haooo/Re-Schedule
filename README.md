@@ -120,9 +120,9 @@ All competitors in can be easily implemented or are already implemented in [verl
 ## Citation
 
 ```bibtex
-@article{hao2025rethinking,
-  title={Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective},
-  author={Hao, Zhezheng and Wang, Hong and Liu, Haoyang and Luo, Jian and Yu, Jiarui and Dong, Hande and Lin, Qiang and Wang, Can and Chen, Jiawei},
+@article{wang2025scheduling,
+  title={Scheduling Your LLM Reinforcement Learning with Reasoning Trees},
+  author={Hong Wang, Zhezheng Hao, Jian Luo, Chenxing Wei, Yao Shu, Lei Liu, Cheaterlin, Hande Dong, Jiawei Chen},
   journal={arXiv preprint arXiv:2510.10150},
   year={2025}
 }
